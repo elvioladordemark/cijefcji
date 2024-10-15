@@ -1,21 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
-#EXTINF:-1 group-title="🏆 TIGO SPORTS EVENTOS" ,TIGO EVENTOS 2
+#EXTINF:-1 group-title="TYC SPORTS Y TNT SPORTS" tvg-logo="https://i.ibb.co/vDZ6s6x/1200x630wa-removebg-preview.png" ,TyC Sport Play8 🇦🇷
 
-#EXTVLCOPT:network-caching=1000
-
-#EXTVLCOPT:http-user-agent="FireFox"
-
-#EXTVLCOPT--http-reconnect=true
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
-
-https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
-
+https://anonmedia.eu/amc/index.m3u8|Referer=https://jalynrabei.com/
 
