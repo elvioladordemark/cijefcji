@@ -1,0 +1,12 @@
+
+
+#EXTINF:-1 group-title="📺 PELICULAS" tvg-logo="https://phantom-marca.unidadeditorial.es/6663dea3daa3b46734cea0801a494059/resize/828/f/jpg/assets/multimedia/imagenes/2023/09/11/16944249085951.jpg" ,gbsagr
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=327190744210:49712474845
+http://tv.iprotv.live/ProYeCtoX998/NuevaProyectoRw/2288.ts
+
