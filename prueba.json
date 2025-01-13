@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Canal HLS",
+    "url": "https://example.com/live/channel1/index.m3u8",
+    "type": "HLS"
+  },
+  {
+    "title": "Canal DASH ClearKey",
+    "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+    "type": "CLEARKEY", 
+    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257"
+  },
+  {
+    "title": "Canal MP4",
+    "url": "https://example.com/videos/video.mp4",
+    "type": "MP4"
+  }
+]
