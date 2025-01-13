@@ -1,9 +1,5 @@
 [
-  {
-    "title": "Canal HLS",
-    "url": "https://example.com/live/channel1/index.m3u8",
-    "type": "HLS"
-  },
+ 
   {
     "title": "Canal DASH ClearKey",
     "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
@@ -11,8 +7,15 @@
     "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257"
   },
   {
-    "title": "Canal MP4",
-    "url": "https://example.com/videos/video.mp4",
-    "type": "MP4"
+    "title": "Canal DASH ClearKey",
+    "url": "https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
+    "type": "CLEARKEY", 
+    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5317283f4110fac3fb3a0becd9f648bc&key%5B%5D=0754a03c926b1247216e01d9dbcfac28"
+  },
+  {
+    "title": "Canal DASH ClearKey",
+    "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+    "type": "CLEARKEY", 
+    "drm_license_uri": "ttps://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c90cc57ad2c436e5a77db2f8d9db2d85&key%5B%5D=04f6c73984bdcffd013050608497935d"
   }
 ]
