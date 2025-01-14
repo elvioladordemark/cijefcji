@@ -4,9 +4,14 @@
     "samples": [
       {
         "name": "FIFA+",
-        "url": "https://8deea4ad.wurl.com:443/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/../../../manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/998b02ea-9fc6-44ea-9ed7-4febb725b977/5.m3u8",
-        "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
-        "type": "HLS"
+        "url": "https://smt-edge03.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd",
+           "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9bb54fccffaddd38916e85c08de98cc9&key=d06f509c418eb6f1b2fc2b766445328b",
+         "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
+        "referer": "https://player.sensa.com.ar/",
+    "origin": "https://player.sensa.com.ar",
+    "user_agent": "MiUserAgent/1.0"
+     
       },
       {
         "name": "GOL CARACOL",
