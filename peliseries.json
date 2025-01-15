@@ -1,0 +1,35 @@
+[
+  {
+    "name": "COMEDIA",
+    "samples": [
+      {
+        "name": "SON COMO NIÑOS",
+        "url": "https://smt-edge03.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd",
+          
+      "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
+            "type": "PELICULA",
+"descripcion": "ACA LA DESCRIPCION DE LA PELICULA"
+    }
+
+    ]
+  },
+  {
+    "name": "TERROR",
+    "samples": [
+      {
+        "name": "el conjuro",
+        "url": "https://edge-mix05-coe.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+            "type": "PELICULA",
+"descripcion": "ACA LA DESCRIPCION DE LA PELICULA",
+    "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+      },
+      {
+        "name": "LA MONJA",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "type": "PELICULA",
+"descripcion": "ACA LA DESCRIPCION DE LA PELICULA",
+     "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
+      }
+    ]
+  }
+]
