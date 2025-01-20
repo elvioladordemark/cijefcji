@@ -5,23 +5,18 @@
       {
         "name": "FIFA+",
         "url": "https://smt-edge03.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd",
-           "type": "CLEARKEY",
+         
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/ianh053133sihqfiofmin/sensa.json?rlkey=64opsp2kujy64mluel5e0uqxh&st=n8ni3lnx&dl=0",
          "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
-        "referer": "https://player.sensa.com.ar/",
-    "origin": "https://player.sensa.com.ar",
-    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
      
       },
       {
         "name": "GOL CARACOL",
         "url": "https://cad99.pricesaskeloadsc.com/espn_premium/index.m3u8",
    "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
-        "referer": "https://streamtp2.com/",
-    "origin": "https://streamtp2.com",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
-     
-      
+    
+
         "type": "HLS"
       },
       {
