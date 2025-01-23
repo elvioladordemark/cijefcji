@@ -35,10 +35,17 @@
 },
       {
   "name": "GOL CARACOL",
-  "url": "https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd",
+  "url": "https://cdn.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd",
   "drm_license_uri": "https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2",
   "type": "WIDEVINE",
-  "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg"
+  "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
+                 "headers": {
+        "Referer": "https://player.sensa.com.ar/",
+    "Origin": "https://player.sensa.com.ar",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+     
+      }
+    
 
       },
       
