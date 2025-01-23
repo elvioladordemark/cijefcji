@@ -34,6 +34,23 @@
   }
 },
       {
+  "name": "GOL CARACOL",
+  "url": "http://u.m3uts.xyz/stream/hls/146.m3u8",
+  "type": "HLS",
+  "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
+  "headers": {
+    "X-Hash": "1rXGLWj14rfky58Zcc6bjM_Zy5V9xWaz3u-6rMv7mfptC9hymD3C0OU18-ojl4NieaElsfDiczn5UDVpYBBRrlJu0N3i_4Uz8k3A7FgiYKMjyNsFoKRr4Ygx_WiL8OZL3UVF3JD0-hFhaTCCi31vXg",
+    "X-Did": "cc4619786be9e2ea",
+    "X-Version": "10/1.0.7",
+    "User-Agent": "Ultimate Player/1.0.7",
+    "Accept-Encoding": "gzip",
+    "Host": "u.m3uts.xyz",
+    "Connection": "Keep-Alive"
+    
+  }
+      },
+      
+      {
         "name": "CLARO SPORTS HD",
         "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4502110136314B9E97125270A8ED788C_media.mp4",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png",
