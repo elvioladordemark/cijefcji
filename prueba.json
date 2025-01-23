@@ -3,18 +3,18 @@
     "name": "⚽ DEPORTES INTERNACIONALES",
     "samples": [
       {
-        "name": "FIFA+",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
-        "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
-        "headers": {
-          "Host": "stream.ejemplo.com",
-          "X-Hash": "abc123",
-          "X-Custom-Header": "valor-personalizado",
-          "Referer": "https://ejemplo.com",
-          "Origin": "https://ejemplo.com",
-          "User-Agent": "CustomPlayer/1.0"
+        "name": "GOL CARACOL",
+        "url": "http://plpro.org/stream/gen/344.m3u8",
+      "type": "HLS",
+      "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
+      "headers": {
+        "X-Version": "5/1.0.3",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 14; 23129RA5FL Build/UKQ1.231207.002)",
+        "Host": "plpro.org",
+        "Connection": "Keep-Alive",
+        "Accept-Encoding": "gzip",
+        "Content-Length": "54"
         }
       },
   {
