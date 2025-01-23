@@ -20,7 +20,8 @@
     {
   "name": "GOL CARACOL",
   "url": "http://plpro.org/stream/secure/ZKjmAQE8ZGt2YwR1BP4lZQNhZwN5sQR3ZmLmAGH3ZmxkZQA8ZQyvAQVmZwWxLmuzATZmBKjjsQO8ETSfqzyeYmVhZF4jVPuZnJ51rQftIGftDJ5xpz9cMPNkAQftZwZkZwyFDGITGPOPqJyfMP9IF1RkYwVmZGVjAl4jZQVc/344.m3u8",
-  "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
+      "type": "HLS",
+      "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
   "headers": {
     "X-Hash": "do0kXSkYwMc4rR8D0g6YkTSjMFpwOif9g_z5PIJT8AK5BXkP1jlFCeQysI4CmIoaE-cFir_EFIUnEe9hSG33vHU2VYF4BED_SgyvzXTsWeQY9gy3RFtF7D__k0UIUggVdnOC1xuSX9xT9TuAbptkGRyc5Qht4khhGCCbQ-xQdctqKtatQUcAZfnZmQ9ZrzqWQjm_uAtVpq4kT8bKI5LO4fwnXCk8hOauAmyemNuik999rWBpCGYcgf4aGhjn7H_jfNiYomQ_zzpx27edsNeqfroONnvlp1Z9UPSg65K2Ve7bBqJrmcllU1rFIPBn31vs3oWXuK3GlJ-Hnc90r5SEwYE084zbFPs-BY6tYQbpi-ad0O-NR65IJQI2cPuT7Q7yX-Did",
     "X-Version": "5/1.0.3",
