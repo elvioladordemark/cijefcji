@@ -17,21 +17,24 @@
           "User-Agent": "CustomPlayer/1.0"
         }
       },
-   {
-        "name": "GOL CARACOL",
-        "url": "http://plpro.org/stream/secure/ZKjmAQE8ZwtjZmblLGNjBwWwZGV6LzWuLGbkZQp3BwIvAQR6ATL3BwVjAKjkAmZ3AwN4AQNlZwN0sQN5LwDlZmVlMTZ4MwEwZmy8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGD7VQVmZGV5HxR1ExjtDaIcoTDiIHgEZF4lZmRlZQphZQNlXD/344.m3u8",
-        "type": "HLS",
-        "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
-        "headers": {
-          "X-Hash": "c-_38XLSCuIqWMpfOBJKdFmI2N6V8ww2wU1LyPLRE8latK79UVNFG4cjHOeNRM8FLQzK_1fHo0WnS0dsgX1OxdEQT3-eLRWmbpXGItx_gTHfDO5cE2xCVh4qco3rZCw9Cns1d54Z1pXos3mN1YIDtEZzWvLSnfdyXM-YPfqmYG0HcbGYTp1BI9TOiHe7tG7vyW-sb54TRj5pFty-4SRiTL-pQLpNbfP7YxwcB_bkrX6OZdbg1MQg9Mn66J1DYwi5J9DpcN0SWIy_BXQNe6TYNAUZR9Fj9F-THJPFbHzVI6sgiY3nAZJoXKNgqgVl9i-B0mA1Q6JLqjMq6YRiIWZunW-v2AXs9qclMe0apsSYbc9vZzPTLd3jzH7GXWAUNm85",
-          "X-Did": "09b42322dc8f4c39",
-          "X-Version": "5/1.0.3",
-          "User-Agent": "PLPro/5",
-          "Accept-Encoding": "gzip",
-          "Host": "plpro.org",
-          "Connection": "Keep-Alive"
-        }
-      },
+  {
+  "name": "GOL CARACOL",
+  "url": "http://cyphxmag.h4s232svg.com/live/cyx-8C6BDF0C4CAE997477C83D04A365.m3u8",
+  "type": "HLS",
+  "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
+  "headers": {
+    "Host": "cyphxmag.h4s232svg.com:80",
+    "Connection": "Keep-Alive",
+    "App": "com.msandroid.mobile",
+    "App-Version": "50801",
+    "Content-Auth": "sign_type=cfl&media_encrypted=0&link=cf&main_addr=http://cyphxmag.h4s232svg.com/v3/youshi/&session_id=gKnW7wBje2HQ&app_id=magmob&auth_id=611537044_magmob__0&dev_id=31fac56c&client_ip=2803:2a00:2c12:bbaa:1077:5b41:4f7:205&user_id=611537044&spared_addr=http://cyphxmag.h4s232svg.com/v3/youshi/&app_ver=50801&expired=1737623094&tag=free&check_play_ip=true&token=C36D273DCB5D22866CF06140D386BBBF&sign2_method=sign_o3&instance=0&start_moment=1737608758913&sign2=d7d660b20a51d7b863db101cc9829e34",
+    "Content-License": "app_id=magmob&tag=free&scheme=md5-01&media_code=cyx-8C6BDF0C4CAE997477C83D04A365&expired=1738195508&token=776327426B36A25D5BF47E89554F33AD",
+    "Pragma": "akamai-x-cache-on",
+    "Ranger-Id": "46TRBy5n5zlX558aD0OxexPSg5zLVwO4ei",
+    "User-Agent": "Ranger/4.6.1-87edcdcb",
+    "X-Buffer": "0"
+  }
+},
       {
         "name": "CLARO SPORTS HD",
         "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4502110136314B9E97125270A8ED788C_media.mp4",
