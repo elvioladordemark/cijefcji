@@ -17,24 +17,21 @@
           "User-Agent": "CustomPlayer/1.0"
         }
       },
-{
-  "name": "GOL CARACOL",
-  "url": "http://cyphxmag.h4s232svg.com/live/cyx-9434BACD41ECb35fDB01E5A92C6D.m3u8",
-  "type": "HLS",
-  "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
-  "headers": {
-    "Host": "cyphxmag.h4s232svg.com:80",
-    "Connection": "Keep-Alive",
-    "App": "com.msandroid.mobile",
-    "App-Version": "50801",
-    "Content-Auth": "spared_addr=http://cyphxmag.h4s232svg.com/v3/youshi/&client_ip=2803:2a00:2c12:bbaa:1077:5b41:4f7:205&link=cf&main_addr=http://cyphxmag.h4s232svg.com/v3/youshi/&app_ver=50801&media_encrypted=0&app_id=magmob&session_id=lcOcvWPAT02o&sign_type=cfl&auth_id=611537044_magmob__0&dev_id=31fac56c&user_id=611537044&expired=1737615776&tag=free&check_play_ip=true&token=D3E2DBCD5FF8E3958E3405CFC4804F8F&sign2_method=sign_o3&instance=0&start_moment=1737601435081&sign2=eca98e880edf838e06d1e797644f7cdb",
-    "Content-License": "app_id=magmob&tag=free&scheme=md5-01&media_code=cyx-9434BACD41ECb35fDB01E5A92C6D&expired=1738195508&token=1BCD83DFF67210A56D3BCFA3CECD4259",
-    "Pragma": "akamai-x-cache-on",
-    "Ranger-Id": "476ZPfP9E0mbEEoU5IvFfFiTLEs2nVwGZW",
-    "User-Agent": "Ranger/4.6.1-87edcdcb",
-    "X-Buffer": "21720299044"
-  }
-},
+   {
+        "name": "GOL CARACOL",
+        "url": "https://plpro.org/stream/secure/ZKjmAQE8ZwtjZmblLGNjBwWwZGV6LzWuLGbkZQp3BwIvAQR6ATL3BwVjAKjkAmZ3AwN2ZGV2ZQZksQN5LwDlZmVlMTZ4MwEwZmy8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGD7VQVmZGV5HxR1ExjtDaIcoTDiIHgEZF4lZmRlZQphZQNlXD/344.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
+        "headers": {
+          "X-Hash": "7Ohjx3HKLxychUG9Xkynkh92en_DnFLztDMv5LMmX7O2qrcHTAhyBp_3UDD8wWz4Jd6LonIiIqvK-BvMtnBnH-c8Wf0AR8pxyLU5fIsiyb_eKBTCmUGGECd0GoG94xIQ2YHReoNQS8u87WycgOURnrQUtas-GN4sd0DPpUqQUIhGbbtrGFW1nPrEgcyoLI0zfbZW0V41lRU1RD85uNWK62VcC3wSG6o81C2VTfy_zymP9CwmO35PE3t0MhR7dd8EjYlgOSS9FJnalosth4IqvzuPYI_1jXDYHQSIoNsceB3H64lLx7v7ikIoQuKgHDLwNF-su_hMs2uNNZgSS1Kssy9JHUeHAMgBsz77kElRZ2x9cldm6TvJpf4SNNTiGqeq",
+          "X-Did": "09b42322dc8f4c39",
+          "X-Version": "5/1.0.3",
+          "User-Agent": "PLPro/5",
+          "Accept-Encoding": "gzip",
+          "Host": "plpro.org",
+          "Connection": "Keep-Alive"
+        }
+      },
       {
         "name": "CLARO SPORTS HD",
         "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4502110136314B9E97125270A8ED788C_media.mp4",
