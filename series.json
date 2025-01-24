@@ -1,57 +1,52 @@
 [
-    {
+  {
     "name": "STRANGER THINGS",
     "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+    "iconoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
     "samples": [
       {
         "name": "1",
         "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B3C9A3E46A0941D1B8D39D1B42272648_media.mp4",
-            "type": "SERIE",
-"descripcion": "ACA LA DESCRIPCION DE LA SERIE"
-  
+        "type": "SERIE",
+        "descripcion": "ACA LA DESCRIPCION DE LA SERIE"
       },
       {
         "name": "2",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-   "type": "SERIE",
-"descripcion": "ACA LA DESCRIPCION DE LA SERIE"
- 
+        "type": "SERIE",
+        "descripcion": "ACA LA DESCRIPCION DE LA SERIE"
       },
-         {
+      {
         "name": "3",
         "url": "https://edge-mix05-coe.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-   "type": "SERIE",
-"descripcion": "ACA LA DESCRIPCION DE LA SERIE"
-      
-             }
-
+        "type": "SERIE",
+        "descripcion": "ACA LA DESCRIPCION DE LA SERIE"
+      }
     ]
   },
-            {
+  {
     "name": "STRANGER THINGS",
     "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+    "iconoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
     "samples": [
       {
         "name": "1",
         "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B3C9A3E46A0941D1B8D39D1B42272648_media.mp4",
-            "type": "SERIE",
-"descripcion": "ACA LA DESCRIPCION DE LA SERIE"
-  
+        "type": "SERIE",
+        "descripcion": "ACA LA DESCRIPCION DE LA SERIE"
       },
       {
         "name": "2",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-   "type": "SERIE",
-"descripcion": "ACA LA DESCRIPCION DE LA SERIE"
- 
+        "type": "SERIE",
+        "descripcion": "ACA LA DESCRIPCION DE LA SERIE"
       },
-         {
+      {
         "name": "3",
         "url": "https://edge-mix05-coe.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-   "type": "SERIE",
-"descripcion": "ACA LA DESCRIPCION DE LA SERIE"
+        "type": "SERIE",
+        "descripcion": "ACA LA DESCRIPCION DE LA SERIE"
       }
-
     ]
   }
 ]
