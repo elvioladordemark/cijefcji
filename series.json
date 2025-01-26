@@ -1,52 +1,110 @@
-[
-  {
-    "name": "STRANGER THINGS",
-    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-    "iconoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
-    "samples": [
-      {
-        "name": "1",
-        "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B3C9A3E46A0941D1B8D39D1B42272648_media.mp4",
-        "type": "SERIE",
-        "descripcion": "ACA LA DESCRIPCION DE LA SERIE"
-      },
-      {
-        "name": "2",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-        "type": "SERIE",
-        "descripcion": "ACA LA DESCRIPCION DE LA SERIE"
-      },
-      {
-        "name": "3",
-        "url": "https://edge-mix05-coe.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-        "type": "SERIE",
-        "descripcion": "ACA LA DESCRIPCION DE LA SERIE"
-      }
-    ]
-  },
-  {
-    "name": "STRANGER THINGS",
-    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-    "iconoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
-    "samples": [
-      {
-        "name": "1",
-        "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B3C9A3E46A0941D1B8D39D1B42272648_media.mp4",
-        "type": "SERIE",
-        "descripcion": "ACA LA DESCRIPCION DE LA SERIE"
-      },
-      {
-        "name": "2",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-        "type": "SERIE",
-        "descripcion": "ACA LA DESCRIPCION DE LA SERIE"
-      },
-      {
-        "name": "3",
-        "url": "https://edge-mix05-coe.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-        "type": "SERIE",
-        "descripcion": "ACA LA DESCRIPCION DE LA SERIE"
-      }
-    ]
-  }
-]
+{
+  "categorias": [
+    {
+      "nombre": "Series de Comedia",
+      "series": [
+        {
+          "nombre": "Los Vecinos Caóticos",
+          "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+          "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "El Nuevo Inquilino",
+                  "url": "http://example.com/vecinos_s1_e1.m3u8"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Fiesta Sorpresa",
+                  "url": "http://example.com/vecinos_s1_e2.m3u8"
+                }
+              ]
+            },
+            {
+              "nombre": "Temporada 2",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "Nueva Mascota",
+                  "url": "http://example.com/vecinos_s2_e1.m3u8"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Problemas de Jardín",
+                  "url": "http://example.com/vecinos_s2_e2.m3u8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Casa de Risas",
+           "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+          "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "Llegan los Primos",
+                  "url": "http://example.com/casaderisas_s1_e1.m3u8"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Noche de Juegos",
+                  "url": "http://example.com/casaderisas_s1_e2.m3u8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Series de Suspenso",
+      "series": [
+        {
+          "nombre": "El Enigma",
+          "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+          "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "La Nota Misteriosa",
+                  "url": "http://example.com/enigma_s1_e1.m3u8"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Sospechas en la Noche",
+                  "url": "http://example.com/enigma_s1_e2.m3u8"
+                }
+              ]
+            },
+            {
+              "nombre": "Temporada 2",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "Siguiendo la Huella",
+                  "url": "http://example.com/enigma_s2_e1.m3u8"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Doble Juego",
+                  "url": "http://example.com/enigma_s2_e2.m3u8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
