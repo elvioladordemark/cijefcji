@@ -15,24 +15,20 @@
      
       }
     },
-  {
-  "name": "GOL CARACOL",
-  "url": "http://cyphxmag.h4s232svg.com/live/cyx-8C6BDF0C4CAE997477C83D04A365.m3u8",
-  "type": "HLS",
-  "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
-  "headers": {
-    "Host": "cyphxmag.h4s232svg.com:80",
-    "Connection": "Keep-Alive",
-    "App": "com.msandroid.mobile",
-    "App-Version": "50801",
-    "Content-Auth": "sign_type=cfl&media_encrypted=0&link=cf&main_addr=http://cyphxmag.h4s232svg.com/v3/youshi/&session_id=gKnW7wBje2HQ&app_id=magmob&auth_id=611537044_magmob__0&dev_id=31fac56c&client_ip=2803:2a00:2c12:bbaa:1077:5b41:4f7:205&user_id=611537044&spared_addr=http://cyphxmag.h4s232svg.com/v3/youshi/&app_ver=50801&expired=1737623094&tag=free&check_play_ip=true&token=C36D273DCB5D22866CF06140D386BBBF&sign2_method=sign_o3&instance=0&start_moment=1737608758913&sign2=d7d660b20a51d7b863db101cc9829e34",
-    "Content-License": "app_id=magmob&tag=free&scheme=md5-01&media_code=cyx-8C6BDF0C4CAE997477C83D04A365&expired=1738195508&token=776327426B36A25D5BF47E89554F33AD",
-    "Pragma": "akamai-x-cache-on",
-    "Ranger-Id": "46TRBy5n5zlX558aD0OxexPSg5zLVwO4ei",
-    "User-Agent": "Ranger/4.6.1-87edcdcb",
-    "X-Buffer": "0"
-  }
-},
+      {
+        "name": "GOL CARACOL 4",
+      "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+           "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
+         "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
+         "headers": {
+        "Referer": "https://web.app.flow.com.ar/",
+    "Origin": "https://web.app.flow.com.ar",
+            "Host": "chromecast.cvattv.com.ar",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+     
+      }
+    },
       {
   "name": "GOL CARACOL",
   "url": "https://cdn.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd",
