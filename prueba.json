@@ -30,6 +30,20 @@
       }
     },
       {
+        "name": "GOL CARACOL 5",
+      "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+           "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
+         "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
+         "headers": {
+        "Referer": "https://eb.app.flow.com.ar/",
+    "Origin": "https://web.app.floom.ar",
+            "Host": "cromecast.cvattv.com.ar",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+     
+      }
+    },
+      {
   "name": "GOL CARACOL",
   "url": "https://cdn.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd",
   "drm_license_uri": "https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2",
