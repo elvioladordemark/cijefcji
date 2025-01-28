@@ -1,4 +1,186 @@
 [
+   {
+    "name": "⚽ DEPORTES INTERNACIONALES",
+    "samples": [
+     {
+        "name": "GOLDEN",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3sl2jpy3i4fne1mgsc5p1/golden.json?rlkey=j9e7tmf7aonclrjdfv48783us&st=g2s9w5n6&dl=0",
+        "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
+    },
+   
+    
+    {
+        "name": "WARNER CHANNEL",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/zrghz35i7e2cv3vr37gw0/warner.json?rlkey=dst9i6fqzjmhcldjif70mrcq1&st=i98ziw03&dl=0",
+        "icono": "https://i.ibb.co/jyK3gPh/0000-all-l-warner-logo-warner-2018-blanco-1.png"
+    },
+  
+    {
+        "name": "UNIVERSAL CHANNEL",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/tg3zfnztkc0yu2k74smpe/universal.json?rlkey=8l2azm48jv1gxqgcp401o6o9e&st=r3e97znf&dl=0",
+        "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png"
+    },
+   
+    {
+        "name": "TCM",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/e4lmnu0git8a93nut6y82/tcm.json?rlkey=77o513oumk744low0i09ki7ly&st=tsa98pzf&dl=0",
+        "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png"
+    },
+    
+    {
+        "name": "STUDIO UNIVERSAL",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vaags2sms02ehi6veyijo/studio.json?rlkey=q33llpgieu83rrph1uh0hoqzr&st=l704gomk&dl=0",
+        "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg"
+    },
+    
+    {
+        "name": "CINECANAL",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bogtd0zldfnw6ox7wedh4/cinecanal.json?rlkey=5cqicqe62p2j6scpkfe904j1p&st=8zghkreg&dl=0",
+        "icono": "https://i.ibb.co/cvghCHq/cinecanal.png"
+    },
+  
+    {
+        "name": "TNT HD",
+        "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/46238.ts",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/6uatubavwbq3hb4smwem8/tnt.json?rlkey=6lyiihjb5htyx5fm46f3ghkht&st=y8zf9it0&dl=0",
+        "icono": "https://i.ibb.co/r2gYhQb/tnt-fundo-escuro.png"
+    },
+   
+    {
+        "name": "TNT SERIES",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/uljocnrcm6hcd2goes8di/tntseries.json?rlkey=z2g7zdg66acsc25z2jgi2fdkh&st=o4ygihqz&dl=0",
+        "icono": "https://i.ibb.co/pJGxSPx/unnamed.png"
+    },
+   
+    {
+        "name": "TNT NOVELAS",
+        "url": "https://edge-vod03-hr.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
+        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
+    },
+   
+    {
+        "name": "CINEMAX",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/gza8rlmfiar71jxxy9uvf/cinemax.json?rlkey=xxlj0h0agj5up375fzqhfi7un&st=uvuykku0&dl=0",
+        "icono": "https://i.ibb.co/dmgX2Ww/Cinemax-LA.png"
+    },
+  
+    {
+        "name": "FX HD",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywe5hxd5zwa81ecnk2inw/fx.json?rlkey=p1sr3mjvdxjslzh4sirsbxhlg&st=a9zlu9jf&dl=0",
+        "icono": "https://i.ibb.co/5LvDcdV/587595.png"
+    },
+  
+    {
+        "name": "SPACE HD",
+        "url": "http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94850.ts",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/av6s3gkg1jguedik4i8kw/space.json?rlkey=98yz8gqxu6wf7d7slcmn7etgg&st=4e6u289t&dl=0",
+        "icono": "https://i.ibb.co/cYXCsHG/Captura-de-pantalla-2017-03-23-a-las-12-53-24.png"
+    },
+    
+    {
+        "name": "STAR CHANNEL",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vkno7tzenuiuubs0lwh3d/starchannel.json?rlkey=po1pr47pohyql2ntjdforl6rl&st=m2le4iqd&dl=0",
+        "icono": "https://i.ibb.co/McNjFxY/bb50999fb2860f8760ef4b22ef8bf09e.jpg"
+    },
+    
+    {
+        "name": "SONY CHANNEL",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/5dgz5k6x5iat3bltu0shj/sonnychannel.json?rlkey=dnfxmhzkjoi13wud9a2cppocs&st=qqjq6pwh&dl=0",
+        "icono": "https://i.ibb.co/jzDc2Vs/6065f6e153054c65152bddd6-sony.png"
+    },
+   
+    {
+        "name": "AXN",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/at6y20q6gjy47ufxbewtx/axn.json?rlkey=nimgylj6o4j7m0w0uyu0kb1lk&st=fqyxzvwe&dl=0",
+        "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg"
+    },
+    
+    {
+        "name": "A&E",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/yvk347z7u6ekjf2xtdel8/a-e.json?rlkey=piyq55mtwo277mj1zwg2h01my&st=4f4aca3g&dl=0",
+        "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg"
+    },
+    
+    {
+        "name": "TBS",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/v049nl6gp8njp14s61xqz/tbs.json?rlkey=q9seofkzal1jd7b7oy6nomucl&st=r1p7tmam&dl=0",
+        "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg"
+    },
+  
+    {
+        "name": "AMC",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/npcid0pbjpevoxfd3fi8x/amc.json?rlkey=j0k1yy7pkrtapyxogubb382m3&st=yv8ytmik&dl=0",
+        "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg"
+    },
+   
+    {
+        "name": "A3SERIES",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_2A/A3_Series.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/1gk6xdi60k8shlgbx0ftd/a3series.json?rlkey=od64ljs497lokd58j8zco85vr&st=2y3usl7a&dl=0",
+        "icono": "https://i.ibb.co/L6NV6Dy/720x540.jpg"
+    },
+  
+    {
+        "name": "COMEDY CENTRAL",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_2A/ComedyCentral.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/irhh1a1oy37nfcwsm1k7h/comedycentral.json?rlkey=wlzk2xufg0qyjpa17vsf8zvbz&st=vije1mgx&dl=0",
+        "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png"
+    },
+   
+    {
+        "name": "PARAMOUNT",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/flrhpsx2oimr1pc5dxuim/paramount.json?rlkey=sccigkhv0249hv6hd92iif61v&st=ia56xqs3&dl=0",
+        "icono": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg"
+    },
+   
+
+    {
+        "name": "A3CINE",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/iwbu357pfxs70456893yp/a3cine.json?rlkey=uaw5lszzfmtu5iwj39b8l9mky&st=2abtc02e&dl=0",
+        "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg"
+    }
+    ]
+  },
   {
     "name": "⚽ DEPORTES INTERNACIONALES",
     "samples": [
