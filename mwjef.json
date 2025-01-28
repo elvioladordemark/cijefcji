@@ -72,7 +72,15 @@
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/jimuxpgh3xrrl2ds3kukb/tntnovelas.json?rlkey=i3jkgql4vndw72l55r8fzcwpv&st=rp4ftf0m&dl=0",
-        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
+        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png",
+       
+  "headers": {
+        "Referer": "https://web.app.flow.com.ar/",
+    "Origin": "https://web.app.flow.com.ar",
+            "Host": "chromecast.cvattv.com.ar",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+     
+      }
     },
    
     {
