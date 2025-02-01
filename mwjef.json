@@ -220,18 +220,27 @@
       }
     },
       {
-        "name": "GOL CARACOL 5",
-      "url": "https://y2fzdgxl.fubohd.com/dsports/mono.m3u8",
-           "type": "HLS",
-      "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
-         "headers": {
-        "Referer": "https://la12hd.com/",
-    
-          
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-     
-      }
-    },
+    "name": "GOL CARACOL 5",
+    "url": "https://y2fzdgxl.fubohd.com/dsports/mono.m3u8",
+    "type": "HLS",
+    "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
+    "headers": {
+        ":authority": "y2fzdgxl.fubohd.com",
+        ":method": "GET",
+        ":path": "/dsports/mono.m3u8?token=17de45b4122a524dd6740e3f9a64551683fd9ba1-6f-1738484295-1738448295",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "es-ES,es;q=0.9",
+        "origin": "https://la12hd.com",
+        "priority": "u=1, i",
+        "referer": "https://la12hd.com/",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "cross-site",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+    }
+},
       {
   "name": "GOL CARACOL",
   "url": "https://cdn.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd",
