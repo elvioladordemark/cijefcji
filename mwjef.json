@@ -221,15 +221,14 @@
     },
       {
         "name": "GOL CARACOL 5",
-      "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-           "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
-         "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
+      "url": "https://y2fzdgxl.fubohd.com/dsports/mono.m3u8",
+           "type": "HLS",
+      "icono": "https://i.postimg.cc/cH2d7svQ/descarga.jpg",
          "headers": {
-        "Referer": "https://eb.app.flow.com.ar/",
-    "Origin": "https://wb.app.floom.ar",
-            "Host": "cromecast.cvattv.com.ar",
-    "User-Agent": "MoWindows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+        "Referer": "https://la12hd.com/",
+    
+          
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
      
       }
     },
