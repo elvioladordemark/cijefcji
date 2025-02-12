@@ -1135,19 +1135,22 @@
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
         "type": "HLS"
       },
-      {
-        "name": "TYC SPORT (PLAY 2)",
-        "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "HLS",
-               "headers": {
+     {
+    "name": "TYC SPORT (PLAY 2)",
+    "url": "https://anonstream.zip/amc/index.m3u8",
+    "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+    "type": "HLS",
+    "headers": {
+        ":authority": "anonstream.zip",
+        ":method": "GET",
+        ":path": "/amc/index.m3u8",
+        ":scheme": "https",
         "Accept": "*/*",
         "Accept-Encoding": "gzip, deflate, br, zstd",
         "Accept-Language": "es-ES,es;q=0.9",
-        "Connection": "keep-alive",
-        "Host": "chromecast.cvattv.com.ar",
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://embedstream.org",
+        "Priority": "u=1, i",
+        "Referer": "https://embedstream.org/",
         "Sec-Ch-Ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
         "Sec-Ch-Ua-Mobile": "?0",
         "Sec-Ch-Ua-Platform": "\"Windows\"",
