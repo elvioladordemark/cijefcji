@@ -5,7 +5,7 @@
      {
 {
     "name": "GOLDEN",
-    "url": "https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd",
     "type": "CLEARKEY",
     "drm_license_uri": "https://dl.dropbox.com/scl/fi/3sl2jpy3i4fne1mgsc5p1/golden.json?rlkey=j9e7tmf7aonclrjdfv48783us&st=g2s9w5n6&dl=0",
     "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
@@ -14,7 +14,7 @@
         "Accept-Encoding": "gzip, deflate, br, zstd",
         "Accept-Language": "es-US,es;q=0.9,en-US;q=0.8,en;q=0.7,es-419;q=0.6",
         "Connection": "keep-alive",
-        "Host": "chromecast.cvattv.com.ar",
+        "Host": "cdn.cvattv.com.ar",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "Sec-Ch-Ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
