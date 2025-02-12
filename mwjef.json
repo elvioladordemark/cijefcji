@@ -1139,7 +1139,7 @@
         "name": "TYC SPORT (PLAY 2)",
         "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "HLS"
+        "type": "HLS",
                "headers": {
         "Accept": "*/*",
         "Accept-Encoding": "gzip, deflate, br, zstd",
