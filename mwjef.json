@@ -121,7 +121,7 @@
     
     {
         "name": "CINECANAL",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_C/CinecanalHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/bogtd0zldfnw6ox7wedh4/cinecanal.json?rlkey=5cqicqe62p2j6scpkfe904j1p&st=8zghkreg&dl=0",
         "icono": "https://i.ibb.co/cvghCHq/cinecanal.png"
@@ -129,7 +129,7 @@
          "headers": {
         "Accept": "*/*",
         "Accept-Encoding": "gzip, deflate, br, zstd",
-        "Accept-Language": "es-US,es;q=0.,en-US;q=0.8,en;q=0.7,es-419;q=0.6",
+        "Accept-Language": "es-ES,es;q=0.9",
         "Connection": "keep-alive",
         "Host": "chromecast.cvattv.com.ar",
         "Origin": "https://portal.app.flow.com.ar",
