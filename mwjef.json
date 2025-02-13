@@ -1190,7 +1190,8 @@
     "url": "https://www.clarogratis.com/directv-sports-en-vivo-por-internet.html",
     "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
     "type": "WEBVIEW",
-    "headers": {
+      
+    "headersM3u8": {
         "Host": "deportes.slkdhfdhldeportes.com:8080",
         "Connection": "keep-alive",
         "sec-ch-ua-platform": "\"Windows\"",
