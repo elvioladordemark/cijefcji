@@ -1224,24 +1224,24 @@
     "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
     "type": "WEBVIEW",
       
-    "headersM3u8": {
-        "Host": "deportes.slkdhfdhldeportes.com:8080",
-        "Connection": "keep-alive",
-        "sec-ch-ua-platform": "\"Windows\"",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-        "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
-        "sec-ch-ua-mobile": "?0",
-        "Accept": "*/*",
-        "Origin": "https://deportes.slkdhfdhldeportes.com",
-        "Sec-Fetch-Site": "same-site",
-        "Sec-Fetch-Mode": "cors",
-        "Sec-Fetch-Dest": "empty",
-        "Referer": "https://deportes.slkdhfdhldeportes.com/",
-        "Accept-Encoding": "gzip, deflate, br, zstd",
-        "Accept-Language": "es-ES,es;q=0.9",
-        "If-None-Match": "\"67ad57fc-97\"",
-        "If-Modified-Since": "Thu, 13 Feb 2025 02:25:00 GMT"
-    }
+   "headersM3u8": {
+   
+    "Connection": "keep-alive",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+    "sec-ch-ua-mobile": "?0",
+    "Accept": "*/*",
+    "Origin": "https://streamdz3.lat",
+    "Sec-Fetch-Site": "cross-site",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Referer": "https://streamdz3.lat/",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Accept-Language": "es-ES,es;q=0.9",
+    "Priority": "u=1"
+}
+
        },
 {
   "name": "TYC SPORT (PLAY 7)",
