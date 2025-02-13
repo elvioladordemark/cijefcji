@@ -1181,12 +1181,10 @@
       },
          {
         "name": "TYC SPORT (PLAY 5)",
-        "url": "https://www.desdepylabs.com/External/tvaccion/telefuturo",
+        "url": "https://futbol-libre.pe/eventos.html?r=aHR0cHM6Ly9zdHJlYW1nbzEubGl2ZS9za3kucGhwP2NoYW5uZWw9ZGlzbmV5MTI=",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "WEBVIEW",
-            "headersUrl": {
-               "Referer": "https://www.telefuturo.com.py/"
-            }
+        "type": "WEBVIEW"
+            
       },
             {
     "name": "TYC SPORT (PLAY 6)",
