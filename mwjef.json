@@ -1181,9 +1181,12 @@
       },
          {
         "name": "TYC SPORT (PLAY 5)",
-        "url": "https://www.telefuturo.com.py/envivo",
+        "url": "https://www.desdepylabs.com/External/tvaccion/telefuturo",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "WEBVIEW"
+        "type": "WEBVIEW",
+            "headersUrl": {
+               "Referer": "https://www.telefuturo.com.py/"
+            }
       },
             {
     "name": "TYC SPORT (PLAY 6)",
