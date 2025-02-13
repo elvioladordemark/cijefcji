@@ -1210,6 +1210,21 @@
         "If-Modified-Since": "Thu, 13 Feb 2025 02:25:00 GMT"
     }
        },
+{
+  "name": "TYC SPORT (PLAY 7)",
+  "url": "http://magmaplayer.com/stream/hls/635.m3u8",
+  "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+  "type": "HLS",
+  "headers": {
+    "X-Hash": "0454lha7YEb83-P7vmJtASNXgdua0YLOdvszl1a8Iv8HBBEegsk9UnYkYya_yLhfuxH6DZemllLBcirafffZddBG_HXy2JE1IUF2ymnqISMqNqNNz_sb1ny0WeGrb313y8p4hFvO6DG7Mw87Dmm1tkVY4m1cdFObLarHYzH1oXhOWMmyCwYZuzbFV8eZ6vWZzqrYErtji0xxFJ7BnYGVmQ",
+    "X-Did": "cddfe5e8c019cb3c",
+    "X-Version": "8/1.0.7",
+    "User-Agent": "Magma Player/8",
+    "Accept-Encoding": "gzip",
+    "Host": "magmaplayer.com",
+    "Connection": "Keep-Alive"
+  }
+},
       {
         "name": "TNT SPORT HD",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
