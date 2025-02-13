@@ -1179,6 +1179,12 @@
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
         "type": "HLS"
       },
+         {
+        "name": "TYC SPORT (PLAY 5)",
+        "url": "https://la12hd.com/vivo/canales.php?stream=dsports",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "type": "WEBVIEW"
+      },
       {
         "name": "TNT SPORT HD",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
