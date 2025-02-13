@@ -1179,13 +1179,45 @@
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
         "type": "HLS"
       },
-         {
-        "name": "TYC SPORT (PLAY 5)",
-        "url": "https://la12hd.com/vivo/canales.php?stream=tudn",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "WEBVIEW"
+     {
+    "name": "TYC SPORT (PLAY 5)",
+    "url": "https://streamgo1.live/sky.php?channel=disney12",
+    "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+    "type": "WEBVIEW",
+    "headersUrl": {
+        "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "sec-fetch-site": "cross-site",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-dest": "iframe",
+        "referer": "https://futbol-libre.pe/",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "es-ES,es;q=0.9",
+        "priority": "u=0"
+    },
             
-      },
+      "headersM3u8": {
+    "Host": "deportes.slkdhfdhldeportes.com:8080",
+    "Connection": "keep-alive",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+    "sec-ch-ua-mobile": "?0",
+    "Accept": "*/*",
+    "Origin": "https://streamdz3.lat",
+    "Sec-Fetch-Site": "cross-site",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Referer": "https://streamdz3.lat/",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Accept-Language": "es-ES,es;q=0.9",
+    "Priority": "u=1"
+}
+     },
             {
     "name": "TYC SPORT (PLAY 6)",
     "url": "https://www.clarogratis.com/directv-sports-en-vivo-por-internet.html",
