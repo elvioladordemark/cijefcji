@@ -1185,6 +1185,33 @@
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
         "type": "WEBVIEW"
       },
+       {
+    "name": "TYC SPORT (PLAY 6)",
+    "url": "https://www.clarogratis.com/envivo/directvsports.php",
+    "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+    "type": "WEBVIEW",
+    "headers": {
+        ":authority": "www.clarogratis.com",
+        ":method": "GET",
+        ":path": "/envivo/directvsports.php",
+        ":scheme": "https",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "es-ES,es;q=0.9",
+        "cookie": "fpestid=MvylcNpwnVp1OtzomLzoKp9pUHjcuMtDauvTKZ7TIdndfJBWhwcdgs-hIo8OBVoIOShbxQ; _cc_id=6848c76004071d5dde0eedef8d87f87c; twk_idm_key=iXpDi85bKvMHRRPV0tudp; TawkConnectionTime=0",
+        "priority": "u=0, i",
+        "referer": "https://www.clarogratis.com/directv-sports-en-vivo-por-internet.html",
+        "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "iframe",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "same-origin",
+        "sec-fetch-user": "?1",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+    }
+},
       {
         "name": "TNT SPORT HD",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
