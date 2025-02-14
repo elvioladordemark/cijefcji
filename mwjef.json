@@ -1187,36 +1187,33 @@
    },
             {
     "name": "TYC SPORT (PLAY 6)",
-    "url": "https://deportes.slkdhfdhldeportes.com/futbollibre.php?id=16_",
+    "url": "https://embed.sdfgnksbounce.com/embed2/history.html",
     "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
     "type": "WEBVIEW",
       
+ 
     "headersM3u8": {
-        "Host": "deportes.slkdhfdhldeportes.com:8080",
+        "Host": "live.sdfgnksbounce.com:8080",
         "Connection": "keep-alive",
         "sec-ch-ua-platform": "\"Windows\"",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
         "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
         "sec-ch-ua-mobile": "?0",
         "Accept": "*/*",
-        "Origin": "https://deportes.slkdhfdhldeportes.com",
+        "Origin": "https://live.sdfgnksbounce.com",
         "Sec-Fetch-Site": "same-site",
         "Sec-Fetch-Mode": "cors",
         "Sec-Fetch-Dest": "empty",
-        "Referer": "https://deportes.slkdhfdhldeportes.com/",
+        "Referer": "https://live.sdfgnksbounce.com/",
         "Accept-Encoding": "gzip, deflate, br, zstd",
-        "Accept-Language": "es-ES,es;q=0.9",
-        "If-None-Match": "\"67ad57fc-97\"",
-        "If-Modified-Since": "Thu, 13 Feb 2025 02:25:00 GMT"
+        "Accept-Language": "es-ES,es;q=0.9"
     },
+
                
   "headersUrl": {
-    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-    "accept-encoding": "gzip, deflate, br, zstd",
-    "accept-language": "es-ES,es;q=0.9",
-    "connection": "keep-alive",
-    "host": "deportes.slkdhfdhldeportes.com",
-    "referer": "https://www.cablevisionhd.com/",
+
+    
+    "Referer": "https://www.cablevisionhd.com/",
     "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
     "sec-ch-ua-mobile": "?0",
     "sec-ch-ua-platform": "\"Windows\"",
@@ -1224,7 +1221,7 @@
     "sec-fetch-mode": "navigate",
     "sec-fetch-site": "cross-site",
     "upgrade-insecure-requests": "1",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
   }
 
        },
