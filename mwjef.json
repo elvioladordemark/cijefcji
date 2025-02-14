@@ -10,7 +10,7 @@
     "drm_license_uri": "https://dl.dropbox.com/scl/fi/3sl2jpy3i4fne1mgsc5p1/golden.json?rlkey=j9e7tmf7aonclrjdfv48783us&st=g2s9w5n6&dl=0",
     "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
     "headers": {
-        "Accept": "*/*",
+        "Accept": "*/*",f
         "Accept-Encoding": "gzip, deflate, br, zstd",
         "Accept-Language": "es-US,es;q=0.9,en-US;q=0.8,en;q=0.7,es-419;q=0.6",
         "Connection": "keep-alive",
@@ -1181,43 +1181,10 @@
       },
 {
     "name": "TYC SPORT (PLAY 5)",
-    "url": "https://vivofytv.com/canal.php?stream=dsports",
+    "url": "https://la12hd.com/vivo/canales.php?stream=dsports",
     "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-    "type": "WEBVIEW",
-    "headersUrl": {
-      
-        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "accept-encoding": "gzip, deflate, br, zstd",
-        "accept-language": "es-ES,es;q=0.9",
-        "priority": "u=0, i",
-        "referer": "https://librefutbol.su/",
-        "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
-        "sec-ch-ua-mobile": "?0",
-        "sec-ch-ua-platform": "\"Windows\"",
-        "sec-fetch-dest": "iframe",
-        "sec-fetch-mode": "navigate",
-        "sec-fetch-site": "cross-site",
-        "upgrade-insecure-requests": "1",
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-    },
-   
-    "headersM3u8": {
-   
-        "Accept": "*/*",
-        "Accept-Encoding": "gzip, deflate, br, zstd",
-        "Accept-Language": "es-ES,es;q=0.9",
-        "Origin": "https://vivofytv.com",
-        "Priority": "u=1, i",
-        "Referer": "https://vivofytv.com/",
-        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
-        "Sec-Ch-Ua-Mobile": "?0",
-        "Sec-Ch-Ua-Platform": "\"Windows\"",
-        "Sec-Fetch-Dest": "empty",
-        "Sec-Fetch-Mode": "cors",
-        "Sec-Fetch-Site": "cross-site",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-    }
-},
+    "type": "WEBVIEW"
+   },
             {
     "name": "TYC SPORT (PLAY 6)",
     "url": "https://deportes.slkdhfdhldeportes.com/futbollibre.php?id=16_",
