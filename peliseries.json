@@ -57,6 +57,18 @@
                 "genero": "Acción, Crimen, Suspense",
                 "duracion": "136 min",
                 "edad": "14+"
+            },
+            {
+                "name": "Cars",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/TFOTF-Logo.png",
+                "icono": "https://image.tmdb.org/t/p/original/nqii8TqllZRainaNhQkJLNoSbMv.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+                "iconpng": "https://upload.wikimedia.org/wikipedia/commons/2/2a/TFOTF-Logo.png",
+                "type": "PELICULA",
+                "descripcion": "El aspirante a campeón de carreras Rayo McQueen está sobre la vía rápida al éxito, la fama y todo lo que él había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+                "anio": "2006",
+                "genero": "Animación, Aventura, Comedia, Familia",
+                "duracion": "117 min"
             }
         ]
     },
