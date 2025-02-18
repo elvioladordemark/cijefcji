@@ -220,6 +220,23 @@
         ]
     },
     {
+        "name": "CIENCIA FICCIÓN",
+        "samples": [
+            {
+                "name": "MATRIX",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/71307CE0AFDC4825BF3DBCEB65AF7E65_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2P14LNK2zDBf84tF016blkz4Q4C.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
+                "iconpng": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FThe_Matrix&psig=AOvVaw2WFZShfHrpUIEsi7KHQasK&ust=1739998328835000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi_9ISNzosDFQAAAAAdAAAAABAP",
+                "type": "PELICULA",
+                "descripcion": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
+                "anio": "1999",
+                "genero": "Acción, Ciencia ficción",
+                "duracion": "138 min"
+            }
+        ]
+    },
+    {
         "name": "TERROR",
         "samples": [
             {
