@@ -61,6 +61,17 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "nombre": "El juego del calamar",
+                    "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "capitulos": []
+                        }
+                    ]
                 }
             ]
         },
