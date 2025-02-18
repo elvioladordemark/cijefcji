@@ -69,7 +69,13 @@
                     "temporadas": [
                         {
                             "nombre": "Temporada 1",
-                            "capitulos": []
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Capítulo 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7F28807AC7D04881A50C719446419A4C_media.mp4"
+                                }
+                            ]
                         }
                     ]
                 }
