@@ -1,5 +1,22 @@
 [
     {
+        "name": "ROMANCE",
+        "samples": [
+            {
+                "name": "Los puentes de Madison",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4E3BEA2CD17B4D2683DA74248560859A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xjGrjvD94HvANtEurCXDxGkc0Gj.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg",
+                "iconpng": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.max.com%2Fad%2Fes%2Fmovies%2Flos-puentes-de-madison%2Fd7b8d5f2-736b-4edc-8588-27b729fae6ee&psig=AOvVaw2n2NEdluBWErBb3Oqr92J5&ust=1739995369921000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjm-N-Ags6LAxWvLLkGHRT3CbAQjRx6BAgAEBk",
+                "type": "PELICULA",
+                "descripcion": "La apacible pero anodina vida de Francesca Johnson, un ama de casa que vive en una granja con su familia, se ve alterada con la llegada de Robert Kincaid, un veterano fotógrafo de la revista National Geographic, que visita el condado de Madison para fotografiar sus viejos puentes. Cuando Francesca invita a Robert a cenar, un amor verdadero y una pasión desconocida nacerá entre ellos.",
+                "anio": "1995",
+                "genero": "Romance",
+                "duracion": "135 min"
+            }
+        ]
+    },
+    {
         "name": "Drama, Historica, Bélica",
         "samples": [
             {
