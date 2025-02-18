@@ -211,6 +211,18 @@
                 "iconoHorizontal": "https://www.programme-tv.net/imgre/fit/~2~program~bd965bc48f0b8cc6.jpeg/630x355/quality/80/crop-from/top/the-brutalist.jpeg",
                 "type": "PELICULA",
                 "descripcion": "Sinopsis de la película..."
+            },
+            {
+                "name": "El diablo viste a la moda",
+                "url": "http://98.98.163.124:17908/vod/0F4E795988BA4E108425E9F1C8B9B0ED_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mRzLk61g46qpik5yt4MOaFiNyVm.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3tWw50B1xXlCnJ9A7NX4nNzZF4j.jpg",
+                "iconpng": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.themoviedb.org%2Fmovie%2F350-the-devil-wears-prada%2Fimages%2Flogos%3Flanguage%3Des-MX&psig=AOvVaw05b1pq2BWblXxm7fb5jNiR&ust=1739993044047000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiNzqz5zYsDFQAAAAAdAAAAABAo",
+                "type": "PELICULA",
+                "descripcion": "En el vertiginoso mundo de la moda en Nueva York, la revista 'Runway' es el Santo Grial. Dirigida con puño de hierro y elegante manicura por Miranda Priestly, trabajar en ella es un temible reto para todo aquel que quiera triunfar en ese mundo. Hacerlo como ayudante de Miranda podría abrirle cualquier puerta a Andy Sachs, recientemente graduada. Pero ella es una chica que destaca por su desaliño dentro del pequeño ejército de guapísimas redactoras de la revista. Andy comprende muy pronto que para triunfar en ese negocio va a necesitar algo más que iniciativa y determinación. Y la prueba definitiva está delante de ella, vestida de Prada de pies a cabeza.",
+                "anio": "2006",
+                "genero": "Drama, Comedia",
+                "duracion": "109 min"
             }
         ]
     },
