@@ -119,6 +119,23 @@
         ]
     },
     {
+        "name": "Bélica",
+        "samples": [
+            {
+                "name": "Dunkerque",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F4B30E7AABDD43189A24A3889311EE27_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3lc06ptVbouEaZyjdHfCzmIm6v7.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+                "iconpng": "https://los40co00.epimg.net/especiales/depelicula/dunkerque/img/02.png",
+                "type": "PELICULA",
+                "descripcion": "II Guerra Mundial. Cientos de miles de británicos y tropas aliadas están rodeados por las fuerzas enemigas. Atrapados en la playa con el mar a sus espaldas se enfrentan a una situación imposible mientras el enemigo se acerca. La película relata la Operación Dinamo, también conocida como el milagro de Dunkerque. Se trató de una operación de evacuación de las tropas aliadas en territorio francés, que tuvo lugar a finales de mayo de 1940. La operación permitió el rescate de más de 200.000 soldados británicos y más de 100.000 franceses y belgas.",
+                "anio": "2017",
+                "genero": "Bélica, Acción, Drama",
+                "duracion": "107 min"
+            }
+        ]
+    },
+    {
         "name": "COMEDIA",
         "samples": [
             {
