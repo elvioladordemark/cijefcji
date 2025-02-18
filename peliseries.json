@@ -94,8 +94,6 @@
     {
         "name": "RECOMENDADOS",
         "samples": [
-     
-       
             {
                 "name": "Culpa mía: Londres",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E39CF770C3AA46DE9442C896EB43D2C1_media.ts",
@@ -110,7 +108,6 @@
             }
         ]
     },
-   
     {
         "name": "Bélica",
         "samples": [
@@ -131,8 +128,6 @@
     {
         "name": "COMEDIA",
         "samples": [
-           
-         
             {
                 "name": "El diablo viste a la moda",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0F4E795988BA4E108425E9F1C8B9B0ED_media.mp4",
@@ -234,6 +229,18 @@
                 "descripcion": "Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno.",
                 "anio": "2013",
                 "genero": "Terror, Suspense",
+                "duracion": "112 min"
+            },
+            {
+                "name": "El Conjuro 3: El Diablo me obligó a hacerlo",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E5EEB7E1771A4B3F843F105B4558BEA9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ghMQALCyytc6W0wlOlMIKiMSRKV.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+                "iconpng": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/5ed8a825-101d-4438-8153-f6d5c9b405f9/360911c4995ae4a070ac96ad7d808f4bd2494801.png?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320",
+                "type": "PELICULA",
+                "descripcion": "Los investigadores paranormales Ed y Lorraine Warren se encuentran con lo que se convertiría en uno de los casos más sensacionales de sus archivos. La lucha por el alma de un niño los lleva más allá de todo lo que habían visto antes, para marcar la primera vez en la historia de los Estados Unidos que un sospechoso de asesinato reclamaría posesión demoníaca como defensa.",
+                "anio": "2021",
+                "genero": "Terror, Misterio, Suspense",
                 "duracion": "112 min"
             }
         ]
