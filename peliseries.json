@@ -295,6 +295,23 @@
         ]
     },
     {
+        "name": "FAMILIA",
+        "samples": [
+            {
+                "name": "Mufasa: El rey león",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4CA808166E654BE1A7A3507A440BD9D7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cVh8Af7a9JMOJl75ML3Dg2QVEuq.jpg",
+                "iconpng": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mufasa_The_Lion_King_logo.png",
+                "type": "PELICULA",
+                "descripcion": "Rafiki debe transmitir la leyenda de Mufasa a la joven cachorro de león Kiara, hija de Simba y Nala, y con Timón y Pumba prestando su estilo característico. Mufasa, un cachorro huérfano, perdido y solo, conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.",
+                "anio": "2024",
+                "genero": "Aventura, Familia, Animación",
+                "duracion": "118 min"
+            }
+        ]
+    },
+    {
         "name": "TERROR",
         "samples": [
             {
