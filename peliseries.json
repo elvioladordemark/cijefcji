@@ -360,6 +360,23 @@
         ]
     },
     {
+        "name": "DRAMA",
+        "samples": [
+            {
+                "name": "Oppenheimer",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A49FE201DE88421FB82427DB0972775B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5t05uhX5ULn8Um2f1ZuznVvIffU.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+                "iconpng": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Oppenheimer_Movie_Logo_2023.png",
+                "type": "PELICULA",
+                "descripcion": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+                "anio": "2023",
+                "genero": "Drama, Historia",
+                "duracion": "181 min"
+            }
+        ]
+    },
+    {
         "name": "FAMILIA",
         "samples": [
             {
