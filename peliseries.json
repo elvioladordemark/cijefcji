@@ -140,6 +140,23 @@
         ]
     },
     {
+        "name": "AVENTURA",
+        "samples": [
+            {
+                "name": "Moana 2",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FD6C26C5AEF94EF78651CE614EDCB1DB_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/1b2sEjyhc6kqZD4SazdVlVLuIyh.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+                "iconpng": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dgv6ll3-68e927c7-d2d7-4e25-8f75-3e6bc64c6901.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGd2NmxsMy02OGU5MjdjNy1kMmQ3LTRlMjUtOGY3NS0zZTZiYzY0YzY5MDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ddB8yI-3EFu5JrGLnPPmnl99DPZ6NiHvRSpJ-nxzS8E",
+                "type": "PELICULA",
+                "descripcion": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
+                "anio": "2024",
+                "genero": "Animación, Aventura, Familia, Comedia",
+                "duracion": "99 min"
+            }
+        ]
+    },
+    {
         "name": "RECOMENDADOS",
         "samples": [
             {
