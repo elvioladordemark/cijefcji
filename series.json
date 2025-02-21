@@ -74,26 +74,10 @@
                                     "numero": 2,
                                     "titulo": "Luz roja, luz verde",
                                     "url": "http://vddgcoud02.gd34fdldh.xyz/vod/016251FB27034E2AA81B513CBB142018_media.mp4"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "nombre": "La Oficina",
-                    "icono": "https://image.tmdb.org/t/p/original/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/b7wyaeJGU2Q4ql7xZr52vdW5TKp.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "capitulos": []
-                        }
-                    ],
-                    "tmdb_id": 2316,
-                    "total_seasons": 9
-                }
+                    }
             ]
         },
+             
         {
             "nombre": "Series de Comedia",
             "series": [
