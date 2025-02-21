@@ -1,222 +1,223 @@
 {
-    "categorias": [
+  "categorias": [
+    {
+      "nombre": "RECOMENDADOS",
+      "series": [
         {
-            "nombre": "RECOMENDADOS",
-            "series": [
+          "nombre": "Los Vecinos Caóticos",
+          "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+          "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "capitulos": [
                 {
-                    "nombre": "Los Vecinos Caóticos",
-                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "El Nuevo Inquilino",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B3C9A3E46A0941D1B8D39D1B42272648_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Fiesta Sorpresa",
-                                    "url": "http://example.com/vecinos_s1_e2.m3u8"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Nueva Mascota",
-                                    "url": "http://example.com/vecinos_s2_e1.m3u8"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Problemas de Jardín",
-                                    "url": "http://example.com/vecinos_s2_e2.m3u8"
-                                }
-                            ]
-                        }
-                    ]
+                  "numero": 1,
+                  "titulo": "El Nuevo Inquilino",
+                  "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B3C9A3E46A0941D1B8D39D1B42272648_media.mp4"
                 },
                 {
-                    "nombre": "Casa de Risas",
-                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Llegan los Primos",
-                                    "url": "http://example.com/casaderisas_s1_e1.m3u8"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Noche de Juegos",
-                                    "url": "http://example.com/casaderisas_s1_e2.m3u8"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "nombre": "El juego del calamar",
-                    "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "capitulos": [
-                                {
-                                    "numero": 2,
-                                    "titulo": "Luz roja, luz verde",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/016251FB27034E2AA81B513CBB142018_media.mp4"
+                  "numero": 2,
+                  "titulo": "Fiesta Sorpresa",
+                  "url": "http://example.com/vecinos_s1_e2.m3u8"
                 }
+              ]
+            },
+            {
+              "nombre": "Temporada 2",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "Nueva Mascota",
+                  "url": "http://example.com/vecinos_s2_e1.m3u8"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Problemas de Jardín",
+                  "url": "http://example.com/vecinos_s2_e2.m3u8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Casa de Risas",
+          "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+          "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "Llegan los Primos",
+                  "url": "http://example.com/casaderisas_s1_e1.m3u8"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Noche de Juegos",
+                  "url": "http://example.com/casaderisas_s1_e2.m3u8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "El juego del calamar",
+          "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+          "logoHorizontal": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "capitulos": [
+                {
+                  "numero": 2,
+                  "titulo": "Luz roja, luz verde",
+                  "url": "http://vddgcoud02.gd34fdldh.xyz/vod/016251FB27034E2AA81B513CBB142018_media.mp4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Series de Comedia",
+      "series": [
+        {
+          "nombre": "Los Vecinos Caóticos",
+          "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+          "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "El Nuevo Inquilino",
+                  "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B3C9A3E46A0941D1B8D39D1B42272648_media.mp4"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Fiesta Sorpresa",
+                  "url": "http://example.com/vecinos_s1_e2.m3u8"
+                }
+              ]
+            },
+            {
+              "nombre": "Temporada 2",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "Nueva Mascota",
+                  "url": "http://example.com/vecinos_s2_e1.m3u8"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Problemas de Jardín",
+                  "url": "http://example.com/vecinos_s2_e2.m3u8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Casa de Risas",
+          "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+          "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "Llegan los Primos",
+                  "url": "http://example.com/casaderisas_s1_e1.m3u8"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Noche de Juegos",
+                  "url": "http://example.com/casaderisas_s1_e2.m3u8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Series de Suspenso",
+      "series": [
+        {
+          "nombre": "El Enigma",
+          "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+          "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "La Nota Misteriosa",
+                  "url": "http://example.com/enigma_s1_e1.m3u8"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Sospechas en la Noche",
+                  "url": "http://example.com/enigma_s1_e2.m3u8"
+                }
+              ]
+            },
+            {
+              "nombre": "Temporada 2",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "Siguiendo la Huella",
+                  "url": "http://example.com/enigma_s2_e1.m3u8"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Doble Juego",
+                  "url": "http://example.com/enigma_s2_e2.m3u8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Stranger Things",
+          "icono": "https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+          "logoHorizontal": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "fgrieger",
+                  "url": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
+                },
+                {
+                  "numero": 2,
+                  "titulo": "ergreg",
+                  "url": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
+                }
+              ]
+            },
+            {
+              "nombre": "Temporada 2",
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "deghet",
+                  "url": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ]
-},
-             
-        {
-            "nombre": "Series de Comedia",
-            "series": [
-                {
-                    "nombre": "Los Vecinos Caóticos",
-                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "El Nuevo Inquilino",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B3C9A3E46A0941D1B8D39D1B42272648_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Fiesta Sorpresa",
-                                    "url": "http://example.com/vecinos_s1_e2.m3u8"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Nueva Mascota",
-                                    "url": "http://example.com/vecinos_s2_e1.m3u8"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Problemas de Jardín",
-                                    "url": "http://example.com/vecinos_s2_e2.m3u8"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "nombre": "Casa de Risas",
-                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Llegan los Primos",
-                                    "url": "http://example.com/casaderisas_s1_e1.m3u8"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Noche de Juegos",
-                                    "url": "http://example.com/casaderisas_s1_e2.m3u8"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "nombre": "Series de Suspenso",
-            "series": [
-                {
-                    "nombre": "El Enigma",
-                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "La Nota Misteriosa",
-                                    "url": "http://example.com/enigma_s1_e1.m3u8"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Sospechas en la Noche",
-                                    "url": "http://example.com/enigma_s1_e2.m3u8"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Siguiendo la Huella",
-                                    "url": "http://example.com/enigma_s2_e1.m3u8"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Doble Juego",
-                                    "url": "http://example.com/enigma_s2_e2.m3u8"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "nombre": "Stranger Things",
-                    "icono": "https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "fgrieger",
-                                    "url": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "ergreg",
-                                    "url": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "deghet",
-                                    "url": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
 }
