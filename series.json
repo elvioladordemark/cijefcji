@@ -18,20 +18,12 @@
                     "temporadas": [
                         {
                             "nombre": "Temporada 1",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Llegan los Primos",
-                                    "url": "http://example.com/casaderisas_s1_e1.m3u8"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Noche de Juegos",
-                                    "url": "http://example.com/casaderisas_s1_e2.m3u8"
-                                }
-                            ]
+                            "numero_temporada": 1,
+                            "capitulos": []
                         }
-                    ]
+                    ],
+                    "tmdb_id": 0,
+                    "total_seasons": 0
                 },
                 {
                     "nombre": "Envidiosa",
