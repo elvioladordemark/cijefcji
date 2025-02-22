@@ -61,6 +61,46 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "nombre": "Envidiosa",
+                    "icono": "https://image.tmdb.org/t/p/original/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/eMopbs8KemUTttra1jUYsSGlyRz.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Todo sobre Vicky",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5DEC96A294BD46F79C606566D849CA60_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Barrilete cósmico",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1B37B95823214505902AFD70E4D0493A_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Ametralladora de likes",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AD2E0C847B1F4165957B851B13B04739_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Leona pero no campeona",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/21C6B0E6ADE3485A8C86DA06F65C5269_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El juego de la vida",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EEEA20F18D4D49A0AD565DFD31825FFC_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 261615,
+                    "total_seasons": 2
                 }
             ]
         },
