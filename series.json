@@ -468,33 +468,9 @@
                     "nombre": "Stranger Things",
                     "icono": "https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
                     "logoHorizontal": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "fgrieger",
-                                    "url": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "ergreg",
-                                    "url": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "deghet",
-                                    "url": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
-                                }
-                            ]
-                        }
-                    ]
+                    "temporadas": [],
+                    "tmdb_id": 0,
+                    "total_seasons": 0
                 }
             ]
         }
