@@ -443,6 +443,66 @@
             ]
         },
         {
+            "nombre": "Series de Acción",
+            "series": [
+                {
+                    "nombre": "The Gentlemen: La serie",
+                    "icono": "https://image.tmdb.org/t/p/original/97ayMQKdIWqFaWs6ceiSQlVaTDb.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/PqIW7PA74YBURz5slZkxc0K5Pl.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Refinamiento con agresión",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/02849DDDAC9D41F1B61B7CA027C97AE6_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Han llamado a Tommy Supercherías",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D657C781D5EC42CD92421D7A43909F62_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¿Dónde está mi hierba?",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D2C36C9760F04E03B20777B4FE850FB4_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un caballero desagradable",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B9112FEAF76641748C31596F1C32C259_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Tengo cientos de primos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4544F2DE09734E1395F31B6BF54571F4_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Cualquier eventualidad",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9F7B9849B435489EB660F76D4F422E86_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "No sin peligro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9F7B9849B435489EB660F76D4F422E86_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El Evangelio según Bobby Glass",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/947A1E1E2DE94A2DA2482F275C9F4DCB_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 236235,
+                    "total_seasons": 2
+                }
+            ]
+        },
+        {
             "nombre": "Series de Suspenso",
             "series": [
                 {
