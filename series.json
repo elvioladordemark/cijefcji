@@ -199,6 +199,71 @@
             ]
         },
         {
+            "nombre": "Series de Drama",
+            "series": [
+                {
+                    "nombre": "El juego del calamar",
+                    "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Luz roja, luz verde",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/016251FB27034E2AA81B513CBB142018_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Infierno",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/DA114A2AFA804FF9974E9C3C454D9704_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El hombre del paraguas",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/42DF541B1095497D9D88EAC096396B92_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El equipo es lo primero",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/2EBDEB0E233543D8AFBAD832A2584D0E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Un mundo justo",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/CB2A3E2A592B4C49A352CE137DB92586_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Gganbu",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/7C44D9B4036E46EC9C2BCEED722B383E_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Personas importantes",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/0C0C532D94E74BF68406B6646CAAA396_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El líder",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/B0161A72EA6E4586A7292BE4DC215677_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Un día con suerte",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/F899020D2FAC4342AD8B11B3BBFDE592_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 93405,
+                    "total_seasons": 3
+                }
+            ]
+        },
+        {
             "nombre": "Series de Suspenso",
             "series": [
                 {
