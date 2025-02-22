@@ -6,9 +6,7 @@
                 {
                     "nombre": "Los Vecinos Caóticos",
                     "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                        "iconPng": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    
-                   
+                    "iconPng": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
                     "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
                     "temporadas": [],
                     "tmdb_id": 0,
@@ -17,9 +15,7 @@
                 {
                     "nombre": "Casa de Risas",
                     "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                        "iconPng": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    
-                   
+                    "iconPng": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
                     "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
                     "temporadas": [
                         {
@@ -34,9 +30,7 @@
                 {
                     "nombre": "Envidiosa",
                     "icono": "https://image.tmdb.org/t/p/original/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-                        "iconPng": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    
-                   
+                    "iconPng": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
                     "logoHorizontal": "https://image.tmdb.org/t/p/original/eMopbs8KemUTttra1jUYsSGlyRz.jpg",
                     "temporadas": [
                         {
@@ -727,6 +721,52 @@
                                     "numero": 8,
                                     "titulo": "Aliados",
                                     "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D4321248FF71499A82EC15D993511400_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Los reyes elfos bajo el cielo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CF921C0F401C478DACE7ABC2A59224C3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Donde las estrellas son extrañas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/239CAA9B64B2435FB267F7E744730676_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El águila y el cetro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F194C60A173E41B3AE3F53D5CCFBE0EF_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Antiguo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F1406FDB70144F28A54256B994C28571_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Palacios de piedra",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9EF762F0FB664540AA6C04ADFCA42224_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "¿Dónde está él?",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CA45DA0E6F6D416483BE8118555FB454_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Condenados a morir",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CE7C8AB81CC94F8280D8AE6B67E6A5A1_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Sombra y llama",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2F7B988C99FB4B039BE8BD46803C227C_media.mp4"
                                 }
                             ]
                         }
