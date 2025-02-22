@@ -484,6 +484,61 @@
                     ],
                     "tmdb_id": 67752,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "El problema de los 3 cuerpos",
+                    "icono": "https://image.tmdb.org/t/p/original/6Dc9mMl083cVpNknWzALCw7JYPH.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kSh5AfkJ38UqjbUvFrPQlvKNU0v.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Cuenta atrás",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/75D1FF2AB8824AA9A391DE79700AEAE7_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Costa Roja",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5B862E2769B74CAEBC26BB505B899C77_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Destructor de mundos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7C7483AE572640A3B3EAB13F60EB16D0_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Nuestro Señor",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/301FC6AA5D1C4A668CCAE05ACF3C1D35_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Juicio Final",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/633B1EFDF2B34BCF83F40D034224076B_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Las estrellas, nuestro destino",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A988BA2C83984550974D29BB413931B8_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Avanzar a toda costa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E94DA7BC58F347EE994B3191BBFDC6A7_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Vallado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E63BC9290C65428B88E6F499074FD1C3_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 108545,
+                    "total_seasons": 1
                 }
             ]
         },
