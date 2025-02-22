@@ -288,6 +288,41 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "nombre": "Piedone - Uno sbirro a Napoli",
+                    "icono": "https://image.tmdb.org/t/p/original/2AmJZd2W7Sv8O6p7bA1CdQHWuuj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/sIE9fqOtxCImHPdNiP4CWHheLd1.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Appucundria",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/016251FB27034E2AA81B513CBB142018_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Scuorno",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/AB60486210C64696A2EE0E09489CFA68_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Oltre il confine",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/BC221078E982456EA26F65D0560CC9CF_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Anema e Core",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/63ED93F2A0604E7495399C82C7D7BDF9_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 276021,
+                    "total_seasons": 1
                 }
             ]
         },
