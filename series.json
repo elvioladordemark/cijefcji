@@ -468,7 +468,54 @@
                     "nombre": "Stranger Things",
                     "icono": "https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
                     "logoHorizontal": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
-                    "temporadas": [],
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La desaparición de Will Byers",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AECCED597E3A4A5496311BCE72E37646_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La chica rara de la calle Maple",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/51AAEB7F1D8D41ADB8D3FC64A4457A66_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Todo está bien",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7B9EFF80EC334E60A1FBB96671BC2A5B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El cadáver",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1FC8DCB831A049768702ABF4EB9D55F2_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La pulga y el acróbata",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9323CE21B759441C80A11172629E191E_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El monstruo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E60806B9D0E1434FB5941B71AB8C4DB9_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La bañera",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/571BC44B618C4C6CADF7348BC72F9F72_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El otro lado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4FAD871C288243EC8A7BD7158AEEB252_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
                     "tmdb_id": 0,
                     "total_seasons": 0
                 }
