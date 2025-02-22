@@ -154,6 +154,36 @@
                     ],
                     "tmdb_id": 194764,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Paradise",
+                    "icono": "https://image.tmdb.org/t/p/original/8vuX1Crb5pH2oDIghY3d3jtwXDa.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qV2REPQ7pPlmQT7Mljkca0wi4Bx.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Wildcat ha caído",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CF921C0F401C478DACE7ABC2A59224C3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sinatra",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/239CAA9B64B2435FB267F7E744730676_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La arquitecta del bienestar",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/239CAA9B64B2435FB267F7E744730676_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 245927,
+                    "total_seasons": 1
                 }
             ]
         },
