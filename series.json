@@ -439,6 +439,51 @@
                     ],
                     "tmdb_id": 246025,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Channel Zero",
+                    "icono": "https://image.tmdb.org/t/p/original/oCutmhFznao1Pzy6wM1C32kxAEu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/iXxiiIuK5KGcleWRq5bTXXoYK11.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Tú tienes que ir dentro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6A096B04C730449EA2A83812FC29B2ED_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Yo te cogeré de la mano",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F0C840C4F69F456994163F84D1469328_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¿Quieres ver algo guay?",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9069739CA88B4384B84FF2A05C92CC05_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un buque extraño",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/05E1110206F746D69537EA133EFEBCB5_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Invitado de honor",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/581D4D3D32E14C71A0CD8BFA242F1A10_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Bienvenido a casa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3B4F83A23EA243B39B759B0DA03EE594_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 67752,
+                    "total_seasons": 4
                 }
             ]
         },
