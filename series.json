@@ -773,6 +773,66 @@
                     ],
                     "tmdb_id": 84773,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "The Last of Us",
+                    "icono": "https://image.tmdb.org/t/p/original/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Cuando te pierdas en la oscuridad",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/23531088BDD8490FA0B9884EF7FEB661_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Infectado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A21C77757BD04A7685EB12C9F62A4DA0_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Mucho mucho tiempo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3600E22479A74218AF145CEDB59BC8A7_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Por favor, no me sueltes la mano",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4EC45E7E9F5047288202D2472A87F0CA_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Resistir y sobrevivir",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F6F62D42112A4B45B9B0D49AD5FA916A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Familia",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/70C142DF8F60423EBEBB91D1E04A985F_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Lo que dejamos atrás",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CF5D53467183481C9986927FB4566BBF_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "En nuestras horas más bajas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/21B6638A031B4B55B1F07716FF6792E0_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Busca la luz",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2FD7A064E667431BB0F6B1EE463A4E1A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 100088,
+                    "total_seasons": 2
                 }
             ]
         },
