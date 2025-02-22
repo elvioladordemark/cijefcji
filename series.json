@@ -136,6 +136,61 @@
                     ],
                     "tmdb_id": 261615,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "El Pingüino",
+                    "icono": "https://image.tmdb.org/t/p/original/eif7QcjBVs45bC7y8ercAI3PjKM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qq36sU5xH581RiNEkookMQ9D7yp.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Horas extras",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/67603940948D41B49393B18525AD07C9_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Topo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D5A8EB2909B049F0A2A622CF12795B58_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Bliss",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A137773D12624AE58E514A71FBEB06D8_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Cent'anni",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/22B3FB380B584E0D97E6CD5C6A324293_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Vuelta a casa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C679B6539BBB455B99FB1D1C8FFE7EBB_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Cumbre de oro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F9CA18B7B898431EA5BA0797D9A3D6D0_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Sombrero de copa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7BC379E936CB47A59EA5F0DB4B337584_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Algo grande o nimio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BCD8D65B632545ED946F600CDF1380D2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 194764,
+                    "total_seasons": 1
                 }
             ]
         },
