@@ -634,6 +634,61 @@
                     ],
                     "tmdb_id": 236235,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "El señor de los anillos: Los anillos de poder",
+                    "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ukewRnKD05Si7DkED2tSKBTXeEd.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Una sombra del pasado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3536260780834C98942CDA0697A43CE6_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "A la deriva",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CA04193E76C8495DACAE4C6E84B4B29F_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Adar",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/86EC7F5EA9634F949A794ACBDBEF95E6_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La gran ola",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3E12CD441DF24C4BA850467FC6495FB4_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Separaciones",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E7440016E8EC41A0820EE045F3DE84E6_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Udûn",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/95FE17826E3B4019B500B58209C500AD_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El ojo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D22AE247A94C4EDFB4A4BBC074732FBC_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Aliados",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D4321248FF71499A82EC15D993511400_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 84773,
+                    "total_seasons": 2
                 }
             ]
         },
