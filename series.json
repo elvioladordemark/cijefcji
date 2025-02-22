@@ -57,14 +57,38 @@
                                     "numero": 2,
                                     "titulo": "Noche de Juegos",
                                     "url": "http://example.com/casaderisas_s1_e2.m3u8"
-                                  }
+                                }
                             ]
                         }
                     ]
                 }
             ]
         },
-           
+        {
+            "nombre": "Series Animadas",
+            "series": [
+                {
+                    "nombre": "Campeones hacia el Mundial: Oliver y Benji",
+                    "icono": "https://image.tmdb.org/t/p/original/vN3UriDKOYWSPMOeodgHOqUBUJZ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wj29buGmdKH1crhCnq6GEM6PczN.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Camino hacia un sueño",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/832DBF93614A476EAC6CB48A2361074E_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 24106,
+                    "total_seasons": 1
+                }
+            ]
+        },
         {
             "nombre": "Series de Comedia",
             "series": [
