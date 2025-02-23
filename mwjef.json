@@ -1,5 +1,26 @@
 [
     {
+    "name": "⚽SUPERCLASICO CERRO VS OLIMPIA",
+    "samples": [
+       
+    {
+        "name": "OPCIÓN 1 (RECOMENDADO)",
+        "url": "https://sam-py-edge04.tigo.com.py/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+    },
+    {
+        "name": "OPCION 2",
+        "url": "https://streamtp3.com/global1.php?stream=eventos9tType/1/srcAg/UNKNOWN_ANDROID/mid/10592733634131/8242064067155_high/index.m3u8",
+        "type": "WEBVIEW",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kcqa7s4wswuvik8a6d8ja/tigo8.json?rlkey=fcmibx8c969m5kh9p2jrep3tg&st=6l89pt5k&dl=0",
+        "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
+    }
+   
+    ]
+  },
+    {
     "name": "⚽TIGO SPORTS SOLO EVENTOS",
     "samples": [
        {
