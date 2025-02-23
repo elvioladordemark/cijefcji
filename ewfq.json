@@ -319,6 +319,24 @@
                     ],
                     "tmdb_id": 246025,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Channel Zero3",
+                    "genero": "Drama",
+                    "descripcion": "Una escalofriante historia sin par, Channel Zero dedica cada temporada a relatar una historia de terror original.",
+                    "anio": "2016",
+                    "iconPng": "https://image.tmdb.org/t/p/original/lxv8OI7gwtDLXBfpizXvMkautFQ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/oCutmhFznao1Pzy6wM1C32kxAEu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/iXxiiIuK5KGcleWRq5bTXXoYK11.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 67752,
+                    "total_seasons": 4
                 }
             ]
         },
