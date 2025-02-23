@@ -3,10 +3,9 @@
         {
             "nombre": "RECOMENDADOS",
             "series": [
-            
                 {
                     "nombre": "Envidiosa",
-                       "genero": "Comedia, Drama",
+                    "genero": "Comedia, Drama",
                     "descripcion": "Después de una ruptura muy dolorosa, Vicky, con cerca de 40 años, busca un nuevo amor. No sabe que lo que la espera es un profundo —y divertido— proceso de autodescubrimiento.",
                     "anio": "2024",
                     "iconPng": "https://image.tmdb.org/t/p/original/oOKfyiIx2R4GpHgmUrA7PIQHlPO.png",
@@ -85,7 +84,7 @@
                 },
                 {
                     "nombre": "El Pingüino",
-                     "genero": "Drama, Crimen",
+                    "genero": "Drama, Crimen",
                     "descripcion": "Sigue la lucha de Oswald “Oz” Cobb por hacerse con el control de Gotham. Con la ciudad destrozada después del colapso de los diques, Oz busca llenar el vacío de poder que dejó la muerte de Carmine Falcone y darle a su madre Francis la vida que siempre le prometió. Pero antes Oz tendrá que enfrentarse a sus enemigos, incluidos los hijos de Falcone: Sofia y Alberto; la familia Maroni, dirigida por su patriarca encarcelado, Salvatore Maroni; y la propia reputación desmoralizadora de Oz como El Pingüino.",
                     "anio": "2024",
                     "iconPng": "https://image.tmdb.org/t/p/original/1Zqwt017CSDI0gYdRq1KWIZGZ72.png",
@@ -144,7 +143,7 @@
                 },
                 {
                     "nombre": "Paradise",
-                           "genero": "Drama, Crimen",
+                    "genero": "Drama, Crimen",
                     "descripcion": "Paradise está ambientada en una localidad tranquila entre cuyos habitantes se encuentran algunas de las personas más prominentes del mundo. Pero la calma da paso a la tempestad cuando se comete un impactante asesinato y da comienzo una delicada investigación.",
                     "anio": "2025",
                     "iconPng": "https://image.tmdb.org/t/p/original/arhU0k5Kdt229zuZFCY1CgvzZvD.png",
@@ -190,6 +189,24 @@
                     ],
                     "tmdb_id": 245927,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El juego del calamar3",
+                    "genero": "Action & Adventure, Misterio, Drama",
+                    "descripcion": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ivkt4d2ffX9scRGzc0BYAq23j2A.png",
+                    "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 93405,
+                    "total_seasons": 3
                 }
             ]
         },
@@ -198,7 +215,7 @@
             "series": [
                 {
                     "nombre": "Campeones hacia el Mundial: Oliver y Benji",
-             "genero": "Animación, Drama, Action & Adventure",
+                    "genero": "Animación, Drama, Action & Adventure",
                     "descripcion": "Tras haber ganado el campeonato del mundo sub19, Tsubasa Ozora pide la mano de su gran amiga, Sanae, quien no se lo piensa mucho y acepta. También ha sido fichado por el Barcelona F.C., mientras que los demás se van a distintos equipos profesionales, como Hyuga, que se va al Juventus, o Wabayashi, quien se va al Hamburgo... Los demás se reparten en toda la J-League.",
                     "anio": "2001",
                     "iconPng": "https://image.tmdb.org/t/p/original/QUsWRzbg3KOPrl3gDcT6xNApaF.png",
@@ -270,7 +287,6 @@
         {
             "nombre": "Series de Comedia",
             "series": [
-             
                 {
                     "nombre": "Piedone - Uno sbirro a Napoli",
                     "genero": "Comedia, Action & Adventure, Crimen",
@@ -317,7 +333,7 @@
             "series": [
                 {
                     "nombre": "El juego del calamar",
-           "genero": "Action & Adventure, Misterio, Drama",
+                    "genero": "Action & Adventure, Misterio, Drama",
                     "descripcion": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
                     "anio": "2021",
                     "iconPng": "https://image.tmdb.org/t/p/original/ivkt4d2ffX9scRGzc0BYAq23j2A.png",
@@ -422,7 +438,7 @@
                 },
                 {
                     "nombre": "Celda 211",
-                           "genero": "Drama, Crimen",
+                    "genero": "Drama, Crimen",
                     "descripcion": "Durante un motín en la cárcel, un abogado de derechos humanos se hace pasar por preso para sobrevivir. El caos y las pérdidas personales revelan la oscuridad de su interior.",
                     "anio": "2025",
                     "iconPng": "https://image.tmdb.org/t/p/original/q78W1MKu7JjJ38OcSDBXS0o7NeW.png",
@@ -471,7 +487,7 @@
                 },
                 {
                     "nombre": "Channel Zero",
-                        "genero": "Drama",
+                    "genero": "Drama",
                     "descripcion": "Una escalofriante historia sin par, Channel Zero dedica cada temporada a relatar una historia de terror original.",
                     "anio": "2016",
                     "iconPng": "https://image.tmdb.org/t/p/original/lxv8OI7gwtDLXBfpizXvMkautFQ.png",
@@ -520,7 +536,7 @@
                 },
                 {
                     "nombre": "El problema de los 3 cuerpos",
-             "genero": "Sci-Fi & Fantasy, Misterio, Drama",
+                    "genero": "Sci-Fi & Fantasy, Misterio, Drama",
                     "descripcion": "Una decisión tomada en China en los años 60 trasciende el tiempo y el espacio, obligando a unos científicos a afrontar la peor amenaza para la humanidad en el presente.",
                     "anio": "2024",
                     "iconPng": "https://image.tmdb.org/t/p/original/8qVlsEzmZcw7TsSOKy9r9Kt9reS.png",
@@ -584,7 +600,7 @@
             "series": [
                 {
                     "nombre": "Los Caballeros: La serie",
-            "genero": "Comedia, Drama, Crimen",
+                    "genero": "Comedia, Drama, Crimen",
                     "descripcion": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
                     "anio": "2024",
                     "iconPng": "https://image.tmdb.org/t/p/original/ta3XcklH67RdK4BvWFy8ZGGBLzq.png",
@@ -643,7 +659,7 @@
                 },
                 {
                     "nombre": "El señor de los anillos: Los anillos de poder",
-                "genero": "Action & Adventure, Sci-Fi & Fantasy, Drama",
+                    "genero": "Action & Adventure, Sci-Fi & Fantasy, Drama",
                     "descripcion": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
                     "anio": "2022",
                     "iconPng": "https://image.tmdb.org/t/p/original/bFb2je479dZpxYMFwxX44c0hliD.png",
@@ -748,7 +764,7 @@
                 },
                 {
                     "nombre": "The Last of Us",
-                            "genero": "Drama",
+                    "genero": "Drama",
                     "descripcion": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
                     "anio": "2023",
                     "iconPng": "https://image.tmdb.org/t/p/original/msYtgZbEo8tAOJ37T50kgqulpKf.png",
@@ -815,10 +831,9 @@
         {
             "nombre": "Series de Suspenso",
             "series": [
-               
                 {
                     "nombre": "Stranger Things",
-               "genero": "Drama, Sci-Fi & Fantasy, Misterio",
+                    "genero": "Drama, Sci-Fi & Fantasy, Misterio",
                     "descripcion": "A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
                     "anio": "2016",
                     "iconPng": "https://image.tmdb.org/t/p/original/uyVM5qGksUzCgwo6UU0UrHex8Oj.png",
