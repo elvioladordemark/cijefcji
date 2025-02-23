@@ -247,6 +247,24 @@
                     ],
                     "tmdb_id": 24106,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Piedone: A Co4p in Naples",
+                    "genero": "Comedia, Action & Adventure, Crimen",
+                    "descripcion": "De vuelta al cuerpo de policía tras ser suspendido, Vicenzo Palmieri, famoso por su rudo encanto, adopta formas creativas para llevar a los criminales ante la justicia.",
+                    "anio": "2024",
+                    "iconPng": "https://media.themoviedb.org/t/p/w500/pjUKxHc2QdQ4uDizSoM8ShUwPwm.png",
+                    "icono": "https://image.tmdb.org/t/p/original/2AmJZd2W7Sv8O6p7bA1CdQHWuuj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/sIE9fqOtxCImHPdNiP4CWHheLd1.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 276021,
+                    "total_seasons": 1
                 }
             ]
         },
