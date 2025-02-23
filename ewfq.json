@@ -391,6 +391,24 @@
                     ],
                     "tmdb_id": 236235,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "El señor de los anillos: Los anillos de poder4",
+                    "genero": "Action & Adventure, Sci-Fi & Fantasy, Drama",
+                    "descripcion": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/bFb2je479dZpxYMFwxX44c0hliD.png",
+                    "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 84773,
+                    "total_seasons": 2
                 }
             ]
         },
