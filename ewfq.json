@@ -283,6 +283,24 @@
                     ],
                     "tmdb_id": 194764,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Paradise2",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Paradise está ambientada en una localidad tranquila entre cuyos habitantes se encuentran algunas de las personas más prominentes del mundo. Pero la calma da paso a la tempestad cuando se comete un impactante asesinato y da comienzo una delicada investigación.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/arhU0k5Kdt229zuZFCY1CgvzZvD.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8vuX1Crb5pH2oDIghY3d3jtwXDa.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lYeiSMn7OwBE4ycaVPWIFr3E5Dq.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 245927,
+                    "total_seasons": 1
                 }
             ]
         },
