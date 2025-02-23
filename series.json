@@ -3,30 +3,7 @@
         {
             "nombre": "RECOMENDADOS",
             "series": [
-                {
-                    "nombre": "Los Vecinos Caóticos",
-                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    "iconPng": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
-                    "temporadas": [],
-                    "tmdb_id": 0,
-                    "total_seasons": 0
-                },
-                {
-                    "nombre": "Casa de Risas",
-                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    "iconPng": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": []
-                        }
-                    ],
-                    "tmdb_id": 0,
-                    "total_seasons": 0
-                },
+            
                 {
                     "nombre": "Envidiosa",
                        "genero": "Comedia, Drama",
@@ -293,65 +270,7 @@
         {
             "nombre": "Series de Comedia",
             "series": [
-                {
-                    "nombre": "Los Vecinos Caóticos",
-                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "El Nuevo Inquilino",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B3C9A3E46A0941D1B8D39D1B42272648_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Fiesta Sorpresa",
-                                    "url": "http://example.com/vecinos_s1_e2.m3u8"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Nueva Mascota",
-                                    "url": "http://example.com/vecinos_s2_e1.m3u8"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Problemas de Jardín",
-                                    "url": "http://example.com/vecinos_s2_e2.m3u8"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "nombre": "Casa de Risas",
-                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Llegan los Primos",
-                                    "url": "http://example.com/casaderisas_s1_e1.m3u8"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Noche de Juegos",
-                                    "url": "http://example.com/casaderisas_s1_e2.m3u8"
-                                }
-                            ]
-                        }
-                    ]
-                },
+             
                 {
                     "nombre": "Piedone - Uno sbirro a Napoli",
                     "genero": "Comedia, Action & Adventure, Crimen",
@@ -398,6 +317,10 @@
             "series": [
                 {
                     "nombre": "El juego del calamar",
+           "genero": "Action & Adventure, Misterio, Drama",
+                    "descripcion": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ivkt4d2ffX9scRGzc0BYAq23j2A.png",
                     "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
                     "logoHorizontal": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
                     "temporadas": [
@@ -892,43 +815,7 @@
         {
             "nombre": "Series de Suspenso",
             "series": [
-                {
-                    "nombre": "El Enigma",
-                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
-                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "La Nota Misteriosa",
-                                    "url": "http://example.com/enigma_s1_e1.m3u8"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Sospechas en la Noche",
-                                    "url": "http://example.com/enigma_s1_e2.m3u8"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Siguiendo la Huella",
-                                    "url": "http://example.com/enigma_s2_e1.m3u8"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Doble Juego",
-                                    "url": "http://example.com/enigma_s2_e2.m3u8"
-                                }
-                            ]
-                        }
-                    ]
-                },
+               
                 {
                     "nombre": "Stranger Things",
                "genero": "Drama, Sci-Fi & Fantasy, Misterio",
