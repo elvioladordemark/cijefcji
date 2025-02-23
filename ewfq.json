@@ -373,6 +373,24 @@
                     ],
                     "tmdb_id": 66732,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "The Gentlemen: La serie",
+                    "genero": "Comedia, Drama, Crimen",
+                    "descripcion": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ta3XcklH67RdK4BvWFy8ZGGBLzq.png",
+                    "icono": "https://image.tmdb.org/t/p/original/97ayMQKdIWqFaWs6ceiSQlVaTDb.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/PqIW7PA74YBURz5slZkxc0K5Pl.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 236235,
+                    "total_seasons": 2
                 }
             ]
         },
