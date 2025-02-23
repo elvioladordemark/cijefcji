@@ -301,6 +301,24 @@
                     ],
                     "tmdb_id": 245927,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Celda 2112",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Durante un motín en la cárcel, un abogado de derechos humanos se hace pasar por preso para sobrevivir. El caos y las pérdidas personales revelan la oscuridad de su interior.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/q78W1MKu7JjJ38OcSDBXS0o7NeW.png",
+                    "icono": "https://image.tmdb.org/t/p/original/33NDIkBySD5qzRylVgxlkymZfLW.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hGbKdoMcNFEOIr4D5oQMhMK7Bs8.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 246025,
+                    "total_seasons": 1
                 }
             ]
         },
