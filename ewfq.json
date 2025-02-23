@@ -205,6 +205,30 @@
                     ],
                     "tmdb_id": 245927,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Envidiosa4",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Después de una ruptura muy dolorosa, Vicky, con cerca de 40 años, busca un nuevo amor. No sabe que lo que la espera es un profundo —y divertido— proceso de autodescubrimiento.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/oOKfyiIx2R4GpHgmUrA7PIQHlPO.png",
+                    "icono": "https://image.tmdb.org/t/p/original/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/eMopbs8KemUTttra1jUYsSGlyRz.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Todo sobre Vicky",
+                                    "url": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 261615,
+                    "total_seasons": 2
                 }
             ]
         },
