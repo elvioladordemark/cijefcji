@@ -1,0 +1,950 @@
+{
+    "categorias": [
+        {
+            "nombre": "RECOMENDADOS",
+            "series": [
+                {
+                    "nombre": "Los Vecinos Caóticos",
+                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+                    "iconPng": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+                    "temporadas": [],
+                    "tmdb_id": 0,
+                    "total_seasons": 0
+                },
+                {
+                    "nombre": "Casa de Risas",
+                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+                    "iconPng": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 0,
+                    "total_seasons": 0
+                },
+                {
+                    "nombre": "Envidiosa",
+                    "icono": "https://image.tmdb.org/t/p/original/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+                    "iconPng": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/eMopbs8KemUTttra1jUYsSGlyRz.jpg",
+                    "descripcion": "ella es una envidiosa",
+                    "anio": "2021",
+                    "genero": "terror",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Todo sobre Vicky",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5DEC96A294BD46F79C606566D849CA60_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Barrilete cósmico",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1B37B95823214505902AFD70E4D0493A_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Ametralladora de likes",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AD2E0C847B1F4165957B851B13B04739_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Leona pero no campeona",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/21C6B0E6ADE3485A8C86DA06F65C5269_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El juego de la vida",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EEEA20F18D4D49A0AD565DFD31825FFC_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Pizza Delivery",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7238ACFD46544528B19C740B65A8974E_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Todas se casan menos vos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4E3D9A90BCA340A4B7B78F9EE25879E4_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Rota y Roto",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8418BBA12C8C4D6581783F290C35E60A_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Historia clínica",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CB261B9875C3491ABE6A70D43592D5BA_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Un zapato feo y cómodo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/825A96F1423F4D9C91AB0A4B5F16D5B8_media.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Mujer quilombo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7FF14253CFA14A8B9781EED6CCD1F610_media.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "La sirenita",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8B5ECFE9D0E04BAD96C043272662B48C_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 261615,
+                    "total_seasons": 2
+                },
+                {
+                    "nombre": "El Pingüino",
+                    "icono": "https://image.tmdb.org/t/p/original/eif7QcjBVs45bC7y8ercAI3PjKM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qq36sU5xH581RiNEkookMQ9D7yp.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Horas extras",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/67603940948D41B49393B18525AD07C9_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Topo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D5A8EB2909B049F0A2A622CF12795B58_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Bliss",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A137773D12624AE58E514A71FBEB06D8_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Cent'anni",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/22B3FB380B584E0D97E6CD5C6A324293_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Vuelta a casa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C679B6539BBB455B99FB1D1C8FFE7EBB_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Cumbre de oro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F9CA18B7B898431EA5BA0797D9A3D6D0_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Sombrero de copa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7BC379E936CB47A59EA5F0DB4B337584_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Algo grande o nimio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BCD8D65B632545ED946F600CDF1380D2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 194764,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Paradise",
+                    "icono": "https://image.tmdb.org/t/p/original/8vuX1Crb5pH2oDIghY3d3jtwXDa.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qV2REPQ7pPlmQT7Mljkca0wi4Bx.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Wildcat ha caído",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EACFA5A53C53462AB39774892789ED70_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sinatra",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E55E4BABD90B4BE79FEFC24DF8C8049A_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La arquitecta del bienestar",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2CA0320C5EE84DBBA536CB843C387767_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Agente Billy Pace",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FC78731F819042BCBF56BBEC0D7CF191_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "En los palacios de los reyes coronados",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A8472876A4BC4035AD80CABD6EDFDD07_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Pediste un milagro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/45B9359FACF043659034DA6D0128F28E_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 245927,
+                    "total_seasons": 1
+                }
+            ]
+        },
+        {
+            "nombre": "Series Animadas",
+            "series": [
+                {
+                    "nombre": "Campeones hacia el Mundial: Oliver y Benji",
+                    "icono": "https://image.tmdb.org/t/p/original/vN3UriDKOYWSPMOeodgHOqUBUJZ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wj29buGmdKH1crhCnq6GEM6PczN.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Camino hacia un sueño",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/832DBF93614A476EAC6CB48A2361074E_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Conociendo a Roberto",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E538D6F2C9A6444AA05D19285B71B2F7_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El regreso de Tom Baker",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DA7A50747E5D47F5824AE99A46590B55_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Quemando a Mark",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F86397B5FDFC490EA6A3DD2F1553ADE9_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Ha nacido el capitán Oliver",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B8DCFD23F5B44BC79E5555D9165D6879_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Empieza el Campeonato Nacional de Fútbol",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BA4E379EB6A04AA58AE0CE90B4484F48_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "As de cristal",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C2CD968BBE644E6AA68E75CB64102ECF_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Levántate, Julian Ross",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0C0483F67F60473FA424DA0A58DD979D_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "¡Choque! Oliver contra Mark",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2917011329F94D3483CA4277AA0EAB22_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Un partido final candente",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1540018D64DE47FE9037542C083F0AD9_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 24106,
+                    "total_seasons": 1
+                }
+            ]
+        },
+        {
+            "nombre": "Series de Comedia",
+            "series": [
+                {
+                    "nombre": "Los Vecinos Caóticos",
+                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El Nuevo Inquilino",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B3C9A3E46A0941D1B8D39D1B42272648_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Fiesta Sorpresa",
+                                    "url": "http://example.com/vecinos_s1_e2.m3u8"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Nueva Mascota",
+                                    "url": "http://example.com/vecinos_s2_e1.m3u8"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Problemas de Jardín",
+                                    "url": "http://example.com/vecinos_s2_e2.m3u8"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Casa de Risas",
+                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Llegan los Primos",
+                                    "url": "http://example.com/casaderisas_s1_e1.m3u8"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Noche de Juegos",
+                                    "url": "http://example.com/casaderisas_s1_e2.m3u8"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Piedone - Uno sbirro a Napoli",
+                    "icono": "https://image.tmdb.org/t/p/original/2AmJZd2W7Sv8O6p7bA1CdQHWuuj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/sIE9fqOtxCImHPdNiP4CWHheLd1.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Appucundria",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/016251FB27034E2AA81B513CBB142018_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Scuorno",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/AB60486210C64696A2EE0E09489CFA68_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Oltre il confine",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/BC221078E982456EA26F65D0560CC9CF_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Anema e Core",
+                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/63ED93F2A0604E7495399C82C7D7BDF9_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 276021,
+                    "total_seasons": 1
+                }
+            ]
+        },
+        {
+            "nombre": "Series de Drama",
+            "series": [
+                {
+                    "nombre": "El juego del calamar",
+                    "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Luz roja, luz verde",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/016251FB27034E2AA81B513CBB142018_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Infierno",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DA114A2AFA804FF9974E9C3C454D9704_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El hombre del paraguas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/42DF541B1095497D9D88EAC096396B92_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El equipo es lo primero",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2EBDEB0E233543D8AFBAD832A2584D0E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Un mundo justo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CB2A3E2A592B4C49A352CE137DB92586_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Gganbu",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7C44D9B4036E46EC9C2BCEED722B383E_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Personas importantes",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0C0C532D94E74BF68406B6646CAAA396_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El líder",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B0161A72EA6E4586A7292BE4DC215677_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Un día con suerte",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F899020D2FAC4342AD8B11B3BBFDE592_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Pan y lotería",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0250A21A1B8347F6A0A5BDDF9FE50372_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Fiesta de Halloween",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A0CB2183FDF540B3BF88EC3CB91D938B_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "001",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0F9EB3ED1E97403DA4FA5FDB165E943B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Seis piernas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DA1445F3B967431C85B20BD7902A8666_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Otro juego",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1F1CF0572CE44AE68BB32C1AC427EA9E_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "O ﻿ X",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DD8033C72CF9457FA57D102F03DCF2D0_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Amigos o enemigos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/40396A76447D4EFBB5AA3987ECFD5B0A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 93405,
+                    "total_seasons": 3
+                },
+                {
+                    "nombre": "Celda 211",
+                    "icono": "https://image.tmdb.org/t/p/original/33NDIkBySD5qzRylVgxlkymZfLW.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/eBiH81PFlPoIX9py6naWH7kseN6.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Canbio de planes",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/93D2A8D01E74455983C56E39CF3B722B_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Condiciones más humanas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/93D34B86511644059CA000882B275CA8_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Falso Judas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D2FACF75181E4887BBDCF29291D32D7A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Uno de los nuestros",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EC295B47A14041C19490B361BE2B71C3_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Desechos humanos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/89E17619A6044B9089D6F2802AB141EC_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Rey muerto, príncipe coronado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BA059470703D4A2D94AAC2E231A97E83_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 246025,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Channel Zero",
+                    "icono": "https://image.tmdb.org/t/p/original/oCutmhFznao1Pzy6wM1C32kxAEu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/iXxiiIuK5KGcleWRq5bTXXoYK11.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Tú tienes que ir dentro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6A096B04C730449EA2A83812FC29B2ED_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Yo te cogeré de la mano",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F0C840C4F69F456994163F84D1469328_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¿Quieres ver algo guay?",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9069739CA88B4384B84FF2A05C92CC05_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un buque extraño",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/05E1110206F746D69537EA133EFEBCB5_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Invitado de honor",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/581D4D3D32E14C71A0CD8BFA242F1A10_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Bienvenido a casa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3B4F83A23EA243B39B759B0DA03EE594_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 67752,
+                    "total_seasons": 4
+                },
+                {
+                    "nombre": "El problema de los 3 cuerpos",
+                    "icono": "https://image.tmdb.org/t/p/original/6Dc9mMl083cVpNknWzALCw7JYPH.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kSh5AfkJ38UqjbUvFrPQlvKNU0v.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Cuenta atrás",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/75D1FF2AB8824AA9A391DE79700AEAE7_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Costa Roja",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5B862E2769B74CAEBC26BB505B899C77_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Destructor de mundos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7C7483AE572640A3B3EAB13F60EB16D0_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Nuestro Señor",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/301FC6AA5D1C4A668CCAE05ACF3C1D35_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Juicio Final",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/633B1EFDF2B34BCF83F40D034224076B_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Las estrellas, nuestro destino",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A988BA2C83984550974D29BB413931B8_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Avanzar a toda costa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E94DA7BC58F347EE994B3191BBFDC6A7_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Vallado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E63BC9290C65428B88E6F499074FD1C3_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 108545,
+                    "total_seasons": 1
+                }
+            ]
+        },
+        {
+            "nombre": "Series de Acción",
+            "series": [
+                {
+                    "nombre": "Los Caballeros: La serie",
+                    "icono": "https://image.tmdb.org/t/p/original/97ayMQKdIWqFaWs6ceiSQlVaTDb.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/PqIW7PA74YBURz5slZkxc0K5Pl.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Refinamiento con agresión",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/02849DDDAC9D41F1B61B7CA027C97AE6_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Han llamado a Tommy Supercherías",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D657C781D5EC42CD92421D7A43909F62_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¿Dónde está mi hierba?",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D2C36C9760F04E03B20777B4FE850FB4_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un caballero desagradable",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B9112FEAF76641748C31596F1C32C259_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Tengo cientos de primos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4544F2DE09734E1395F31B6BF54571F4_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Cualquier eventualidad",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9F7B9849B435489EB660F76D4F422E86_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "No sin peligro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9F7B9849B435489EB660F76D4F422E86_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El Evangelio según Bobby Glass",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/947A1E1E2DE94A2DA2482F275C9F4DCB_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 236235,
+                    "total_seasons": 2
+                },
+                {
+                    "nombre": "El señor de los anillos: Los anillos de poder",
+                    "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ukewRnKD05Si7DkED2tSKBTXeEd.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Una sombra del pasado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3536260780834C98942CDA0697A43CE6_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "A la deriva",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CA04193E76C8495DACAE4C6E84B4B29F_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Adar",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/86EC7F5EA9634F949A794ACBDBEF95E6_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La gran ola",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3E12CD441DF24C4BA850467FC6495FB4_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Separaciones",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E7440016E8EC41A0820EE045F3DE84E6_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Udûn",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/95FE17826E3B4019B500B58209C500AD_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El ojo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D22AE247A94C4EDFB4A4BBC074732FBC_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Aliados",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D4321248FF71499A82EC15D993511400_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Los reyes elfos bajo el cielo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CF921C0F401C478DACE7ABC2A59224C3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Donde las estrellas son extrañas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/239CAA9B64B2435FB267F7E744730676_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El águila y el cetro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F194C60A173E41B3AE3F53D5CCFBE0EF_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Antiguo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F1406FDB70144F28A54256B994C28571_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Palacios de piedra",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9EF762F0FB664540AA6C04ADFCA42224_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "¿Dónde está él?",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CA45DA0E6F6D416483BE8118555FB454_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Condenados a morir",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CE7C8AB81CC94F8280D8AE6B67E6A5A1_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Sombra y llama",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2F7B988C99FB4B039BE8BD46803C227C_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 84773,
+                    "total_seasons": 2
+                },
+                {
+                    "nombre": "The Last of Us",
+                    "icono": "https://image.tmdb.org/t/p/original/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Cuando te pierdas en la oscuridad",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/23531088BDD8490FA0B9884EF7FEB661_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Infectado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A21C77757BD04A7685EB12C9F62A4DA0_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Mucho mucho tiempo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3600E22479A74218AF145CEDB59BC8A7_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Por favor, no me sueltes la mano",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4EC45E7E9F5047288202D2472A87F0CA_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Resistir y sobrevivir",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F6F62D42112A4B45B9B0D49AD5FA916A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Familia",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/70C142DF8F60423EBEBB91D1E04A985F_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Lo que dejamos atrás",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CF5D53467183481C9986927FB4566BBF_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "En nuestras horas más bajas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/21B6638A031B4B55B1F07716FF6792E0_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Busca la luz",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2FD7A064E667431BB0F6B1EE463A4E1A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 100088,
+                    "total_seasons": 2
+                }
+            ]
+        },
+        {
+            "nombre": "Series de Suspenso",
+            "series": [
+                {
+                    "nombre": "El Enigma",
+                    "icono": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+                    "logoHorizontal": "https://hips.hearstapps.com/hmg-prod/images/stranger-things-quimica-1534262384.jpg?resize=980:*",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La Nota Misteriosa",
+                                    "url": "http://example.com/enigma_s1_e1.m3u8"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sospechas en la Noche",
+                                    "url": "http://example.com/enigma_s1_e2.m3u8"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Siguiendo la Huella",
+                                    "url": "http://example.com/enigma_s2_e1.m3u8"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Doble Juego",
+                                    "url": "http://example.com/enigma_s2_e2.m3u8"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Stranger Things",
+                    "icono": "https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La desaparición de Will Byers",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AECCED597E3A4A5496311BCE72E37646_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La chica rara de la calle Maple",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/51AAEB7F1D8D41ADB8D3FC64A4457A66_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Todo está bien",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7B9EFF80EC334E60A1FBB96671BC2A5B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El cadáver",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1FC8DCB831A049768702ABF4EB9D55F2_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La pulga y el acróbata",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9323CE21B759441C80A11172629E191E_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El monstruo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E60806B9D0E1434FB5941B71AB8C4DB9_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La bañera",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/571BC44B618C4C6CADF7348BC72F9F72_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El otro lado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4FAD871C288243EC8A7BD7158AEEB252_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 0,
+                    "total_seasons": 0
+                }
+            ]
+        }
+    ]
+}
