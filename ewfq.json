@@ -355,6 +355,24 @@
                     ],
                     "tmdb_id": 108545,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Stranger Things3",
+                    "genero": "Drama, Sci-Fi & Fantasy, Misterio",
+                    "descripcion": "A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
+                    "anio": "2016",
+                    "iconPng": "https://image.tmdb.org/t/p/original/uyVM5qGksUzCgwo6UU0UrHex8Oj.png",
+                    "icono": "https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 66732,
+                    "total_seasons": 5
                 }
             ]
         },
