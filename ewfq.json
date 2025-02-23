@@ -337,6 +337,24 @@
                     ],
                     "tmdb_id": 67752,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "El problema de los 3 cuerpos43",
+                    "genero": "Sci-Fi & Fantasy, Misterio, Drama",
+                    "descripcion": "Una decisión tomada en China en los años 60 trasciende el tiempo y el espacio, obligando a unos científicos a afrontar la peor amenaza para la humanidad en el presente.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/8qVlsEzmZcw7TsSOKy9r9Kt9reS.png",
+                    "icono": "https://image.tmdb.org/t/p/original/6Dc9mMl083cVpNknWzALCw7JYPH.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kSh5AfkJ38UqjbUvFrPQlvKNU0v.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 108545,
+                    "total_seasons": 1
                 }
             ]
         },
