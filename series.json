@@ -703,6 +703,115 @@
                     ],
                     "tmdb_id": 108545,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "The Good Doctor",
+                    "genero": "Drama",
+                    "descripcion": "Un cirujano joven y autista que padece el síndrome del sabio empieza a trabajar en un hospital prestigioso. Allá tendrá que vencer el escepticismo con el que sus colegas lo reciben.",
+                    "anio": "2017",
+                    "iconPng": "https://image.tmdb.org/t/p/original/sOubuf2WYnAiK09TNoV1e4QDAWI.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Comida quemada",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/727F1B7832734ACE9789B86848E50143_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Monte Rushmore",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/945FF5EA05554FE6B0283E1ADA4F1205_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Oliver",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7DA4397F38714068AFE1520ADC06BD21_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Tuberías",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8001AB18CD4046C7A7AD5742DE30C7EE_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Uno coma tres por ciento",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C51B4977457947AA954AEB989D25E472_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "De mentira no",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/953E81271C314487B269ADA3E6610190_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "22 pasos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/85C44F19C5DF4C5E8CEA70A51BEE7C73_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Manzana",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0BB2221D9E7341F3BA020F8FEEFDF552_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Intangibles",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/394D397241B94AED97FC931CB427AEA1_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Sacrificio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5DF3203579414CC8AEB8513D32EF0F9A_media.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Islas: Primera parte",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/041CC373DF584DEBB7DE118FEEEA1078_media.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Islas: Segunda parte",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D75B9CCBF3664E8A8E8E6BC51581FF73_media.mp4"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Siete razones",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/79DD3014548E4304AE11BC67E86279C2_media.mp4"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Ella",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/99F4EEA2748C4F6DBB2089E46010D618_media.mp4"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "De corazón",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C1285AD29C0A4E20B0C1E87718AF9042_media.mp4"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Dolor",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/10491A4E0F924BBBAAA36A5AD1538F92_media.mp4"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Sonrisa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AB756436AED043AC99EBBABFD477CA2E_media.mp4"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Más",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/64EB4C4D45A843ABB11EC6810D25195B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 71712,
+                    "total_seasons": 7
                 }
             ]
         },
