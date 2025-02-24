@@ -1083,6 +1083,60 @@
                     ],
                     "tmdb_id": 71712,
                     "total_seasons": 7
+                },
+                {
+                    "nombre": "Breaking Bad",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Tras cumplir 50 años, Walter White (Bryan Cranston), un profesor de química de un instituto de Albuquerque, Nuevo México, se entera de que tiene un cáncer de pulmón incurable. Casado con Skyler (Anna Gunn) y con un hijo discapacitado (RJ Mitte), la brutal noticia lo impulsa a dar un drástico cambio a su vida: decide, con la ayuda de un antiguo alumno (Aaron Paul), fabricar anfetaminas y ponerlas a la venta. Lo que pretende es liberar a su familia de problemas económicos cuando se produzca el fatal desenlace.",
+                    "anio": "2008",
+                    "iconPng": "https://image.tmdb.org/t/p/original/2X12PBtaP7uwNHqAklTbaND2Jot.png",
+                    "icono": "https://image.tmdb.org/t/p/original/12dmrFfEjthR3pqUi07D7ShU67x.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/586A9BC0E98747D19FB23A7FD023593D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El gato está en la bolsa...",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/372416FDF6E64A14B199D85EB3668D92_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "...Y la bolsa está en el río",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/619CCA2A2BE84B9A8DA6833A3D3EDF21_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Hombre del cáncer",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1713DE91CD8540D995381D6405CFC5BA_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Materia gris",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/51799DB31B4F4D9E9809C2C7FA58DC73_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Nada como un puñado de locura",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7188DC958A504C969108C62085081438_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Un trato de no violencia",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FAF2C43D923C47B6917F831DD6D63BBD_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 1396,
+                    "total_seasons": 5
                 }
             ]
         },
