@@ -1045,6 +1045,65 @@
                     ],
                     "tmdb_id": 100088,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "The Boys",
+                    "genero": "Sci-Fi & Fantasy, Action & Adventure",
+                    "descripcion": "La serie tiene lugar en un mundo en el que los superhéroes representan el lado oscuro de la celebridad y la fama. Un grupo de vigilantes que se hacen llamar \"The Boys\" decide hacer todo lo posible por frenar a los superhéroes que están perjudicando a la sociedad, independientemente de los riesgos que ello conlleva.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/xawDgfkBQaocXR9CljBMjkYpXNK.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5kgY14oisiHcJ4zq0Xgq1e97PHm.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Las reglas del juego",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B8A830E5BD714B9DA18E95859C3675F7_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Cherry",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2917D2D368C848BABBDE011549A9299D_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Moja (El Compuesto V)",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7A0D04D0309245F1AA24E53DF0AA4D24_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La hembra de la especie",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9B60AA08C0DF4EF6BA50CA93C211B8D6_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Bueno para el alma",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2F0C2B6CE06F4B23B6847907640E4547_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Los inocentes",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8118E7C2F0B34F93893C1A43109DC245_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La sociedad de la autopreservación",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8AD07468718C4A79B9AE260AC22E7CCA_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Me has encontrado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/080C67762012452D86460E0720BB3085_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 76479,
+                    "total_seasons": 5
                 }
             ]
         },
