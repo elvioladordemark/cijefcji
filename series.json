@@ -510,6 +510,65 @@
                     ],
                     "tmdb_id": 128306,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Sex Education",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Como el tímido Otis tiene todas las respuestas para dudas sobre sexo porque su madre es sexóloga, su compañera Maeve le propone montar una consulta en el instituto.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/mN6B2kjX7XzIUvzfJXwgtNSWVUw.png",
+                    "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/u23G9KZregWHs1use6ir1fX27gl.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2E13571AD03C478CAF0BDEEB2E0B451F_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DFA539387A0746098AD2623AC935DD68_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B969477902B54DF1BDB8F7D948968D95_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AB28CEA8240E4CD0AFB62E6801D2A1CC_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/55273D790F904019A0BF2D990E9E761A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3D94F0B12BD941BEBE8759E3C1E773B7_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EC2DD112E78C43688008DDB0E7043B8B_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0675FF6AB69E4D289C33DC6030F3A36C_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 81356,
+                    "total_seasons": 4
                 }
             ]
         },
