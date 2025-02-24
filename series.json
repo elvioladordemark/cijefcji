@@ -1104,6 +1104,75 @@
                     ],
                     "tmdb_id": 76479,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "Juego de tronos",
+                    "genero": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+                    "descripcion": "En una tierra donde los veranos duran décadas y los inviernos pueden durar toda una vida, los problemas acechan. Desde las maquinaciones del sur a las salvajes tierras del este, pasando por el helado norte y el milenario muro que protege el reino de las fuerzas tenebrosas, dos poderosas familias mantienen un enfrentamiento letal por gobernar los Siete Reinos de Poniente. Mientras la traición, la lujuria y las fuerzas sobrenaturales sacuden los pilares de los reinos, la sangrienta batalla por el trono de Hierro tendrá consecuencias imprevistas y trascendentales. El invierno se acerca. Que empiece 'Juego de tronos'.",
+                    "anio": "2011",
+                    "iconPng": "https://image.tmdb.org/t/p/original/nLnrwCfkgRtKxFUHnaXJOFrrXLy.png",
+                    "icono": "https://image.tmdb.org/t/p/original/z9gCSwIObDOD2BEtmUwfasar3xs.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Se acerca el invierno",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/23AF77ED91C847AB83A6BD3C2C51EEB5_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El camino real",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/26CA48B858F54F3BA1BAD8F005A38156_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Lord Nieve",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6BD44696646B431BA525B64AD033DBD0_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Tullidos, bastardos y cosas rotas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6BB815C0ADF04B60AE0F54847AE9C279_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El lobo y el león",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/157A29D57DAA476CABFA831E96C6F1F0_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Una corona de oro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A46ECE59F0AF4A48891BBBFBE4942C82_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Ganas o mueres",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2C7E99DA292A478E82F5F23702163B44_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Por el lado de la punta",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/64505DB6371A42E5BD923832B30C13A2_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Baelor",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CE9ECBCA7B614B46906F7A0DA007B828_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Fuego y sangre",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/31A405D38BD441AAA7EADB3590D01133_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 1399,
+                    "total_seasons": 8
                 }
             ]
         },
