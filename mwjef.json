@@ -1,20 +1,14 @@
 [
     {
-    "name": "⚽SE HABILITA HORA DE EVENTOS",
+    "name": "⚽PREMIER LEAGUE",
     "samples": [
        
     {
-        "name": "OPCIÓN 1 (RECOMENDADO)",
-        "url": "https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },
-    {
-        "name": "OPCION 2",
-        "url": "https://streamtp3.com/global1.php?stream=eventos9",
+        "name": "BRIGHTON VS BOURNEMOUTH",
+        "url": "https://streamtp3.com/global1.php?stream=disney4",
         "type": "WEBVIEW",
-             "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+        "icono": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1919,h_1079,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/90min_en_international_web/01jmw9hfxg7bbcezgjds.jpg"
     }
    
     ]
