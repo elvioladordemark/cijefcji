@@ -633,7 +633,19 @@
         "url": "https://streamtp3.com/global1.php?stream=dsports",
         "type": "WEBVIEW",
              "icono": "https://i.postimg.cc/jjWWdTvp/directv-sports-logo-6-F86-DBD521-seeklogo-com.png"
-           }
+           },
+        {
+        "name": "DIRECTV SPORTS 2",
+        "url": "https://streamtp3.com/global1.php?stream=dsports2",
+        "type": "WEBVIEW",
+             "icono": "https://i.postimg.cc/jjWWdTvp/directv-sports-logo-6-F86-DBD521-seeklogo-com.png"
+        },
+       {
+        "name": "DIRECTV SPORTS PLUS",
+        "url": "https://streamtp3.com/global1.php?stream=dsportsplus",
+        "type": "WEBVIEW",
+             "icono": "https://i.postimg.cc/jjWWdTvp/directv-sports-logo-6-F86-DBD521-seeklogo-com.png"
+           } 
 ]
 },
    {
