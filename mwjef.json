@@ -350,7 +350,7 @@
     },
     {
         "name": "ESPN 2 🇦🇷 OPCION 2",
-        "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN2.stream/playlist.m3u8",
+        "url": "http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN2.stream/playlist.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
         "icono": "https://i.ibb.co/GTx4Bhw/espn2-1-1.jpg"
@@ -378,7 +378,7 @@
     },
     {
         "name": "ESPN 3 🇦🇷 OPCION 2",
-        "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN3.stream/playlist.m3u8",
+        "url": "http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN3.stream/playlist.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pmsn36mgpxkgzgul0z0t/espn3.json?rlkey=vviwugbaa85er0cnpd1tzuw24&st=kbezymwy&dl=0",
         "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png"
@@ -392,7 +392,7 @@
     },
     {
         "name": "ESPN 4 🇦🇷 OPCION 2",
-        "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN4.stream/playlist.m3u8",
+        "url": "http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN4.stream/playlist.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3sh7b04gzfmu7ivkj651x/espn4.json?rlkey=mxjzhate18x9ie317u2phv6dn&st=mfe42eya&dl=0",
         "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png"
