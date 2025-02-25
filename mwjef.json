@@ -693,7 +693,7 @@
   
     {
         "name": "UNIVERSAL CHANNEL",
-        "url": "http://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_C/Universal_Channel_HD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/tg3zfnztkc0yu2k74smpe/universal.json?rlkey=8l2azm48jv1gxqgcp401o6o9e&st=r3e97znf&dl=0",
         "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
