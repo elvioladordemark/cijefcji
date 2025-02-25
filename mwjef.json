@@ -708,7 +708,7 @@
    
     {
         "name": "TCM",
-        "url": "http://flow-live-cirion.dlt.qwilted-cds.cqloud.com/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd",
+        "url": "https://qn-01318-co008-1-01-2---7339-5tuc.http.global.dns.qwilted-cds.cqloud.com/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/e4lmnu0git8a93nut6y82/tcm.json?rlkey=77o513oumk744low0i09ki7ly&st=tsa98pzf&dl=0",
         "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png"
@@ -718,8 +718,8 @@
         "Accept-Encoding": "gzip, deflate, br, zstd",
         "Accept-Language": "es-ES,es;q=0.9",
         "Connection": "keep-alive",
-        "Host": "flow-live-cirion.dlt.qwilted-cds.cqloud.com",
-        "Origin": "https://portal.app.flow.com.ar",
+        
+        
         "Referer": "https://portal.app.flow.com.ar/",
         "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Chromium\";v=\"133\", \"Google Chrome\";v=\"133\"",
         "Sec-Ch-Ua-Mobile": "?0",
