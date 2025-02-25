@@ -1,6 +1,6 @@
 [
     {
-    "name": "⚽SUPERCLASICO CERRO VS OLIMPIA",
+    "name": "⚽SE HABILITA HORA DE EVENTOS",
     "samples": [
        
     {
@@ -370,7 +370,7 @@
     },
     {
         "name": "ESPN OPCIÓN 2 🇦🇷",
-        "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ESPN.stream/playlist.m3u8",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ESPN.stream/playlist.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e2701194a551d30b35a7d493937e50f1&key=382ff0152278d8ba946d4fd82a09b212",
         "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
