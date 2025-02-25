@@ -398,7 +398,7 @@
     {
         "name": "ESPN 3",
         "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
-        "type": "CLEARKEY",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pmsn36mgpxkgzgul0z0t/espn3.json?rlkey=vviwugbaa85er0cnpd1tzuw24&st=kbezymwy&dl=0",
         "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png"
     },
@@ -419,7 +419,7 @@
     {
         "name": "ESPN 4 🇦🇷 OPCION 2",
         "url": "https://streamtp3.com/global1.php?stream=espn4",
-        "type": "CLEARKEY",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3sh7b04gzfmu7ivkj651x/espn4.json?rlkey=mxjzhate18x9ie317u2phv6dn&st=mfe42eya&dl=0",
         "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png"
     },
