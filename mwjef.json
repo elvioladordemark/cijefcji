@@ -2,7 +2,13 @@
     {
     "name": "⚽EVENTOS DEPORTIVOS",
     "samples": [
-       
+        {
+        "name": "BARCELONA VS ATLÉTICO",
+        "url": "https://jf4.naqsheala.com:999/hls/wsmkmlfeed61.m3u8?md5=x44pnqLsuK11fOMi5EYIXQ&expires=1740524320",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kcqa7s4wswuvik8a6d8ja/tigo8.json?rlkey=fcmibx8c969m5kh9p2jrep3tg&st=6l89pt5k&dl=0",
+        "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
+        },   
     {
         "name": "BRIGHTON VS BOURNEMOUTH",
         "url": "https://streamtp3.com/global1.php?stream=peacock2",
