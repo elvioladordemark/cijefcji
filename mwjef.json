@@ -1844,17 +1844,27 @@
        },
 {
   "name": "TYC SPORT (PLAY 7)",
-  "url": "http://magmaplayer.com/stream/hls/635.m3u8",
+  "url": "https://www.cablevisionhd.com/universal-channel-en-vivo.html",
   "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-  "type": "HLS",
-  "headers": {
-    "X-Hash": "0454lha7YEb83-P7vmJtASNXgdua0YLOdvszl1a8Iv8HBBEegsk9UnYkYya_yLhfuxH6DZemllLBcirafffZddBG_HXy2JE1IUF2ymnqISMqNqNNz_sb1ny0WeGrb313y8p4hFvO6DG7Mw87Dmm1tkVY4m1cdFObLarHYzH1oXhOWMmyCwYZuzbFV8eZ6vWZzqrYErtji0xxFJ7BnYGVmQ",
-    "X-Did": "cddfe5e8c019cb3c",
-    "X-Version": "8/1.0.7",
-    "User-Agent": "Magma Player/8",
-    "Accept-Encoding": "gzip",
-    "Host": "magmaplayer.com",
-    "Connection": "Keep-Alive"
+  "type": "WEBVIEW",
+ 
+  "headersM3u8": {
+    "Host": "live.sdfgnksbounce.com:8080",
+    "Connection": "keep-alive",
+    "sec-ch-ua-platform": "Windows",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+    "sec-ch-ua": "Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"",
+    "sec-ch-ua-mobile": "?0",
+    "Accept": "*/*",
+    "Origin": "https://live.sdfgnksbounce.com",
+    "Sec-Fetch-Site": "same-site",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Referer": "https://live.sdfgnksbounce.com/",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Accept-Language": "es-ES,es;q=0.9",
+    "If-None-Match": "\"67bd4293-118\"",
+    "If-Modified-Since": "Tue, 25 Feb 2025 04:09:55 GMT"
   }
 },
       {
