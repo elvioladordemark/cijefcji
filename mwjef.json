@@ -2000,28 +2000,25 @@
        },
 {
   "name": "TYC SPORT (PLAY 7)",
-  "url": "https://www.cablevisionhd.com/universal-channel-en-vivo.html",
+  "url": "https://vkvsd14.okcdn.ru/dash/stream_7819804412603/stream.manifest/sig/lQbhZ1BT2d8/srcIp/181.91.84.44/urls/45.136.21.87/expires/1741001882099/clientType/13/srcAg/CHROME/fromCache/1/mid/8943458462651/id/7819804412603/frag-high-1385544.dash",
   "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-  "type": "WEBVIEW",
+  "type": "HLS",
  
-  "headersM3u8": {
-    "Host": "live.sdfgnksbounce.com:8080",
-    "Connection": "keep-alive",
-    "sec-ch-ua-platform": "Windows",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-    "sec-ch-ua": "Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"",
-    "sec-ch-ua-mobile": "?0",
-    "Accept": "*/*",
-    "Origin": "https://live.sdfgnksbounce.com",
-    "Sec-Fetch-Site": "same-site",
-    "Sec-Fetch-Mode": "cors",
-    "Sec-Fetch-Dest": "empty",
-    "Referer": "https://live.sdfgnksbounce.com/",
-    "Accept-Encoding": "gzip, deflate, br, zstd",
-    "Accept-Language": "es-ES,es;q=0.9",
-    "If-None-Match": "\"67bd4293-118\"",
-    "If-Modified-Since": "Tue, 25 Feb 2025 04:09:55 GMT"
-  }
+"headers": {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+  "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "Accept": "*/*",
+  "Origin": "https://vkvideo.ru",
+  "Sec-Fetch-Site": "cross-site",
+  "Sec-Fetch-Mode": "cors",
+  "Sec-Fetch-Dest": "empty",
+  "Referer": "https://vkvideo.ru/",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "es-ES,es;q=0.9"
+}
+
 },
       {
         "name": "TNT SPORT HD",
