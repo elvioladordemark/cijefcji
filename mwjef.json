@@ -1336,8 +1336,24 @@
         "url": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pp0316dn5w6kgdzk25jl/hbo1.json?rlkey=zm0ucfozhh5ywnvkukhhuzf77&st=27jzsgmu&dl=0",
-        "icono": "https://i.ibb.co/zfmjcgb/HBO.png"
-    },
+        "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "es-US,es;q=0.,en-US;q=0.8,en;q=0.7,es-419;q=0.6",
+        "Connection": "keep-alive",
+        "Host": "cdn.cvattv.com.ar",
+        "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": "\"Windows\"",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "cross-site",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+    }
+},
     {
         "name": "HBO OP. 2",
         "url": "http://181.209.95.29:8000/play/a06o/index.m3u8",
