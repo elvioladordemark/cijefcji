@@ -100,7 +100,7 @@
     },
     {
         "name": "PY | SNT 🇵🇾",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/nxn9adh2409ceum2vmhkx/snt.json?rlkey=t12dj6hptaqjneyq8clqcmymz&st=9mz7elpt&dl=0",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
@@ -119,7 +119,7 @@
     },
     {
         "name": "TELEFUTURO FLOW HD",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_wl/TELEFUTURO_C4.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_wl/TELEFUTURO_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
@@ -188,7 +188,7 @@
     },
     {
         "name": "UNICANAL",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/gufaliqatmwnfv3g7aeg1/unicanal.json?rlkey=5gsk99k8zpinbk8cc6r8hbj9t&st=4tfniuuj&dl=0",
         "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
@@ -207,7 +207,7 @@
     },
     {
         "name": "PARAGUAY TV FLOW",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/dpbz4pdke63tt2s8z6isb/paraguaytv.json?rlkey=65dbkyp3z9fdx76bqmc3ldlmk&st=csm3pk5x&dl=0",
         "icono": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg"
@@ -274,7 +274,7 @@
     },
     {
         "name": "UNIVERSO TV Opc. 2",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
         "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png"
@@ -291,14 +291,14 @@
     },
     {
         "name": "CANALPRO PY",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3ea2rcaxm4c73e1i4er7p/canalpro.json?rlkey=i4w63twvt8w66a1mx1fs4myr4&st=kie9io96&dl=0",
         "icono": "https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg"
     },
     {
         "name": "5 DIAS PY",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/s1b3862a8q8g2dp0t68lo/5dias.json?rlkey=jrma046phplkzdkkmmeymedmg&st=ffl1bilx&dl=0",
         "icono": "https://i.ibb.co/Pg6v5zn/images.png"
@@ -315,7 +315,7 @@
     },
     {
         "name": "NOTICIAS_PY 🇵🇾",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/ykf2erabrhqyh1hapbif2/npy.json?rlkey=as5ymuykbbwokye8tu5l7953c&st=7eqhtbim&dl=0",
         "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png"
@@ -390,7 +390,7 @@
     "samples": [
    {
         "name": "ESPN",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
         "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
@@ -424,7 +424,7 @@
 
     {
         "name": "ESPN 2 SUDAMERICA",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_enc/ESPN_PY.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_enc/ESPN_PY.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4cbc5f5cbac72d38371bb63309e4a9d2&key=dbc8de27da9726cd2e7659abb08e86ef",
         "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
@@ -451,7 +451,7 @@
 
     {
         "name": "ESPN 3",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pmsn36mgpxkgzgul0z0t/espn3.json?rlkey=vviwugbaa85er0cnpd1tzuw24&st=kbezymwy&dl=0",
         "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png"
@@ -483,7 +483,7 @@
     },
     {
         "name": "ESPN 4",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3sh7b04gzfmu7ivkj651x/espn4.json?rlkey=mxjzhate18x9ie317u2phv6dn&st=mfe42eya&dl=0",
         "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png"
@@ -517,7 +517,7 @@
  
     {
         "name": "ESPN 5",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/t7ega0hz7u3js2191tik5/espn5.json?rlkey=dwasaai3kbsaw0oacj9d2o0k0&st=30ufbl3a&dl=0",
         "icono": "https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png"
@@ -544,7 +544,7 @@
  
     {
         "name": "ESPN 6",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/bkvm5yb33tu5tun5loxyb/espn6.json?rlkey=1gve9snrc4w3rswypx9vkbhmr&st=4yyfkgfd&dl=0",
         "icono": "https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png"
@@ -577,7 +577,7 @@
     },
     {
         "name": "ESPN 7",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/18mgscd6hfjucorty09e3/espn6.json?rlkey=82ogpotgsmxryc9dik5n8s8bc&st=m240mw77&dl=0",
         "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png"
@@ -591,7 +591,7 @@
     },
     {
         "name": "ESPN PREMIUM",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/96rqr70ljuva1eift5325/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0",
         "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png"
@@ -611,7 +611,7 @@
     "samples": [
 {
         "name": "FOX SPORTS 1",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
         "icono": "https://i.ibb.co/58JrpZF/Dise-o-sin-t-tulo-6.png"
@@ -637,7 +637,7 @@
     
     {
         "name": "FOX SPORTS 2 ",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3fk7uzio88s2d8hgurkbj/fs2.json?rlkey=nyzsw6qww8mmz37fdqrypuux6&st=40wv12zy&dl=0",
         "icono": "https://i.ibb.co/F0rVv0n/Dise-o-sin-t-tulo-7.png"
@@ -664,7 +664,7 @@
   
     {
         "name": "FOX SPORTS 3",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/o0zushg5453uh4b9r635r/fs3.json?rlkey=qwgcihse336smjp019d558ess&st=cnzrk3fc&dl=0",
         "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png"
@@ -765,7 +765,7 @@
     },
     {
         "name": "TNT SPORT HD",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
         "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
@@ -867,7 +867,7 @@
    
     {
         "name": "TCM",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/e4lmnu0git8a93nut6y82/tcm.json?rlkey=77o513oumk744low0i09ki7ly&st=tsa98pzf&dl=0",
         "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png"
@@ -893,7 +893,7 @@
     
     {
         "name": "STUDIO UNIVERSAL",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/vaags2sms02ehi6veyijo/studio.json?rlkey=q33llpgieu83rrph1uh0hoqzr&st=l704gomk&dl=0",
         "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg"
@@ -918,7 +918,7 @@
     
     {
         "name": "CINECANAL",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_C/CinecanalHD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_C/CinecanalHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/bogtd0zldfnw6ox7wedh4/cinecanal.json?rlkey=5cqicqe62p2j6scpkfe904j1p&st=8zghkreg&dl=0",
         "icono": "https://i.ibb.co/cvghCHq/cinecanal.png"
@@ -968,7 +968,7 @@
    
     {
         "name": "TNT SERIES",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_C/TNTSeries.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_C/TNTSeries.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/uljocnrcm6hcd2goes8di/tntseries.json?rlkey=z2g7zdg66acsc25z2jgi2fdkh&st=o4ygihqz&dl=0",
         "icono": "https://i.ibb.co/pJGxSPx/unnamed.png"
@@ -993,7 +993,7 @@
    
     {
         "name": "TNT NOVELAS",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/jimuxpgh3xrrl2ds3kukb/tntnovelas.json?rlkey=i3jkgql4vndw72l55r8fzcwpv&st=rp4ftf0m&dl=0",
         "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png",
@@ -1018,7 +1018,7 @@
    
     {
         "name": "CINEMAX",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/gza8rlmfiar71jxxy9uvf/cinemax.json?rlkey=xxlj0h0agj5up375fzqhfi7un&st=uvuykku0&dl=0",
         "icono": "https://i.ibb.co/dmgX2Ww/Cinemax-LA.png"
@@ -1043,7 +1043,7 @@
   
     {
         "name": "FX HD",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywe5hxd5zwa81ecnk2inw/fx.json?rlkey=p1sr3mjvdxjslzh4sirsbxhlg&st=a9zlu9jf&dl=0",
         "icono": "https://i.ibb.co/5LvDcdV/587595.png"
@@ -1093,7 +1093,7 @@
     
     {
         "name": "STAR CHANNEL",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/vkno7tzenuiuubs0lwh3d/starchannel.json?rlkey=po1pr47pohyql2ntjdforl6rl&st=m2le4iqd&dl=0",
         "icono": "https://i.ibb.co/McNjFxY/bb50999fb2860f8760ef4b22ef8bf09e.jpg"
@@ -1118,7 +1118,7 @@
     
     {
         "name": "SONY CHANNEL",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/5dgz5k6x5iat3bltu0shj/sonnychannel.json?rlkey=dnfxmhzkjoi13wud9a2cppocs&st=qqjq6pwh&dl=0",
         "icono": "https://i.ibb.co/jzDc2Vs/6065f6e153054c65152bddd6-sony.png"
@@ -1143,7 +1143,7 @@
    
     {
         "name": "AXN",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/at6y20q6gjy47ufxbewtx/axn.json?rlkey=nimgylj6o4j7m0w0uyu0kb1lk&st=fqyxzvwe&dl=0",
         "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg"
@@ -1168,7 +1168,7 @@
     
     {
         "name": "A&E",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/yvk347z7u6ekjf2xtdel8/a-e.json?rlkey=piyq55mtwo277mj1zwg2h01my&st=4f4aca3g&dl=0",
         "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg"
@@ -1193,7 +1193,7 @@
     
     {
         "name": "TBS",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/v049nl6gp8njp14s61xqz/tbs.json?rlkey=q9seofkzal1jd7b7oy6nomucl&st=r1p7tmam&dl=0",
         "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg",
@@ -1217,7 +1217,7 @@
   
     {
         "name": "AMC",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/npcid0pbjpevoxfd3fi8x/amc.json?rlkey=j0k1yy7pkrtapyxogubb382m3&st=yv8ytmik&dl=0",
         "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",
@@ -1241,7 +1241,7 @@
    
     {
         "name": "A3SERIES",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/1gk6xdi60k8shlgbx0ftd/a3series.json?rlkey=od64ljs497lokd58j8zco85vr&st=2y3usl7a&dl=0",
         "icono": "https://i.ibb.co/L6NV6Dy/720x540.jpg",
@@ -1265,7 +1265,7 @@
   
     {
         "name": "COMEDY CENTRAL",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/irhh1a1oy37nfcwsm1k7h/comedycentral.json?rlkey=wlzk2xufg0qyjpa17vsf8zvbz&st=vije1mgx&dl=0",
         "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png",
@@ -1289,7 +1289,7 @@
    
     {
         "name": "PARAMOUNT",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/flrhpsx2oimr1pc5dxuim/paramount.json?rlkey=sccigkhv0249hv6hd92iif61v&st=ia56xqs3&dl=0",
         "icono": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg",
@@ -1313,7 +1313,7 @@
 
     {
         "name": "A3CINE",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/iwbu357pfxs70456893yp/a3cine.json?rlkey=uaw5lszzfmtu5iwj39b8l9mky&st=2abtc02e&dl=0",
         "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg",
@@ -1347,7 +1347,7 @@
     },
     {
         "name": "HBO 2 FLOW",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/8qz7g0yfn1qim2vr2358b/hbo2.json?rlkey=wmxlc9q1ion3s3uleyo913ns1&st=4f36f0ou&dl=0",
         "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg"
@@ -1378,7 +1378,7 @@
     },
     {
         "name": "HBO XTREME",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/4d1rl72v4repqt3pymuxv/hboextreme.json?rlkey=pfvr66em9njnmdd7wd1qz4ahp&st=iffldnx6&dl=0",
         "icono": "https://i.ibb.co/xG6HY4G/30.jpg"
@@ -1409,7 +1409,7 @@
     },
     {
         "name": "HBO FAMILY FLOW",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/6p3am132pvuvaxg17hu97/hbofamily.json?rlkey=93fj78otn63q25wunfc1x2gn7&st=hm3fefgt&dl=0",
         "icono": "https://i.ibb.co/ynkwLW3/hbofam.webp"
@@ -1440,7 +1440,7 @@
     },
     {
         "name": "HBO SIGNATURE",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/zwc1zkwhghg0l5zovo8z9/hbosignature.json?rlkey=az5o0xgi8psuh4zotrnugw9im&st=12i64ros&dl=0",
         "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp"
@@ -1454,7 +1454,7 @@
     },
     {
         "name": "HBO MUNDI",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/17ti0ndndqzl5d0zvhe1c/hbomundi.json?rlkey=yshhz1e4xagupfwv70z3fago5&st=fmhrdxq4&dl=0",
         "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png"
@@ -1468,7 +1468,7 @@
     },
     {
         "name": "HBO PLUS FLOW",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wyxzxsmqnu6wyddpc9coc/hboplus.json?rlkey=f56uzrsoxqw2rrp7b5eepdzz9&st=66pcync1&dl=0",
         "icono": "https://i.ibb.co/crnZgx8/hboplus.webp"
@@ -1482,7 +1482,7 @@
     },
     {
         "name": "HBO POP FLOW",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/e6nmzktrznzyxos2h6h94/hbopop.json?rlkey=9yudwbbh4liuadpxskdejikan&st=vpo2efi3&dl=0",
         "icono": "https://i.ibb.co/dKC4HRP/hbopop.webp"
@@ -1534,7 +1534,7 @@
     "samples": [
     {
         "name": "ANIMAL PLANET FLOW",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4146a8ecbb0540dc807c6389ee87e0bc&key=0c3cdc1b3e4617c57361265e9fa4c5bd",
         "icono": "https://i.ibb.co/TrkF2W7/images-1.png"
@@ -1548,7 +1548,7 @@
     },
     {
         "name": "HISTORY FLOW",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db",
         "icono": "https://i.ibb.co/mbb5YxW/Mikey-Kay-Films-Logo-8-1024x1024.png"
@@ -1562,7 +1562,7 @@
     },
     {
         "name": "HISTORY 2",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ecbe97ec34784304b390a12ba3854ccf&key=5a0ee36ed9b8920cb19546fd92f2d415",
         "icono": "https://i.ibb.co/jkfB4HH/H2-logo.webp"
@@ -1576,7 +1576,7 @@
     },
     {
         "name": "DISCOVERY CHANNEL",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c283c84a7af0d7c8b9b612a8fb22a001&key=f45510c721eebd6eaa86a2e16ccbd77d",
         "icono": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png"
@@ -1597,7 +1597,7 @@
     },
     {
         "name": "DISCOVERY H&H",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f",
         "icono": "https://i.ibb.co/gjWGgjX/hh.png"
@@ -1611,7 +1611,7 @@
     },
     {
         "name": "DISCOVERY ID",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0956caf2e2bd41f49fdcead7cc94fe24&key=640c49578073a911938617eb4e652d6c",
         "icono": "https://dl.dropbox.com/scl/fi/brd4qtgk2223gmobtj0ui/DCX.jpg?rlkey=e4qy94y6huevaihwyo0rspzn0&dl=0"
@@ -1625,7 +1625,7 @@
     },
     {
         "name": "DISCOVERY SCIENCE",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=46ba409fb04e40fb86b466d97e3a9588&key=f129fb9b5d213e20e2abe529b8cf2597",
         "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png"
@@ -1646,7 +1646,7 @@
     },
     {
         "name": "DISCOVERY THEATER",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5279c05ea51c4dae8e7fa6be88448089&key=b28dfafba4b848dfd5d7c177ebf19108",
         "icono": "https://i.ibb.co/z8ZX6Bq/discovery-theater.png"
@@ -1660,7 +1660,7 @@
     },
     {
         "name": "DISCOVERY TLC",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58761c7b2819491eb3a0d765842c341a&key=9dabc48f88bd7f266734e57501bd6f47",
         "icono": "https://i.ibb.co/rQVYsy9/R-1.png"
@@ -1674,7 +1674,7 @@
     },
     {
         "name": "DISCOVERY WORLD",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5",
         "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp"
@@ -1700,7 +1700,7 @@
     },
     {
         "name": "PAKA PAKA",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=334001b2f2644df9bdf35e92d2b89f8f&key=475ec87d86ed0636dbb6d6d9d4a43bb7",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"
@@ -1714,7 +1714,7 @@
     },
     {
         "name": "Cartoon Network",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_wl/CartoonNetwork.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_wl/CartoonNetwork.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d7df56efaa36a71141d238854cc46d1d&key=8abb2ee9150d8b2af8ebec0de0f833c8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png"
@@ -1728,7 +1728,7 @@
     },
     {
         "name": "Nick Jr",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e824b2277a86fd6adfc40aa948e5064a&key=28da2dbbe8e1a1463bbb23895b922083",
         "icono": "https://lokos.pages.dev/webp/logos/nickjr.webp"
@@ -1742,14 +1742,14 @@
     },
     {
         "name": "Tooncast",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=10638a722eb54c64bfb0e7a77483686a&key=41a7d3d522e19215b7e8f611b6902d61",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png"
     },
     {
         "name": "Disney Channel",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a742e478d14023e1993e011d9415f94&key=0df77ede9bc744376836d21afa137dda",
         "icono": "https://lokos.pages.dev/webp/logos/disney.webp"
@@ -1763,14 +1763,14 @@
     },
     {
         "name": "Discovery Kids",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ffb2f0f63c23a3592d4653e938b9ca19&key=d3661ae881fc55fc7a15815cd439747b",
         "icono": "https://lokos.pages.dev/webp/logos/diskids.webp"
     },
     {
         "name": "Nickelodeon",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61c18cefecc2d067beaa9ff181305345&key=38d6f650cbf9a38fd9f35c01f98e647a",
         "icono": "https://lokos.pages.dev/webp/logos/nick.webp"
@@ -1784,7 +1784,7 @@
     },
     {
         "name": "Cartoonito",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5792e613fceb699c79cbc0e75fe4cd37&key=a672793730476ed23e5c1bce2ff570c6",
         "icono": "https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI"
@@ -1882,7 +1882,7 @@
 },
       {
         "name": "ESPN PREMIUM",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/4gwhrzf22w2401dfix2kh/premiun.json?rlkey=nzp11gn43womr013ppnr6wxq0&st=ahppdvk9&dl=0",
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
@@ -2025,7 +2025,7 @@
 },
       {
         "name": "TNT SPORT HD",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
         "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png",
@@ -2083,7 +2083,7 @@
     },
       {
         "name": "TN NOTICIAS",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
         "icono": "https://i.ibb.co/Ws0Z97Y/AGF-l7-ij-GDo3i-LYPot57-Ah1z-N-c-Giz-SL0f-Ju5-A31w-s900-mo-c-c0xffffffff-rj-k-no.jpg",
@@ -2106,7 +2106,7 @@
       },
     {
         "name": "CANAL 9 ",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
         "icono": "https://i.ibb.co/cvLm0JB/canal9.jpg",
@@ -2129,7 +2129,7 @@
 },
     {
         "name": "AMERICA TV ",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
         "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg",
@@ -2175,7 +2175,7 @@
 },
     {
         "name": "C5N",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
         "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg"
@@ -2199,7 +2199,7 @@
 },
     {
         "name": "TN NOTICIAS",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
         "icono": "https://i.ibb.co/Ws0Z97Y/AGF-l7-ij-GDo3i-LYPot57-Ah1z-N-c-Giz-SL0f-Ju5-A31w-s900-mo-c-c0xffffffff-rj-k-no.jpg"
@@ -2223,7 +2223,7 @@
 },
     {
         "name": "LN+ - LA NACION",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c",
         "icono": "https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg"
@@ -2247,7 +2247,7 @@
 },
     {
         "name": "CRONICA TV",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
         "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg"
@@ -2271,7 +2271,7 @@
 },
     {
         "name": "A24",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
         "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg"
@@ -2295,7 +2295,7 @@
 },
     {
         "name": "CANAL 26",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
         "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg"
@@ -2320,7 +2320,7 @@
     
     {
         "name": "ARGENTINISIMA SATELITAL",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
+        "url": "http://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
         "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png",
