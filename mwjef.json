@@ -1849,25 +1849,20 @@
        },
 {
   "name": "TYC SPORT (PLAY 7)",
-  "url": "https://vkvsd14.okcdn.ru/dash/stream_7819804412603/stream.manifest/sig/lQbhZ1BT2d8/srcIp/181.91.84.44/urls/45.136.21.87/expires/1741001882099/clientType/13/srcAg/CHROME/fromCache/1/mid/8943458462651/id/7819804412603/frag-high-1385544.dash",
+  "url": "https://sportzonline.si/channels/hd/hd2.php",
   "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-  "type": "HLS",
- 
-"headers": {
-  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-  "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
-  "sec-ch-ua-mobile": "?0",
-  "sec-ch-ua-platform": "\"Windows\"",
-  "Accept": "*/*",
-  "Origin": "https://vkvideo.ru",
-  "Sec-Fetch-Site": "cross-site",
-  "Sec-Fetch-Mode": "cors",
-  "Sec-Fetch-Dest": "empty",
-  "Referer": "https://vkvideo.ru/",
-  "Accept-Encoding": "gzip, deflate, br, zstd",
-  "Accept-Language": "es-ES,es;q=0.9"
-}
-
+  "type": "WEBVIEW2",
+  
+  "headers2": {
+    "Connection": "keep-alive",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+    "Accept": "*/*",
+    "Origin": "https://earthflaxspoil.net",
+    "Sec-Fetch-Site": "cross-site",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Referer": "https://earthflaxspoil.net/"
+  }
 },
       {
         "name": "TNT SPORT HD",
