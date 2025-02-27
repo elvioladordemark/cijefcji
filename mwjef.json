@@ -355,7 +355,7 @@
         "Accept-Encoding": "gzip, deflate, br, zstd",
         "Accept-Language": "es-ES,es;q=0.9",
         "Connection": "keep-alive",
-        "Host": "chromecast.cvattv.com.ar",
+       
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "Sec-Ch-Ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
