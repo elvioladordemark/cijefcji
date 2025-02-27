@@ -1,51 +1,6 @@
 [
-    {
-    "name": "⚽EVENTOS DEPORTIVOS",
-    "samples": [
-        {
-        "name": "BARCELONA VS ATLÉTICO",
-        "url": "https://jf4.naqsheala.com:999/hls/wsmkmlfeed61.m3u8?md5=x44pnqLsuK11fOMi5EYIXQ&expires=1740524320",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kcqa7s4wswuvik8a6d8ja/tigo8.json?rlkey=fcmibx8c969m5kh9p2jrep3tg&st=6l89pt5k&dl=0",
-        "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
-        },   
-    {
-        "name": "BRIGHTON VS BOURNEMOUTH",
-        "url": "https://streamtp3.com/global1.php?stream=peacock2",
-        "type": "WEBVIEW",
-             "icono": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1919,h_1079,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/90min_en_international_web/01jmw9hfxg7bbcezgjds.jpg"
-    },
-       {
-        "name": "BARCELONA VS ATLÉTICO DE MADRID",
-        "url": "https://streamtp3.com/global1.php?stream=espnplus10",
-        "type": "WEBVIEW",
-             "icono": "https://www.fcbarcelona.com/photo-resources/2025/02/20/86e57bb0-3f29-47a5-a019-0b34dbdd2965/TIMEZONES_ESCUTS-AT-MADRID.jpg?width=1200&height=750"
-       },
-         {
-        "name": "BARCELONA VS ATLÉTICO DE MADRID OPCION 2",
-        "url": "https://sportzonline.si/channels/hd/hd2.php",
-        "type": "WEBVIEW",
-             "icono": "https://www.fcbarcelona.com/photo-resources/2025/02/20/86e57bb0-3f29-47a5-a019-0b34dbdd2965/TIMEZONES_ESCUTS-AT-MADRID.jpg?width=1200&height=750",
- 
+   
 
-  "headersM3u8": {
-    "Host": "602014809.cdnexpansion.net:8443",
-    "Connection": "keep-alive",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-    "Accept": "*/*",
-    "Origin": "https://earthflaxspoil.net",
-    "Sec-Fetch-Site": "cross-site",
-    "Sec-Fetch-Mode": "cors",
-    "Sec-Fetch-Dest": "empty",
-    "Referer": "https://earthflaxspoil.net/",
-    "Accept-Encoding": "gzip, deflate, br, zstd",
-    "Accept-Language": "es-ES,es;q=0.9",
-    "If-None-Match": "\"67be35a0-3bb\"",
-    "If-Modified-Since": "Tue, 25 Feb 2025 21:26:56 GMT"
-  }
-}
-    ]
-  },
     {
     "name": "⚽TIGO SPORTS SOLO EVENTOS",
     "samples": [
