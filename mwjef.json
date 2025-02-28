@@ -1895,7 +1895,11 @@
    {
        "name": "CANALES DE ARGENTINA",
     "samples": [
-  
+          {
+        "name": "GRAN HERMANO 24/7",
+        "url": "https://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/615499.ts",
+        "icono": "https://i.ibb.co/m5G70dXc/OIP.jpg"
+    },
         {
         "name": "TELEFE",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
