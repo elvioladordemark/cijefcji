@@ -421,12 +421,7 @@
             }
         },
     
-    {
-        "name": "ESPN 3 🇦🇷 OPCION 2",
-        "url": "https://streamtp3.com/global1.php?stream=espn3",
-        "type": "WEBVIEW",
-        "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png"
-    },
+    
     {
         "name": "ESPN 4",
         "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_C/ESPNHD.mpd",
@@ -442,13 +437,7 @@
             }
         },
     
-    {
-        "name": "ESPN 4 🇦🇷 OPCION 2",
-        "url": "https://streamtp3.com/global1.php?stream=espn4",
-        "type": "WEBVIEW",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3sh7b04gzfmu7ivkj651x/espn4.json?rlkey=mxjzhate18x9ie317u2phv6dn&st=mfe42eya&dl=0",
-        "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png"
-    },
+    
  
     {
         "name": "ESPN 5",
@@ -481,13 +470,7 @@
             }
         },
     
-    {
-        "name": "ESPN 6 🇦🇷 OPCION 2",
-        "url": "http://bantel-cdn4.iptvperu.tv:1935/e43Gyk/espn6.stream/playlist.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bkvm5yb33tu5tun5loxyb/espn6.json?rlkey=1gve9snrc4w3rswypx9vkbhmr&st=4yyfkgfd&dl=0",
-        "icono": "https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png"
-    },
+    
     {
         "name": "ESPN 7",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2_UY.mpd",
@@ -505,13 +488,6 @@
     {
         "name": "ESPN PREMIUM",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/96rqr70ljuva1eift5325/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0",
-        "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png"
-    },
-    {
-        "name": "ESPN PREMIUM 🇦🇷 OPCIÓN 2",
-        "url": "http://nxtv2112.xyz/live/5MUK2Fhqtq/wqq6nhKF4W/591997.ts",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/96rqr70ljuva1eift5325/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0",
         "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png"
