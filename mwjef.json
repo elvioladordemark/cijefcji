@@ -1981,7 +1981,35 @@
    {
        "name": "CANALES DE ARGENTINA",
     "samples": [
-          
+           {
+        "name": "GRAN HERMANO 24/7",
+        "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/615499.ts",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
+    },
+                  {
+        "name": "GRAN HERMANO CAM 1",
+        "url": "http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/615502.ts",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
+    },
+                         {
+        "name": "GRAN HERMANO CAM 2",
+        "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/615505.ts",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
+    },
+                                {
+        "name": "GRAN HERMANO CAM 3",
+        "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/615508.ts",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
+    }
+       
         {
         "name": "TELEFE",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
