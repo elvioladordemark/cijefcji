@@ -755,7 +755,19 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
-    }    
+    } 
+       ]
+  },
+      	 {
+    "name": "⚽ DEPORTES VARIADOS",
+    "samples": [
+    {
+        "name": "BEIN SPORTS",
+        "url": "https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono": "https://i.ibb.co/M5j7ZvBN/cf3b35181888595-Y3-Jvc-Cw5-OTIs-Nzc2-LDE1-NCwy-Mg.png"
+    }
        
 ]
 },
