@@ -40,19 +40,7 @@
     }
        ]
   },
-      	 {
-    "name": "⚽ EVENTOS DEPORTIVOS",
-    "samples": [
-    {
-        "name": "EVENTOS 1",
-        "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/592013.ts",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-        "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
-    }
-   
-    ]
-  },
+      	 
       	 {
     "name": "CANALES DE PARAGUAY",
     "samples": [
@@ -411,8 +399,7 @@
         "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pmsn36mgpxkgzgul0z0t/espn3.json?rlkey=vviwugbaa85er0cnpd1tzuw24&st=kbezymwy&dl=0",
-        "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png"
- ,
+        "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png",
        
    "headers": {
                 "Origin": "https://portal.app.flow.com.ar",
