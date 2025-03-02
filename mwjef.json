@@ -39,6 +39,29 @@
         "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
     }
        ]
+    },
+    {
+      "a": "🇵🇾Paraguay Eventos VPN-AR/UY/PY/US",
+      "b": [
+        {
+          "a": "Tigo Sports 1",
+          "logo_url": "https://i.postimg.cc/xjKtHvmW/tigo.png",
+          "stream_url": "https://sam-py-edge04.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+          "drm_id": "729527824"
+        },
+        {
+          "a": "Tigo Sports 2",
+          "logo_url": "https://i.postimg.cc/xjKtHvmW/tigo.png",
+          "stream_url": "https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+          "drm_id": "2868488685"
+        },
+        {
+          "a": "Tigo Sports 3",
+          "logo_url": "https://i.postimg.cc/xjKtHvmW/tigo.png",
+          "stream_url": "https://sam-py-edge04.tigo.com.py/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+          "drm_id": "2868488686"
+        }
+       ]
   },
  {
     "name": "CANALES DE PARAGUAY",
