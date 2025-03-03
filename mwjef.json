@@ -1945,7 +1945,7 @@
   "name": "TYC SPORT (PLAY 7)",
   "url": "https://sportzonline.si/channels/hd/hd2.php",
   "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-  "type": "WEBVIEW",
+  "type": "WEBVIEW2",
   
   "headers2": {
     "Connection": "keep-alive",
