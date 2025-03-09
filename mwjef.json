@@ -1847,9 +1847,23 @@
         "icono": "https://m.media-amazon.com/images/S/pv-target-images/16af05e8c93d21a9e8999206d8371a929c3348d6509907b7b18b982732bb748e._SX1080_FMjpg_.jpg"
     },
     {
-        "name": "DRGON BALL SUPER",
+        "name": "DRAGON BALL SUPER",
         "url": "https://gtechtecnologia.com/telelatino/play/191.m3u8",
         "icono": "http://imgfz.com/i/36uZ9fb.jpeg"
+    },
+              {
+    "name": "DRAGON BALL SUPER 2",
+    "url": "http://magmaplayer.com/stream/m3u8/BGx0KmZjAI8lBQNmBwWuZQN6ZwNjAwcyZJRkBwL2ZGV6ZzEyMGczAwMyBzR5A2IsZGp0ZGD5/hls/305.m3u8",
+    "icono": "http://imgfz.com/i/36uZ9fb.jpeg",
+    "type": "HLS",
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
     },
     {
         "name": "EL CHAPULIN COLORADO",
