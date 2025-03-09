@@ -886,8 +886,7 @@
         "name": "SPORTV 1",
         "url": "https://lvstr.cfd/sportv/index.m3u8",
         "type": "HLS",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+           "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
                   "headers": {
         ":authority": "anonstream.zip",
         ":method": "GET",
