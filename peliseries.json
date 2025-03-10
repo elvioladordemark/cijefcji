@@ -219,7 +219,7 @@
                 "duracion": "105 min"
             },
             {
-                "name": "La proposición",
+                "name": "La propuesta",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F7ED4B49798247C48AE4D0C358B85140_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bkbzlLA8HCEHRDxsTKGthII0BpW.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
@@ -293,20 +293,9 @@
         ]
     },
     {
-        "name": "Drama, Historica, Bélica",
+        "name": "Bélica",
         "samples": [
-            {
-                "name": "Salvar al soldado Ryan",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B1E041A44CC2451289E85E0A2041C3E5_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/dcKfD8xWf8XnS3tHVp7v331wdNT.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
-                "iconpng": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABe3BAwKc6_SqWISo7Vu25dhdGPxlTenyJSf9ddhpvcFVpmesbxyfdP-QFRKZ0KQvDOh4QZ5XDC56dHcjwnp_DMYOFgkLJL1q4RRysDztn7v7.png?r=e03",
-                "type": "PELICULA",
-                "descripcion": "Iniciándose con la invasión aliada a Normandía el 6 de junio de 1944, los miembros del segundo batallón de asalto, bajo las ordenes del capitán Miller, luchan por ganar el control de la playa. En el combate dos hermanos resultan muertos. Un poco antes, en Nueva Guinea, un tercer hermano muere también. Su madre, la señora Ryan, va a recibir tres telegramas de defunción el mismo día. El jefe del ejército estadounidense, George C. Marshall, ve la oportunidad de aliviar el sufrimiento de la señora cuando se entera de la existencia de un cuarto hermano, el soldado James Ryan, y decide enviar a 8 hombres (el capitán Miller y un grupo selecto de su batallón) a buscarlo y devolverlo a casa de su madre.",
-                "anio": "1998",
-                "genero": "Drama, Historia, Bélica",
-                "duracion": "169 min"
-            },
+            
             {
                 "name": "Titanic",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/148490901EB84FDB93558CEED1BA5B2C_media.mp4",
@@ -553,7 +542,7 @@
                 "duracion": "91 min"
             },
             {
-                "name": "Inntensamente 2",
+                "name": "Intensamente 2",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/66C6227E69934732A3927B8DD87C0E14_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lE3DCRI7bQgHSiIuEPcFiXpiuGV.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
@@ -1265,6 +1254,18 @@
                 "anio": "2015",
                 "genero": "Bélica, Drama",
                 "duracion": "100 min"
+            },
+            {
+                "name": "Salvar al soldado Ryan",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B1E041A44CC2451289E85E0A2041C3E5_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dcKfD8xWf8XnS3tHVp7v331wdNT.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+                "iconpng": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABe3BAwKc6_SqWISo7Vu25dhdGPxlTenyJSf9ddhpvcFVpmesbxyfdP-QFRKZ0KQvDOh4QZ5XDC56dHcjwnp_DMYOFgkLJL1q4RRysDztn7v7.png?r=e03",
+                "type": "PELICULA",
+                "descripcion": "Iniciándose con la invasión aliada a Normandía el 6 de junio de 1944, los miembros del segundo batallón de asalto, bajo las ordenes del capitán Miller, luchan por ganar el control de la playa. En el combate dos hermanos resultan muertos. Un poco antes, en Nueva Guinea, un tercer hermano muere también. Su madre, la señora Ryan, va a recibir tres telegramas de defunción el mismo día. El jefe del ejército estadounidense, George C. Marshall, ve la oportunidad de aliviar el sufrimiento de la señora cuando se entera de la existencia de un cuarto hermano, el soldado James Ryan, y decide enviar a 8 hombres (el capitán Miller y un grupo selecto de su batallón) a buscarlo y devolverlo a casa de su madre.",
+                "anio": "1998",
+                "genero": "Drama, Historia, Bélica",
+                "duracion": "169 min"
             },
             {
                 "name": "NAPOLEÓN",
