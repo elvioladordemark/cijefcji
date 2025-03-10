@@ -1747,18 +1747,21 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
-    {
+{
       "name": "NATIONAL GEOGRAPHIC CHANNEL",
-      "url": "https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_C/DiscoveryHD.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f",
-      "icono": "https://i.ibb.co/Ypcd2C0/NG-Logo-White.png",
+      "url": "http://magmaplayer.com/stream/m3u8/Awp3KmpjZ18lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/703.m3u8",
+      "type": "HLS",
+        "icono": "https://i.ibb.co/Ypcd2C0/NG-Logo-White.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
+        "X-Hash": "9Cq5TjHoQI2bhDYMLZ2mhL8oyzEG-rQyFySKCqKDJ6HWOTTUpxaWiGnDfNjYDh37Rh4LBr9s_wIcgK4zqZwtM3Cqg2w63LnVHG6MshK2zklnAaWQNf-PXKWeasmbsA4_FknpoXRjhFZ6Vtaqsq0NPg",
+        "X-Did": "cddfe5e8c019cb3c",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    }
+       },
     {
       "name": "DISCOVERY H &H",
       "url": "https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_C/DiscoveryHomeHealthHD.mpd",
