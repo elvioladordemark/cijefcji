@@ -295,7 +295,6 @@
     {
         "name": "Bélica",
         "samples": [
-            
             {
                 "name": "Titanic",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/148490901EB84FDB93558CEED1BA5B2C_media.mp4",
@@ -720,6 +719,18 @@
                 "anio": "2016",
                 "genero": "Aventura, Animación, Comedia, Familia",
                 "duracion": "89 min"
+            },
+            {
+                "name": "Buscando a Nemo",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1FDFF4A8C057466CB4C524DA254F1CF7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/jPhak722pNGxQIXSEfeWIUqBrO5.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/qTQug3WnJk9DLAbxoXLGqfagwIX.png",
+                "type": "PELICULA",
+                "descripcion": "Nemo, un pececillo, hijo único muy querido y protegido por su padre, ha sido capturado en un arrecife australiano y ahora vive en una pecera en la oficina de un dentista de Sidney. El tímido padre de Nemo se embarcará en una peligrosa aventura para rescatar a su hijo. Pero Nemo y sus nuevos amigos tienen también un astuto plan para escapar de la pecera y volver al mar.",
+                "anio": "2003",
+                "genero": "Animación, Familia",
+                "duracion": "101 min"
             }
         ]
     },
