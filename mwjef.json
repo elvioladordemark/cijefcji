@@ -1800,9 +1800,9 @@
     },
     {
       "name": "DISCOVERY TURBO",
-      "url": "https://edge-live12-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_C/DiscoveryTurbo.mpd",
+      "url": "https://chromecast.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_C/DiscoveryTurbo.mpd",
       "type": "CLEARKEY",
-      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a611ddbf8c15fa617a0c391cb7b3e128&key=0cd1300baf8890380fd41124962195c4",
+      "drm_license_uri": "https://dl.dropbox.com/scl/fi/9oqg6qqxgw6fhwcvn6fex/turbo.json?rlkey=taczv93ig5h2v25nts4cw5jvo&st=4nuuv4rk&dl=0",
       "icono": "https://i.ibb.co/M8C0j8Q/India-Tvd3227d-discovery-turbo.jpg",
       "headers": {
         "Origin": "https://portal.app.flow.com.ar",
