@@ -830,51 +830,6 @@
             }
         ]
     },
-   
-        ]
-    },
-    {
-        "name": "ACCIÓN, DRAMA",
-        "samples": [
-            
-            {
-                "name": "Karate Kid, el momento de la verdad",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E5EEB7E1771A4B3F843F105B4558BEA9_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qupC1Jxss4YH5Y2ZeIB4XXokGcd.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5iMAyVYs4rnQKQ9HDdmuqlb0VtS.jpg",
-                "iconpng": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/TheKarateKidLogo.png/1200px-TheKarateKidLogo.png",
-                "type": "PELICULA",
-                "descripcion": "Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situación, no tiene más remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe kárate. Bajo la tutela de Miyagi, Daniel desarrolla no sólo sus aptitudes físicas, sino también la seguridad en sí mismo que necesita para superar todos los obstáculos.",
-                "anio": "1984",
-                "genero": "Acción, Drama, Familia",
-                "duracion": "126 min"
-            },
-            {
-                "name": "Karate Kid II, la historia continúa",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/40892D86C48E49CBB16138FA0F3665AF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/fOfjKdFdzDbbArgxk1sOLpQ211g.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7rfcRXbFD0xr8NteNq1hwXUd4Af.jpg",
-                "iconpng": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.netflix.com%2Fus-es%2Ftitle%2F60011205&psig=AOvVaw35Fl1xKlUCuhmcL0zJNaAE&ust=1739997467685000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDmj-uJzosDFQAAAAAdAAAAABAE",
-                "type": "PELICULA",
-                "descripcion": "Daniel y el señor Miyagi viajan a Okinawa, a la pequeña aldea en la que el anciano nació y de la que tuvo que marcharse por un asunto de honor. Su padre está gravemente enfermo y quiere verlo, pero también le espera su antiguo amor de juventud. La llegada del señor MIyagi reabre unas heridas que el tiempo y la distancia parecían haber borrado.",
-                "anio": "1986",
-                "genero": "Aventura, Drama, Acción, Romance, Familia",
-                "duracion": "113 min"
-            },
-            {
-                "name": "Karate Kid III. El desafío final",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F6F18CE83B4042798209942FF42BBA5B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/1vpDcoILmWHuqd2HNFMncSEuIyV.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/c12c7Rpq4kakQiaZIQgp5aTaDFB.jpg",
-                "iconpng": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcR0qykNexceEssvj7Q--V4js0wwBVYv8nGg8_TsdBfY6mGamdLsbCRoLTEzt7hv9dj6DfASim7t2K8Ol8J1pD1565VsVVPlPQF597Hp64ae.png?r=767",
-                "type": "PELICULA",
-                "descripcion": "El joven karateka Daniel Larusso libra su batalla mas difícil cuando el malvado Kreese le arrastra a una complicada situacion, al obligarle a defender su título de campeón del torneo del Valley. Su maestro Miyagi no está de acuerdo y el joven rompe con él. Daniel tendra un nuevo profesor, que más que como karateka realmente le entrena como si fuera un asesino. Cuando Daniel comprende que el kárate sólo debe usarse para defender el honor y la vida, regresa a las enseñanzas de su viejo maestro.",
-                "anio": "1989",
-                "genero": "Acción, Familia, Drama, Aventura",
-                "duracion": "111 min"
-            }
-        ]
-    },
     {
         "name": "AVENTURA",
         "samples": [
@@ -2176,6 +2131,7 @@
                 "genero": "Acción, Suspense, Crimen",
                 "duracion": "91 min"
             }
+        ]
     },
     {
         "name": "SUSPENSO",
@@ -3121,6 +3077,42 @@
                 "genero": "Acción, Suspense",
                 "duracion": "104 min"
             },
+            {
+                "name": "Karate Kid, el momento de la verdad",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E5EEB7E1771A4B3F843F105B4558BEA9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qupC1Jxss4YH5Y2ZeIB4XXokGcd.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5iMAyVYs4rnQKQ9HDdmuqlb0VtS.jpg",
+                "iconpng": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/TheKarateKidLogo.png/1200px-TheKarateKidLogo.png",
+                "type": "PELICULA",
+                "descripcion": "Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situación, no tiene más remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe kárate. Bajo la tutela de Miyagi, Daniel desarrolla no sólo sus aptitudes físicas, sino también la seguridad en sí mismo que necesita para superar todos los obstáculos.",
+                "anio": "1984",
+                "genero": "Acción, Drama, Familia",
+                "duracion": "126 min"
+            },
+            {
+                "name": "Karate Kid II, la historia continúa",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/40892D86C48E49CBB16138FA0F3665AF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fOfjKdFdzDbbArgxk1sOLpQ211g.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7rfcRXbFD0xr8NteNq1hwXUd4Af.jpg",
+                "iconpng": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.netflix.com%2Fus-es%2Ftitle%2F60011205&psig=AOvVaw35Fl1xKlUCuhmcL0zJNaAE&ust=1739997467685000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDmj-uJzosDFQAAAAAdAAAAABAE",
+                "type": "PELICULA",
+                "descripcion": "Daniel y el señor Miyagi viajan a Okinawa, a la pequeña aldea en la que el anciano nació y de la que tuvo que marcharse por un asunto de honor. Su padre está gravemente enfermo y quiere verlo, pero también le espera su antiguo amor de juventud. La llegada del señor MIyagi reabre unas heridas que el tiempo y la distancia parecían haber borrado.",
+                "anio": "1986",
+                "genero": "Aventura, Drama, Acción, Romance, Familia",
+                "duracion": "113 min"
+            },
+            {
+                "name": "Karate Kid III. El desafío final",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F6F18CE83B4042798209942FF42BBA5B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/1vpDcoILmWHuqd2HNFMncSEuIyV.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/c12c7Rpq4kakQiaZIQgp5aTaDFB.jpg",
+                "iconpng": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcR0qykNexceEssvj7Q--V4js0wwBVYv8nGg8_TsdBfY6mGamdLsbCRoLTEzt7hv9dj6DfASim7t2K8Ol8J1pD1565VsVVPlPQF597Hp64ae.png?r=767",
+                "type": "PELICULA",
+                "descripcion": "El joven karateka Daniel Larusso libra su batalla mas difícil cuando el malvado Kreese le arrastra a una complicada situacion, al obligarle a defender su título de campeón del torneo del Valley. Su maestro Miyagi no está de acuerdo y el joven rompe con él. Daniel tendra un nuevo profesor, que más que como karateka realmente le entrena como si fuera un asesino. Cuando Daniel comprende que el kárate sólo debe usarse para defender el honor y la vida, regresa a las enseñanzas de su viejo maestro.",
+                "anio": "1989",
+                "genero": "Acción, Familia, Drama, Aventura",
+                "duracion": "111 min"
+            }
             {
                 "name": "Escuadrón suicida",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/34235611180D4276AB3F31CCCFCCC132_media.mp4",
