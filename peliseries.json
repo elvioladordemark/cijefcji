@@ -1042,7 +1042,6 @@
     {
         "name": "RECOMENDADOS",
         "samples": [
-            
             {
                 "name": "Septiembre 5",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BCC827FB2BE2453E83EF1E98FB08050C_media.ts",
@@ -1115,7 +1114,7 @@
                 "genero": "Drama",
                 "duracion": "215 min"
             },
-             {
+            {
                 "name": "Presencia",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9E7BDBB53A404E0E8C888355F2B59630_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kc7YIx6KNiXm1dpqlhqdX3eTL7a.jpg",
@@ -1127,7 +1126,7 @@
                 "genero": "Terror, Drama",
                 "duracion": "85 min"
             },
-             {
+            {
                 "name": "El abismo secreto",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0E4307A6BADF48B1B1DA5E38A1D0D6C5_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg",
@@ -1139,7 +1138,7 @@
                 "genero": "Romance, Ciencia ficción, Suspense",
                 "duracion": "127 min"
             },
-             {
+            {
                 "name": "Contraataque",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/960AFFE3B82246FEB2E03D3FE639CC99_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vaRGCGxYeKKgI9df2YZj5vlJebr.jpg",
@@ -1502,7 +1501,7 @@
                 "genero": "Comedia",
                 "duracion": "109 min"
             },
-             {
+            {
                 "name": "Chica conoce a chico",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/230EB3113D9043BCBBC0042040934049_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/kxRjfgZHj7nsa7aBqm6qato2b70.jpg",
@@ -4250,6 +4249,18 @@
                 "anio": "2013",
                 "genero": "Drama",
                 "duracion": "131 min"
+            },
+            {
+                "name": "Cómo ser millonario antes que muera la abuela",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B926685579F241ABB3915FE47B487EBC_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vYHtssH7aYrzQZafC4EsmyR4uB6.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3kvS6Ws5usxSk1wIbKZ7YPug2V2.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tgrgvduQgsAxk5AsLrwzPufsYU8.png",
+                "type": "PELICULA",
+                "descripcion": "Un hombre deja el trabajo para cuidar de su abuela moribunda, aunque sus aparentemente buenas intenciones vienen motivadas por la fortuna de la anciana. El nieto tratará de ganarse el favor de su abuela antes de que fallezca.",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "126 min"
             }
         ]
     },
