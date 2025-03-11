@@ -305,24 +305,6 @@
         ]
     },
     {
-        "name": "Bélica",
-        "samples": [
-            
-            {
-                "name": "Hasta el último hombre",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/108517240866491FB10657CAFBB31A0A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rshlQ6LfPRSWFhpGL4s5ZkIPR51.jpg",
-                "iconpng": "https://los40mx00.epimg.net/especiales/depelicula/hasta-el-ultimo-hombre/img/02.png",
-                "type": "PELICULA",
-                "descripcion": "Narra la historia de Desmond Doss, un joven médico militar que participó en la sangrienta batalla de Okinawa, en el Pacífico durante la II Guerra Mundial, y se convirtió en el primer objetor de conciencia en la historia estadounidense en recibir la Medalla de Honor del Congreso. Doss quería servir a su país, pero desde pequeño se había hecho una promesa a sí mismo: no coger jamás ningún arma.",
-                "anio": "2016",
-                "genero": "Drama, Historia, Bélica",
-                "duracion": "131 min"
-            }
-        ]
-    },
-    {
         "name": "ANIMACIÓN",
         "samples": [
             {
@@ -1314,6 +1296,18 @@
                 "anio": "1998",
                 "genero": "Drama, Historia, Bélica",
                 "duracion": "169 min"
+            },
+            {
+                "name": "Hasta el último hombre",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/108517240866491FB10657CAFBB31A0A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rshlQ6LfPRSWFhpGL4s5ZkIPR51.jpg",
+                "iconpng": "https://los40mx00.epimg.net/especiales/depelicula/hasta-el-ultimo-hombre/img/02.png",
+                "type": "PELICULA",
+                "descripcion": "Narra la historia de Desmond Doss, un joven médico militar que participó en la sangrienta batalla de Okinawa, en el Pacífico durante la II Guerra Mundial, y se convirtió en el primer objetor de conciencia en la historia estadounidense en recibir la Medalla de Honor del Congreso. Doss quería servir a su país, pero desde pequeño se había hecho una promesa a sí mismo: no coger jamás ningún arma.",
+                "anio": "2016",
+                "genero": "Drama, Historia, Bélica",
+                "duracion": "131 min"
             },
             {
                 "name": "NAPOLEÓN",
