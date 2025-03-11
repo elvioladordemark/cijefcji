@@ -830,21 +830,7 @@
             }
         ]
     },
-    {
-        "name": "COMEDIA, ROMANCE",
-        "samples": [
-            {
-                "name": "La culpa no es mía",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/366BD1AC32AE4CD9BA25B2DCA850EEB6_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/3wGZ9QvjFH3wrNChYFFqbsW0Qge.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rFKbPDXBzgn4eYBdJXaAPEYIcyA.jpg",
-                "iconpng": "https://i.postimg.cc/GhvX3G7W/1000022487-removebg.png",
-                "type": "PELICULA",
-                "descripcion": "Hasta el cuello de deudas, dos hermanos trazan un plan para estafar a una rica heredera y salvar su hogar en Nápoles, hasta que el amor complica sus planes.",
-                "anio": "2025",
-                "genero": "Comedia, Romance",
-                "duracion": "101 min"
-            }
+   
         ]
     },
     {
@@ -2064,6 +2050,18 @@
                 "anio": "2017",
                 "genero": "Comedia, Romance",
                 "duracion": "100 min"
+            },
+            {
+                "name": "La culpa no es mía",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/366BD1AC32AE4CD9BA25B2DCA850EEB6_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/3wGZ9QvjFH3wrNChYFFqbsW0Qge.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rFKbPDXBzgn4eYBdJXaAPEYIcyA.jpg",
+                "iconpng": "https://i.postimg.cc/GhvX3G7W/1000022487-removebg.png",
+                "type": "PELICULA",
+                "descripcion": "Hasta el cuello de deudas, dos hermanos trazan un plan para estafar a una rica heredera y salvar su hogar en Nápoles, hasta que el amor complica sus planes.",
+                "anio": "2025",
+                "genero": "Comedia, Romance",
+                "duracion": "101 min"
             },
             {
                 "name": "La niñera...",
