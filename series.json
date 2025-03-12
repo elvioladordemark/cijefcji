@@ -1379,6 +1379,60 @@
                     ],
                     "tmdb_id": 1396,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "Selena: La serie",
+                    "genero": "Drama",
+                    "descripcion": "La cantante mexicoestadounidense Selena se hace adulta y cumple sus sueños. Para ello, su familia y ella tomarán decisiones para mantenerse unidas y vivir de su música.",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/wP3I5H29f3Jee1YhDeV0WYrMRwu.png",
+                    "icono": "https://image.tmdb.org/t/p/original/iLVmgQXgIVXaBBvKn4prPuSDVxM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/Wu8kh7oyvaIfkNyMJyJHCamh5L.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un sueño",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9270AE07D15C4AC6B00F40A5DCFFABD6_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Dame un beso",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5BDE87B82BC34928B3DF3DA938B296A4_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Y la ganadora es...",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7639C833EF78420094C799AFBD267BA5_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Teloneros",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CC4A4B4EDB174E738A4041F387DAEA7B_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Dulce amor",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8CC01792BB3A485497139F5EFF0ED319_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "My Love",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/12B1DCF1B878465EB072842F6B531CE0_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Fideo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EBD22749BE27407C8ED70279B00BDA45_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 97180,
+                    "total_seasons": 1
                 }
             ]
         },
