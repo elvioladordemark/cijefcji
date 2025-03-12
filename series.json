@@ -250,6 +250,40 @@
                     ],
                     "tmdb_id": 245927,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Daredevil: Born Again",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Matt Murdock, un abogado ciego con habilidades super desarrolladas lucha por la justicia desde su ajetreado bufete mientras el antiguo jefe mafioso Wilson Fisk emprende una carrera política en Nueva York. Cuando sus identidades pasadas empiezan a salir a la luz, ambos se ven abocados a un enfrentamiento inevitable.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/23zbPU6u5TUdyrYXWs8Jxhqhiy9.png",
+                    "icono": "https://image.tmdb.org/t/p/original/9b6XFApT34dkGrmOZnTk7noyNx8.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hrsRczdsAHBLTDzlIqt82bxY0Tt.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Media hora en el cielo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BBC96109C58648B88F061A01534DB892_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Apariencias",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A3669E96346E4F31B3F0B55359807A51_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "En su seno",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/99767A53492A4596A753DCA5304879DD_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 202555,
+                    "total_seasons": 1
                 }
             ]
         },
