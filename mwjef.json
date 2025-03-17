@@ -1728,10 +1728,10 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         }
-    ]
+       ]
 },
       	 {
-    "name": "🎬CANALES 24/7 VIP",
+    "name": "🎬CANALES 24/7 CINES VIP",
     "samples": [
       {
         "name": "CINE ACCIÓN",
@@ -1747,7 +1747,16 @@
         
         "Connection": "Keep-Alive"
    }
-    },
+    }
+    ]
+            
+            
+            
+},
+      	 {
+    "name": "🎬CANALES 24/7 DISEÑOS VIP",
+    "samples": [
+
        {
         "name": "LOS SIMPSONS",
         "url": "http://magmaplayer.com/stream/m3u8/AwD1KmLmAI8lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/635.m3u8",
