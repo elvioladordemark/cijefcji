@@ -1249,6 +1249,18 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
+       {
+        "name": "MULTIPREMIER",
+        "url": "http://magmaplayer.com/stream/m3u8/BGLjKmL5Ay8kAmxhAwNhZwZ5YwMsZGp0ZwR4/hls/696.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/npcid0pbjpevoxfd3fi8x/amc.json?rlkey=j0k1yy7pkrtapyxogubb382m3&st=yv8ytmik&dl=0",
+        "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",
+         "headers": {
+                "Origin": "https://portal.app.flow.com.ar",
+                "Referer": "https://portal.app.flow.com.ar/",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+            }
+        },
    
     {
         "name": "A3SERIES",
