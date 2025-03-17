@@ -945,7 +945,7 @@
        ]
   },
       	 {
-    "name": "⚽ DEPORTES VARIADOS",
+    "name": "⚽ OTROS DEPORTES",
     "samples": [
     {
         "name": "BEIN SPORTS Ñ",
@@ -954,48 +954,22 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
     },
-           {
-        "name": "BEIN SPORTS EXTRA Ñ",
-        "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-        "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
-    },
-                  {
-        "name": "TUDN",
-        "url": "http://181.78.105.146:2000/play/a08j/index.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-        "icono": "https://i.postimg.cc/05mt0y4t/descarga-4.png"
-                  },
-                         {
-        "name": "WIN SPORTS",
-        "url": "http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/13769.ts",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-        "icono": "https://i.ibb.co/8g3XZ6v/logo-win.png"
-                         },
-                {
-        "name": "SKY SPORTS",
-        "url": "http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/592040.ts",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-        "icono": "https://i.ibb.co/rt0fp8Y/sky-sport-bundesliga.png"
-                         },
-                       {
-        "name": "LIGA 1",
-        "url": "http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/9498.ts",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-        "icono": "https://i.postimg.cc/NGWff1zq/images-4.png"
-                       },
-                              {
-        "name": "LIGA 1 MAX",
-        "url": "http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/208114.ts",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-        "icono": "https://i.postimg.cc/XJ4vfFC1/descarga-4.png"
-                              }
+{
+        "name": "TUDN MX",
+        "url": "https://magmaplayer.com/stream/m3u8/AQN2Kmx1Zy8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGt/hls/952.m3u8",
+        "icono": "https://x.playerlatino.live/cine247.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    }
+       }
+
        
 ]
 },
