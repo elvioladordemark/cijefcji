@@ -284,6 +284,86 @@
                     ],
                     "tmdb_id": 202555,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "1923",
+                    "genero": "Drama, Western",
+                    "descripcion": "Sigue a una nueva generación de la familia Dutton a principios del siglo XX cuando las pandemias, la sequía histórica, el fin de la Prohibición y la Gran Depresión plagan el oeste montañoso y los Dutton que lo llaman hogar.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/2hlc1DvGiDx8L0tmkSepEn5tpzb.png",
+                    "icono": "https://image.tmdb.org/t/p/original/97YimtKZCD0bvHIG4YPgWo3OYar.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vIioWssbxRtEkIzgj8r0pCWYkYM.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "1923",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2DA2A0BF3ACF43C8A05D781712C3BD7F_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Trono vacío de la naturaleza",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6A48D3BE44C54C22BF408F9A861D7888_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La guerra ha vuelto a casa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A80F91F946DD41D08214670BCB65E532_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La guerra y la marea turquesa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/79BCE9B06DCA40CB8A1DF033F0024437_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Fantasma de Zebrina",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AD7B13FF1F544F23A8005AB9899D0D84_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Un océano más cerca del destino",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3F174686AAE9420B8B4A59193D755BD2_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La regla de los quinientos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/04CA925A6DAA496396F6DE4EC8FDAB42_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Nada que perder",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/858058A79BB24F66A43911DA863F2490_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Temporada de asesinatos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F4259FE5EA534FB190F4435BBF3261BD_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El violador es el invierno",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/019B30C91AB74470AE5DF99B4E35E1C6_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Te envuelve en terror",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A6A8C5CF920E45F48D7E64AE190F3072_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 157744,
+                    "total_seasons": 2
                 }
             ]
         },
