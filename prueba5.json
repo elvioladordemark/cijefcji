@@ -2605,5 +2605,130 @@
     "url": "https://sae12.playlist.ttvnw.net/v1/playlist/CqEGov3B8KXNB1yt26J42Khqk_m_mgwM_vUFoCZEr_q45EtHhNrvplz9et12D5tdwVGqa3deZTFisoEXh691MPbAgbJuiPT2CDKpoU6LpWKyG5nNKnUvhdxb4IRJjVTIzNhXnC9StSJBl7BwEJDiO_UNf-yKc1-KkACimCixDpprGoMhsnqO2lWQQqs9QkpKgmfdRaxOi_zKaSlRVyEJQ0UBuCcrkuQ1Oi7c0NClTkLqs7ZAaj1k59q8L7EoCKNY-PEYmN989QSlSjtMtZsWb5Gd19mebaPv-r8-5nUV7NecsAfiQL1yt86qgKCc89Yf0k1lStfd2Amou0FSWBgs8ectAxE06geZou7t78HwgivPPHm4GZuyCaCC2qrz0LOz1_560pO8s2ZDqOR5AZmjuuA4Wceml_GMdHbPcrrWwkZk1mXNs7vLqiLvqFuluTvL7hyevUPLTWVIIma8ybjYU03LPkgoYx3_dIU-_db27QbSI8tNUGwNWuN1VXibGsGBMw-iK-ogPThdL_eLuT0t86qYJWlOlVtQOgFgu6Qid7NZhvj0zaMqngDJ2b949LC_T17_uPDb_NEkKBpv4mZY-e1tvMJkQtZxGGELgyogFNTtWvQTsC3ThQ7Lax2-H50I3SIf5wDdKi35onVAXXvVoN0x2fBBBHJ_zBURv3tu7UzDv_sK4FkPNFMMFyaAd1p5yi82UtPzFU8xDMsmimEBdKMwZtvxv23ndNws7fFwJsF6y6-mAzIMTnBKevWmMyIhJVa8XvHC8u1b0MOrMHFpruKYIaf8HoDgt98NSJFIkD5Ed-Yxkfh9tnBd1sd8Du7HNELYIilEfL7SOFa9p50pUqlDCYrxVUUXjTGOyNnyYNbGA3RnQveieDe3dxQNp-n82SNekbFRMnqltdbgBnagAneBOwOD7JM2MR4--_KxGR0hid2WevZf6Z0VIlzVmvLWdYLrMcqqRJj9PsSC_t4xNpaaH2EmFv34usXSahDS5LrYWS35ebztktMRjxdxp-qmosWrfwpPGS5oy8ka9a58Rhdeu25PFVDzF2OF5IKiVMS3QyeyGgzKWRSQ4qLjtvBBbPYgASoJdXMtZWFzdC0yMOkL.m3u8"
   }
     ]
-  }
+  },
+	{
+    "name": "🇨🇱CANALES DE CHILE",
+    "samples": [
+       {
+          "name": "CHILEVISION",
+    "icono": "https://i.postimg.cc/76Z3k09n/CHV.png",
+    "url": "http://191.52.214.5:8000/play/a06p/index.m3u8"
+  },
+  {
+    "name": "MEGA",
+    "icono": "https://i.ibb.co/8DfCbvh/mega.png",
+    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/9824.ts"
+  },
+  {
+    "name": "TVN",
+    "icono": "https://i.ibb.co/qnw8XDw/Logotipo-de-Televisi-n-Nacional-de-Chile.png",
+    "url": "https://marine2.miplay.cl:443/tvnchile/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": " CANAL 13",
+    "icono": "https://i.ibb.co/6bBqBK3/Emblema-del-Canal-13-Chile-svg.png",
+    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/9829.ts"
+  },
+  {
+    "name": "LA RED",
+    "icono": "https://i.ibb.co/3Yf8pJg/La-Red-Logo-2021.png",
+    "url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8"
+  },
+  {
+    "name": "24 HORAS",
+    "icono": "https://i.ibb.co/FncDn9m/CEE9zPe.png",
+    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/9833.ts"
+  },
+  {
+    "name": "ANTOFAGASTA TV",
+    "icono": "https://i.ibb.co/dc4q1c9/channels4-profile-1.jpg",
+    "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8"
+  },
+  {
+    "name": "CNN CHILE",
+    "icono": "https://i.ibb.co/znyk1NW/cnn.png",
+    "url": "https://jireh-6-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8?dpssid=55d2a33681917e2f59e1c5892457ff6b&sid=ba5t1l1xb21675155147673ace6c9b300&ndvc=0"
+  },
+  {
+    "name": "ADN",
+    "icono": "https://i.ibb.co/PDTMK1g/OIP-4.jpg",
+    "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?did=b21378984870673ace8b76a45"
+  },
+  {
+    "name": "CANAL PAÍS",
+    "icono": "https://i.ibb.co/bP98Hzp/1402-Canal-Pais.jpg",
+    "url": "https://v4.tustreaming.cl/canalpais/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "BIO BIO TV",
+    "icono": "https://i.ibb.co/gRgB22k/OIP-5.jpg",
+    "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?did=b21378984870673ace8b76a45"
+  },
+  {
+    "name": "PORTAL TV",
+    "icono": "https://i.ibb.co/tQGvh4p/OIP-6.jpg",
+    "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8"
+  },
+  {
+    "name": "STGO TV",
+    "icono": "hhttps://i.ibb.co/0BsV0cD/OIP-7.jpg",
+    "url": "https://stv4.janus.cl/playlist/stream.m3u8"
+  },
+  {
+    "name": "TELETRAK",
+    "icono": "https://i.ibb.co/WvX3zcC/teletrack.png",
+    "url": "https://teletraktv.janus.cl/playlist/stream.m3u8"
+  },
+  {
+    "name": "TV SENADO",
+    "icono": "https://i.ibb.co/SRbmPhb/channels4-profile.jpg",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?&t=1731907421&id=fe28df0f-298d-4b81-8e4c-6bef7679ca50&q=1731907493219"
+  },
+  {
+    "name": "TVEX",
+    "icono": "https://i.ibb.co/FVSpRjC/OIP-9.jpg",
+    "url": "https://v2.tustreaming.cl/tevex/index.m3u8"
+  },
+  {
+    "name": "UESTV",
+    "icono": "https://i.ibb.co/FbdSPcx/OIP-10.jpg",
+    "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8"
+  },
+  {
+    "name": "TERROR TV",
+    "icono": "https://i.ibb.co/1b8hm69/OIP-11.jpg",
+    "url": "https://tv.streaming-chile.com:19360/8140/8140.m3u8"
+  },
+  {
+    "name": "TVR",
+    "icono": "https://i.ibb.co/30SHwcF/53311917-1258469654318918-8926059123426983936-n.png",
+    "url": "https://redirector.dps.live/hls/tvr/playlist.m3u8"
+  },
+  {
+    "name": "NUEVO TIEMPO",
+    "icono": "https://i.ibb.co/dtjvDK8/OIP-14.jpg",
+    "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8"
+  },
+  {
+    "name": "CLICKTV",
+    "icono": "https://i.ibb.co/whYKrfj/channels4-profile-1.jpg",
+    "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+  },
+  {
+    "name": "TNT SPORTS PREMIUM",
+    "icono": "https://i.ibb.co/9W9wg5w/tnt-sports-premium4090-logowik.webp",
+    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/417210.ts"
+  },
+  {
+    "name": "TNT SPORTS",
+    "icono": "https://i.ibb.co/vPGgVkr/OIP-1.jpg",
+    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/417190.ts"
+  },
+  {
+    "name": "CDO",
+    "icono": "https://i.ibb.co/KG6VvvZ/CDO.png",
+    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/150399.ts"
+      }
+    ]
+	}
 ]
