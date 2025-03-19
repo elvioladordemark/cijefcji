@@ -2046,12 +2046,12 @@
 ]
 },
   {
-    "name": "PRUEBA",
+    "name": "PACK FÚTBOL ARGENTINO",
     "samples": [
          
        {
         "name": "ESPN",
-        "url": "https://edge-mix05-coe.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
         "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
