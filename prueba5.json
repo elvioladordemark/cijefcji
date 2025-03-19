@@ -2727,5 +2727,33 @@
     "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
 	    }
     ]
+	},
+	{
+    "name": "🇪🇨CANALES DE ECUADOR",
+    "samples": [
+       
+	    {
+    "name": "ECUADOR TV",
+    "icono": "https://i.ibb.co/8PY5Gck/OIP-2.jpg",
+    "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "ECUAVISA",
+    "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
+    "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1"
+  },
+  {
+    "name": "EL CANAL DEL FÚTBOL",
+    "icono": "https://i.ibb.co/7pvyJMk/ecdf.webp",
+    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/2364.ts"
+  },
+  {
+    "name": "GOL TV",
+    "icono": "https://i.ibb.co/WBs0G8p/Goltv.png",
+    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/2370.ts",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
+	    }
+    ]
 	}
 ]
