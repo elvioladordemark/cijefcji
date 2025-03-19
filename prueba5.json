@@ -2704,54 +2704,20 @@
 	{
     "name": "🇺🇾CANALES DE URUGUAY",
     "samples": [
-       {
-       "name": "LA RED",
-    "icono": "https://i.ibb.co/kq2wDCL/LARED.png",
-    "url": "https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8"
+  {
+    "name": "TV FLORIDA",
+    "icono": "https://i.ibb.co/5hT93gX5/ORjoLdw.png",
+    "url": "https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8"
   },
   {
-    "name": "CANAL 4",
-    "icono": "https://i.ibb.co/G2spk6s/Canal4-uy.png",
-    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/198264.ts"
-  },
-  {
-    "name": "CANAL 5",
-    "icono": "https://i.ibb.co/XkMBM5V/small-2125290982-914sinttulo-20210722202810-png-6f5b66dc24e14b77acd823a72c149869.png",
-    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/198265.ts"
-  },
-  {
-    "name": "CANAL 10",
-    "icono": "https://i.ibb.co/RQsSWYm/2014-Logo-Canal10.png",
-    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/198271.ts"
-  },
-  {
-    "name": "TELEDOCE",
-    "icono": "https://i.ibb.co/fSqrS4M/logo-tele2019.png",
-    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/198273.ts"
+    "name": "VIVO TV",
+    "icono": "https://i.ibb.co/cSLGCS4T/Logo-white.png",
+    "url": "https://stream.vivotv.uy/hls/stream.m3u8"
   },
   {
     "name": "UCL",
     "icono": "https://i.ibb.co/c2ddPKW/ucl-24.jpg",
-    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/198284.ts"
-  },
-  {
-    "name": "GOL PLAY",
-    "icono": "https://i.ibb.co/Z2r6VX3/GOL-PLAY-en-DIRECTO-Online-y-en-vivo.png",
-    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/231766.ts"
-  },
-  {
-    "name": "VTV",
-    "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
-    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/33492.ts",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a"
-  },
-  {
-    "name": "VTV PLUS",
-    "icono": "https://i.ibb.co/hcG4t4G/Logo-VTV-Plus-nuevo.png",
-    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/198307.ts",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
+    "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
   },
   {
     "name": "GOL TV",
