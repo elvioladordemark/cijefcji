@@ -605,6 +605,13 @@
        	 {
     "name": "⚽ DEPORTES TYC Y TNT SPORTS",
     "samples": [
+	    {
+        "name": "TYC SPORTS",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3cmvxd9jsvvde816z4obc/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
+        "icono": "https://i.imgur.com/PfW2jhx.png"
+    },
 
     {
         "name": "TYC SPORT (PLAY 1)",
