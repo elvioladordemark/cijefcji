@@ -42,7 +42,7 @@
     "name": "⚽ELIMINATORIAS SUDAMERICANAS 2026",
     "samples": [
        {
-        "name": "PARAGUAY vs CHILE",
+        "name": "ECUADOR vs VENEZUELA",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
@@ -54,19 +54,12 @@
             }
         },
 	    {
-        "name": "BRASIL vs COLOMBIA",
+        "name": "URUGUAY vs ARGENTINA",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YWI4ZTdmMTBjMWQ4LWQ5NjktYTllNC03ZGYwLWIwZTljY2Vm/master.m3u8?md5=dYQTpmiVzrxVGxSMJHnF0g&expires=1742486512",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/DDq8PwrX/OIP-2.jpg"
-       },
-	    {
-        "name": "PERÚ vs BOLIVIA",
-        "url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/kV9dRghq/OIP-3.jpg"
-       }
+	    }
     ]
     },
  {
