@@ -2330,7 +2330,7 @@
     },
                                 {
         "name": "GRAN HERMANO CAM 3",
-        "url": "http://176.97.112.119:25461/live/test/test/163.m3u8",
+        "url": "http://176.97.112.119:25461/hls/test/test/163/60a5c2e80ad0a64a060ff36f1aa7123c/163_2470.ts",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
