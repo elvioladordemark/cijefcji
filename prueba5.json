@@ -43,19 +43,6 @@
     "name": "ELIMINATORIAS SUDAMERICANAS 2026",
     "samples": [
 	    {
-        "name": "BOLIVIA vs URUGUAY - EN VIVO",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
-        "icono": "https://i.ibb.co/PsRPFmTN/Rh2n-o-HGN-1290x760-1.jpg",
-       
-       "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-            }
-            },
-	    {
     "name": "VENEZUELA vs PERÚ",
     "icono": "https://i.ibb.co/HDYKDfDc/2-LBx6-Fm-Qk-1290x760-1.jpg",
     "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8"
