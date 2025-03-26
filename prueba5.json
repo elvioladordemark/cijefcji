@@ -39,59 +39,6 @@
     
        ]
   },
-	{
-    "name": "ELIMINATORIAS SUDAMERICANAS 2026",
-    "samples": [
-	    {
-    "name": "VENEZUELA vs PERÚ",
-    "icono": "https://i.ibb.co/HDYKDfDc/2-LBx6-Fm-Qk-1290x760-1.jpg",
-    "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8"
-  },
-	    {
-        "name": "COLOMBIA vs PARAGUAY - EN VIVO",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
-        "icono": "https://i.ibb.co/dJ7PDthB/Mg0j-T1a7f-1200x630-1.jpg",
-       
-       "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-            }
-            },
-	    {
-        "name": "ARGENTINA vs BRASIL",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0",
-        "icono": "https://i.ibb.co/0yS9p9fH/Bx-Jf-JUJTm-1290x760-1.jpg"    ,
-            "headers": {
-        "Accept": "*/*",
-        "Accept-Encoding": "gzip, deflate, br, zstd",
-        "Accept-Language": "es-US,es;q=0.,en-US;q=0.8,en;q=0.7,es-419;q=0.6",
-        "Connection": "keep-alive",
-        "Host": "chromecast.cvattv.com.ar",
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
-        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
-        "Sec-Ch-Ua-Mobile": "?0",
-        "Sec-Ch-Ua-Platform": "\"Windows\"",
-        "Sec-Fetch-Dest": "empty",
-        "Sec-Fetch-Mode": "cors",
-        "Sec-Fetch-Site": "cross-site",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.3"
-    }           
-},
-	    {
-        "name": "CHILE vs ECUADOR - 21 HS",
-        "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTE5NDJiZTQ3NDUwLTNmOGEtODdkNC0yOTE5LWJjZTBhNmQ3/master.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/m5ffMWjx/e-HNBtq0-SB-1290x760-1.jpg"
-	    }
-    ]
-    },
  {
     "name": "CANALES DE PARAGUAY",
     "samples": [
