@@ -2634,10 +2634,20 @@
     "url": "https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8"
   },
 	    {
-    "name": "MOVISTAR DEPORTES",
-    "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
-    "url": "https://u4c5a.pricesaskeloadsc.com:443/movistar_deportes_peru/tracks-v1a1/mono.m3u8?token=7493af3f1dc99e6ad0d4a0ee2ae72b17edacdec0-3b-1742894497-1742862097"
-	    }
+        "name": "GOL PERÚ",
+        "url": "http://magmaplayer.com/stream/m3u8/ZwH4KmRlAy8kBGRhBGxhZmRhAmAsZGp0ZmNm/hls/126.m3u8",
+        "icono": "https://i.ibb.co/sd4X8hcy/Caracol-Televisi-n-logo-2023.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    }
+    },
     ]
   },
 	{
