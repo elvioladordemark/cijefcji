@@ -2821,7 +2821,8 @@
         "Accept-Encoding": "gzip",
         
         "Connection": "Keep-Alive"
-    },
+    }
+	    },
   {
     "name": "GOL TV",
     "icono": "https://i.ibb.co/WBs0G8p/Goltv.png",
