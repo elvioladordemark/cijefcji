@@ -2850,11 +2850,20 @@
 	{
     "name": "🇨🇴CANALES DE COLOMBIA",
     "samples": [
-{
-    "name": "CARACOL",
-    "icono": "https://i.ibb.co/G4mV84yh/Caracol-Televisi-n-logo-2023.png",
-    "url": "http://magmaplayer.com/stream/m3u8/ZwH4KmRlAy8kBGRhBGxhZmRhAmAsZGp0ZmNm/hls/126.m3u8"
-  },
+	    {
+        "name": "CARACOL",
+        "url": "http://magmaplayer.com/stream/m3u8/ZwH4KmRlAy8kBGRhBGxhZmRhAmAsZGp0ZmNm/hls/126.m3u8",
+        "icono": "https://x.playerlatino.live/cine247.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    },
   {
     "name": "RCN CANAL",
     "icono": "https://i.postimg.cc/nch1m9zT/rcn.png",
