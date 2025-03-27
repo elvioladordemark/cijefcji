@@ -2550,22 +2550,7 @@
         "Sec-Fetch-Site": "cross-site",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
     }
-},
-    
-    {
-        "name": "ARGENTINISIMA SATELITAL",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_C/Argentinisima.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
-        "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png",
-         "headers": {
-        "Referer": "https://web.app.flow.com.ar/",
-    "Origin": "https://web.app.flow.com.ar",
-            "Host": "chromecast.cvattv.com.ar",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
-     
-      }
-    }
+}
    ]
             },
 	    {
