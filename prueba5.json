@@ -2808,11 +2808,20 @@
     "icono": "https://i.ibb.co/Z1M5q5gQ/sEW6C5G.png",
     "url": "https://cp.panelchs.com:1936/8034/8034/playlist.m3u8"
   },
-  {
-    "name": "EL CANAL DEL FÚTBOL",
-    "icono": "https://i.ibb.co/7pvyJMk/ecdf.webp",
-    "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/2364.ts"
-  },
+	    {
+        "name": "EL CANAL DEL FÚTBOL",
+        "url": "http://magmaplayer.com/stream/m3u8/ZmN4KmxmBS8kAwthZwDmYwR4AP4kAmMsZGp0ZmNm/hls/938.m3u8",
+        "icono": "https://i.ibb.co/7pvyJMk/ecdf.webp"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    },
   {
     "name": "GOL TV",
     "icono": "https://i.ibb.co/WBs0G8p/Goltv.png",
