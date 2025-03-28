@@ -751,6 +751,75 @@
                     ],
                     "tmdb_id": 24106,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Los Simpson",
+                    "genero": "Familia, Animación, Comedia",
+                    "descripcion": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+                    "anio": "1989",
+                    "iconPng": "https://image.tmdb.org/t/p/original/hKuiXx5eNObCLKe9BOl7O7ulKyg.png",
+                    "icono": "https://image.tmdb.org/t/p/original/u8BMLmwoc7YPHKSWawOOqC1c8lJ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Sin blanca navidad",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/57C5A9816E9D449F8496F3FA004DE258_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Bart, el genio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C99637FEB1D34717AD3DC20075F07362_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La odisea de Homer",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2069ABE5E00041EFB67F2BC3C07A79AE_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Hogar, agridulce hogar",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5E981E3692A845A8955F7A59FEF7FCB7_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Bart el General",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/663A6ACDF2054B3EB6F221AD2FB61C34_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El blues de la Mona Lisa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/663A6ACDF2054B3EB6F221AD2FB61C34_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El abominable hombre del bosque",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FC0E46B631304BF6A9002DF270CDC2F9_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La cabeza chiflada",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B73A70C76A1848F48C92F270779186FC_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Jacques, el rompecorazones",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A9164E4CCD9B4CC88CF63C0FF9317279_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Homer se va de juerga",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/655D68B7DFE94AEC85AA64C018BF7822_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 456,
+                    "total_seasons": 36
                 }
             ]
         },
