@@ -1937,6 +1937,60 @@
                     ],
                     "tmdb_id": 113988,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Bebé reno",
+                    "genero": "Drama",
+                    "descripcion": "Cuando un cómico en apuros tiene un gesto amable con una mujer vulnerable, desencadena una obsesión enfermiza que amenaza con destrozar la vida de ambos.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/fvVSrgIYc9dGlcKpnzpQHy52F84.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jw9nQ72ggrdQHFU3KbtegCi2KJP.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2qLYxCyxf4fim0X5OqM5FjZqWXu.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/37F933EA87AB4A58B82CAE1E0BD820D1_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F9A7AD0EA2B84321931C637269DEC4E9_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/08083487557548CA8A01B87A6B4F8AB0_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D1DA2B6FB7F142F19347A967845DB84D_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C466651DEFFC4AD3B532A9F7F4510F8D_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/402308CAD5EB446CB59C617031E14B79_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A5969CB57DB9498EA0D6F6220852D272_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 241259,
+                    "total_seasons": 1
                 }
             ]
         },
