@@ -1819,6 +1819,55 @@
                     ],
                     "tmdb_id": 249042,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Atrapados",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "La reportera Ema Garay, famosa por atrapar a criminales, se enfrenta a un dilema cuando el sospechoso de la desaparición de una joven resulta ser alguien cercano a ella.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/6E99IqeiJADyRtU9ErwAEptiIo8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/1ueEKgyPCWvOWwdPDo9A2ojU7Or.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4FXRxkYqL2bxHPQdL9zzRV4D4Po.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Vivimos en la oscuridad",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/505EB7404B124D72BD8440DE17BE8115_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "No puedes dañar un muerto",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2F6BF262F0454835BC60CC7E459087F2_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Culpable hasta que se demuestre lo contrario",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E295FA5D02E749DF898DD4EE0BDF7542_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El diablo es un maestro del disfraz",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0DF706ABB1CA47FD980DE1192975AA1A_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Vivir en el odio tiene un costo muy alto",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6B4D7DDE3098441AA8FC371E63136E83_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "No sabemos nada del mañana",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FBDB3E9C695840D2B56EAEC7CE751980_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 250312,
+                    "total_seasons": 1
                 }
             ]
         },
