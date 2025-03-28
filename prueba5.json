@@ -1477,7 +1477,22 @@
         
         "Connection": "Keep-Alive"
     }
+    },
+	     {
+        "name": "TELEMUNDO",
+        "url": "http://magmaplayer.com/stream/m3u8/BQx0Kmt4BS8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/888.m3u8",
+        "icono": "https://i.ibb.co/WvNvtgwz/Telemundo-logo-2018-svg.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
     }
+    },
         ]
 },
 {
