@@ -1868,6 +1868,50 @@
                     ],
                     "tmdb_id": 250312,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Monstruo: La historia de Jeffrey Dahmer",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "A lo largo de más de 10 años, el asesino convicto Jeffrey Dahmer acabó con la vida de 17 chicos y hombres jóvenes. ¿Pero cómo logró eludir a la justicia tanto tiempo?",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/6fYXEUkOdeJoX0jg7HkJf9bk1Cn.png",
+                    "icono": "https://image.tmdb.org/t/p/original/vlUMBgKO1HOwPMJwHnHzr99BHwN.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/5vUux2vNUTqwCzb7tVcH18XnsF.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Carne mala",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1BA9C967BA57492F8D2AF70E29D684C2_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Por favor, no te vayas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/408EB6BE77CE43188F3398F19F84BCE8_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Hacer un Dahmer",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/89C5FC3711DD4C57A5EF3CD73F0B6439_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La caja del buen chico",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1E39DEC2FA5046A0992935A7F11F7D5D_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Sangre en manos de otros",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1CA5453C53374A12B6D777F0E3FE534A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 113988,
+                    "total_seasons": 1
                 }
             ]
         },
