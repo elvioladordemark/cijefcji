@@ -1514,11 +1514,11 @@
   "name": "🐢CULTURA",
   "samples": [
     {
-      "name": "ANIMAL PLANET FLOW",
+      "name": "ANIMAL PLANET",
       "url": "https://chromecast.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd",
       "type": "CLEARKEY",
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4146a8ecbb0540dc807c6389ee87e0bc&key=0c3cdc1b3e4617c57361265e9fa4c5bd",
-      "icono": "https://i.ibb.co/TrkF2W7/images-1.png",
+      "icono": "https://i.ibb.co/4nr56B4Y/2018-Animal-Planet-logo-svg.png",
       "headers": {
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
