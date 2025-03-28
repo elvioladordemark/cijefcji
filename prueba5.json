@@ -1565,7 +1565,7 @@
       "name": "NATIONAL GEOGRAPHIC CHANNEL",
       "url": "http://magmaplayer.com/stream/m3u8/Awp3KmpjZ18lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/703.m3u8",
       "type": "HLS",
-        "icono": "https://i.ibb.co/Ypcd2C0/NG-Logo-White.png",
+        "icono": "https://i.ibb.co/4wFDvDGB/611bdefc78806.png",
       "headers": {
         "X-Hash": "9Cq5TjHoQI2bhDYMLZ2mhL8oyzEG-rQyFySKCqKDJ6HWOTTUpxaWiGnDfNjYDh37Rh4LBr9s_wIcgK4zqZwtM3Cqg2w63LnVHG6MshK2zklnAaWQNf-PXKWeasmbsA4_FknpoXRjhFZ6Vtaqsq0NPg",
         "X-Did": "cddfe5e8c019cb3c",
@@ -1577,7 +1577,7 @@
     }
        },
     {
-      "name": "DISCOVERY H &H",
+      "name": "DISCOVERY H&H",
       "url": "https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_C/DiscoveryHomeHealthHD.mpd",
       "type": "CLEARKEY",
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f",
