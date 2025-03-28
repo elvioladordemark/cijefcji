@@ -1526,11 +1526,11 @@
       }
     },
     {
-      "name": "HISTORY FLOW",
+      "name": "HISTORY",
       "url": "https://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd",
       "type": "CLEARKEY",
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db",
-      "icono": "https://i.ibb.co/mbb5YxW/Mikey-Kay-Films-Logo-8-1024x1024.png",
+      "icono": "https://i.ibb.co/cSf474qK/History-Logo-svg.png",
       "headers": {
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
