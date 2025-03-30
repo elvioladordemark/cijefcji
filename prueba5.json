@@ -4,16 +4,7 @@
     {
     "name": "⚽TIGO SPORTS SOLO EVENTOS",
     "samples": [
-		{
-        "name": "TIGO EN VIVO",
-        "url": "https://live.enhdtv.com:8081/8114/index.m3u8",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },
-	    {
-        "name": "TIGO INTERMEDIAS",
-        "url": "https://live.enhdtv.com:8081/8026/index.m3u8",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },
+		
        {
         "name": "EVENTOS1 TIGO FULL HD",
         "url": "https://sam-py-edge04.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
