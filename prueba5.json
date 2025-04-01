@@ -4,7 +4,21 @@
     {
     "name": "⚽TIGO SPORTS SOLO EVENTOS",
     "samples": [
-		
+		{
+        "name": "TIGO 24/7",
+        "url": "http://magmaplayer.com/stream/m3u8/AmDkKmxjAS8lBQNjBwD4AQb2LmuvBwqyZQN6AGx3MQbmAGuvBzV3ZQx6BGAyAy8kAmDmAQp/hls/904.m3u8",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    }
+    },
        {
         "name": "EVENTOS1 TIGO FULL HD",
         "url": "https://sam-py-edge04.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
