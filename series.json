@@ -2011,6 +2011,45 @@
                     ],
                     "tmdb_id": 241259,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Pulso",
+                    "genero": "Drama",
+                    "descripcion": "Un grupo de residentes de Urgencias lidia con sus problemas laborales y personales en un hospital de Miami sacudido por una polémica acusación.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/pMdUgird42mUkDjtIpXOouJU7TL.png",
+                    "icono": "https://image.tmdb.org/t/p/original/uGKTDr8ruc4IHGsEZ8wSQZpy2eN.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/52RLQclQ6XHiu6QiSKAwb58TmCs.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Abby",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1CED5961F9DD41AD88E1C395707648A9_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Tiempo a solas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C50E40DD2FD44866BEEDEFEEC5E6FEA6_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Luz",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E06E5C45CF0A45498598B22FC73EFC8D_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Los tratas y a la calle",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D6333D53A842411A8B7423E10A4A992B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 247784,
+                    "total_seasons": 1
                 }
             ]
         },
