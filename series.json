@@ -840,6 +840,75 @@
                     ],
                     "tmdb_id": 456,
                     "total_seasons": 36
+                },
+                {
+                    "nombre": "Jurassic World: Teoría del dinocaos",
+                    "genero": "Animación, Action & Adventure, Sci-Fi & Fantasy, Kids, Familia",
+                    "descripcion": "La pandilla del Campamento Cretácico se junta para desentrañar un misterio tras descubrir una conspiración global que pone en peligro a los dinosaurios… y a ellos mismos.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/2aJ1kgUiiNYG5UPGOYLgeO3LAmw.png",
+                    "icono": "https://image.tmdb.org/t/p/original/pOjg0y1DpXf7oIqYu5FCXTOnKJR.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7y31JWag4vsWtXZvcjmLUDJ6NSp.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Consecuencias",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6ACA7BE2477141F8B0B212C486B21DA4_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Área de servicio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/40AD7ABB96DF412489FC9FC7B28735A6_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Distracción en el rancho",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/73A7F6F30C2147E7924FDBC90E3F2D3A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Hermanos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D68762E4B1FE4487B79C7A32EDE24776_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "A medio camino",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E46FCEB6EF1D4B638C5EAD15B5D78A54_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Caída en picado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6D6B537733CB48D797F491001E8130D5_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Aquella noche",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/628CBD918CF7456E94F247F1CA9094CF_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La entrega",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/07C7B60A1D5540B9ACDF26D9A11ADDA6_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Entre la niebla",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1C3853829CA645BD88B99DDB53474B35_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "El fin del principio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/97C180DD5A3A4FB19C2D5D370F46A006_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 237512,
+                    "total_seasons": 3
                 }
             ]
         },
