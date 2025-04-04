@@ -938,6 +938,65 @@
                     ],
                     "tmdb_id": 237512,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Devil May Cry",
+                    "genero": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+                    "descripcion": "Cuando un misterioso villano amenaza con abrir las puertas del Infierno, un cazador de demonios endiabladamente atractivo podría ser la mejor baza para salvar al mundo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ct4zQL0VHxww0fG0rIw4k8i9jue.png",
+                    "icono": "https://image.tmdb.org/t/p/original/syY5tQzZDdiwGx71cj1Zz4rtrDL.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vLt3itMSHeJNTRktprQzVheOzUd.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Infierno",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/16ECB2C43C464345B3315D2ECE06E9EE_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Nuestra Señora de los Dolores",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EB691E17073347DCA55288746EE72839_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El camino profundo y salvaje",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FE082F557BB74877B227EA8EDF23CDBC_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Abandona toda esperanza",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0CB301BEED704AE89823014404F61BCE_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El descenso",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/823579673FF54E27B9BD87C6B985C416_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El primer círculo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2C175B548D6A4C1680490D5FB94944AC_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Ante las puertas del paraíso",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B9E20A5E866144DBA7947156D4D84FB0_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Un río de sangre hirviente",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9E39C95577D54489A4F711A718AE418C_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 235930,
+                    "total_seasons": 1
                 }
             ]
         },
