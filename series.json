@@ -491,6 +491,35 @@
             ]
         },
         {
+            "nombre": "Series de Crimen",
+            "series": [
+                {
+                    "nombre": "Karma",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Un fatídico accidente entrelaza las vidas de seis personas en esta historia de karma y misterio, en la que todos se deben enfrentar a sus propias verdades y oscuros lazos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/kqy7XGzkHovjEr9373rR8gPU9GC.png",
+                    "icono": "https://image.tmdb.org/t/p/original/kFx0FD0Cgns9OThcSkAmWYcnYzu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jXkWlIIFbkk0npBAykXz6I0R6s3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El hombre con deudas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/90362E0CD34B447386BCEEC0A53F1876_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 233686,
+                    "total_seasons": 1
+                }
+            ]
+        },
+        {
             "nombre": "Series Animadas",
             "series": [
                 {
