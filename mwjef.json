@@ -4,7 +4,7 @@
     {
     "name": "⚽TIGO SPORTS SOLO EVENTOS",
     "samples": [
-       {
+               {
         "name": "EVENTOS1 TIGO FULL HD",
         "url": "https://sam-py-edge04.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
@@ -20,11 +20,12 @@
     },
     {
         "name": "EVENTOS 3 PLAY TV PY HD",
-        "url": "https://sam-py-edge04.tigo.com.py/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+        "url": "https://sam-py-edge05.tigo.com.py/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
     },
+      
        {
         "name": "TIGO SOLO EVENTOS",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYzUGO1I2Y3kDNxETL4gzMh1yMxcDNtcTMwQTLiJWYjNTM1QzL.m3u8",
