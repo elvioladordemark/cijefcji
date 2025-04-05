@@ -2934,6 +2934,56 @@
   }
 ]
 },
+		{
+    "name": "🇲🇽CANALES DE MEXICO",
+    "samples": [
+	{
+      "name": "DISTRITO COMEDIA",
+    "icono": "https://static.wixstatic.com/media/799a49_a4715cf01e4940c69a6e80d16f02103f~mv2.png/v1/fill/w_420,h_420,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9.png",
+    "url": "http://magmaplayer.com/stream/m3u8/AwplKmV5Z18mBP4lAF45BP4kAwEsZGp0Zmt5/hls/293.m3u8"
+          ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+   }
+    },
+  {
+    "name": "BOLIVIA TV 2",
+    "icono": "https://i.ibb.co/S7cFTqXC/unnamed-1.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8"
+  },
+  {
+    "name": "BOLIVISIÓN",
+    "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
+    "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8"
+  },
+  {
+    "name": "ATB",
+    "icono": "https://i.postimg.cc/90mrPFYc/ATB-B.jpg",
+    "url": "http://186.121.206.197/live/daniel/index.m3u8"
+  },
+  {
+    "name": "CADENA A",
+    "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
+    "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8"
+  },
+  {
+    "name": "MEGA TV",
+    "icono": "https://i.ibb.co/TxqSrMpc/3d4uiZF.png",
+    "url": "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8"
+  },
+  {
+    "name": "RED ADVENIR",
+    "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
+    "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8"
+  }
+]
+},
 	{
     "name": "🇨🇴CANALES DE COLOMBIA",
     "samples": [
