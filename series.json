@@ -1535,6 +1535,45 @@
             ]
         },
         {
+            "nombre": "Series de Ciencia Ficción",
+            "series": [
+                {
+                    "nombre": "Black Mirror",
+                    "genero": "Sci-Fi & Fantasy, Drama, Misterio",
+                    "descripcion": "Antología que muestra el lado oscuro de la vida y la tecnología.",
+                    "anio": "2011",
+                    "iconPng": "https://image.tmdb.org/t/p/original/nDbdbw0KntwVV10C5hNDzy0VPXC.png",
+                    "icono": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El himno nacional",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/755285780514448AB56AED5088B02B82_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "15 millones de méritos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/96B43D50E0FE48AC852A63D67DB30D85_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Toda tu historia",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/657EE58E0878429B9BAE0C602EDD27AC_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 42009,
+                    "total_seasons": 7
+                }
+            ]
+        },
+        {
             "nombre": "Series de Drama",
             "series": [
                 {
