@@ -808,7 +808,7 @@
 	    {
         "name": "DIRECTV SPORTS",
         "url": "https://streamtp4.com/global1.php?stream=dsports",
-		       "type": "HLS",
+		       "type": "WEBVIEW",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
      
     },
