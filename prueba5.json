@@ -719,8 +719,8 @@
     },
           {
         "name": "DISNEY+ 9",
-        "url": "https://director.taihotel.asia/v3/director/VE1M2U3MDMzNjk1NjMwLWZhYmEtNWVlNC0yODA3LWQ0NjA2YjNj/master.m3u8",
-        "type": "HLS",
+        "url": "https://streamsvv1.su/global/player.php?channel=disney9",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
