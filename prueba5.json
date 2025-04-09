@@ -704,8 +704,8 @@
     },
          {
         "name": "DISNEY+ 7",
-        "url": "https://director.taihotel.asia/v3/director/VE1OTZjNzQwNmQ4NDkwLTA2MzgtMjI1NC0wZDVhLTY3MzZkYTBh/master.m3u8",
-        "type": "HLS",
+        "url": "//dpstream2.my/global1.html?channel=disney7",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
