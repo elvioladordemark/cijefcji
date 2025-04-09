@@ -3351,6 +3351,65 @@
                     ],
                     "tmdb_id": 77169,
                     "total_seasons": 6
+                },
+                {
+                    "nombre": "The Bondsman",
+                    "genero": "Action & Adventure, Sci-Fi & Fantasy, Comedia",
+                    "descripcion": "Hub Halloran, un cazarrecompensas asesinado, es resucitado por el diablo para cazar demonios que se han escapado de la prisión del infierno. Persiguiendo a esos demonios con la ayuda y el impedimento de su familia desunida, Hub descubre cómo sus propios pecados condenaron su alma, lo que le empuja a buscar una segunda oportunidad en la vida, el amor y la música country.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/qbJ3aDSQdjttn3iCHL4X0L61Qas.png",
+                    "icono": "https://image.tmdb.org/t/p/original/A85y1MJ2v6y6gt76UJnIExVEaex.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vfEtEzBIn0wwWM7ppzJCGEZUSu2.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Olla de Oro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/12865C08F6FE475FAF6C1B5BC4CBB9ED_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Valacor",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1B28627335A5486F8AEB7B3A5D6235AA_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Marphos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AD93C683143C4C799D6DEBF5FA653507_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Erdos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/414E352397524880989610C2CEE52330_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Slypharis",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9AE06F9D893249EC99125938034036E3_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Revelaciones",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7AC1624455D54843A392F21D3BABC494_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Pyralis",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C64072F5E41745879A418ACA19DE9937_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Lilith",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7E9E422BC3DF44EEBE2D691175A38143_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 229711,
+                    "total_seasons": 1
                 }
             ]
         },
