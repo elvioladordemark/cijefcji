@@ -676,35 +676,35 @@
            {
         "name": "DISNEY+ 2",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTEyZGRlMzE1ZGU1LTZkZTgtNDMxNC1hZmZkLTFlZjdhMGE4/master.m3u8?md5=fh4xVyHgb0p3AS-lfeCP6Q&expires=1744153703",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
            },
            {
         "name": "DISNEY+ 3",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MmQ4MDZhN2ZhOWE4LWE1ODgtZDcxNC1jYTZkLWEyNDMyMWY1/master.m3u8",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
          {
         "name": "DISNEY+ 4",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTRkMjdlNzZjNmU0LTliNWEtZmE0NC0yNTRjLWQzNjU3NDBj/master.m3u8",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
        {
         "name": "DISNEY+ 5",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ODcwZmI3NGJiY2FjLTA5MDgtOTVlNC1jYjMwLTE2ZGI5Mjll/master.m3u8",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
        {
         "name": "DISNEY+ 6",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MGE4OTE5Y2ZjNmJjLTY4YTgtM2IwNC1hN2NhLWI1YjY4NmRj/master.m3u8",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
@@ -718,7 +718,7 @@
           {
         "name": "DISNEY+ 8",
         "url": "https://director.taihotel.asia/v3/director/VE1OWQ0OTJiNGYwZTMyLWQyMDgtZGE0NC03YzgzLTM2NzUxZTQz/master.m3u8",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
@@ -732,21 +732,21 @@
           {
         "name": "DISNEY+ 10",
         "url": "https://director.taihotel.asia/v3/director/VE1Y2VjMzQwZDYyZjc3LTQ4YzktOTkxNC1iZDdhLTk3NzU4YmFj/master.m3u8",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
        {
         "name": "DISNEY+ 11",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CZlNjNkVzY3cTO0gTLwQGMi1yN2UDNtQjZidTLxUmNygzNwU2L.m3u8",
-        "type": "HLS",
+        "type": "WEBVIEW",
          "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
 	       
        },
        {
         "name": "DISNEY+ 12",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NmU4ODBlOTZhZWQyLWMyOWItNzM4NC01YjNhLTIzNzA1OGQ2/master.m3u8",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
@@ -760,48 +760,48 @@
        {
         "name": "DISNEY+ 14",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OGU1NmQ1MDU2M2I3LTA0N2ItZjM2NC1kNjE3LTdjYzUyOTQ5/master.m3u8",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
        {
         "name": "DISNEY+ 15",
         "url": "https://director.taihotel.asia/v3/director/VE1YjM1N2MwNmRjOTdiLTMwM2EtYzc3NC1mN2MzLTY0NjVjNDNk/master.m3u8?md5=xle2LfZbLrzsW5lzo3iLnA&expires=1741538802",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
        {
         "name": "DISNEY+ 16",
         "url": "https://director.taihotel.asia/v3/director/VE1NTg4ZjdkMmVhOTJiLTZhMzgtYzE0NC04M2I4LThmNDZhNWNk/master.m3u8?md5=HzGt0L3YJpBQ9FgUU9SOFQ&expires=1741539539",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
        {
         "name": "DISNEY+ 17",
         "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNjZ2MlFjMiV2N0kTL4MmZ40CMwEGNtUGNlRWL1M2N2cTM4UzL.m3u8",
-        "type": "HLS",
+        "type": "WEBVIEW",
            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
        {
         "name": "DISNEY+ 18",
         "url": "https://director.taihotel.asia/v3/director/VE1ZDllOWI3NWRiNTM5LWZjN2EtODllNC1kZjYwLTIwMWQ1ZTU0/master.m3u8?md5=5OQ1LqLOWMmJOcZosDW4gg&expires=1741540388",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
        {
         "name": "DISNEY+ 19",
         "url": "https://director.taihotel.asia/v3/director/VE1MjI1NzVlMTk0OTcxLWMyZjktNTNkNC1mNzM4LTE0YzEzODJm/master.m3u8?md5=bqVnw4vjjvSFhV3OtPtqbQ&expires=1741540424",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
        {
         "name": "DISNEY+ 20",
         "url": "https://director.taihotel.asia/v3/director/VE1YmIzNTlkNDY1NmQ2LWVlNTktZTZhNC0wNDk1LWI4MWI4ZDZm/master.m3u8?md5=NhS17S-BNAzC9m8yLmdi8A&expires=1741540456",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     }
@@ -2379,9 +2379,9 @@
     "samples": [
 	    {
         "name": "GRAN HERMANO MULTICAM",
-        "url": "hhttps://streamtp4.com/global1.php?stream=grahermanocam1",
+        "url": "https://streamtp4.com/global1.php?stream=granhermanomulticam",
         "type": "WEBVIEW",
-        "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
+         "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
     },
 	    {
         "name": "AMERICA TV ",
