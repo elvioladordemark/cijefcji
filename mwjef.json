@@ -797,11 +797,21 @@
     {
     "name": "⚽ DEPORTES DIRECTV ARG",
     "samples": [
-           {
-        "name": "DIRECTV SPORTS 1",
-        "url": "https://director.taihotel.asia:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZ0kzN5Q2MiFmZidTL5YmMi1CZ2QDNtUjY2cTLygDMldTOldzL.m3u8",
-       "icono": "https://i.postimg.cc/jjWWdTvp/directv-sports-logo-6-F86-DBD521-seeklogo-com.png"
-           },
+             {
+        "name": "DIRECTV SPORTS",
+        "url": "http://magmaplayer.com/stream/m3u8/Zmp0KmZ2BS8kBQRhBGRhBQDhAQEsZGp0AQR2/hls/368.m3u8",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    }
+    },
         {
         "name": "DIRECTV SPORTS 2",
         "url": "http://magmaplayer.com/stream/m3u8/ZGp0KmZkBI8kAmxhAwNhZwZ5YwWsZGp0ZwVj/hls/319.m3u8",
