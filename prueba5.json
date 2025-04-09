@@ -2378,6 +2378,12 @@
        "name": "CANALES DE ARGENTINA",
     "samples": [
 	    {
+        "name": "GRAN HERMANO MULTICAM",
+        "url": "https://florcd.pricesaskeloadsc.com/global/granhermanomulticam/index.m3u8?token=0e02f8642485089a220ccda73f0a12ebd01789c0-98-1744231401-1744199001&ip=179.60.239.29",
+        "type": "WEBVIEW",
+        "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
+    },
+	    {
         "name": "AMERICA TV ",
         "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
         "type": "CLEARKEY",
