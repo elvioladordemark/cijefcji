@@ -689,7 +689,7 @@
            {
         "name": "DISNEY+ 3",
         "url": "dpstream2.my/global1.html?channel=disney3",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
