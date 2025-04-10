@@ -676,7 +676,7 @@
     {
         "name": "DISNEY+ 1",
         "url": "https://streamtp4.com/global1.php?stream=disney1",
-        "type": "CLEARKEY",
+        "type": "WEBVIEW",
          "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
            {
@@ -731,7 +731,7 @@
           {
         "name": "DISNEY+ 9",
         "url": "https://streamsvv1.su/global/player.php?channel=disney9",
-        "type": "WEBVIEW",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
