@@ -21,7 +21,8 @@
     "headers": {
 
 			    "Origin": "https://www.tigosports.com.py",
-			    "Referer": "https://www.tigosports.com.py/"
+			    "Referer": "https://www.tigosports.com.py/",
+	    "User-Agent": "Mozilla/5.0"
 		    }
     },
     {
