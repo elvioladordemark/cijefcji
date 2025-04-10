@@ -2830,6 +2830,55 @@
                     ],
                     "tmdb_id": 207411,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Peaky Blinders",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Una familia de pandilleros asentada en Birmingham, Reino Unido, tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.",
+                    "anio": "2013",
+                    "iconPng": "https://image.tmdb.org/t/p/original/lTZusGQQ7G3gaUcUedCEIJ2VNMW.png",
+                    "icono": "https://image.tmdb.org/t/p/original/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/or7wKwv1IT6LEOktt395O5qi7e.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/23906D87131640AD9189AD485E5B98CC_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0F4D902DBAC14A91B072DE0218628154_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5CA632C33A214C03AEB06A1D458B576A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/49268A02E5A44EB19BFDD0867DE51F02_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7EAEF19D32F94C5BBA64308867EAA42A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6E0A57C401E14E82B5A05F5034ED25E9_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 60574,
+                    "total_seasons": 6
                 }
             ]
         },
