@@ -697,11 +697,11 @@
         "type": "WEBVIEW",
        "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
-    {
+	    {
         "name": "DISNEY+ 5",
         "url": "https://la12hd.com/vivo/canal.php?stream=disney5",
         "type": "WEBVIEW",
-       "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
+     "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
     {
         "name": "DISNEY+ 6",
@@ -742,12 +742,6 @@
     {
         "name": "DISNEY+ 12",
         "url": "https://la12hd.com/vivo/canal.php?stream=disney12",
-        "type": "WEBVIEW",
-     "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-    },
-	    {
-        "name": "DISNEY+ 5",
-        "url": "https://la12hd.com/vivo/canal.php?stream=disney5",
         "type": "WEBVIEW",
      "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
     },
