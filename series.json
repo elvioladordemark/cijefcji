@@ -3454,7 +3454,38 @@
                         {
                             "nombre": "Temporada 3",
                             "numero_temporada": 3,
-                            "capitulos": []
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Regreso a casa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CE04604F9CD04C90B4C640D37DFDCC52_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "De dos en dos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F2C95E07E98C49419ACF588869C63702_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Médico, cúrate a ti mismo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4E8ED978AA264CD788F172D126A524A6_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Limpieza, parte 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B156837C120D4FFF994A13A7CBB1C463_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Tensión en el campamento",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3D7FB49B65514DC7A654F8A7F3C0A469_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Oídos para oír",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F423E3B8C0104AD0AE1485F99A4B7957_media.mp4"
+                                }
+                            ]
                         }
                     ],
                     "tmdb_id": 85077,
