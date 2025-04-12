@@ -792,9 +792,14 @@
             },
             {
                 "name": "SPORTV 1",
-                "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CO2UmYihzM1UGO0EWL2EmN50iMkBDNtEmZ0ITL4IjZldjNhlzL.m3u8",
+                "url": "https://futebolhoje.org/sportv/video.m3u8",
                 "type": "HLS",
-                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
+                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+                "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
             },
             {
                 "name": "SPORTV 2",
