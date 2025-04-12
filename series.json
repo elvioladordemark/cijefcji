@@ -3794,6 +3794,50 @@
                     ],
                     "tmdb_id": 284792,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Chernobyl",
+                    "genero": "Drama",
+                    "descripcion": "En Abril de 1986, la Central Nuclear de Chernóbil en Ucrania (en aquel entonces, la Unión Soviética), sufrió una explosión masiva que liberó material radioactivo en Bielorrusia, Rusia, Ucrania, así como en zonas de Escandinavia y Europa Central. La serie relata lo que aconteció en 1986, en uno de los mayores desastres provocados por el hombre en la historia reciente, así como los sacrificios realizados para salvar al continente de un desastre sin precedentes.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/f7kz7QLMMfBnM9sMfri4q6FhuvE.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "1:23:45",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2E7D08C1787D40AFA4C1318D8011D773_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Por favor, mantengan la calma",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/83AA47DAC6494BB09581687F57C33128_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Tierra, ábrete",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6213ED6BD881413AA65241D7514124FA_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La felicidad de la humanidad",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D7B4CCF1AE734EF3B1446F33F2FD20D3_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Vichnaya Pamyat",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D37D664927434B2AA5EF1C034F54814F_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 87108,
+                    "total_seasons": 1
                 }
             ]
         },
