@@ -741,13 +741,11 @@
     {
         "name": "⚽ DEPORTES BRASIL",
         "samples": [
-          
             {
                 "name": "PREMIERE CLUBES",
                 "url": "https://futebolhoje.org/premiereclubes/video.m3u8",
-               "type": "HLS",
-                "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
-        ,
+                "type": "HLS",
+                "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg",
                 "headers": {
                     "Referer": "https://embedcanaistv.com/",
                     "Origin": "https://embedcanaistv.com",
@@ -756,11 +754,9 @@
             },
             {
                 "name": "PREMIERE 2",
-                  "url": "https://futebolhoje.org/premiere2/video.m3u8",
+                "url": "https://futebolhoje.org/premiere2/video.m3u8",
                 "type": "HLS",
-            
-                "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
-         ,
+                "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg",
                 "headers": {
                     "Referer": "https://embedcanaistv.com/",
                     "Origin": "https://embedcanaistv.com",
@@ -769,10 +765,9 @@
             },
             {
                 "name": "PREMIERE 3",
-            "url": "https://futebolhoje.org/premiere3/video.m3u8",
-         "type": "HLS",
-                "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
-          ,
+                "url": "https://futebolhoje.org/premiere3/video.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg",
                 "headers": {
                     "Referer": "https://embedcanaistv.com/",
                     "Origin": "https://embedcanaistv.com",
@@ -781,10 +776,9 @@
             },
             {
                 "name": "PREMIERE 4",
-               "url": "https://futebolhoje.org/premiere4/video.m3u8",
-           "type": "HLS",
-                "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
-         ,
+                "url": "https://futebolhoje.org/premiere4/video.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg",
                 "headers": {
                     "Referer": "https://embedcanaistv.com/",
                     "Origin": "https://embedcanaistv.com",
@@ -793,10 +787,9 @@
             },
             {
                 "name": "PREMIERE 5",
-                 "url": "https://futebolhoje.org/premiere5/video.m3u8",
-         "type": "HLS",
-                "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
-           ,
+                "url": "https://futebolhoje.org/premiere5/video.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg",
                 "headers": {
                     "Referer": "https://embedcanaistv.com/",
                     "Origin": "https://embedcanaistv.com",
@@ -805,8 +798,8 @@
             },
             {
                 "name": "PREMIERE 6",
-                    "url": "https://futebolhoje.org/premiere6/video.m3u8",
-            "type": "HLS",
+                "url": "https://futebolhoje.org/premiere6/video.m3u8",
+                "type": "HLS",
                 "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg",
                 "headers": {
                     "Referer": "https://embedcanaistv.com/",
@@ -829,9 +822,8 @@
                 "name": "SPORTV 2",
                 "url": "https://futebolhoje.org/sportv2/video.m3u8",
                 "type": "HLS",
-            
                 "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
-                  "headers": {
+                "headers": {
                     "Referer": "https://embedcanaistv.com/",
                     "Origin": "https://embedcanaistv.com",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
@@ -841,8 +833,8 @@
                 "name": "SPORTV 3",
                 "url": "https://futebolhoje.org/sportv3/video.m3u8",
                 "type": "HLS",
-              "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
-                  "headers": {
+                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+                "headers": {
                     "Referer": "https://embedcanaistv.com/",
                     "Origin": "https://embedcanaistv.com",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
@@ -2892,6 +2884,17 @@
                 "name": "EL TRECE",
                 "icono": "https://i.ibb.co/v6xyk8yY/1662578.png",
                 "url": "http://190.2.212.209:8050/play/a0nf"
+            },
+            {
+                "name": "win",
+                "url": "https://cdn9.vivozytv.com/hotflix/winplus/index.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/2560px-Win_Sports_nuevo_logo.svg.png",
+                "headers": {
+                    "Referer": "https://envivo1.com/",
+                    "Origin": "https://envivo1.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+                }
             }
         ]
     }
