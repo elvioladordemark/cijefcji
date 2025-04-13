@@ -44,7 +44,20 @@
 			    "Referer": "https://www.tigosports.com.py/"
 		    }
 	    }
+	    ]
+  },
+
+	   {
+    "name": "📺 PRUEBA PARA EVENTOS",
+    "samples": [
+
+      {
+        "name": "EVENTOS 1 PRUEBA",
+        "url": "http://tv.zeuspro.xyz:8080/live/jcoronado25/d41cb84b2988/102111.m3u8",
+        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
+    },
        ]
+	    
   },
 
 	   {
