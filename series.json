@@ -3843,6 +3843,30 @@
                     ],
                     "tmdb_id": 194764,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Senna",
+                    "genero": "Drama",
+                    "descripcion": "El brasileño Ayrton Senna, apasionado de los coches desde niño, se convirtió en una leyenda deportiva... hasta que una tragedia truncó sus sueños y cambió la F1 para siempre.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/mcSHjhaOzKbq1QKcazBxkY1lrvI.png",
+                    "icono": "https://image.tmdb.org/t/p/original/3WMHCcYR2pVWyc85h3kLev20nbk.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/pP9Or3dN8k0go1G2OSldcwBpUFO.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Vocación",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7F19B666EFA644688972C96E40C6943C_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 211039,
+                    "total_seasons": 1
                 }
             ]
         },
