@@ -3990,6 +3990,65 @@
                     ],
                     "tmdb_id": 275388,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Paradise",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Paradise está ambientada en una localidad tranquila entre cuyos habitantes se encuentran algunas de las personas más prominentes del mundo. Pero la calma da paso a la tempestad cuando se comete un impactante asesinato y da comienzo una delicada investigación.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/arhU0k5Kdt229zuZFCY1CgvzZvD.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8vuX1Crb5pH2oDIghY3d3jtwXDa.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lYeiSMn7OwBE4ycaVPWIFr3E5Dq.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Wildcat ha caído",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EACFA5A53C53462AB39774892789ED70_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sinatra",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E55E4BABD90B4BE79FEFC24DF8C8049A_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La arquitecta del bienestar",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2CA0320C5EE84DBBA536CB843C387767_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Agente Billy Pace",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FA078A48703D46AAAA697CD7FC8582A5_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "En los palacios de los reyes coronados",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A8472876A4BC4035AD80CABD6EDFDD07_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Pediste un milagro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/45B9359FACF043659034DA6D0128F28E_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El día",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DA07A0FD03B74D3284240F7F549B8502_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El hombre que guardaba los secretos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/35F081AB67924FB894CDBA830D282248_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 245927,
+                    "total_seasons": 1
                 }
             ]
         },
