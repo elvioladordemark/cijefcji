@@ -3892,6 +3892,55 @@
                     ],
                     "tmdb_id": 211039,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La cúpula de cristal",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Cuando la hija de una amiga desaparece, la criminóloga Lejla se une a la búsqueda… y se enfrenta al doloroso trauma de su propio secuestro durante la infancia.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/oYSKM4g0SeD2FEG90ESoDk1Nx5d.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hkoFjr5t3iJUzlDSvs9rF9Dl2PD.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/w8NsengOrWLapYBVutr52gwWMio.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/66DAB604EC724AA69101752958DBD8A1_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5980714BD54E4BB9B04E0B75C4655A56_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/76E9EB6F461F42CD8E1FFD172D00384A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/44F0609240D14A2887714051DE307BC7_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/76E9EB6F461F42CD8E1FFD172D00384A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D031DB2B192548B2ACCD262097E107D7_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 275388,
+                    "total_seasons": 1
                 }
             ]
         },
