@@ -598,6 +598,55 @@
                     ],
                     "tmdb_id": 100088,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "El jardinero",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "La madre de Elmer se sirve de la insensibilidad de su hijo para convertirlo en un matón y usar su vivero como tapadera... Pero Elmer se enamora y el negocio se tambalea.",
+                    "anio": "2025",
+                    "iconPng": "https://occ-0-3011-116.1.nflxso.net/dnm/api/v6/o2M_TYoF046JBuAQbikX0EyO_LY/AAAABR8GZwac2Ep8b6QV5lQ0DRhwdzZmZbiaa-HZmhcg9LjkX0VpvculdW__6NrtW0SVzePjMjWtq9N2F8_PVYkaY3AZym95K23ZFQ92XQSSBX0cChWUKkYZdjUX-WrRigiqXf14NxOivBYpFSKFuW9LV1mPulG-F6SwjdZp6lpUfQIV5JEtTSVOJGwgRw.png?r=bdb",
+                    "icono": "https://image.tmdb.org/t/p/original/8nEYffm7XDQXSGoh1Ce0jvd45AO.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/mhRhipgo5ACKcoHMCOaD6a7h8gs.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2F2BE3C82F2A4DEC885A9A63E66DD9E9_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/64571E3293884EEE9E38333645E585E2_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6789C3CE1B1C4BDB9EDB77711C7CF89B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A3E74EF0126E4A4A832AA03AC724911E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EE85C0EF6F6A4A7FB52EA87DF54A6358_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/ED213CB86BC74C94B53974B06CDD84EE_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 241883,
+                    "total_seasons": 1
                 }
             ]
         },
