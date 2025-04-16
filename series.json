@@ -4,65 +4,6 @@
             "nombre": "RECOMENDADOS",
             "series": [
                 {
-                    "nombre": "Daredevil: Born Again",
-                    "genero": "Drama, Crimen",
-                    "descripcion": "Matt Murdock, un abogado ciego con habilidades super desarrolladas lucha por la justicia desde su ajetreado bufete mientras el antiguo jefe mafioso Wilson Fisk emprende una carrera política en Nueva York. Cuando sus identidades pasadas empiezan a salir a la luz, ambos se ven abocados a un enfrentamiento inevitable.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/23zbPU6u5TUdyrYXWs8Jxhqhiy9.png",
-                    "icono": "https://image.tmdb.org/t/p/original/9b6XFApT34dkGrmOZnTk7noyNx8.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hrsRczdsAHBLTDzlIqt82bxY0Tt.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Media hora en el cielo",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BBC96109C58648B88F061A01534DB892_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Apariencias",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A3669E96346E4F31B3F0B55359807A51_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "En su seno",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/99767A53492A4596A753DCA5304879DD_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Sic Semper Systema",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7203B60300124A55A8499F3DA7A77AC8_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Con intereses",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/890911F3A18A434C8EDE930901EC8406_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Exceso de fuerza",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0BFA5C25A97246298329D5EAA507C82D_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Por amor al arte",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DF3541CDC7DD4A11B5F01EC169942EC7_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "La isla de la alegría",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0357099C09914667BB1DDDEAD83B39CD_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 202555,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "1923",
                     "genero": "Drama, Western",
                     "descripcion": "Sigue a una nueva generación de la familia Dutton a principios del siglo XX cuando las pandemias, la sequía histórica, el fin de la Prohibición y la Gran Depresión plagan el oeste montañoso y los Dutton que lo llaman hogar.",
