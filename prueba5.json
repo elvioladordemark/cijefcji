@@ -605,7 +605,7 @@
             {
                 "name": "DISNEY+ 8",
                 "url": "https://dtvlivegratis.com/stream.php?stream=disney8",
-                "type": "WEBVIEW",
+                "type": "HLS",
                 "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
             },
             {
