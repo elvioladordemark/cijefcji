@@ -2206,6 +2206,45 @@
                     ],
                     "tmdb_id": 42009,
                     "total_seasons": 7
+                },
+                {
+                    "nombre": "Proyecto ovni",
+                    "genero": "Comedia, Drama, Sci-Fi & Fantasy",
+                    "descripcion": "Un presentador de televisión engreído y un ufólogo de un pequeño pueblo trabajan para descubrir los orígenes de un supuesto avistamiento de ovnis, dividiendo a la nación en una tormenta de dudas y creencias.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4OZSfJL3ltFr1TRFQnMaebdxvY4.png",
+                    "icono": "https://image.tmdb.org/t/p/original/tOXaGAoGZZexkc9slglwxnyg4Tj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1kDcpOzVcyqqP0UXj0kX8WIOIY7.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0D1E6F1F8EF64CCEB3EB337B09315C87_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/88D97F7CBFFD421AA7CA60AB964F8E79_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/36B6186D625949ABB5EC282C99C40929_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/05BA1235FE404CEEAFD14A26BBDEA0B7_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 252591,
+                    "total_seasons": 1
                 }
             ]
         },
