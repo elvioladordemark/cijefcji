@@ -2380,7 +2380,19 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            }
+            },
+            {
+                "name": "TELEMAX",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
+                "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
         ]
     },
     {
