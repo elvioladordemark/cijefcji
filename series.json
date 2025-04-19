@@ -4932,6 +4932,40 @@
                     ],
                     "tmdb_id": 229711,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El juego de la muerte",
+                    "genero": "Drama, Sci-Fi & Fantasy",
+                    "descripcion": "Cuando está a punto de ir al infierno, Yee-jae debe pasar por doce vidas y doce muertes en este drama sobre la reencarnación.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/r20enk9QfWeTXWECSI8na4vBp0S.png",
+                    "icono": "https://image.tmdb.org/t/p/original/4Gh8Iz63uc9HZwq925B1Fk0qVz3.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/icy4p7Nb33UU2S5eHvlBcE0Dvmi.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Muerte",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1AC566AB4E6E4B559488DFEAF35EA8A0_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La razón por la que irás al infierno",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/186BFFA8E88045C58F82854484E5EE30_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La muerte no puede quitarnos nada",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9259333C6E664391B95CC9068057C9B8_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 218230,
+                    "total_seasons": 1
                 }
             ]
         },
