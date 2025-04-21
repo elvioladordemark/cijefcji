@@ -14,7 +14,7 @@
     },
     {
         "name": "EVENTOS 2 TIGO FULL HD",
-        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/01_3508407031/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd?|referer=https://www.tigosports.com.py/|origin=https://www.tigosports.com.py",
+        "url": "https://sam-py-edge05.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
@@ -2150,6 +2150,21 @@
         "Connection": "Keep-Alive"
    }
     },
+    {
+        "name": "SMALVILLE",
+        "url": "http://magmaplayer.com/stream/m3u8/Zmt3KmZ0AS8lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/344.m3u8",
+        "icono": "https://i.ibb.co/S48tv2qb/R-4.png"
+    ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    }
+     },		
     {
         "name": "TERROR 24/7",
         "url": "https://gtechtecnologia.com/telelatino/play/196.m3u8",
