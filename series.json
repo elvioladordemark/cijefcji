@@ -4206,6 +4206,55 @@
                     ],
                     "tmdb_id": 157744,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Detrás de sus ojos",
+                    "genero": "Drama",
+                    "descripcion": "Una madre soltera se adentra en un mundo de retorcidos juegos psicológicos cuando se lía con su jefe, un psiquiatra, y se hace amiga en secreto de su misteriosa esposa.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/yEEywv51hSPh4caqeMLLozsKcK.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sfd90NIf778KoBFmpdBTow4xTm7.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wfNsfYYxPav5Xu5NSaS7Ke8zZnP.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Encuentros casuales",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/C9C5139ED65A48A885909CA6446C222D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sueño lúcido",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/DFBCBAFB70A3449FB067611D0BA2C781_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La primera puerta",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/0FF5C6AB65B3448FA3FD4210FA03236D_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Rob",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8A736DE63C8A4ADF96F08C63792891D7_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La segunda puerta",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5CA42A92F4A345FF908A4F694BA9E92C_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Detrás de sus ojos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B514CBA118DB4B1289C33489049FFB1E_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 97173,
+                    "total_seasons": 1
                 }
             ]
         },
