@@ -1050,24 +1050,21 @@
     },
 	     {
         "name": "UFC",
-        "uri": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/592045.ts",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83=54f2fdc83c1da33cd9269bf21e08218c",
-        "icono": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp"
+        "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/592045.ts",
+        "type": "HLS",
+		     "icono": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp"
     },
     {
         "name": "GOLF CHANNELS",
-        "uri": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/595893.ts",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83=54f2fdc83c1da33cd9269bf21e08218c",
-        "icono": "https://i.postimg.cc/mgWHrPr1/e09a0e64-f0e2-4bea-90a1-5e60a1a4dd5c.jpg"
+        "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/595893.ts",
+        "type": "HLS",
+     "icono": "https://i.postimg.cc/mgWHrPr1/e09a0e64-f0e2-4bea-90a1-5e60a1a4dd5c.jpg"
     },
     {
         "name": "TENNIS EVENTOS",
-        "uri": "https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83=54f2fdc83c1da33cd9269bf21e08218c",
-        "icono": "https://i.postimg.cc/WpDZMj1v/Whats-App-Image-2024-11-24-at-23-13-30.jpg"
+        "url": "https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8",
+      "type": "HLS",
+	    "icono": "https://i.postimg.cc/WpDZMj1v/Whats-App-Image-2024-11-24-at-23-13-30.jpg"
     }
 ]
 },
