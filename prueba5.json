@@ -1425,6 +1425,21 @@
                 "icono": "https://i.ibb.co/TVFBq72/turcas-logo-3203466-C6-C-seeklogo-com.png"
             },
             {
+        "name": "PASIONES",
+        "url": "http://magmaplayer.com/stream/m3u8/AwN5Kmp1A18kAmxhAwNhZwZ5YwVmKmR3AQHmAj/hls/757.m3u8",
+        "icono": "https://i.ibb.co/MDddQFWH/Pasiones-Tv-logo-svg.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+    }
+    },
+            {
                 "name": "TLN",
                 "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
                 "type": "CLEARKEY",
