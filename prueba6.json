@@ -1044,19 +1044,25 @@
 	     {
         "name": "UFC",
         "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/592045.ts",
-        "type": "HLS",
+        "type": "CLEARKEY",
 		     "icono": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp"
     },
     {
         "name": "GOLF CHANNELS",
         "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/595893.ts",
-        "type": "HLS",
+        "type": "CLEARKEY",
      "icono": "https://i.postimg.cc/mgWHrPr1/e09a0e64-f0e2-4bea-90a1-5e60a1a4dd5c.jpg"
     },
     {
         "name": "TENNIS EVENTOS",
         "url": "https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8",
-      "type": "HLS",
+      "type": "CLEARKEY",
+	    "icono": "https://i.postimg.cc/WpDZMj1v/Whats-App-Image-2024-11-24-at-23-13-30.jpg"
+    },
+	    {
+        "name": "NBA",
+        "url": "http://odenfull.co:2086/play/ByW8ckDd26HK4hK5FtzLxr9cSqjtHxe2Mk84cq1D_cA/ts",
+      "type": "CLEARKEY",
 	    "icono": "https://i.postimg.cc/WpDZMj1v/Whats-App-Image-2024-11-24-at-23-13-30.jpg"
     }
 ]
