@@ -5441,6 +5441,65 @@
                     ],
                     "tmdb_id": 218230,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Un héroe débil",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "Yeon Shi Eun, un estudiante modelo con calificaciones que pertenecen al 1% superior de la escuela. Se ve débil pero lucha contra numerosas violencias dentro y fuera de la escuela. Representa a un chico naturalmente débil en términos de apariencia, dominando una escuela parecida a una jungla usando su cerebro, poder analítico y herramientas.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/8s3nIdfLe0M3yadLZZjHGyZjDJL.png",
+                    "icono": "https://image.tmdb.org/t/p/original/wmYQAByUOf3mQp0xOQa0Xkf5ea1.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qpDzeZ41Sr7P59RSh9U4SVnMRUs.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/DD90D8388562462B91AB8F1CC6F36C0A_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/7E48146976324D24948EA9CD1951C66F_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/621ED6A633C64680B0986F47D898A054_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/E5550966D3A544178266D085F94526B4_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5CDA79706E7E4700927AC222FFDE876E_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8E07321E9CDF45C6B8454D19C51BD9A0_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/2376B54B2E324A97BBD391C6D83CABF4_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F4058E98A49547EA90B24B1B107A4460_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 200709,
+                    "total_seasons": 2
                 }
             ]
         },
