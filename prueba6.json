@@ -2875,6 +2875,70 @@
     ]
 	},
 	{
+    "name": "🇧🇷CANALES DE BRASIL",
+    "samples": [
+         {
+          "name": "BAND",
+    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "url": "https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8"
+  },
+	{
+          "name": "BAND NEWS",
+    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "url": "https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8"
+  },
+	    {
+          "name": "CANAL SETE",
+    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "url": "http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8"
+  },
+	     {
+          "name": "COMBATE",
+    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=960"
+  },
+	    {
+          "name": "CULTURA PARA",
+    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8"
+  },
+	    {
+          "name": "MTV BRASIL",
+    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+  },
+	    {
+          "name": "NATURE TV",
+    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "url": "https://stmv1.srvif.com/nattv/nattv/playlist.m3u8"
+  },
+	    {
+          "name": "PLAY TV",
+    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "url": "https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8"
+  },
+	    {
+          "name": "RECORD",
+    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8"
+  },
+	    {
+          "name": "RECORD NEWS",
+    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
+  },
+	    {
+          "name": "TV ABERTA",
+    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "url": "https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8"
+  },
+	    {
+          "name": "TV ZOOM",
+    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8"
+  }
+},
+	{
     "name": "🇪🇨CANALES DE ECUADOR",
     "samples": [
        
