@@ -414,7 +414,7 @@
 	      {
         "name": "ESPN 1 SUR",
         "url": "https://cors-proxy.cooks.fyi/bantel-cdn4.iptvperu.tv:1935/newland1/espn_sd.stream/playlist.m3u8",
-        "type": "HLS",
+        "type": "CLEARKEY",
     "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
        
 
