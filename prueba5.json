@@ -2261,10 +2261,16 @@
                 "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
             },
             {
-                "name": "GRAN HERMANO MULTICAM",
-                "url": "https://streamtp4.com/global2.php?stream=granhermanomulticam",
-                "type": "WEBVIEW",
-                "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
+                "name": "GRAN HERMANO MULTICAM.",
+                "url": "http://m.mtd.llc:8880/CH0100000000345/index_fk.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/xghil2hmiyc4afg8ibuvp/trece.json?rlkey=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092",
+                "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp",
+                "headers": {
+                    "Origin": "https://directvgo.com.com",
+                    "Referer": "https://directvgo.com.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
             {
                 "name": "AMERICA TV ",
