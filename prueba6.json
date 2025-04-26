@@ -58,7 +58,25 @@
         "url": "https://streamsvv1.su/global/player.php?channel=tigopy",
         "icono": "https://i.ibb.co/CpCGLHWy/FB-IMG-1745675145742.jpg"
     }
-    
+    ]
+  },
+ {
+    "name": "CANALES DE PARAGUAY",
+    "samples": [
+
+    {
+        "name": "EVENTOS FLOW 1",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono": "https://i.ibb.co/qMvpYJqT/R.png",
+       
+       "headers": {
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+            }
+        }
        ]
   },
  {
