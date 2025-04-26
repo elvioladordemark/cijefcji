@@ -61,14 +61,14 @@
     ]
   },
  {
-    "name": "CANALES DE PARAGUAY",
+    "name": "EVENTOS FLOW",
     "samples": [
 
     {
         "name": "EVENTOS FLOW 1",
-        "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
+        "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
         "icono": "https://i.ibb.co/qMvpYJqT/R.png",
        
        "headers": {
