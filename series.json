@@ -1302,6 +1302,50 @@
                     ],
                     "tmdb_id": 235930,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Coraje, el perro cobarde",
+                    "genero": "Animación, Familia, Sci-Fi & Fantasy, Comedia, Kids",
+                    "descripcion": "La historia trata sobre un perro llamado Agallas y sus dueños: Muriel, una vieja mujer escocesa, y Eustaquio, un viejo agricultor gruñón. Este perro vive para salvarles la vida de tenebrosos monstruos, extraterrestres y otras criaturas míticas.",
+                    "anio": "1999",
+                    "iconPng": "https://image.tmdb.org/t/p/original/8vKccsHIRHsuzlkYQUX1u8OnTKz.png",
+                    "icono": "https://image.tmdb.org/t/p/original/6GgsPD43JYdQT1IdwByItdIrr5f.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/yxeRR4uw8IwcLUxE7iNK0DFvQIE.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Una noche en el motel Gatoz",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/7E471002D134489A9E7871202A5E4334_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El estofado colonial de la abuela",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/222DE18177F646298D0358F980805427_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La sombra de Agallas",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/2C14C166036B4B7B9C14C70B71B39B09_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Dr. Le Quack, Especialista en Amnesia",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DC850E20A61745908B8AF4D1C8618E7E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Agallas encuentra al Bigfoot",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/520521C17B784004A311E2B85AA0959C_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 2085,
+                    "total_seasons": 4
                 }
             ]
         },
