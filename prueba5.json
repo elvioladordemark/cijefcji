@@ -41,6 +41,37 @@
             }
         ]
     },
+     {
+    "name": "EVENTO SUPERCLÁSICO RIVER PLATE vs BOCA JUNIORS",
+    "samples": [
+{
+        "name": "OPCIÓN ESPN PREMIUM",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/96rqr70ljuva1eift5325/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0",
+        "icono": "https://i.ibb.co/8nHpgV2Z/supercl-sico-river-boca.jpg"
+       ,
+       
+   "headers": {
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+            }
+    },
+	    {
+        "name": "OPCIÓN TNT SPORT",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
+        "icono": "https://i.ibb.co/8nHpgV2Z/supercl-sico-river-boca.jpg",
+         "headers": {
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+            }
+        }
+       ]
+  },
     {
         "name": "CANALES DE PARAGUAY",
         "samples": [
