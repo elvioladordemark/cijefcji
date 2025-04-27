@@ -891,6 +891,72 @@
                     "Origin": "https://embedcanaistv.com",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
                 }
+            },
+		{
+                "name": "ESPN",
+                "url": "https://onplaytv.net/espn/tracks-v1a1/mono.ts.m3u8",
+                "type": "HLS",
+              "icono": "https://i.ibb.co/Vp5M0kJ4/espn-brasil-logo-4.png",
+                  "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+		{
+                "name": "ESPN 2",
+                "url": "https://onplaytv.net/espn2/tracks-v1a1/mono.ts.m3u8",
+                "type": "HLS",
+              "icono": "https://i.ibb.co/dwXB5bSv/b0n0mh1660763068.png",
+                  "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+		{
+                "name": "ESPN 3",
+                "url": "https://onplaytv.net/espn3/tracks-v1a1/mono.ts.m3u8",
+                "type": "HLS",
+              "icono": "https://i.ibb.co/9HwSyXDj/Espn3.png",
+                  "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+		{
+                "name": "ESPN 4",
+                "url": "https://onplaytv.net/espn4/tracks-v1a1/mono.ts.m3u8",
+                "type": "HLS",
+              "icono": "https://i.ibb.co/6Jr8vZ2c/ESPN-4-logo-svg.webp",
+                  "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+		{
+                "name": "ESPN 5",
+                "url": "https://onplaytv.net/espn5/tracks-v1a1/mono.ts.m3u8",
+                "type": "HLS",
+              "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+                  "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+		{
+                "name": "ESPN 6",
+                "url": "https://onplaytv.net/espn6/tracks-v1a1/mono.ts.m3u8",
+                "type": "HLS",
+              "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+                  "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
             }
         ]
     },
