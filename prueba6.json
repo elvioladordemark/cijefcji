@@ -50,11 +50,11 @@
  
 
 	   {
-    "name": "EVENTO SUPERCLÁSICO RIVER PLATE vs BOCA JUNIORS",
+    "name": "EVENTOS DEPORTIVOS",
     "samples": [
 {
-        "name": "OPCIÓN ESPN PREMIUM",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
+        "name": "SIN EVENTOS",
+        "url": "https://streamsvv1.su/global/player.php?channel=tigopy",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/96rqr70ljuva1eift5325/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0",
         "icono": "https://i.ibb.co/8nHpgV2Z/supercl-sico-river-boca.jpg"
@@ -64,20 +64,8 @@
                 "Origin": "https://web.app.flow.com.ar",
                 "Referer": "https://web.app.flow.com.ar/",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-            }
-    },
-	    {
-        "name": "OPCIÓN TNT SPORT",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
-        "icono": "https://i.ibb.co/8nHpgV2Z/supercl-sico-river-boca.jpg",
-         "headers": {
-                "Origin": "https://web.app.flow.com.ar",
-                "Referer": "https://web.app.flow.com.ar/",
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-            }
-        }
+   }
+},
        ]
   },
  {
@@ -1164,7 +1152,7 @@
     },
 	    {
         "name": "NBA",
-        "url": "http://odenfull.co:2086/play/ByW8ckDd26HK4hK5FtzLxr9cSqjtHxe2Mk84cq1D_cA/ts",
+        "url": "https://tvpass.org/live/NBATV/hd",
       "type": "CLEARKEY",
 	    "icono": "https://i.postimg.cc/WpDZMj1v/Whats-App-Image-2024-11-24-at-23-13-30.jpg"
     },
