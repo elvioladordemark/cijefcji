@@ -47,27 +47,6 @@
        ]
 	    
   },
- 
-
-	   {
-    "name": "EVENTOS DEPORTIVOS",
-    "samples": [
-{
-        "name": "SIN EVENTOS",
-        "url": "https://streamsvv1.su/global/player.php?channel=tigopy",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/96rqr70ljuva1eift5325/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0",
-        "icono": "https://i.ibb.co/8nHpgV2Z/supercl-sico-river-boca.jpg"
-       ,
-       
-   "headers": {
-                "Origin": "https://web.app.flow.com.ar",
-                "Referer": "https://web.app.flow.com.ar/",
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-   }
-},
-       ]
-  },
  {
     "name": "EVENTOS FLOW",
     "samples": [
