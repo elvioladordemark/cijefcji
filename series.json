@@ -2522,6 +2522,85 @@
                     ],
                     "tmdb_id": 93811,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Andor",
+                    "genero": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+                    "descripcion": "Ambientada cinco años antes de los eventos de la película Rogue One,​ la serie sigue al espía Cassian Andor durante los años de formación de la Alianza Rebelde.​ La serie muestra la transformación de Andor, un ladrón que se convierte en revolucionario y finalmente se une a la Rebelión contra el Imperio Galáctico.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/xwuSAZHLsalFcOut36SDvBPDhZO.png",
+                    "icono": "https://image.tmdb.org/t/p/original/e3cWQzBxHK803AbZGjp1feQFgyS.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kCGwvjpqM1owt9kI4pkYPJWJLvc.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Kassa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/153F8A06D6C2439DADE922877F8AF8E3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Creo que fui yo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DB8BF8BAB8454F94BF19526B8BCBF759_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Venganza",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DF1C7231430743C083550BE22BE12D3B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/D94DD59B8E4F48CAB491DC52EA198D82_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El hacha olvida",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F02661B3B7CA469BAE8FBEC5356A7C24_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El ojo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/569E47CBCE974C219164BFD90173D952_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Declaración",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/B6F726AA9B5644518A446448B1434C51_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Narkina 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0DEAC443E19E4B9CB0EEFED066ADE6D7_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "¡No nos escuchan!",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/CF69C53A546645369F68E55F0341B0BF_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Una salida",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C564A09B49EC4D929B78C749E861FE50_media.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Hija de Ferrix",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4035ADED932C42BB80ADE90721556C6D_media.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "La calle Rix",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/5CBB90DA4EA740399055A9B61EACEFE7_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 83867,
+                    "total_seasons": 2
                 }
             ]
         },
