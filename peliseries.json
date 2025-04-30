@@ -38,7 +38,7 @@
                 "genero": "Acción, Suspense, Crimen, Drama",
                 "duracion": "134 min"
             },
-           {
+            {
                 "name": "Drop: Amenaza anónima",
                 "url": "http://vedo.wvdbozpfc.com/vod/547854C9F3B04CFE934E432F609A72F6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gc83Ao5AP59gQVjnxAps2oFy2ag.jpg",
@@ -1055,6 +1055,18 @@
                 "anio": "2024",
                 "genero": "Animación, Acción, Aventura, Ciencia ficción",
                 "duracion": "110 min"
+            },
+            {
+                "name": "La rosa de Versalles",
+                "url": "http://vedo.wvdbozpfc.com/vod/0C58E87882864FD89396DF053D10225B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/As2UKY4gNYS4w2U2ViGUdzTI472.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4kfiAHJuw4eXgMf1xyTG2potyQd.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uM2mvhtfzaWuinfAmnqIMAiP2Nt.png",
+                "type": "PELICULA",
+                "descripcion": "En una época revolucionaria, María Antonieta y Oscar François de Jarjayes, que se encarga de protegerla, se enfrentan a decisiones difíciles al asumir su papel en la sociedad.",
+                "anio": "2025",
+                "genero": "Animación, Romance, Drama, Historia",
+                "duracion": "113 min"
             }
         ]
     },
