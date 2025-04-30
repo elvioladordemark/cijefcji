@@ -868,7 +868,7 @@
             },
 		{
                 "name": "ESPN",
-                "url": "https://onplaytv.net/espn/tracks-v1a1/mono.ts.m3u8",
+                "url": "https://onplaytv.net/espn/video.m3u8",
                 "type": "HLS",
               "icono": "https://i.ibb.co/Vp5M0kJ4/espn-brasil-logo-4.png",
                   "headers": {
