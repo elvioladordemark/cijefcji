@@ -5235,6 +5235,65 @@
                     ],
                     "tmdb_id": 78191,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "Euphoria",
+                    "genero": "Drama",
+                    "descripcion": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad, como la droga, el sexo y la violencia.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/hp9ztcz0fMyztCKeQmNQg0F5dao.png",
+                    "icono": "https://image.tmdb.org/t/p/original/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/918C7003808849F7A262A66A71171F6C_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Fardando",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0F0A24105BFD473292126B09D4B0AC9C_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Has mirado",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/971C89341B3D438582FCF41E20A80A40_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Los que van de duros - 2ª parte",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8196762D063C410AB96B6D578C01691E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Bonnie y Clyde",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/239E9768149E48C6A64B2B0B6C620E39_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El siguiente episodio",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/886827E17EFA45C890E6AE5003F565EF_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Las vicisitudes de intentar mear deprimida",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6275C7AC0642406395C7AA7CFD4AB5F2_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Echar sal a tu paso",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5FD862723A114D16B32FBA7098021DE7_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 85552,
+                    "total_seasons": 2
                 }
             ]
         },
