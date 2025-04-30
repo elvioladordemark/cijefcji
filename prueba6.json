@@ -987,6 +987,26 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/9e1i4w12nobb5tc7ka3b0/daznliga.json?rlkey=sl7msjhndx49v5yos75e1etfz&st=pmjjwg93&dl=0",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU"
     }
+	    ]
+      },
+   {
+    "name": "⚽ DEPORTES MOVISTAR",
+    "samples": [
+      {
+        "name": "LIGA DE CAMPEONES M.ES",
+        "url": "https://magmaplayer.com/stream/m3u8/AQx5KmR1BS8lBQNmBwWuZQN6ZwNjAwcyZJRkBwxjAQH6LmN2LwbmATLlBzWxAGSsZGp0ZGtk/hls/158.m3u8",
+        "icono": "https://x.playerlatino.live/cine247.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+   }
+      }
 ]
 },
       	 {
