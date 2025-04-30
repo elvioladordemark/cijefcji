@@ -1008,6 +1008,21 @@
    }
       },
       {
+        "name": "VAMOS MOVISTAR",
+        "url": "http://magmaplayer.com/stream/secure/AmH5KmLkAy8kBQRhBGDhZwZlYwR5AI8kAmD1BGx.m3u8",
+        "icono": "https://i.postimg.cc/6qV91mNz/descarga-8.png"
+        ,
+    "headers": {
+        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+        "X-Did": "704b97090ad1fb5e",
+        "X-Version": "8/1.0.7",
+        "User-Agent": "Magma Player/8",
+        "Accept-Encoding": "gzip",
+        
+        "Connection": "Keep-Alive"
+   }
+      },	    
+      {
         "name": "DEPORTES MOVISTAR",
         "url": "https://magmaplayer.com/stream/secure/ZmVkKmL2AI8kBQRhBGDhZwZlYwR5AI8kAmD1BGx.m3u8",
         "icono": "https://i.postimg.cc/6qV91mNz/descarga-8.png"
