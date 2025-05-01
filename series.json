@@ -1729,6 +1729,80 @@
             ]
         },
         {
+            "nombre": "Series de Terror",
+            "series": [
+                {
+                    "nombre": "La maldición de Hill House",
+                    "genero": "Misterio, Drama",
+                    "descripcion": "Un grupo de hermanos que, cuando eran niños, crecieron en lo que luego se convertiría en la casa embrujada más famosa del país. Ahora adultos, y forzados a volver a estar juntos frente a la tragedia, la familia finalmente debe enfrentarse a los fantasmas de su pasado — algunos de los cuales aún acechan en sus mentes, mientras que otros pueden acechar en las sombras",
+                    "anio": "2018",
+                    "iconPng": "https://image.tmdb.org/t/p/original/l92NEn5d1WmsNIB92JQkuN8KVGu.png",
+                    "icono": "https://image.tmdb.org/t/p/original/zejY9M8YPgLX6gB7Hnt8vZRcYNF.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/sNtNXwtEbdw4LaCFxFQwL2Jv4yW.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Steven ve un fantasma",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/B7856C7BCFB94589997A244C76565B74_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Ataúd abierto",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9A09B99CEA9B4127816D76A8FB793536_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Tacto",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/94BE351CABA0428C8AD11DDC88E2001A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Cosas de gemelos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/77520BAEF34D456F98E459300D28B254_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La señora del cuello torcido",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/273A3F8E1EB74293AD3C5D1F623A719F_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Dos tormentas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9AF81969029E4F7C8D350242EBD98D1B_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Elegía",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1DC08D3D12B647FB945C56A419667F3A_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Marcas testigo",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/B3D7D509AA734EF08F97464E9F06EC65_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Malos sueños",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/77AB49CD1688413894841448F2E954E9_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "El silencio empuja incansable",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/B1E179AF1F0A47CAB77B1AFD69977A54_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 72844,
+                    "total_seasons": 1
+                }
+            ]
+        },
+        {
             "nombre": "Series de Comedia",
             "series": [
                 {
