@@ -2547,6 +2547,50 @@
                     ],
                     "tmdb_id": 261615,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Las cuatro estaciones",
+                    "genero": "Comedia",
+                    "descripcion": "La amistad entre tres parejas casadas se pone a prueba cuando una de ellas se divorcia, lo que complica su tradición de hacer escapadas de fin de semana cada tres meses.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/p5V0jGN8wxl02ZeZrp9YZXy7BW.png",
+                    "icono": "https://image.tmdb.org/t/p/original/66FijMY6ztvf4p0kwaQnjWqmgZn.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/losFxnDJNNCwcLjaRYIUL5me0D3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La casa del lago",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/64E349A8F5CE429881E85A0872B23822_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Fiesta en el jardín",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6E6D0333A30C4B80AD9104512E20A424_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Resort ecológico",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/E2C7E00764304F62BEAB4F21331D65AD_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El bar de la playa",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/86B51659C1C842BA8BFF28A3E445F400_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Fin de semana en familia",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/13174CAE6794456595EF832FAB51697B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 243316,
+                    "total_seasons": 1
                 }
             ]
         },
