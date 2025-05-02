@@ -1142,6 +1142,55 @@
                     ],
                     "tmdb_id": 229513,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Invisible",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Una limpiadora busca desesperadamente a su marido mientras una temible organización criminal desentierra las tragedias de su pasado y acaba empujándola a la violencia.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4i6SRxWR9YILR8szlX0lEn4n19t.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qhUEvkvicvoMXJ8k14SNSxOCg01.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/884qeZrLDSqmxRElt1bZ4p8o4Vw.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/84D6B4B34D8846F0809E2B2275120F33_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/EE81A719F7564AD3A1678134BB5A82CA_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/32C8C47E81634D11AAAF759AE72E11A2_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CFD54AFB4A2F4A408A6B124D78245AB4_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ABE61FA959A04388B4576E95068331F2_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F3910580FD4F41DBA2999882C7FF3F30_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 220932,
+                    "total_seasons": 2
                 }
             ]
         },
