@@ -2045,6 +2045,13 @@
         "Connection": "Keep-Alive"
    }
        },
+
+	    {
+        "name": "MTV FLOW LATINO",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f&profilesFromStream=true",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/0/0d/MTV-2021.svg"
+
+       },
 	    {
         "name": "HTV",
         "url": "http://magmaplayer.com/stream/m3u8/BGVmKmH2BS8kAmxhAwNhZwZ5YwRlKmR3AQH2ZD/hls/568.m3u8",
