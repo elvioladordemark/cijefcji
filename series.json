@@ -5676,6 +5676,65 @@
                     ],
                     "tmdb_id": 85552,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "1899",
+                    "genero": "Misterio, Drama",
+                    "descripcion": "En 1899, cuando unos misteriosos sucesos cambian el rumbo de un barco de inmigrantes en ruta a Nueva York, sus pasajeros se ven arrastrados a un enigma desconcertante.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1ldvKnNNReDMWV0COpdn6W2VJ9C.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/oZMEWCcnFWGdp4W4ICdJgkw1RYf.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El barco",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5645EABA40F94B9686331643CF426224_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El niño",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/87C64A6901CA46269089D4416824A82E_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La niebla",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E60B577C168746B2BB1EEEA3840BA214_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La pelea",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/23FD97C1C11649CCAD71203FE25D6841_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La llamada",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8DF861D79E2D4F5DB14BAF81E182311F_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La pirámide",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/8E899DCC5D2E47E98868F221D5A63E0E_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La tormenta",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/90FE6FB0A155417A862B0B0B6773F151_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La llave",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/23A9D3EDB0A9449CADE508CB22AAA0B7_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 90669,
+                    "total_seasons": 1
                 }
             ]
         },
