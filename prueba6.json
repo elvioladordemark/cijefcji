@@ -1099,6 +1099,12 @@
         "Connection": "Keep-Alive"
     }
     },
+	        {
+        "name": "RALLY WRC",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8",
+        "icono": "https://cdn-images-1.medium.com/v2/resize:fit:484/1*OQ8v17CRu9UJ5ncLBr5IfQ@2x.png"
+        
+    },
 	    {
         "name": "WIN SPORTS +",
         "url": "http://magmaplayer.com/stream/m3u8/ZwV1KmRjAQWsZwtjAwbkZQIyBwVmBwV3MQp6AGRkZQbkZzWyBzZjMGL6BTH1My8kAmDmZwx/hls/1042.m3u8",
