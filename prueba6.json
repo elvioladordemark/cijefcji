@@ -69,7 +69,11 @@
  {
     "name": "CANALES DE PARAGUAY",
     "samples": [
-
+    {
+        "name": "NANDEPORTETEPE TV PY",
+        "url": "https://www.mediosenparaguay.com/nandeportetepetv/",
+        "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
+    },
     {
         "name": "PARAVISION 🇵🇾",
         "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
