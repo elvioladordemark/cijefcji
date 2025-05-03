@@ -1194,7 +1194,13 @@
         "url": "https://dms.redbull.tv/v5/destination/rbtv/rrn:content:live-videos:8bf9bf77-d9f6-4411-ad4b-5a335198b4ea/personal_computer/http/py/es_ES/playlist.m3u8",
       "type": "CLEARKEY",
 	    "icono": "https://i.ibb.co/s99XWgsm/Red-Bull-TV-logo.png"
-    }
+    },
+	    {
+        "name": "RALLY TV",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8ylist.m3u8",
+      "type": "CLEARKEY",
+	    "icono": "https://i.ibb.co/s99XWgsm/Red-Bull-TV-logo.png"
+	    }
 ]
 },
    {
