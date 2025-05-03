@@ -2,37 +2,33 @@
     {
         "name": "⚽TIGO SPORTS SOLO EVENTOS",
         "samples": [
-            {
-                "name": "EVENTOS1 TIGO FULL HD",
-                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-                "headers": {
-                    "Origin": "https://www.tigosports.com.py",
-                    "Referer": "https://www.tigosports.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "EVENTOS 2 TIGO FULL HD",
-                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/5f6c44226fc7494a8499be3dd6a8a6fe17462218668561b65a320aeed11ebae01d90082191a3cOrayJsNqJs3Xc3vvwwifH9of/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-                "headers": {
-                    "Origin": "https://www.tigosports.com.py",
-                    "Referer": "https://www.tigosports.com.py/",
-                    "User-Agent": "FireFox"
-                }
-            },
-            {
-                "name": "EVENTOS 3 PLAY TV PY HD",
-                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/5f6c44226fc7494a8499be3dd6a8a6fe17462218668561b65a320aeed11ebae01d90082191a3cOrayJsNqJs3Xc3vvwwifH9of/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
-                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-            },
+           {
+        "name": "EVENTOS1 TIGO FULL HD",
+        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+    },
+    {
+        "name": "EVENTOS 2 TIGO FULL HD",
+        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+    "headers": {
+
+			    "Origin": "https://www.tigosports.com.py",
+			    "Referer": "https://www.tigosports.com.py/",
+	    "User-Agent": "FireFox"
+		    }
+    },
+    {
+        "name": "EVENTOS 3 PLAY TV PY HD",
+        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+    },
             {
                 "name": "OPCION 2",
                 "url": "https://streamsvv1.su/global/player.php?channel=tigopy",
