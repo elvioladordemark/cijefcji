@@ -1869,6 +1869,75 @@
                     ],
                     "tmdb_id": 2085,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "Los poderosos MonsterWheelies",
+                    "genero": "Animación, Action & Adventure, Comedia, Kids",
+                    "descripcion": "Inspirados en míticos monstruos del cine como Drácula y la Momia, pero grandotes como Frankenstein… ¡estos vehículos heroicos están aquí para ayudar, no para asustar!",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3eeHnlzd9gokDFVSlJ5Cird1YOf.png",
+                    "icono": "https://image.tmdb.org/t/p/original/utLOrpFyNzpJVKflJJ1FuzCK9ih.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qhtkooHrZw1V7CxU1M97zffvNZ2.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La llegada a Motorvania",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0984DD3DE3A94FFBA2B78A7F4C17BB51_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Cuesta abajo y sin frenos",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/BFBBFFBACB5D4341A9103E294D6986EA_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Un rescate rocambolesco",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/54E94F224A3A4721A94C8CDF8B4139CC_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Escapando del túnel de lavado",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/28A91422FDA44E5A851A8625C12A1BFD_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Ola de calor",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/80BEBC79ADF04F0497E48A430E9D7315_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Lluvia de meteoritos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6B1C861160534ADCB71EE291E1D11DD7_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "MonsterWheelies del viejo Oeste",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/F18B280E59474A9DA2F2E32949C74CAA_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "No mires abajo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FFD7CB558C8B4DB5A1E90B93DE6DC39A_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La bola saltarina",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/C5D63EAE6F9047539D5F35E608E60E8E_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "El espectáculo debe continuar",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/32C1B35D17EB46B4BAA225B186C16B0C_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 235998,
+                    "total_seasons": 2
                 }
             ]
         },
