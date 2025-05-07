@@ -7065,6 +7065,55 @@
                     ],
                     "tmdb_id": 226362,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "The Walking Dead",
+                    "genero": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+                    "descripcion": "\"The Walking Dead\" está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en zombies de la mayor parte de los habitantes del planeta. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, así como las relaciones personales que se establecen entre ellos, en ocasiones también una amenaza para su supervivencia.",
+                    "anio": "2010",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7CIJHjFz2fh4bo6kg1gfE51oENa.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Los días transcurridos",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/22057C21CA814679A4E127D003C22DCA_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Tripas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6F2887E70D5B419D855BF35110C08CCD_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Díselo a las ranas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8140D0E3C2D14602AB8A98C00B0A8280_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Chicos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0A4CF3607C7742F0B44FEE455A6EA073_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Fuego forestal",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D84317E966B4404FADBDFFD00DA7CE5F_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "TS-19",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/49D885289D2F4060A0D4C7B8844C39B1_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 1402,
+                    "total_seasons": 11
                 }
             ]
         },
