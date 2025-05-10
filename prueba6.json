@@ -1705,7 +1705,8 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         }
-	  ]
+	 
+  ]
 	    
   },
  {
@@ -1715,8 +1716,6 @@
     {
         "name": "RUN CINES Y SERIES",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
         "icono": "https://i.postimg.cc/BvSyNRYQ/images-8.png",
        
        }
