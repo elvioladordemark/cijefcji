@@ -2139,7 +2139,52 @@
         
         "Connection": "Keep-Alive"
    }
-	    }
+	    },
+	     {
+        "name": "VEVO 70'S",
+        "url": "https://dqwknz5qopbgu.cloudfront.net/playlist.m3u8",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
+	    {
+        "name": "VEVO 80'S",
+        "url": "https://d36tolctzl3cf9.cloudfront.net/playlist.m3u8",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
+	    {
+        "name": "VEVO 90'S",
+        "url": "https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
+	    {
+        "name": "VEVO COUNTRY",
+        "url": "https://duj0m5mtx2apx.cloudfront.net/playlist.m3u8",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
+	    {
+        "name": "VEVO HIP HOP",
+        "url": "https://d3mzlmrngyf08j.cloudfront.net/playlist.m3u8",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
+	    {
+        "name": "VEVO LATINO",
+        "url": "https://d3k7iagvenqkpa.cloudfront.net/playlist.m3u8",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
+	    {
+        "name": "VEVO POP",
+        "url": "https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
+	    {
+        "name": "VEVO R&B",
+        "url": "https://d188921up0bidw.cloudfront.net/playlist.m3u8",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
+	    {
+        "name": "VEVO ROCK",
+        "url": "https://d1uttzwuh34h7x.cloudfront.net/playlist.m3u8",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    }
     ]
       },
    {
