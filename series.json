@@ -6308,6 +6308,50 @@
                     ],
                     "tmdb_id": 90669,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Legado",
+                    "genero": "Drama",
+                    "descripcion": "Tras una grave enfermedad, un magnate de los medios de comunicación descubre que la gerencia de sus hijos amenaza con destruir su querido emporio… y hará lo que sea para salvarlo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/qWYd1VSKJpWZIvmz0WQAb1z1ngG.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ukH0h0CMQj09j1oGuA8uEyPTYuo.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/AjOdTEuORCRnFaMp2cjt9b98oa9.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/C76DB9539B0241D49B6984FA70B78BA4_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/0B3EA2B84EC6473D801D29D2DAA778BC_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/39F4ED4F31824300A067A556212158A4_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/49FFD82976C5425C9F63EE6A88409FFA_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9B642BD1EB864972A9A1E802B3960C75_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 248716,
+                    "total_seasons": 1
                 }
             ]
         },
