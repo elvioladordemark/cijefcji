@@ -1180,6 +1180,13 @@
         "Connection": "Keep-Alive"
    }
       },
+	    {
+        "name": "FORMULA 1 CAM ON BOARD",
+        "url": "https://miami.crackstreamslivehd.com/disney18/tracks-v1a1/mono.m3u8?ip=179.60.239.35&token=82ba17de4c850bb53526a5e9d14c8aa95d44bbb3-0c-1747515706-1747483306",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa",
+        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+    },
     {
         "name": "DAZN LA LIGA",
         "url": "https://cma.footballii.ir/hls2/laligatv.m3u8",
