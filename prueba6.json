@@ -550,6 +550,16 @@
         "url": "http://200.121.48.17:8000/play/a14s/index.m3u8",
         "icono": "https://i.ibb.co/gZnCt7sc/Logo-canal-encuentro.png"
 	    }
+	    ]
+  },
+ {
+    "name": "CANALES INTERIOR ARGENTINA",
+    "samples": [
+    {
+        "name": "NANDEPORTETEPE TV PY",
+        "url": "https://live.enhdtv.com:19360/capiatatv/capiatatv.m3u8",
+        "icono": "https://i.postimg.cc/4y7JkV9f/IMG-20250502-WA0311.jpg"
+    }
 ]
 },
 {
