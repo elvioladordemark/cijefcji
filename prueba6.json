@@ -394,15 +394,17 @@
     }
     ]
   },
-	{
+	 {
        "name": "EVENTOS",
-	{
+    "samples": [
+	     {
                 "name": "ARSENAL vs NEWCASTLE",
                 "url": "https://m5.merichunidya.com:999/hls/wsmkmlfeed73.m3u8?md5=xwlyn8vP9BVCYAkS37QaOw&expires=1747593271",
-                "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
             }
-]
-},
+    ]
+	 },
    {
        "name": "CANALES DE ARGENTINA",
     "samples": [
