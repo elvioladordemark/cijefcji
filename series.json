@@ -3949,6 +3949,75 @@
                     ],
                     "tmdb_id": 241554,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La casa del dragón",
+                    "genero": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+                    "descripcion": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rc7xLuJavZxGpkd5E38S1TRdEXM.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Los herederos del Dragón",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7F178CDA1E954F7687E9893762089966_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El Príncipe Canalla",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/43D41D9D6FBF47B5A01F85E0F47F3C06_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El segundo de su nombre",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/494E9A7EA97E4A9680BD6D4216800E28_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El rey del mar Angosto",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D273385854004E5AB620D19543BF92C1_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Iluminamos el camino",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/F2D4272E5D9A4C70AD661B6109524379_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La princesa y la reina",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C173AF3D962B40B990233407A7849708_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Marcaderiva",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D09380DBBAD44158AFEC02665D64F48E_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El señor de las mareas",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/D0C2DFAA74EB42AEB60A16F1258291D4_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El consejo verde",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/933954C6F44F4DB2A62049DAA0355B6D_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "La reina negra",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/13347CCD06804B5CBCEBCD4480A05FCB_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 94997,
+                    "total_seasons": 3
                 }
             ]
         },
