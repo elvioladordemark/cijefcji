@@ -6727,6 +6727,65 @@
                     ],
                     "tmdb_id": 255779,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Apache: La vida de Carlos Tevez",
+                    "genero": "Drama",
+                    "descripcion": "Narra la vida del jugador de fútbol Carlos Tévez, desde su infancia hasta alcanzar la fama con Boca Juniors.",
+                    "anio": "2019",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/jN50JvMxnVmctBeKxZenQ2qHyL6.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fgvZ0OSHGIElnAYua9DJoBd2Er0.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "1984",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AC971A4FACE14A689E0D7DDD2EF5AFAE_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Entre el plomo y la desilusión",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/80F320ACDE0544FC88456A70D410B709_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El legado",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DFED020A058E40BBA3CF745880CD7F25_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un mundo nuevo, el origen",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/30A8358870334C548758462CEB531568_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El valor de la identidad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9DECD3E1B8034C658B060FFF4CDF8461_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Dos madres, un acto de amor",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/CF3078E45C2D4C929221E4BC20BD99F6_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Las dos caras de una moneda",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A0573493AFE54BB4AFC08BA449772CBD_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El gran día",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/6C47136B61EA43FAB7A973EC5E33C914_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 92443,
+                    "total_seasons": 1
                 }
             ]
         },
