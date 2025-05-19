@@ -1451,6 +1451,75 @@
                     ],
                     "tmdb_id": 262878,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Narcos",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "La verdadera historia de los poderosos y violentos cárteles colombianos sirve de hilo conductor en esta serie dramática de mafiosos de gran realismo.",
+                    "anio": "2015",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9ksHxU8TGvG6qWuGutXcw8GCaph.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/bT7pArYmcE91iCTec5H7pjrVbSu.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Descenso",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/0CC928A11E6D43E39FFB9631035A59CD_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La espada de Simón Bolívar",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2DCDCBE5D3B5410AB9E16080732BE1DF_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Los hombres de siempre",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/5C7654CC2CAA4F46877DC960AF46A73F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El palacio en llamas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B341642C40FF470B822DB46F07EBBD74_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Habrá un futuro",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0131C1DDC1974E18846FD8EC280FD6ED_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Explosivos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9ACAFC25821745F383A71603CF8FB960_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Llorarás lágrimas de sangre",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/9FE7EC4026DD4690898DAAE58ABBF5AC_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La gran mentira",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B02331A68C9E4899951EE10033281596_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La Catedral",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/B56220829B6A46D68E193A053F7EB8EB_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Despegue",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4188EEFE03CC43D9BDD349BB23CA268A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 63351,
+                    "total_seasons": 3
                 }
             ]
         },
