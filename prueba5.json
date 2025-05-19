@@ -2408,6 +2408,26 @@
                 "name": "LAPACHO TV",
                 "url": "http://200.121.48.17:8000/play/a14i/index.m3u8",
                 "icono": "https://i.ibb.co/m5bbjySK/LOGO2.png"
+            },
+		{
+                "name": "CANAL 7",
+                "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
+                "icono": "https://i.ibb.co/m5bbjySK/LOGO2.png"
+            },
+		{
+                "name": "CANAL 4 SAN JUAN",
+                "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://i.ibb.co/gLr7fSYy/Canal-4-San-Juan-en-vivo-Online.webp"
+            },
+		{
+                "name": "CANAL 3",
+                "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://i.ibb.co/m5bbjySK/LOGO2.png"
+            },
+		{
+                "name": "CANAL 5 PICO TRUNCADO",
+                "url": "https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://i.ibb.co/0V9vh72X/canal5logo-x1.png"
             }
         ]
     },
