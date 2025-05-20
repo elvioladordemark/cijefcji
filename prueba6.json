@@ -581,6 +581,27 @@
         "url": "https://stream.arcast.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8",
         "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg"
     },
+	        },
+	    	    {
+        "name": "CANAL 5 PICO TRUNCADO",
+        "url": "https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8",
+        "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg"
+    },
+	    	    {
+        "name": "CANAL 3 LAS HERAS",
+        "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8",
+        "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg"
+    },
+		    	    {
+        "name": "CANAL 4 SAN JUAN",
+        "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
+        "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg"
+    },
+		    	    {
+        "name": "CANAL 7 NEUQUÉN",
+        "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
+        "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg"
+    }
 ]
 },
 {
