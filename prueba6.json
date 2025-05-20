@@ -567,10 +567,20 @@
     "name": "CANALES INTERIOR ARGENTINA",
     "samples": [
     {
-        "name": "NANDEPORTETEPE TV PY",
-        "url": "https://live.enhdtv.com:19360/capiatatv/capiatatv.m3u8",
-        "icono": "https://i.postimg.cc/4y7JkV9f/IMG-20250502-WA0311.jpg"
-    }
+        "name": "CHACO TV",
+        "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
+        "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg"
+    },
+	    {
+        "name": "SAN LUIS TV",
+        "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
+        "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg"
+    },
+	    	    {
+        "name": "CANAL PAMPA 3",
+        "url": "https://stream.arcast.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8",
+        "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg"
+    },
 ]
 },
 {
