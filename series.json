@@ -3379,6 +3379,70 @@
                     ],
                     "tmdb_id": 255810,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El Chavo del Ocho",
+                    "genero": "Comedia, Familia, Drama",
+                    "descripcion": "Las desventuras de un chico pobre, sin hogar y torpe y sus amigos en el humilde vecindario en el que viven.",
+                    "anio": "1973",
+                    "iconPng": "https://image.tmdb.org/t/p/original/bSs18O6zAs4a4mgjoOzVe96I1SC.png",
+                    "icono": "https://image.tmdb.org/t/p/original/1TdBpVOASafzfWlnecwW17UL6a5.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7IBDc5TE9bZlEGxSa0smgnTb2a.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Rateros torpes / Los globos",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/D425CD7EC25749C2A39A913E1B4D77EE_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Los caquitos / Tratando de bañar al Chavo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EFE35031B08E4027A2C0A7BAD06918A2_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Los caquitos / El Chavo del Ocho rompe el romance",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/DBC85541556648EF8541818CC61384F5_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La basura / El mozo revoltoso / La pintura",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F0865F7290484673A59FE2B1C492AB5B_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Los números / Vendiendo paletas heladas / La enfermedad de la Chilindrina",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F167305086DD4374A2384D2C750268A9_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Las monedas / El metichito / El sarampión",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/12645D989E3C4321A899FC6D6FB59820_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Pordioseros / El ropavejero / Adivinanzas (Repetición)",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/D8F056096755462A914604A85A97970B_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El enfermo / Buena vecindad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2D50BD2CF92A47BE85EF9E6FA913FD10_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "El día de campo / Boxeadores / El sobre del dinero",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/EC19298737624CD49620895AD8659026_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 47,
+                    "total_seasons": 7
                 }
             ]
         },
