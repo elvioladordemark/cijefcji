@@ -43,21 +43,7 @@
 			    "Origin": "https://www.tigosports.com.py",
 			    "Referer": "https://www.tigosports.com.py/"
 		    }
-	    },
-	     {
-        "name": "SPVO. AMELIANO vs CERRO PORTEÑO",
-        "url": "https://dwy2.dbcast.live/8S-HNvbuppyX5LJK4GGYBA/1747896675/3137392e36302e3233392e3432/ff737/playlist.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },
-	    {
-        "name": "OLIMPIA vs LIBERTAD",
-        "url": "https://m4.merichunidya.com:999/hls/ligapy2.m3u8?md5=ns2fjTOKCqYiFGABh2PsdQ&expires=1747875210",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    }
+	    }
        ]
 	    
   },
