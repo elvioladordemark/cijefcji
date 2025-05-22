@@ -34,7 +34,7 @@
     },
 	    {
         "name": "TIGO 1 EN VIVO",
-   "url": "http://207.246.106.28/stream/4g/tg1/master.m3u8",
+   "url": "http://207.246.106.28/stream/iptv/tg1/master.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
@@ -43,7 +43,31 @@
 			    "Origin": "https://www.tigosports.com.py",
 			    "Referer": "https://www.tigosports.com.py/"
 		    }
-	    }
+	    },
+	    	    {
+        "name": "TIGO PLUS EN VIVO",
+   "url": "http://207.246.106.28/stream/iptv/tg+/master.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+		    "headers": {
+
+			    "Origin": "https://www.tigosports.com.py",
+			    "Referer": "https://www.tigosports.com.py/"
+		    }
+	   },
+	    	    	    {
+        "name": "TIGO 3 EN VIVO",
+   "url": "http://207.246.106.28/stream/iptv/tg3/master.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+		    "headers": {
+
+			    "Origin": "https://www.tigosports.com.py",
+			    "Referer": "https://www.tigosports.com.py/"
+		    }
+	   }
        ]
 	    
   },
