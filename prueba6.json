@@ -33,7 +33,7 @@
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
     },
 	    {
-        "name": "FÚTBOL 1 EN VIVO",
+        "name": "FÚTBOL EN VIVO",
    "url": "http://207.246.106.28/stream/iptv/tg1/master.m3u8?u=Lrlf89&p=77c94440ce0e13f9d534b6bea5dd4deb48662cb47602534cac1a75efe413dcd3",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
@@ -43,31 +43,8 @@
 			    "Origin": "https://www.tigosports.com.py",
 			    "Referer": "https://www.tigosports.com.py/"
 		    }
-	    },
-	    	    {
-        "name": "FÚTBOL PLUS EN VIVO",
-   "url": "http://207.246.106.28/stream/iptv/tg+/master.m3u8?u=Lrlf89&p=77c94440ce0e13f9d534b6bea5dd4deb48662cb47602534cac1a75efe413dcd3",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.postimg.cc/XJXPF3Bd/dia-de-la-bandera-nat.jpg",
-		    "headers": {
+	    }
 
-			    "Origin": "https://www.tigosports.com.py",
-			    "Referer": "https://www.tigosports.com.py/"
-		    }
-	   },
-	    	    	    {
-        "name": "FÚTBOL 3 EN VIVO",
-   "url": "http://207.246.106.28/stream/iptv/tg3/master.m3u8?u=Lrlf89&p=77c94440ce0e13f9d534b6bea5dd4deb48662cb47602534cac1a75efe413dcd3",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.postimg.cc/XJXPF3Bd/dia-de-la-bandera-nat.jpg",
-		    "headers": {
-
-			    "Origin": "https://www.tigosports.com.py",
-			    "Referer": "https://www.tigosports.com.py/"
-		    }
-	   }
        ]
 	    
   },
