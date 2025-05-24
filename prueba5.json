@@ -518,10 +518,11 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
-            {
-                "name": "TYC SPORT (PLAY 1)",
+		{
+                "name": "TYC SPORTS (PLAY 1)",
                 "url": "https://voodc.com/embed/85818a999d889a88847a85999f8c9886897b.html?embed",
-                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+                "type": "CLEARKEY",
+                 "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
             },
             {
                 "name": "TYC SPORT (PLAY 2)",
