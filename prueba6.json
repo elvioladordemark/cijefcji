@@ -1163,13 +1163,11 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0"
     }
 },        
-	    {
-        "name": "FORMULA 1 CAM ON BOARD",
-        "url": "https://london.crackstreamslivehd.com/global/disney18/index.m3u8?token=82ba17de4c850bb53526a5e9d14c8aa95d44bbb3-0c-1747515706-1747483306&ip=179.60.239.35",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa",
-        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-    },
+{ "name": "FORMULA 1 FULL HD",
+"url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd", 
+	"type": "CLEARKEY", "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa",
+	"icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+},	    
     {
         "name": "DAZN LA LIGA",
         "url": "https://cma.footballii.ir/hls2/laligatv.m3u8",
