@@ -8243,6 +8243,60 @@
                     ],
                     "tmdb_id": 0,
                     "total_seasons": 0
+                },
+                {
+                    "nombre": "Llamadas",
+                    "genero": "Misterio, Drama, Sci-Fi & Fantasy",
+                    "descripcion": "En esta innovadora serie narrada a través de conversaciones telefónicas, las vidas de un grupo de desconocidos se ven truncadas por lo que parece ser el inicio de un evento apocalíptico.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/xTC6ip3LHn4dQxuR9lYEsqp8Vu8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8o1V20hIuOApP83Dgw6AlB1s5yz.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vaWaRUdY534VckcmD7euT6MWxkN.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El final",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/5E0998FA2BCC449BAA3AC63740AC61F1_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Pedro de la casa de enfrente",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6A8761578A2E4AEBA38ABD86FD58952E_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Son imaginaciones",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/997F7FB362FA46189D15EB3109290E0F_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Yo, yo mismo y Darlene",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/63860163C6F145A3BFA4FFDE2F53EC18_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Mamá",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4588A7CDA34C44F9A213DFDDE220A9F6_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "¿Hay algún científico en el avión?",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/43A77D92FB474072B2F50803D57EBDA4_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Mi pequeña bisiesta",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/48998B80FAF849CFB4195D16E5B8939E_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 119934,
+                    "total_seasons": 1
                 }
             ]
         }
