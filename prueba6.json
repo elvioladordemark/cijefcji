@@ -143,7 +143,7 @@
  
     {
         "name": "SNT 2",
-        "url": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
+        "url": "http://181.78.27.128:8000/play/a03e/index.m3u8",
         "icono": "https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png"
     },
 
@@ -212,7 +212,7 @@
         {
         "name": "UNICANAL 2",
         "url": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
-        "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
+        "icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png"
     },
  
     {
@@ -236,7 +236,7 @@
         {
         "name": "PARAGUAY TV 2",
         "url": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
-        "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
+        "icono": "https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png"
     },
     {
         "name": "ÑANDUTI TV",
@@ -434,7 +434,11 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
-    
+    {
+        "name": "LA TELE 2",
+        "url": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
+        "icono": "https://i.ibb.co/rKdXmGXj/tele.png"
+    },
    
     {
         "name": "UNION TV",
