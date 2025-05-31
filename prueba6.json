@@ -154,7 +154,7 @@
 
   {
                 "nombre": "TELEFUTURO FLOW HD",
-                "url": "https://chromecast.cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_wl/TELEFUTURO_C4.mpd",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar",
                 "tipo": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
                 "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
