@@ -96,8 +96,8 @@
         "icono": "https://i.postimg.cc/BvSyNRYQ/images-8.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         }
@@ -119,8 +119,8 @@
         "icono": "https://i.ibb.co/qMvpYJqT/R.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -138,8 +138,8 @@
         "icono": "https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -147,28 +147,27 @@
  
     {
         "name": "SNT 2",
-        "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8",
+        "url": "http://181.78.27.128:8000/play/a03e/index.m3u8",
         "icono": "https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png"
     },
 
-
-  {
-                "nombre": "TELEFUTURO FLOW HD",
-                "url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar",
-                "tipo": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
-                "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
-                "encabezados": {
-                    "Origen": "https://web.app.flow.com.ar",
-                    "Referidor": "https://web.app.flow.com.ar/guia-de-tv",
-                    "Agente de usuario": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/1.1.1.1 Safari/537.36"
-                }
-            },
-            
+    {
+        "name": "TELEFUTURO FLOW HD",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
+        "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
+       
+       "headers": {
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+            }
+        },
      
     {
         "name": "TELEFUTURO 2",
-        "url": "https://copacotf.desdeparaguay.net:443/telefuturo/telefuturo_py_baja/chunklist_w1093082419.m3u8?admin=tvaccion",
+        "url": "http://181.78.27.128:8000/play/a016/index.m3u8",
         "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
     },
    
@@ -180,8 +179,8 @@
         "icono": "https://i.ibb.co/CKmtNhM5/Logo-de-RPC-2016.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -209,8 +208,8 @@
         "icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -233,8 +232,8 @@
         "icono": "https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -266,8 +265,8 @@
         "icono": "https://i.postimg.cc/QMQDq5RL/HEI.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -290,8 +289,8 @@
         "icono": "http://imgfz.com/i/QTcoH5d.jpeg",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -304,8 +303,8 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -320,8 +319,8 @@
         "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -344,8 +343,8 @@
         "icono": "https://i.ibb.co/bRvgPF2K/3fae4e-bf58b7726a1e4f4992cb3fe7a0bd7e50-mv2.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -358,8 +357,8 @@
         "icono": "https://i.ibb.co/cXhyvZGC/R-1.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -382,8 +381,8 @@
         "icono": "https://i.ibb.co/XHbVcHp/NPY-Noticias-Paraguay.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -401,8 +400,8 @@
         "icono": "https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -420,8 +419,8 @@
         "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -434,8 +433,8 @@
         "icono": "https://i.ibb.co/rKdXmGXj/tele.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -456,13 +455,6 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
         "icono": "https://i.ibb.co/KhR0pjB/Farra-Play-TV-en-vivo.jpg"
-    },
-	        {
-        "name": "E40 TV",
-        "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "icono": "https://i.postimg.cc/mZmFxWZ1/descarga-15.jpg"
     },
     {
         "name": "SOMOS DEL ESTE TV",
@@ -500,8 +492,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
         "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
      "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -512,8 +504,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
         "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",
          "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -524,8 +516,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
         "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
           "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -536,8 +528,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0",
         "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png"    ,
            "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -548,8 +540,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/xghil2hmiyc4afg8ibuvp/trece.json?rlkey=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png",
 		    "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         }, 
@@ -565,8 +557,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
         "icono": "https://i.ibb.co/dsvcQTLn/todo-noticias-logo-png-seeklogo-462511.png",
         "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -578,8 +570,8 @@
         "icono": "https://i.ibb.co/p6GQ3L3m/68747470733a2f2f692e696d6775722e636f6d2f453370616d41352e706e67.png"
   ,
         "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -591,8 +583,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c",
         "icono": "https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png"
   ,  "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -604,8 +596,8 @@
         "icono": "https://i.ibb.co/DHhzqNrr/unnamed.png"
    ,
           "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -617,8 +609,8 @@
         "icono": "https://i.ibb.co/WWfTn7M9/LnXQkIU.png"
     ,
        "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -630,8 +622,8 @@
         "icono": "https://i.ibb.co/60XLr3MX/canal26-logo.png"
    ,
           "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -681,43 +673,6 @@
         "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
         "icono": "https://iili.io/3L9yLdb.th.jpg"
     }
-	    
-    ]
-},  	
-    {
-    "name": "⚽ DEPORTES ESPN OPCIONAL",
-    "samples": [
-	    
-	    {
-        "name": "ESPN 1",
-        "url": "http://magmaplayer.com/stream/secure/BGx5KmRkZGSsZGtkYwx0YwVmZv4lKmR3AQt2At.m3u8",
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-        ,
-    "headers": {
-        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-        "X-Did": "704b97090ad1fb5e",
-        "X-Version": "8/1.0.7",
-        "User-Agent": "Magma Player/8",
-        "Accept-Encoding": "gzip",
-        
-        "Connection": "Keep-Alive"
-    }
-    },
-	    	    {
-        "name": "ESPN 2 SUR",
-        "url": "http://magmaplayer.com/stream/secure/Zmt2KmZ3Zy8lBQNmBwWuZQN6ZwNjAwcyZJRkBzV2AQN6AmyyAGblLGL6LGVjLy8kAmD4Awt.m3u8",
-        "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png"
-        ,
-    "headers": {
-        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-        "X-Did": "704b97090ad1fb5e",
-        "X-Version": "8/1.0.7",
-        "User-Agent": "Magma Player/8",
-        "Accept-Encoding": "gzip",
-        
-        "Connection": "Keep-Alive"
-    }
-    }	    
 ]
 },
 {
@@ -731,8 +686,8 @@
         "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -754,8 +709,8 @@
         "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
        
     "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -768,8 +723,8 @@
         "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
        
    "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -784,8 +739,8 @@
         "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png",
        
    "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -800,8 +755,8 @@
    ,
        
    "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -816,8 +771,8 @@
    ,
        
    "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -832,8 +787,8 @@
    ,
        
    "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -848,8 +803,8 @@
        ,
        
    "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -870,8 +825,8 @@
        ,
        
    "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
     }
@@ -890,8 +845,8 @@
         "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png"
    ,
      "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -905,8 +860,8 @@
        
    "headers": {
         
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
     }
@@ -923,8 +878,8 @@
        
    "headers": {
         
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
     }
@@ -982,8 +937,8 @@
         "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
 		    
 "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1025,8 +980,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
         "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         }
@@ -1248,8 +1203,8 @@
        
    "headers": {
         
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0"
     }
@@ -1524,8 +1479,8 @@
     "drm_license_uri": "https://dl.dropbox.com/scl/fi/3sl2jpy3i4fne1mgsc5p1/golden.json?rlkey=j9e7tmf7aonclrjdfv48783us&st=g2s9w5n6&dl=0",
     "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
 "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1539,8 +1494,8 @@
         "icono": "https://i.ibb.co/jyK3gPh/0000-all-l-warner-logo-warner-2018-blanco-1.png"
  ,
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1552,8 +1507,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/tg3zfnztkc0yu2k74smpe/universal.json?rlkey=8l2azm48jv1gxqgcp401o6o9e&st=r3e97znf&dl=0",
         "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1566,8 +1521,8 @@
         "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png"
    ,
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1579,8 +1534,8 @@
         "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg"
     ,
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1593,8 +1548,8 @@
         "icono": "https://i.ibb.co/cvghCHq/cinecanal.png"
     ,
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1607,8 +1562,8 @@
         "icono": "https://i.ibb.co/r2gYhQb/tnt-fundo-escuro.png"
     ,
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1621,8 +1576,8 @@
         "icono": "https://i.ibb.co/pJGxSPx/unnamed.png"
    ,
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1635,8 +1590,8 @@
         "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png",
        
 "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1648,8 +1603,8 @@
         "icono": "https://i.ibb.co/dmgX2Ww/Cinemax-LA.png"
    ,
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1662,8 +1617,8 @@
         "icono": "https://i.ibb.co/5LvDcdV/587595.png"
    ,
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1676,8 +1631,8 @@
         "icono": "https://i.ibb.co/cYXCsHG/Captura-de-pantalla-2017-03-23-a-las-12-53-24.png"
     ,
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1690,8 +1645,8 @@
         "icono": "https://i.ibb.co/McNjFxY/bb50999fb2860f8760ef4b22ef8bf09e.jpg"
     ,
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1704,8 +1659,8 @@
         "icono": "https://i.ibb.co/jzDc2Vs/6065f6e153054c65152bddd6-sony.png"
     ,
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1718,8 +1673,8 @@
         "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg"
     ,
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1732,8 +1687,8 @@
         "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg"
     ,
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1745,8 +1700,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/v049nl6gp8njp14s61xqz/tbs.json?rlkey=q9seofkzal1jd7b7oy6nomucl&st=r1p7tmam&dl=0",
         "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg",
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1758,8 +1713,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/npcid0pbjpevoxfd3fi8x/amc.json?rlkey=j0k1yy7pkrtapyxogubb382m3&st=yv8ytmik&dl=0",
         "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1771,8 +1726,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/1gk6xdi60k8shlgbx0ftd/a3series.json?rlkey=od64ljs497lokd58j8zco85vr&st=2y3usl7a&dl=0",
         "icono": "https://i.ibb.co/L6NV6Dy/720x540.jpg",
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1784,8 +1739,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/irhh1a1oy37nfcwsm1k7h/comedycentral.json?rlkey=wlzk2xufg0qyjpa17vsf8zvbz&st=vije1mgx&dl=0",
         "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png",
          "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1797,8 +1752,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/flrhpsx2oimr1pc5dxuim/paramount.json?rlkey=sccigkhv0249hv6hd92iif61v&st=ia56xqs3&dl=0",
         "icono": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1810,8 +1765,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/iwbu357pfxs70456893yp/a3cine.json?rlkey=uaw5lszzfmtu5iwj39b8l9mky&st=2abtc02e&dl=0",
         "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg",
          "headers": {
-        "Referer": "https://portal.app.flow.com.ar/",
-    "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
+    "Origin": "https://web.app.flow.com.ar",
             
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
      
@@ -1845,8 +1800,8 @@
             "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pp0316dn5w6kgdzk25jl/hbo1.json?rlkey=zm0ucfozhh5ywnvkukhhuzf77&st=27jzsgmu&dl=0",
             "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1857,8 +1812,8 @@
             "drm_license_uri": "https://dl.dropbox.com/scl/fi/8qz7g0yfn1qim2vr2358b/hbo2.json?rlkey=wmxlc9q1ion3s3uleyo913ns1&st=4f36f0ou&dl=0",
             "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1869,8 +1824,8 @@
             "drm_license_uri": "https://dl.dropbox.com/scl/fi/4d1rl72v4repqt3pymuxv/hboextreme.json?rlkey=pfvr66em9njnmdd7wd1qz4ahp&st=iffldnx6&dl=0",
             "icono": "https://i.ibb.co/xG6HY4G/30.jpg",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                   "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1881,8 +1836,8 @@
             "drm_license_uri": "https://dl.dropbox.com/scl/fi/6p3am132pvuvaxg17hu97/hbofamily.json?rlkey=93fj78otn63q25wunfc1x2gn7&st=hm3fefgt&dl=0",
             "icono": "https://i.ibb.co/ynkwLW3/hbofam.webp",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1893,8 +1848,8 @@
             "drm_license_uri": "https://dl.dropbox.com/scl/fi/zwc1zkwhghg0l5zovo8z9/hbosignature.json?rlkey=az5o0xgi8psuh4zotrnugw9im&st=12i64ros&dl=0",
             "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1905,8 +1860,8 @@
             "drm_license_uri": "https://dl.dropbox.com/scl/fi/17ti0ndndqzl5d0zvhe1c/hbomundi.json?rlkey=yshhz1e4xagupfwv70z3fago5&st=fmhrdxq4&dl=0",
             "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         }
@@ -1923,8 +1878,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1935,8 +1890,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1efd7edf60e1514f775dd13d046ae708&key=c2ef1abbd945c62c11b1375eaaa50f0d",
         "url": "http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1947,8 +1902,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -1959,8 +1914,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cedd9c1a5c2ae43f80ee3197212016d6&key=bf47a3c39e164a97ea6adc4c8dd57435",
         "url": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         }
@@ -2059,8 +2014,8 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4146a8ecbb0540dc807c6389ee87e0bc&key=0c3cdc1b3e4617c57361265e9fa4c5bd",
       "icono": "https://i.ibb.co/4nr56B4Y/2018-Animal-Planet-logo-svg.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2071,8 +2026,8 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db",
       "icono": "https://i.ibb.co/cSf474qK/History-Logo-svg.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2083,8 +2038,8 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ecbe97ec34784304b390a12ba3854ccf&key=5a0ee36ed9b8920cb19546fd92f2d415",
       "icono": "https://i.ibb.co/jkfB4HH/H2-logo.webp",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2095,8 +2050,8 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c283c84a7af0d7c8b9b612a8fb22a001&key=f45510c721eebd6eaa86a2e16ccbd77d",
       "icono": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2122,8 +2077,8 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f",
       "icono": "https://i.ibb.co/gjWGgjX/hh.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2134,8 +2089,8 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0956caf2e2bd41f49fdcead7cc94fe24&key=640c49578073a911938617eb4e652d6c",
       "icono": "https://i.ibb.co/svW76dGF/6065f6b54c6c7c38bc2c1c5f-investigation.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2146,8 +2101,8 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=46ba409fb04e40fb86b466d97e3a9588&key=f129fb9b5d213e20e2abe529b8cf2597",
       "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2158,8 +2113,8 @@
       "drm_license_uri": "https://dl.dropbox.com/scl/fi/9oqg6qqxgw6fhwcvn6fex/turbo.json?rlkey=taczv93ig5h2v25nts4cw5jvo&st=4nuuv4rk&dl=0",
       "icono": "https://i.ibb.co/M8C0j8Q/India-Tvd3227d-discovery-turbo.jpg",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2170,8 +2125,8 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5279c05ea51c4dae8e7fa6be88448089&key=b28dfafba4b848dfd5d7c177ebf19108",
       "icono": "https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2182,8 +2137,8 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58761c7b2819491eb3a0d765842c341a&key=9dabc48f88bd7f266734e57501bd6f47",
       "icono": "https://i.ibb.co/rQVYsy9/R-1.png",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
@@ -2194,8 +2149,8 @@
       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5",
       "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp",
       "headers": {
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     }
@@ -2211,8 +2166,8 @@
             "drm_license_uri": "https://dl.dropbox.com/scl/fi/np7ipkvvlvy00w8xmcz2d/plimplim.json?rlkey=cstpu2ozeo12ed5ugdwfnalws&st=465tr4hs&dl=0",
             "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -2223,8 +2178,8 @@
             "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=334001b2f2644df9bdf35e92d2b89f8f&key=475ec87d86ed0636dbb6d6d9d4a43bb7",
             "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -2235,8 +2190,8 @@
             "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d7df56efaa36a71141d238854cc46d1d&key=8abb2ee9150d8b2af8ebec0de0f833c8",
             "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -2247,8 +2202,8 @@
             "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e824b2277a86fd6adfc40aa948e5064a&key=28da2dbbe8e1a1463bbb23895b922083",
             "icono": "https://lokos.pages.dev/webp/logos/nickjr.webp",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -2259,8 +2214,8 @@
             "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=10638a722eb54c64bfb0e7a77483686a&key=41a7d3d522e19215b7e8f611b6902d61",
             "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -2271,8 +2226,8 @@
             "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a742e478d14023e1993e011d9415f94&key=0df77ede9bc744376836d21afa137dda",
             "icono": "https://lokos.pages.dev/webp/logos/disney.webp",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -2283,8 +2238,8 @@
             "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ffb2f0f63c23a3592d4653e938b9ca19&key=d3661ae881fc55fc7a15815cd439747b",
             "icono": "https://lokos.pages.dev/webp/logos/diskids.webp",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -2295,8 +2250,8 @@
             "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61c18cefecc2d067beaa9ff181305345&key=38d6f650cbf9a38fd9f35c01f98e647a",
             "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -2307,8 +2262,8 @@
             "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5792e613fceb699c79cbc0e75fe4cd37&key=a672793730476ed23e5c1bce2ff570c6",
             "icono": "https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI",
             "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         }
@@ -2792,8 +2747,8 @@
         "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
        
        "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
        }
    },
@@ -2805,8 +2760,8 @@
         "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png"
      ,
 "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
@@ -2824,8 +2779,8 @@
         "Accept-Language": "es-US,es;q=0.,en-US;q=0.8,en;q=0.7,es-419;q=0.6",
         "Connection": "keep-alive",
         "Host": "chromecast.cvattv.com.ar",
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://web.app.flow.com.ar",
+        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
         "Sec-Ch-Ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
         "Sec-Ch-Ua-Mobile": "?0",
         "Sec-Ch-Ua-Platform": "\"Windows\"",
@@ -2951,8 +2906,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
         "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png",
 "headers": {
-                "Origin": "https://portal.app.flow.com.ar",
-                "Referer": "https://portal.app.flow.com.ar/",
+                "Origin": "https://web.app.flow.com.ar",
+                "Referer": "https://web.app.flow.com.ar/guia-de-tv",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         }
