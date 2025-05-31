@@ -124,7 +124,11 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
         },
-    
+        {
+        "name": "PARAVISION 2",
+        "url": "http://181.78.27.128:8000/play/a016/index.m3u8",
+        "icono": "https://i.ibb.co/qMvpYJqT/R.png"
+    },
   
     {
         "name": "PY | SNT 🇵🇾",
@@ -163,7 +167,7 @@
      
     {
         "name": "TELEFUTURO 2",
-        "url": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
+        "url": "http://181.78.27.128:8000/play/a016/index.m3u8",
         "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
     },
    
