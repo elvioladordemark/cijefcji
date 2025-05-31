@@ -637,11 +637,18 @@
 	 {
         "name": "EVENTOS CHAMPIONS",
         "samples": [
-            {
-                "name": "ESPN",
-                "url": "https://m3.merichunidya.com:999/hls/espn1hd.m3u8?md5=gq0YeSgHN3eyn5MtfcUJ1w&expires=1748723551",
-                "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
-            }    
+             {
+                "name": "ESPN OPCION 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
 	    ]
   },
  {
