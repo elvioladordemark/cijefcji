@@ -310,11 +310,11 @@
         ]
     },
 	 {
-        "name": "EVENTOS",
+        "name": "EVENTOS CHAMPIONS",
         "samples": [
             {
-                "name": "ARSENAL vs NEWCASTLE",
-                "url": "https://m5.merichunidya.com:999/hls/wsmkmlfeed73.m3u8?md5=xwlyn8vP9BVCYAkS37QaOw&expires=1747593271",
+                "name": "ESPN",
+                "url": "https://m3.merichunidya.com:999/hls/espn1hd.m3u8?md5=gq0YeSgHN3eyn5MtfcUJ1w&expires=1748723551",
                 "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
             }
 	]
