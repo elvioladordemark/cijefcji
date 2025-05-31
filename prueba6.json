@@ -632,6 +632,16 @@
         "url": "http://200.121.48.17:8000/play/a14s/index.m3u8",
         "icono": "https://i.ibb.co/gZnCt7sc/Logo-canal-encuentro.png"
 	    }
+	        ]
+    },
+	 {
+        "name": "EVENTOS CHAMPIONS",
+        "samples": [
+            {
+                "name": "ESPN",
+                "url": "https://m3.merichunidya.com:999/hls/espn1hd.m3u8?md5=gq0YeSgHN3eyn5MtfcUJ1w&expires=1748723551",
+                "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
+            }    
 	    ]
   },
  {
