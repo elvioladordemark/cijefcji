@@ -163,7 +163,19 @@
                 "Referer": "https://portal.app.flow.com.ar/",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
             }
-        },
+  {
+                "nombre": "TELEFUTURO FLOW HD",
+                "url": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
+                "tipo": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
+                "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
+                "encabezados": {
+                    "Origen": "https://web.app.flow.com.ar",
+                    "Referidor": "https://web.app.flow.com.ar/guia-de-tv",
+                    "Agente de usuario": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            
      
     {
         "name": "TELEFUTURO 2",
