@@ -6968,6 +6968,65 @@
                     ],
                     "tmdb_id": 92443,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El ADN del delito",
+                    "genero": "Drama, Crimen, Action & Adventure",
+                    "descripcion": "Un grupo de agentes federales va a tener que recurrir a su ingenio para descifrar las claves de un espectacular robo.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/pm4OmPSKmilLqrK1k4ZI1MbScJz.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sKETyavKQOqsxaA2lq3T3iGnvTC.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/cSVDsq0UaTtP6TOpU0VIa6yiqlj.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Batalla campal",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6A4DB35D84F648DFBB93B3E5EB608D32_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Rastros de la noche",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/AEE06AC8324547D3B9C8A6D5F016C367_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Crueldad humana",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7F892AFEB2DB46B7B97A4BE6395D29EF_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El convoy",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/48C1087FB0E845C78949C8D32E17A595_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Todo por la familia",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/95FD820FAFEB44B6A08EAAF42B12EB97_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "En casa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D0936488E63A40DFA0C5C84EFEACE4D3_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La hacienda",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DB56510B8E4B43DCA46B7DA31698E33E_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El final y el principio",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6DF89A0DA9B24B2C988D006531F95A47_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 235924,
+                    "total_seasons": 2
                 }
             ]
         },
