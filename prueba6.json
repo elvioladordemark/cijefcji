@@ -481,8 +481,8 @@
        "name": "EVENTOS",
     "samples": [
 	     {
-                "name": "EVENTOS CHAMPIONS",
-                "url": "https://m3.merichunidya.com:999/hls/espn1hd.m3u8?md5=gq0YeSgHN3eyn5MtfcUJ1w&expires=1748723551",
+                "name": "EVENTOS FINAL FUTBOL ARGENTINO",
+                "url": "https://m2.merichunidya.com:999/hls/capodeportes.m3u8?md5=UAVwAt9kLt_N0EGFcykwaA&expires=1748814557",
                 "type": "CLEARKEY",
                 "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
             }
