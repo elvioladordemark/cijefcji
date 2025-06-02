@@ -30,20 +30,8 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },
-		{
-    "name": "bdbtg",
-    "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_wl/ESPN2HD.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
-    "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-    "headers": {
-       
-        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
-      
-        "Origin": "https://web.app.flow.com.py/",
-        "Referer": "https://web.app.flow.com.py/"
     }
+		
     
 
 
