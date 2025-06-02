@@ -2053,7 +2053,19 @@
             }
         }
 	 
+]
+},
+      	 {
+    "name": "PLUTO TV",
+    "samples": [
 
+	    {
+                "name": "ARCHIVOS FORENSE",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
+                "icono": "https://i.ibb.co/jkqwjmjX/155579801674174728.png"
+            }
     ]
 	   
 	   
