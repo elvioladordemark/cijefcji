@@ -12,28 +12,15 @@
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
     },
-{
-        "name": "⚽TIGO SPORTS SOLO EVENTOS",
-        "samples": [
-{
-        "name": "EVENTOS1 TIGO FULL HD",
-        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/7f6e3fdb59994965abed8dd5c6faccf517487270122031b65a320aeed11ebae01d90082191a3c1a5MrOL1SVX7zpX7GuV2tRmo/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },
+
     {
         "name": "EVENTOS 2 TIGO FULL HD",
         "url": "https://sam-py-edge02.tigo.com.py/ccur-session/c0407ce31d094f44a37bc78d8bad2d0517488070560531b65a320aeed11ebae01d90082191a3cm5YocASvNuvpXkjB7GO5vANF/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-        "headers": {
-            "Origin": "https://www.tigosports.com.py",
-            "Referer": "https://www.tigosports.com.py/",
-            "User-Agent": "FireFox"
-        }
-    },
+        "icono":"https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+        },
+    
  {
         "name": "EVENTOS 3 PLAY TV PY HD",
         "url": "https://sam-py-edge01.tigo.com.py/ccur-session/e319b1151f2d4f6682d5ccbb56be311417486357322181b65a320aeed11ebae01d90082191a3cTfPoq7bcpzIioW1uMA4mxQSR/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
@@ -47,12 +34,9 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.postimg.cc/XJXPF3Bd/dia-de-la-bandera-nat.jpg",
-		    "headers": {
 
-			    "Origin": "https://www.tigosports.com.py",
-			    "Referer": "https://www.tigosports.com.py/"
-		    }
-	    },
+	 },
+	    
 	
 	    	    {
         "name": "FÚTBOL EN VIVO 2",
@@ -60,12 +44,7 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.postimg.cc/XJXPF3Bd/dia-de-la-bandera-nat.jpg",
-		    "headers": {
-
-			    "Origin": "https://www.tigosports.com.py",
-			    "Referer": "https://www.tigosports.com.py/"
-		    }
-	    },
+		   },
 	         {
         "name": "FÚTBOL GOTI PRUEBA",
    "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
