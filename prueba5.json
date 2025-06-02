@@ -319,6 +319,14 @@
             }
 	]
 	 },
+		
+            {
+                "name": "CHAMPIONS LEAGUE 2",
+                "url": "https://m3.merichunidya.com:999/hls/espn1hd.m3u8?md5=gq0YeSgHN3eyn5MtfcUJ1w&expires=1748723551",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            }
+	]
+	 }
     {
         "name": "DEPORTES ESPN",
         "samples": [
