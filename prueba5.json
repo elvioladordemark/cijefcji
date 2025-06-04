@@ -2242,36 +2242,6 @@
         "name": "CANALES DE ARGENTINA",
         "samples": [
             {
-                "name": "GRAN HERMANO 24/7",
-                "url": "http://tv.zapping.life:8080/live/sanche10ca/be4PCtutPx/102111.ts",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
-            },
-            {
-                "name": "GRAN HERMANO CAM. 1",
-                "url": "https://streamtp4.com/global2.php?stream=grahermanocam1",
-                "type": "WEBVIEW",
-                "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
-            },
-            {
-                "name": "GRAN HERMANO CAM. 2",
-                "url": "https://streamtp4.com/global2.php?stream=grahermanocam2",
-                "type": "WEBVIEW",
-                "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
-            },
-            {
-                "name": "GRAN HERMANO CAM. 3",
-                "url": "https://streamtp4.com/global2.php?stream=grahermanocam3",
-                "type": "WEBVIEW",
-                "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
-            },
-            {
-                "name": "GRAN HERMANO MULTICAM",
-                "url": "https://streamtp4.com/global2.php?stream=granhermanomulticam",
-                "type": "WEBVIEW",
-                "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
-            },
-            {
                 "name": "AMERICA TV ",
                 "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
                 "type": "CLEARKEY",
