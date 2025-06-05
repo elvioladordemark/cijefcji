@@ -43,7 +43,7 @@
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/4y7JkV9f/IMG-20250502-WA0311.jpg",
+        "icono": "https://i.postimg.cc/0N732NBT/descarga-18.jpg",
         "headers": {
             "Origin": "https://web.app.flow.com.py",
             "Referer": "https://web.app.flow.com.py/guia-de-tv",
@@ -53,7 +53,7 @@
 	    {
         "name": "PARAGUAY VS URUGUAY",
         "url": "https://i.postimg.cc/qRNmVJ93/descarga-18.jpg",
-        "icono": "https://i.postimg.cc/4y7JkV9f/IMG-20250502-WA0311.jpg"
+        "icono": "https://i.postimg.cc/0N732NBT/descarga-18.jpg"
     },
 	    {
         "name": "ECUADOR VS BRASIL",
@@ -66,7 +66,19 @@
             "Referer": "https://portal.app.flow.com.py/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-    },    
+    },
+	    	    {
+        "name": "CHILE VS ARGENTINA",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3cmvxd9jsvvde816z4obc/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
+        "icono": "https://i.postimg.cc/qRNmVJ93/descarga-18.jpg",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
 	    {
         "name": "ECUADOR VS BRASIL",
         "url": "https://i.postimg.cc/qRNmVJ93/descarga-18.jpg",
