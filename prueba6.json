@@ -132,7 +132,19 @@
  {
     "name": "CANALES DE PARAGUAY",
     "samples": [
-    {
+        {
+        "name": "HEI TV NOW 🇵🇾",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/4re2kjcs0qf0ej7mi8wub/latele.json?rlkey=4sfqceya57qqonxz1t0xkjbh9&st=agb952f8&dl=0",
+        "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg",
+        "headers": {
+           "Origin": "https://web.app.flow.com.py",
+            "Referer": "https://web.app.flow.com.py/guia-de-tv", 
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	    {
         "name": "NANDEPORTETEPE TV PY",
         "url": "https://live.enhdtv.com:19360/capiatatv/capiatatv.m3u8",
         "icono": "https://i.postimg.cc/4y7JkV9f/IMG-20250502-WA0311.jpg"
@@ -544,7 +556,7 @@
         }
     },
     {
-        "name": "GEN_TV 🇵🇾 opción 2",
+        "name": "GEN_TV 🇵🇾 2",
         "url": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
@@ -569,7 +581,7 @@
         }
     },
     {
-        "name": "LA_TELE 🇵🇾 opción 2",
+        "name": "LA_TELE 🇵🇾 2",
         "url": "https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_C/LA_TELE_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/4re2kjcs0qf0ej7mi8wub/latele.json?rlkey=4sfqceya57qqonxz1t0xkjbh9&st=agb952f8&dl=0",
@@ -582,12 +594,12 @@
     },
 
     {
-        "name": "UNION TV",
+        "name": "UNION TV  🇵🇾",
         "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
         "icono": "https://i.ibb.co/9hqVmzy/descarga.png"
     },
     {
-        "name": "FARRA PLAY",
+        "name": "FARRA PLAY 🇵🇾 ",
         "url": "https://stream.farra.com.py/live/farra_src.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
