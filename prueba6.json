@@ -39,11 +39,11 @@
     "name": "ELIMINATORIAS 2025",
     "samples": [
        {
-        "name": "PARAGUAY VS URUGUAY",
+        "name": "POR DEFINIRSE",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/0N732NBT/descarga-18.jpg",
+        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg",
         "headers": {
             "Origin": "https://web.app.flow.com.py",
             "Referer": "https://web.app.flow.com.py/guia-de-tv",
@@ -51,11 +51,11 @@
         }
     },
     {
-        "name": "PARAGUAY VS URUGUAY 2",
+        "name": "POR DEFINIRSE",
         "url": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
-        "icono": "https://i.postimg.cc/0N732NBT/descarga-18.jpg",
+        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/",  
@@ -63,16 +63,16 @@
         }
     },	    
 	    {
-        "name": "PARAGUAY VS URUGUAY 3",
+        "name": "POR DEFINIRSE",
         "url": "https://m2.merichunidya.com:999/hls/ligapy2.m3u8?md5=BCa0FIojQktZDETWOJxLTQ&expires=1749171859",
-        "icono": "https://i.postimg.cc/0N732NBT/descarga-18.jpg"
+        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg"
     },
 	    {
-        "name": "ECUADOR VS BRASIL",
+        "name": "POR DEFINIRSE",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3cmvxd9jsvvde816z4obc/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
-        "icono": "https://i.postimg.cc/nzd7f4p0/ecuador-vs-brasil-donde-ver-las-eliminatorias-de-conmebol-para-el-mundial-2026.webp",
+        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg",
         "headers": {
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/",
@@ -80,11 +80,11 @@
         }
     },
 	    {
-        "name": "CHILE VS ARGENTINA",
+        "name": "POR DEFINIRSE",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3cmvxd9jsvvde816z4obc/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
-        "icono": "https://i.postimg.cc/PqGDQf5r/Chile-vs-Argentina-ultimos-10-780x470.jpg",
+        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg",
         "headers": {
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/",
@@ -92,19 +92,19 @@
         }
     },
 	    {
-        "name": "PARAGUAY VS URUGUAY",
+        "name": "POR DEFINIRSE",
         "url": "https://m2.merichunidya.com:999/hls/ligapy2.m3u8?md5=BCa0FIojQktZDETWOJxLTQ&expires=1749171859",
-        "icono": "https://i.postimg.cc/0N732NBT/descarga-18.jpg"
+        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg"
 	    },    
 	    {
-        "name": "ECUADOR VS BRASIL",
+        "name": "POR DEFINIRSE",
         "url": "https://m3.merichunidya.com:999/hls/wsmkmlfeed86.m3u8?md5=Ot-qga-LnXuhtBlFkuTDXA&expires=1749171996",
-        "icono": "https://i.postimg.cc/nzd7f4p0/ecuador-vs-brasil-donde-ver-las-eliminatorias-de-conmebol-para-el-mundial-2026.webp"
+        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg"
 	    },
     {
-        "name": "CHILE VS ARGENTINA",
+        "name": "POR DEFINIRSE",
         "url": "https://m3.merichunidya.com:999/hls/capodeportes.m3u8?md5=B1hDaFA_4uJv_ttUrLnDdw&expires=1749178402",
-        "icono": "https://i.postimg.cc/PqGDQf5r/Chile-vs-Argentina-ultimos-10-780x470.jpg"
+        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg"
 	    }
 
        ]
