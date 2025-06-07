@@ -314,7 +314,7 @@
         }
     },
     {
-        "name": "HEI TV opción 2",
+        "name": "HEI TV 2",
         "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
@@ -349,7 +349,7 @@
         }
     },
     {
-        "name": "TV CAMARA opción 2",
+        "name": "TV CAMARA 2",
         "url": "https://chromecast.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc_C/TV_Camara.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/eg6t1cgrgakfa476cdqa8/tvcamara.json?rlkey=23dcy0jmclllnmm4xdyt0ib7h&st=fdqblgzn&dl=0",
@@ -374,7 +374,7 @@
         }
     },
     {
-        "name": "SUR TV opción 2",
+        "name": "SUR TV 2",
         "url": "https://chromecast.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_C/SUR_TV_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/a31oay4x7psi130hou2kx/surtv.json?rlkey=0x5izspqac7coo6r17w1n7jbj&st=ch0jhlr0&dl=0",
@@ -387,11 +387,11 @@
     },
 
     {
-        "name": "UNIVERSO TV",
+        "name": "UNIVERSO TV-POPU TV",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png",
+        "icono": "https://i.postimg.cc/bvSgNrYW/descarga-20.jpg",
         "headers": {
             "Origin": "https://web.app.flow.com.ar",
             "Referer": "https://web.app.flow.com.ar/guia-de-tv",
@@ -399,11 +399,11 @@
         }
     },
     {
-        "name": "UNIVERSO TV opción 2",
+        "name": "UNIVERSO TV-POPU TV 2",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png",
+        "icono": "https://i.postimg.cc/bvSgNrYW/descarga-20.jpg",
         "headers": {
             "Origin": "https://web.app.flow.com.py",
             "Referer": "https://web.app.flow.com.py/guia-de-tv",
