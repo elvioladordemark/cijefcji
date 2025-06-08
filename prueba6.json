@@ -48,7 +48,13 @@
             "Referer": "https://web.app.flow.com.py/guia-de-tv",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-    }
+    },
+        {
+                "name": "PORTUGAL VS ESPAÑA 2",
+                "url": "https://live1.cl.cdn.lla.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+                
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            }	    
 ]
   },
  {
