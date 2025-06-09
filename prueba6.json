@@ -960,7 +960,17 @@
  {
     "name": "CANALES INTERIOR ARGENTINA",
     "samples": [
-    {
+      {
+        "name": "CANAL 2 MISIONES",
+        "url": "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8",
+        "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg"
+    },
+	      {
+        "name": "CANAL AÍRE SANTA FÉ",
+        "url": "https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg"
+    },    
+	    {
         "name": "CHACO TV",
         "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
         "icono": "https://i.postimg.cc/6qFYj18N/IMG-20250520-WA0020.jpg"
