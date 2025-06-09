@@ -2508,7 +2508,7 @@
                 "name": "HBO PRUEBA",
                 "url": "https://csc-arr-edge02.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pp0316dn5w6kgdzk25jl/hbo1.json?rlkey=zm0ucfozhh5ywnvkukhhuzf77&st=27jzsgmu&dl=0",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dead023f7a81634339ae639990c1517a&key=ba970222b4466c61d0deccc67ab34452",
                 "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
                 
                 }
