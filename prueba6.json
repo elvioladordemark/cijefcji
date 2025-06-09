@@ -2478,15 +2478,23 @@
   },
 
        	 {
-     "name": "🎥PACK-HBO",
+     "name": "🎥PACK-HBO GLOBAL",
         "samples": [
            {
                 "name": "HBO GLOBAL",
                 "url": "https://csc-arr-edge02.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dead023f7a81634339ae639990c1517a&key=ba970222b4466c61d0deccc67ab34452",
-                "icono": "https://i.postimg.cc/BQKTs8kj/descarga-24.jpg"
-            },
+                "icono": "https://i.ibb.co/zfmjcgb/HBO.png"
+            }	    
+]
+
+  },
+
+       	 {
+     "name": "🎥PACK-HBO",
+        "samples": [
+           
 		{
                 "name": "HBO FLOW",
                 "url": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd",
