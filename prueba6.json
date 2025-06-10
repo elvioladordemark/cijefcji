@@ -39,12 +39,48 @@
  {
     "name": "ELIMINATORIAS 2026",
     "samples": [
-       {
-        "name": "POR DEFINIRSE",
+        {
+        "name": "HEI TV NOW 🇵🇾",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8922522d07bc6aea96decd1c61553a6&key=dd9d597ceaf05fa903587ff1a657a04e",
+        "icono": "https://i.postimg.cc/4d481KKm/descarga-21.jpg",
+        "headers": {
+           "Origin": "https://web.app.flow.com.py",
+            "Referer": "https://web.app.flow.com.py/guia-de-tv", 
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	    {
+        "name": "GEN_TV 🇵🇾 2",
+        "url": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
+        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",  
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    }, 
+	        {
+        "name": "POPU TV 2",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg",
+        "icono": "https://i.postimg.cc/bvSgNrYW/descarga-20.jpg",
+        "headers": {
+            "Origin": "https://web.app.flow.com.py",
+            "Referer": "https://web.app.flow.com.py/guia-de-tv",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	    {
+        "name": "EL TRECE",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xghil2hmiyc4afg8ibuvp/trece.json?rlkey=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png",
         "headers": {
             "Origin": "https://web.app.flow.com.py",
             "Referer": "https://web.app.flow.com.py/guia-de-tv",
@@ -52,61 +88,18 @@
         }
     },
     {
-        "name": "POR DEFINIRSE",
-        "url": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
+        "name": "EL TRECE 2",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
-        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xghil2hmiyc4afg8ibuvp/trece.json?rlkey=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",  
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-    },	    
-	    {
-        "name": "POR DEFINIRSE",
-        "url": "https://m2.merichunidya.com:999/hls/ligapy2.m3u8?md5=BCa0FIojQktZDETWOJxLTQ&expires=1749171859",
-        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg"
-    },
-	    {
-        "name": "POR DEFINIRSE",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3cmvxd9jsvvde816z4obc/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
-        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg",
-        "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-    },
-	    {
-        "name": "POR DEFINIRSE",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3cmvxd9jsvvde816z4obc/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
-        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg",
-        "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-    },
-	    {
-        "name": "POR DEFINIRSE",
-        "url": "https://m2.merichunidya.com:999/hls/ligapy2.m3u8?md5=BCa0FIojQktZDETWOJxLTQ&expires=1749171859",
-        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg"
-	    },    
-	    {
-        "name": "POR DEFINIRSE",
-        "url": "https://m3.merichunidya.com:999/hls/wsmkmlfeed86.m3u8?md5=Ot-qga-LnXuhtBlFkuTDXA&expires=1749171996",
-        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg"
-	    },
-    {
-        "name": "POR DEFINIRSE",
-        "url": "https://m3.merichunidya.com:999/hls/capodeportes.m3u8?md5=B1hDaFA_4uJv_ttUrLnDdw&expires=1749178402",
-        "icono": "https://i.postimg.cc/yx6kv90g/IMG-20250607-WA0038.jpg"
-	    }
+    }    
+
 
        ]
 	    
@@ -169,6 +162,30 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
+	    {
+        "name": "EL TRECE",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xghil2hmiyc4afg8ibuvp/trece.json?rlkey=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png",
+        "headers": {
+            "Origin": "https://web.app.flow.com.py",
+            "Referer": "https://web.app.flow.com.py/guia-de-tv",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+    {
+        "name": "EL TRECE 2",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xghil2hmiyc4afg8ibuvp/trece.json?rlkey=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },    
 	    {
         "name": "NANDEPORTETEPE TV PY",
         "url": "https://live.enhdtv.com:19360/capiatatv/capiatatv.m3u8",
@@ -784,7 +801,7 @@
         }
     },
     {
-        "name": "EL TRECE opcion 2",
+        "name": "EL TRECE 2",
         "url": "https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/xghil2hmiyc4afg8ibuvp/trece.json?rlkey=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092",
