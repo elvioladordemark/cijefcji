@@ -98,7 +98,31 @@
             "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-    }    
+    },
+    {
+        "name": "UNICANAL",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_C/UNICANAL_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/gufaliqatmwnfv3g7aeg1/unicanal.json?rlkey=5gsk99k8zpinbk8cc6r8hbj9t&st=4tfniuuj&dl=0",
+        "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
+        "headers": {
+            "Origin": "https://web.flow.com.py",
+            "Referer": "https://web.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },	    
+    {
+        "name": "UNICANAL 2",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_C/UNICANAL_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/gufaliqatmwnfv3g7aeg1/unicanal.json?rlkey=5gsk99k8zpinbk8cc6r8hbj9t&st=4tfniuuj&dl=0",
+        "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
+        "headers": {
+            "Origin": "https://web.flow.com.ar",
+            "Referer": "https://web.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    }	    
 
 
        ]
