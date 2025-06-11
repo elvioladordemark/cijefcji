@@ -119,8 +119,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3cmvxd9jsvvde816z4obc/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
         "icono": "https://i.postimg.cc/sxMd8qTn/descarga-26.jpg",
         "headers": {
-            "Origin": "https://web.app.flow.com.py",
-            "Referer": "https://web.app.flow.com.py/guia-de-tv",
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://web.app.flow.com.ar/guia-de-tv",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
@@ -132,7 +132,7 @@
         "icono": "https://i.postimg.cc/sxMd8qTn/descarga-26.jpg",
         "headers": {
             "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.ar/",
+            "Referer": "https://portal.app.flow.com.py/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },	    
