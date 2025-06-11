@@ -46,8 +46,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8922522d07bc6aea96decd1c61553a6&key=dd9d597ceaf05fa903587ff1a657a04e",
         "icono": "https://i.postimg.cc/sxMd8qTn/descarga-26.jpg",
         "headers": {
-           "Origin": "https://web.app.flow.com.ar",
-            "Referer": "https://web.app.flow.com.ar/guia-de-tv", 
+           "Origin": "https://pirtal.app.flow.com.ar",
+            "Referer": "https://portal.flow.com.ar/guia-de-tv", 
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
@@ -70,8 +70,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
         "icono": "https://i.postimg.cc/sxMd8qTn/descarga-26.jpg",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",  
+          "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/guia-de-tv",  
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     }, 
@@ -206,8 +206,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
         "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",  
+          "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/guia-de-tv",  
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     }, 
