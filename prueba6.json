@@ -603,36 +603,7 @@
    {
        "name": "CANALES DE ARGENTINA",
     "samples": [
-    {
-        "name": "GRAN HERMANO 24/7",
-        "url": "http://tv.zeuspro.xyz:8080/live/jcoronado25/d41cb84b2988/102111.m3u8",
-        "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
-    },
-    {
-        "name": "GRAN HERMANO CAM. 1",
-        "url": "https://streamtp4.com/global2.php?stream=grahermanocam1",
-        "type": "WEBVIEW",
-        "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
-    },
-    {
-        "name": "GRAN HERMANO CAM. 2",
-        "url": "https://streamtp4.com/global2.php?stream=grahermanocam2",
-        "type": "WEBVIEW",
-        "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
-    },
-    {
-        "name": "GRAN HERMANO CAM. 3",
-        "url": "https://streamtp4.com/global2.php?stream=grahermanocam3",
-        "type": "WEBVIEW",
-        "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
-    },
-    {
-        "name": "GRAN HERMANO MULTICAM",
-        "url": "https://streamtp4.com/global2.php?stream=granhermanomulticam",
-        "type": "WEBVIEW",
-        "icono": "https://i.ibb.co/qF5zpHcs/el-nuevo-logo-de-gran-hermano-jpg-215279816.webp"
-    },
+
     {
         "name": "AMERICA TV ",
         "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
@@ -646,7 +617,7 @@
         }
     },
     {
-        "name": "AMERICA TV opcion 2",
+        "name": "AMERICA TV 2",
         "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
@@ -670,7 +641,7 @@
         }
     },
     {
-        "name": "TV PUBLICA opcion 2",
+        "name": "TV PUBLICA 2",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
@@ -694,7 +665,7 @@
         }
     },
     {
-        "name": "CANAL 9 opcion 2",
+        "name": "CANAL 9 2",
         "url": "https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
@@ -718,7 +689,7 @@
         }
     },
     {
-        "name": "TELEFE opcion 2",
+        "name": "TELEFE 2",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0",
@@ -771,7 +742,7 @@
         }
     },
     {
-        "name": "TN NOTICIAS opcion 2",
+        "name": "TN NOTICIAS 2",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
@@ -795,7 +766,7 @@
         }
     },
     {
-        "name": "C5N opcion 2",
+        "name": "C5N 2",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
@@ -819,7 +790,7 @@
         }
     },
     {
-        "name": "LN+ - LA NACION opcion 2",
+        "name": "LN+ - LA NACION 2",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c",
@@ -843,7 +814,7 @@
         }
     },
     {
-        "name": "CRONICA TV opcion 2",
+        "name": "CRONICA TV 2",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
@@ -867,7 +838,7 @@
         }
     },
     {
-        "name": "A24 opcion 2",
+        "name": "A24 2",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
@@ -891,7 +862,7 @@
         }
     },
     {
-        "name": "CANAL 26 opcion 2",
+        "name": "CANAL 26 2",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
