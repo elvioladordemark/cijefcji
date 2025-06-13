@@ -1538,7 +1538,13 @@
 	 {
     "name": "⚽DEPORTES DAZN",
     "samples": [
-    {
+            {
+                "name": "DAZN MPD",
+                "url": "https://dca-co-live-gcr.gcdn.co/1s7gcqib6fu311g8dquy5vubt1/mob25f/stream.mpd?channel=3223&outlet=dazn-mena&plang=en",
+                
+                "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00f"
+            },
+	    {
         "name": "DAZN 1",
         "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
         "type": "CLEARKEY",
@@ -1594,8 +1600,8 @@
    }
       },
 	{
-        "name": "DAZN F1 PRUEBA",
-        "url": "https://hipaf6u2j3pwygg.nice-flower.store:443/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SY2YWM2EDZmJWYxQWLmJjMi1iY1UGNtkTN4cTLlNzN3ETZjVzL.m3u8",
+        "name": "DAZN MPD",
+        "url": "https://dca-co-live-gcr.gcdn.co/1s7gcqib6fu311g8dquy5vubt1/mob25f/stream.mpd?channel=3223&outlet=dazn-mena&plang=en",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3fk7uzio88s2d8hgurkbj/fs2.json?rlkey=nyzsw6qww8mmz37fdqrypuux6&st=40wv12zy&dl=0",
         "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
