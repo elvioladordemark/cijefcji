@@ -2432,12 +2432,17 @@
        	 {
      "name": "🎥PACK-HBO GLOBAL",
         "samples": [
-           {
-                "name": "HBO GLOBAL",
-                "url": "https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+           		{
+                "name": "HBO SENSA",
+                "url": "",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dead023f7a81634339ae639990c1517a&key=ba970222b4466c61d0deccc67ab34452",
-                "icono": "https://i.ibb.co/zfmjcgb/HBO.png"
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pp0316dn5w6kgdzk25jl/hbo1.json?rlkey=zm0ucfozhh5ywnvkukhhuzf77&st=27jzsgmu&dl=0",
+                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
+                "headers": {
+                    "Origin": "https://web.app.sensa.com.ar",
+                    "Referer": "https://player.sensa.com.ar/&webtoken=1.0",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
 	           {
                 "name": "HBO 2 GLOBAL",
