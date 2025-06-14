@@ -2434,7 +2434,7 @@
         "samples": [
            		{
                 "name": "HBO SENSA",
-                "url": "",
+                "url": "https://csc-arr-edge02.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pp0316dn5w6kgdzk25jl/hbo1.json?rlkey=zm0ucfozhh5ywnvkukhhuzf77&st=27jzsgmu&dl=0",
                 "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
