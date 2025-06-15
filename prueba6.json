@@ -44,17 +44,10 @@
  {
     "name": "EVENTOS MUNDIAL DE CLUBES",
     "samples": [
-        {
+	    {
         "name": "EVENTOS MUNDIAL DE CLUBES",
-        "url": "https://m3.merichunidya.com:999/hls/dsports.m3u8?md5=IUehV2zYsYJDKohBDJfV1A&expires=1750012200",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0",
-        "icono": "https://i.postimg.cc/kXyDzZtx/Ge-BQfo-EWYAA1vd-L.jpg",
-        "headers": {
-            "Origin": "https://web.app.flow.com.py",
-            "Referer": "https://web.app.flow.com.py/guia-de-tv",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "url": "https://m7.merichunidya.com:999/hls/dsports.m3u8?md5=6VxZJWYEr6ezNFkNMpJAVw&expires=1750012700",
+        "icono": "https://i.postimg.cc/kXyDzZtx/Ge-BQfo-EWYAA1vd-L.jpg"
     },
     {
         "name": "TELEFE 2",
