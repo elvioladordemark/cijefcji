@@ -1617,18 +1617,12 @@
     "name": "⚽DEPORTES DAZN",
     "samples": [
             {
-                "name": "DAZN MPD",
-                "url": "https://bigboss.bemtv.cn/STREAM/23021/playlist.m3u8",
+                "name": "DAZN 1",
+                "url": "https://otakon.bemtv.cn/STREAM/22992/playlist.m3u8",
                 
                 "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00f"
             },
-	    {
-        "name": "DAZN 1",
-        "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-        "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
-    },
+
 	    {
                 "name": "DAZN 2",
                 "url": "http://magmaplayer.com/stream/m3u8/ZmV5KmRkZwMsZGp5YwLjYwVmBF4mZ18kAmD3AGt/hls/1126.m3u8",
