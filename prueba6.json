@@ -1616,96 +1616,12 @@
 	 {
     "name": "⚽DEPORTES DAZN",
     "samples": [
-            {
-                "name": "DAZN 1",
-                "url": "https://otakon.bemtv.cn/STREAM/22992/playlist.m3u8",
-                
-                "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00f"
-            },
-
-	    {
-                "name": "DAZN 2",
-                "url": "http://magmaplayer.com/stream/m3u8/ZmV5KmRkZwMsZGp5YwLjYwVmBF4mZ18kAmD3AGt/hls/1126.m3u8",
-                "icono": "https://i.ibb.co/zVyXvjM/dazn2.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-    {
-        "name": "DAZN 3",
-        "url": "http://thebestiptv.gsuscam.net:2018/play/Q7DAAX3IvEDpDBkhYZkqWv35ztrio3btEZ6SCX7mvf4/ts",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bad8efff688c0dbb3711e4a7114c22a3&key=6ba800673b20776c0c850130d45e1920",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9TSJe2eq5BVR4iTiqiPimKvFk0vztXF9PcbaLhYfG&s"
-    },
-    {
-        "name": "DAZN 4",
-        "url": "http://thebestiptv.gsuscam.net:2018/play/Q7DAAX3IvEDpDBkhYZkqWr1mWISmQXKLmu64ibORt64/ts",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8",
-        "icono": "https://i.postimg.cc/MGV5vpFx/images.png"
-    },
-
-	     {
-        "name": "DAZN COMBATE",
+ {
+        "name": "DAZN 1",
         "url": "https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8",
-        "icono": "https://www.planetecsat.com/wp-content/uploads/2024/02/logo-DAZN-Combat.png"
-    },
-	    {
-        "name": "DAZN F1",
-        "url": "http://magmaplayer.com/stream/m3u8/ZmplKmDlA18kAmxhAwNhZwZ5YwZmKmR3AQp0BD/hls/427.m3u8",
-        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-        ,
-    "headers": {
-        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-        "X-Did": "704b97090ad1fb5e",
-        "X-Version": "8/1.0.7",
-        "User-Agent": "Magma Player/8",
-        "Accept-Encoding": "gzip",
-        
-        "Connection": "Keep-Alive"
-   }
-      },
-	{
-        "name": "DAZN MPD",
-        "url": "https://dca-co-live-gcr.gcdn.co/1s7gcqib6fu311g8dquy5vubt1/mob25f/stream.mpd?channel=3223&outlet=dazn-mena&plang=en",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3fk7uzio88s2d8hgurkbj/fs2.json?rlkey=nyzsw6qww8mmz37fdqrypuux6&st=40wv12zy&dl=0",
-        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-    ,
-       
-   "headers": {
-        
-        "Origin": "https://web.app.flow.com.ar",
-        "Referer": "https://web.app.flow.com.ar/guia-de-tv",
-        
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0"
+        "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00f"
     }
-},        
-{ "name": "FORMULA 1 FULL HD",
-"url": "https://bigboss.bemtv.cn/STREAM/23021/playlist.m3u8", 
-	"type": "CLEARKEY", "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa",
-	"icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-},	    
-    {
-        "name": "DAZN LA LIGA",
-        "url": "https://cma.footballii.ir/hls2/laligatv.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43d1c3b25207ff38b22ccfe17d302367&key=7b1f85f6e81059473b114c16a25c829a",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU"
-    },
-	    {
-        "name": "DAZN LA LIGA 2",
-        "url": "http://thebestiptv.gsuscam.net:2018/play/Q7DAAX3IvEDpDBkhYZkqWqTiZyet_xfw-uDEnoYqCxE/ts",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/9e1i4w12nobb5tc7ka3b0/daznliga.json?rlkey=sl7msjhndx49v5yos75e1etfz&st=pmjjwg93&dl=0",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU"
-    }
+
 	    ]
       },
    {
