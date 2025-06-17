@@ -1489,45 +1489,16 @@
   },
       	
     {
-    "name": "⚽ DEPORTES DIRECTV ARG",
+    "name": "⚽ DEPORTES DIRECTV",
     "samples": [
 	    
 	    {
         "name": "DIRECTV SPORTS",
-        "url": "http://104.238.205.28:8989/278758_.m3u8",
+        "url": "http://38.211.242.128:8001/play/a09s/index.m3u8",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
         
-    },
-	    {
-        "name": "DIRECTV SPORTS 2",
-        "url": "http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/324.m3u8",
-        "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png"
-        ,
-    "headers": {
-        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-        "X-Did": "704b97090ad1fb5e",
-        "X-Version": "8/1.0.7",
-        "User-Agent": "Magma Player/8",
-        "Accept-Encoding": "gzip",
-        
-        "Connection": "Keep-Alive"
     }
-    },
-	    	    {
-        "name": "DIRECTV SPORTS PLUS",
-        "url": "http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/324.m3u8",
-        "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png"
-        ,
-    "headers": {
-        "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-        "X-Did": "704b97090ad1fb5e",
-        "X-Version": "8/1.0.7",
-        "User-Agent": "Magma Player/8",
-        "Accept-Encoding": "gzip",
-        
-        "Connection": "Keep-Alive"
-    }
-    }
+
 
        ]
   },
