@@ -3176,6 +3176,75 @@
                     ],
                     "tmdb_id": 47,
                     "total_seasons": 7
+                },
+                {
+                    "nombre": "Ginny y Georgia",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "La independiente Georgia y sus dos hijos, Ginny y Austin, se mudan al norte en busca de una nueva vida... pero descubren que empezar de cero puede ser complicado.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/2PDiqGclignop8MB6Gn0WIirI1t.png",
+                    "icono": "https://image.tmdb.org/t/p/original/vOwunzW4dx3n0J5mH40n9jTRSwY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lPmUu3xkoksz3xsa1feIUoOBZrg.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7842355939DD4FE2BD58E98A6E966586_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Es una cara, no una máscara",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3370BFE0EE554B778CD690B91B53334F_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Otro nivel de gilipolleces de los ricos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7808DB775C0C49F19706779ED7D21777_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Lydia Bennett es cien por cien feminista",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/53F35B8734AA431A904389035FC9CD85_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Bu, puta",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/72E9E133864F4038B565BC318A950A96_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Estoy depre",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8078FE647C624A44AECDB0463823467C_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Felices dieciséis, idiota",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B1221284059347029EA7CE57F7CB3C89_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Tomas una, luego otra",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2E12C1DFA66C43038C4B82B3B4A0F2EB_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Los sentimientos son difíciles",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D3C8CEDC2A89425E8C957303CB468914_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "La mayor traición desde Caín y Abel",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7993922431834B13957C877EF056CA52_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 117581,
+                    "total_seasons": 3
                 }
             ]
         },
