@@ -8201,6 +8201,65 @@
                     ],
                     "tmdb_id": 232766,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Fubar",
+                    "genero": "Action & Adventure, Drama, Comedia",
+                    "descripcion": "Cuando un padre y su hija descubren que ambos trabajan en secreto para la CIA, sus peligrosas misiones se mezclan con dinámicas familiares de lo más incómodas.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/mujPHFf77MjKNKmFEBFzUKdf65T.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fSa1OPyE95Zgu1lufOBIpqv8U2K.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/cgA0ffyHviUaRw0Fj9OgRv2xzUj.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "De tal padre tal hija",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E7FCE7DC19C0451480EC1C8D67588071_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Asalto a un tren",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1BF0377E46E449CFB52911D13041615F_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El señuelo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EDF75D1657514A2DAC1899C48EF1F509_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El danés armado y peligroso",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/925EB136FC9B432BACB04640241F3E0E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Misión médula ósea",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5BE728A657004125818D10D8320CEA67_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Caras de póquer",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F4FC5FE8011342BBBD30BBD43DAA198B_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Oro líquido",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/495346BB5CD34EA88707BA34CD0B3246_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Punto y se acabó",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B518CC2FFCC84F128C6E543A0FE212C3_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 221300,
+                    "total_seasons": 2
                 }
             ]
         },
