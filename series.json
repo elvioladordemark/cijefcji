@@ -996,6 +996,55 @@
                     ],
                     "tmdb_id": 63351,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Sara, la mujer en las sombras",
+                    "genero": "Misterio, Drama, Crimen",
+                    "descripcion": "La muerte sospechosa de su hijo obliga a una antigua agente secreta a volver a la acción e investigar una serie de delitos que se vuelven cada vez más siniestros.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/66NGxmR6eGzMW3wHu6syaXsJvbR.png",
+                    "icono": "https://image.tmdb.org/t/p/original/13S9UQvi1pvP7ro2zVsOpjjeYow.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/cBsAo9icWr0mZBvd4Rc0R4kxnDU.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/71634716946640A6B957516F82138F1D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0DCD27F6226E469B9BE3096029792EBE_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3595C4544CFB4D8299D6B684DF9DEA70_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/53EFA9A031774878BD91FE2442BC422D_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/28F123D58F46467E8B2EAA820EA74DA1_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/668314E8561147438FE74E53B5210189_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 291256,
+                    "total_seasons": 1
                 }
             ]
         },
