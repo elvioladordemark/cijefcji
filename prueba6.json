@@ -1496,7 +1496,18 @@
         "url": "http://38.211.242.128:8001/play/a09s/index.m3u8",
         "icono": "https://i.postimg.cc/SNR0RZVV/images-10.png"
     }
-
+]
+},
+{
+    "name": "DEPORTES DAZN",
+    "samples":  [
+   {
+        "name": "DAZN PRUEBA",
+        "url": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_2_HD)/master.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
+        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+    }
 
        ]
   },
