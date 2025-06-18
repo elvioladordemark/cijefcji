@@ -8147,6 +8147,60 @@
                     ],
                     "tmdb_id": 194583,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Sin piedad para nadie",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "Tras cortar lazos con su banda, un antiguo gánster vuelve para descubrir la verdad sobre la muerte de su hermano, pero su búsqueda lo llevará por un camino de venganza sin retorno.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/w6sZeVlcglesRF4jQEbicSqfGlp.png",
+                    "icono": "https://image.tmdb.org/t/p/original/wN2oCVmMh8ey0vh0EfqcGA5X7UI.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/y7OFTnu8Gh2KHWX0Y05y8OY9kCB.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/700C22058D784F63BEE811A68104FDC6_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/198B7A5136E549EA8B1C141A44367848_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C091D7C4F4F74D3A9B7B114617B0FF53_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9667D5082B5F473F9B9E387E69E6ED78_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/72F9350F82A6419FBE5EA95FA9D4A286_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/48EB5DAB86C3466C8F2C399695308D6A_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EE2B168C3BEA44F68692FEBE6D6F56B8_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 232766,
+                    "total_seasons": 1
                 }
             ]
         },
