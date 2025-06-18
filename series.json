@@ -3069,6 +3069,55 @@
                     ],
                     "tmdb_id": 117581,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Sobre ruedas",
+                    "genero": "Comedia",
+                    "descripcion": "En el taller de su padre, un gerente desventurado intenta mejorar el servicio al cliente y aumentar las ganancias mientras mantiene a raya a su problemático primo.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4ygvp69uJ5bHspuqOYHIJJgUN9C.png",
+                    "icono": "https://image.tmdb.org/t/p/original/kBVEhUuvqXVduY02XLNZs56ZqWG.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/t8MVcvnhfyDvuxJe4oCb0YkgU2W.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La iniciativa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/06D2D7552E694D50BF16BA172B5ABCBD_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Ventanas de oportunidad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3933968AE19046B98705287F0241E028_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Concurso de ventas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/59C5B77D32BF4C5EB2344C6212FBC562_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Rumores",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/17B4397AEAC74C75A4D1D37276188C82_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Lavacoches en bikini",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/BCA5A4FED9E14701BE5857AC55F47403_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Papá",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/93573CC9694D4D27A6525991B66505B0_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 247522,
+                    "total_seasons": 2
                 }
             ]
         },
