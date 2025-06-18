@@ -1485,19 +1485,7 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     }
-]
-  },
-      	
-    {
-    "name": "⚽ DEPORTES DIRECTV",
-    "samples": [
-	    
-	    {
-        "name": "DIRECTV SPORTS",
-        "url": "http://38.211.242.128:8001/play/a09s/index.m3u8",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
-        
-    }
+
 
 
        ]
@@ -1595,19 +1583,7 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
                 }
             }
-        ]
-    },
-	
-	 {
-    "name": "⚽DEPORTES DAZN",
-    "samples": [
-{
-                "name": "DAZN 1",
-                "url":"https://otakon.bemtv.cn/STREAM/22992/playlist.m3u8",
-                "type":"HLS",
-                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
-                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-                }
+
             
 	    
 	    
