@@ -7139,6 +7139,55 @@
                     ],
                     "tmdb_id": 225152,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Goles en contra",
+                    "genero": "Drama",
+                    "descripcion": "La complicada relación de varios jugadores de la selección colombiana con el narcotráfico, que culminó con el autogol y asesinato de uno de los defensores más queridos del mundo.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gBYlYL9EW6PwR5NQuXeYJNYf6N8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/9vqkM576PihvYMeNlqoNwaBOV0n.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4IAp50UydzvFUSRp86Pid08MFJ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F97979E53CE144DAA1ACED1438A9F82E_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CA5E5FBF72D948C59A017F027C2E3780_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DD675C19EE6145AA9432D4DAC9287C2C_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A3E3B69719F64D37A1C525749A0E7952_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2131AF70300D49AFADAC8FBF6DD3ECB3_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2897C8AE31604387AE292A148EDE1C68_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 213550,
+                    "total_seasons": 1
                 }
             ]
         },
