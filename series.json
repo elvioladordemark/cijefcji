@@ -7054,6 +7054,55 @@
                     ],
                     "tmdb_id": 284605,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Barracuda Queens",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Tras endeudarse hasta las cejas, un grupo de chicas que viven en un barrio acomodado de Estocolmo deciden robar en las casas de sus vecinos. Inspirada en hechos reales.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1HrbEx3EoHxTeaeyf7xPHiUuqsa.png",
+                    "icono": "https://image.tmdb.org/t/p/original/gnlWpchunjLzgFXt2KVJZT4Jonf.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ib8oVZJlhfmnMko4EJJVOnOVX52.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5675298AA2E642CC90E491418A2E8B33_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5BB9AFA56A7442FEAA5E1EE6D6A82D80_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/88B5C6BAD40042929092D3849A053664_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F9A99CF9200A4F4C817106E0B63B829E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/43D9AFC1E4B94D47B1B8AE8C08D8BE7A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2E2979769BCB4FB58E3A304111299FA0_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 225152,
+                    "total_seasons": 2
                 }
             ]
         },
