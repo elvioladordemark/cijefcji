@@ -8538,6 +8538,40 @@
                     ],
                     "tmdb_id": 214582,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Galacticos",
+                    "genero": "Documental",
+                    "descripcion": "Crónica del primer término de Florentino Pérez como presidente del Real Madrid y de la revolución de los Galácticos que supervisó hasta convertir al Real Madrid en el equipo más glamuroso y exitoso que el mundo ha conocido. El documental de tres partes incluye las fascinantes perspectivas de un elenco estelar de leyendas del Real Madrid, como Iker Casillas, Roberto Carlos, Fernando Hierro, Claude Makélélé, Fernando Morientes, Steve McManaman y el director técnico Vicente del Bosque, además de personas cercanas a Pérez.",
+                    "anio": "2021",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/oeKJN379KyNqWgUTynG7m40p6fY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/PL8ZY5zLF7KR6p2xSwJIuW3rlv.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Familia",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/16BB2C527B7F4987BBE70CC189B1A7A1_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Negocio",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9AD618AA3B66417DA6A811B5420141F9_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El límite",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EEFAB7C85D2241EC90D59DB6536C0230_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 119647,
+                    "total_seasons": 1
                 }
             ]
         },
