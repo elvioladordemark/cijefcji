@@ -2430,6 +2430,23 @@
         ]
     },
     {
+        "name": "Deportes",
+        "samples": [
+            {
+                "name": "Gol",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/9A467B0BEFB34135B881EBEE5DA140B0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zHnOKBeu71MAs89QSp0v0giRmra.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hpuWR2rfcjRMni6HLtxPet4o4P4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/wMV6O2D3w6vgn0Lo982pRzE49TV.png",
+                "type": "PELICULA",
+                "descripcion": "Como millones de niños de todo el mundo, Santiago tiene el sueño de ser un jugador de fútbol profesional. Sin embargo, viviendo en una barriada de Los Angeles, piensa que es un sueño difícil de cumplirse. Cuando el pequeño Santiago Munez (Kuno Becker) cruza la frontera de México y se traslada a América con su familia, sólo tiene dos posesiones: su balón de fútbol y una foto de la Copa del Mundo hecha jirones.",
+                "anio": "2005",
+                "genero": "Drama",
+                "duracion": "118 min"
+            }
+        ]
+    },
+    {
         "name": "CRIMEN",
         "samples": [
             {
