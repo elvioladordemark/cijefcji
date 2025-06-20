@@ -7350,6 +7350,60 @@
                     ],
                     "tmdb_id": 213550,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Malditos",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Ante una expulsión inminente, una matriarca gitana y sus hijos luchan por salvar su clan, mientras ocultan un oscuro secreto que podría destruirlos.",
+                    "anio": "2025",
+                    "iconPng": "https://media.themoviedb.org/t/p/w500/8Es9BNTFa6nCal8rbeIZf2J1pwH.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5erzJrE8lpoK7YMDSpqCcUv5FJv.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1F3z3iHZ4yDL4gqenW6U2zo6XXG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/45630E1C8AC349B8BD2E24E9BCD80CDD_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0D637293A1DD49D795ED90635AB5B366_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A202BFBB8A0041EF808EA4B3CBFEB347_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/23CC19F6803644658B05B1E1739D037B_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/335DDDAC5688437FBC20F427B6F8D045_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/18DEE14718F441DFB85BACB5B47E5748_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A73B7AE56179449B969B8EAA09F25508_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 249822,
+                    "total_seasons": 1
                 }
             ]
         },
