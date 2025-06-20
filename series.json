@@ -658,6 +658,65 @@
                     ],
                     "tmdb_id": 247718,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Aguas turbias",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Una importante familia de pescadores de Carolina del Norte se mete en aguas turbulentas para mantener a flote su decadente imperio empresarial.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/mGiopKJO4jQFopBWKFVfmx0TUJC.png",
+                    "icono": "https://image.tmdb.org/t/p/original/3u9c53Uz9cLnVOgXpjI7RmGlxkG.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kootCU91JSYiQZwkJgHgyb4tz9m.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Casi bien",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7638A20D59874EC0B1FDB379D494D2F3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Tomar las riendas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D2B4439F48DB4FE4969151ECCF3B6C6C_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Quien con fuego juega...",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/539ECCBCFE1F4A2093A66EDE0567F6CD_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Los Buckley no son de fiar",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5CBB4FB0997A4F93A2C1110788563304_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Soy de abrazos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C3CA1EC2785E457E9D14A1F7E4EBE1DC_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Temporada de caza",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/950A7E96A4A74FBF8316320F5DD2CCE5_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Buen intento",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CF660205B55C4BD1A24E66995D2DFA6E_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "A la deriva",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/997277868F064D26B619548CEE50461F_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 254544,
+                    "total_seasons": 1
                 }
             ]
         },
