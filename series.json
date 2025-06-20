@@ -430,6 +430,65 @@
                     ],
                     "tmdb_id": 254544,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Éramos Mentirosos",
+                    "genero": "Misterio",
+                    "descripcion": "Un año después de que un accidente la dejara amnésica, Cadence (17 años), regresa a Beechwood, una isla cerca de Martha's Vineyard, en busca de respuestas. Tres generaciones de la distinguida familia Sinclair se reúnen en su utopía veraniega, pero nadie habla del accidente, ni sus amigos de la infancia, \"Los Mentirosos\", ni su primer amor, Gat, lo que la obliga a descubrir la verdad por sí misma.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/vebeGOJmX7ULjQ0mHBT2dLRWzar.png",
+                    "icono": "https://image.tmdb.org/t/p/original/mVRvrfC26Zea0n6c0B3OIKipHFP.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uqXUoqdwYKzlnDTpfJoXdnbOJi.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Miénteme con dulzura",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/318637FEAD1F491280933488D0BD0FEE_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Envuélvela en un paquete de mentiras",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1E2FDAF9016B4CF7A5F2361359923C62_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Mareas peligrosas, mentiras piadosas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5C8E11B74D784E19BDE4D8AD9410A054_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Cuatro de Julio lleno de mentiras",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/57D681BA75BE4860B907345942F93EA9_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Mentir juntos en un rayo de esperanza",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DCA7CE1996C6458095FCEC7A38852F98_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Cuando las mentiras te dan limones",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9495431C68F645CEB230E9FF2DC1F52A_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Todo el mundo sabe que el capitán mintió",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FDD22CC375E14B0395A3BC65B3939296_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Mis amigos mienten al sol",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A3ADFFDC53844418A171D31666A05B54_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 215522,
+                    "total_seasons": 1
                 }
             ]
         },
