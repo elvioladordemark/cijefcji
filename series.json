@@ -1162,6 +1162,70 @@
                     ],
                     "tmdb_id": 254544,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Pablo Escobar, el patrón del mal",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Versión libre del libro \"La parábola de Pablo\". Describe la vida del narco colombiano Pablo Escobar Gaviria desde su infancia, El uso de la violencia indiscriminada lo convirtió en el narcotraficante más temible y sanguinario de finales del siglo XX. Llegó incluso a desestabilizar al Gobierno colombiano hasta el punto de ser el criminal más buscado del mundo.",
+                    "anio": "2012",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9shIjrycCIquMazOpuyQHYtTPkH.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/r1tMESor8QuPVKP2VxcVEX6t6ad.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Enelia le da sus primeros consejos a Pablo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3FA0050695F142F182E8690ECB6B7A02_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Pablo comienza a jugar con candela",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/37F9386717134CE3BE3A5A06831E740F_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Pablo Escobar huye de la cárcel",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A24614B7757B468DA341ACC701D66F5F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Pablo se entrega a las autoridades",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B431D5A8DD8A460580371C2CE53ED2FB_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Pablo y Gonzalo inauguran la hacienda 'Nápoles'",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AA814919E8A14745BADFCE1C897B1CCF_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Pablo Escobar tiene su primer encuentro con la política",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5CBDA6F20CEF4964B7C19A415B6C0B35_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Pablo Escobar quiere ser miembro del Congreso de la República",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5E017EA432C44736A0AEFD5002CCC7F0_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Paty por poco descubre las andanzas de Pablo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/42533B9B4E0D4EAE8553F6DDE795DF78_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "A Escobar se le facilita su incursión en la política",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A80A144F5372424B999AB9236EFE2406_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 43348,
+                    "total_seasons": 1
                 }
             ]
         },
