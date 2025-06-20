@@ -1287,6 +1287,50 @@
                     ],
                     "tmdb_id": 231280,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Tierra de mafia",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/eEupFv8QIGVB7Z7a2QvECrlsvzu.png",
+                    "icono": "https://image.tmdb.org/t/p/original/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Pegar o torcer",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B6301BDD817D4A6D87130E63F1FEFAA6_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Rompecabezas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8500768965D547799A875E2B63965B27_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4484F0529EA24E59B62DD15BA8E728E8_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E3D46016A640410A869D4758862095D3_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5288740EE3814A9BA6AA05FF324F7D56_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 247718,
+                    "total_seasons": 1
                 }
             ]
         },
