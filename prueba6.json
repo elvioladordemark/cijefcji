@@ -1508,7 +1508,14 @@
 {
     "name": "DEPORTES DAZN",
     "samples":  [
-   {
+     {
+        "name": "DAZN FÓRMULA 1",
+        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SO0kTMjdzMkZ2NhRTLyEmMh1SYzMGNtYmMjJTLhVmMxIjZmNzL.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
+        "icono": "https://i.postimg.cc/MGszFY2X/images-11.png"
+    },
+	    {
         "name": "DAZN 1",
         "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzY0MjA0OTg5NjUwLTBhODgtMTVmNC1kOWU2LTU0ZjQwZjRi/master.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e",
         "type": "CLEARKEY",
