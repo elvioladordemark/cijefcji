@@ -1199,6 +1199,50 @@
                     ],
                     "tmdb_id": 291256,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Buen chico",
+                    "genero": "Crimen, Comedia, Action & Adventure, Drama",
+                    "descripcion": "Tras 11 años, la Policía de Insung acoge a antiguos deportistas de la selección nacional. Estos medallistas que fueron héroes se enfrentan hoy a una cruda realidad. Pese a estrecheces económicas, tragedias inesperadas y el desprecio de sus compañeros, aúnan fuerzas como fuerza operativa especial para enfrentarse a graves delitos con el valor y la destreza de sus tiempos como deportistas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/96M5sQ1wGa9FPbB7k1V2cvKGf01.png",
+                    "icono": "https://image.tmdb.org/t/p/original/9gE5ugcbRWd11E2kBAVrpi1GcaU.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hYwZR2P8MNJZz2Dnj68M8bUOfLt.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C9797F182A43412A8739CCC7518F832C_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B88D6D37E1344B35A2E46B9F7D42FD34_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/17AC1439AC7243E2AF13C597B8E21962_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DB7B3F70A2E44FC3BA90B714DF1FD470_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EDE78EE733424634845D6FA77371B8BB_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 231280,
+                    "total_seasons": 1
                 }
             ]
         },
