@@ -51,22 +51,21 @@
  {
     "name": "EVENTOS MUNDIAL DE CLUBES",
     "samples": [
-	    {
-        "name": "EVENTOS MUNDIAL DE CLUBES 1",
-        "url": "https://m7.merichunidya.com:999/hls/capodeportes.m3u8?md5=Wm9nR8k0_KXQQkcE6h92OQ&expires=1750108493",
+
+	
+   {
+        "name": "DAZN LA LIGA",
+        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CM0MWNmV2YhdjZ1EWLjF2Yi1COyADNtkTN2EWL0QWOzATN4QzL.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
         "icono": "https://i.postimg.cc/kXyDzZtx/Ge-BQfo-EWYAA1vd-L.jpg"
-    },
-	    {
-        "name": "EVENTOS MUNDIAL DE CLUBES 2",
-        "url": "https://legalhelpfast.pro/string/xixsxponksssd1",
-        "icono": "https://i.postimg.cc/kXyDzZtx/Ge-BQfo-EWYAA1vd-L.jpg"
-    },	
+    },	    
     {
         "name": "TELEFE",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0",
-        "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
+        "icono": "https://i.postimg.cc/kXyDzZtx/Ge-BQfo-EWYAA1vd-L.jpg",
         "headers": {
             "Origin": "https://web.app.flow.com.py",
             "Referer": "https://web.app.flow.com.py/guia-de-tv",
@@ -78,7 +77,7 @@
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0",
-        "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
+        "icono": "https://i.postimg.cc/kXyDzZtx/Ge-BQfo-EWYAA1vd-L.jpg",
         "headers": {
             "Origin": "https://portal.app.flow.com.ar",
             "Referer": "https://portal.app.flow.com.ar/guia-de-tv",
