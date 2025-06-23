@@ -1281,6 +1281,55 @@
                     ],
                     "tmdb_id": 43348,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El caso Hartung",
+                    "genero": "Crimen, Drama, Misterio",
+                    "descripcion": "En un parque infantil de una tranquila zona residencial de Copenhague, la policía encuentra a una joven brutalmente asesinada a la que le han seccionado una mano. Sobre la chica cuelga un muñequito hecho con castañas. El caso se asigna a la ambiciosa y joven detective Naia Thulin y a su nuevo compañero, Mark Hess.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/cjoTnTm6KX6OeCLYOJ9n8lgk9KB.png",
+                    "icono": "https://image.tmdb.org/t/p/original/9if9wfo0SSvHbZDN8IamLXjr9Zh.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fIXTetAsXkPO6UUUw85IU4oactf.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9B4A4C588CC044D09FD487845FF79559_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0381DD8C0E4040B785B8A733E6165E5F_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3468791D88F046EEAA60E35200565645_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/77206C2FD2C74084B4545D1400664E03_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FACE59F90BAA40668DD2A3AB1DCBC9A7_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/08FAB58F8CF944FD94B01526A7C71F7D_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 127865,
+                    "total_seasons": 1
                 }
             ]
         },
