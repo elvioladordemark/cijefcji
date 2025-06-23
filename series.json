@@ -4274,6 +4274,55 @@
                     ],
                     "tmdb_id": 94997,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Cassandra",
+                    "genero": "Sci-Fi & Fantasy",
+                    "descripcion": "Cuando una familia se muda a una antigua casa inteligente, descubre que está controlada por una asistente virtual, que intentará todo para que no vuelvan a salir.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/qFXX3uSCjdQHDmdt3PvgRdcuLSH.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qQYmYtk6GqbNiujYfWzxgeIi1A9.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4GAmr9BWRfVjZ3GAntm7yjVf82i.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Empezar de cero",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F89519599BF844C29483F33DE19FF584_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¿Quién soy?",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9D04FD171AAA4DE490E8FD197F8C2690_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Final del partido",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EF27DEF5D52A44C4A68326B665C13839_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un juego de niños",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B7F4444D8F794769B5CA25FAB612143B_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "No eres la única",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D71F0D69E22A48E7AF287EE488683FFC_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Feliz Navidad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AE4C62E1950C4ADBACF3BAE5495A9AD6_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 248982,
+                    "total_seasons": 1
                 }
             ]
         },
