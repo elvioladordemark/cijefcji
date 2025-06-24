@@ -247,18 +247,19 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
-    {
-        "name": "TELEFUTURO FLOW HD opción 2",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
-        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
-        "headers": {
+{
+    "name": "TELEFUTURO FLOW HD OPC 2",
+    "url": "https://edge-mix03-mus.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUwOTYzMjE2Iiwic2lwIjoiMTgxLjk1LjI0NC4xNDUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvQ2FuYWw3L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImVhNTJjN2VlYTg0YjgzYzQiLCJzZXNzaW9uX2lkIjoiODAwMTcwMDctMTc1MDc5MDQxNi0zODciLCJjbGllbnRfaWQiOiIxMTEyMjAxMSIsImRldmljZV9pZCI6IjgwMDE3MDA3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTM3Iiwic291cmNlcyI6Wzc1LDg1LDE0NCw4Niw4OF19.6GIU7jjEZS5_tCbWPxIyyBVKkHLfhl5f7YzBA-hew-morqwinBhzIqsNkc9QuXl2AahxIQeZbyNVJpIPbCdz3A==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
+    "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
+    "headers": {
             "Origin": "https://web.app.flow.com.py",
             "Referer": "https://web.app.flow.com.py/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
+
 
     {
         "name": "🇵🇾 TRECE PY",
