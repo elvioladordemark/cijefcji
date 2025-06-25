@@ -916,6 +916,40 @@
                     ],
                     "tmdb_id": 261980,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Ironheart",
+                    "genero": "Sci-Fi & Fantasy, Crimen",
+                    "descripcion": "La brillante inventora Riri Williams vuelve a Chicago, donde conoce a Parker Robins, el Encapuchado.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/6DHtWG4tmGoAmEExgXjmcn1qzY6.png",
+                    "icono": "https://image.tmdb.org/t/p/original/AmzGVKlLvpraNAXxPYUROiN2Ulj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Llévame a casa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/44005A516FA249AEAEC56041259F1FA4_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6D9DC28F960D4811B5A527856882B7AC_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Corremos peligro, tía",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/31106ED1328B45D8BADDFC26735D3C6A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 114471,
+                    "total_seasons": 1
                 }
             ]
         },
