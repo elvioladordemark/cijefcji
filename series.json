@@ -92,55 +92,6 @@
                     "total_seasons": 1
                 },
                 {
-                    "nombre": "Los sobrevivientes",
-                    "genero": "Drama, Misterio",
-                    "descripcion": "Hace quince años, la muerte de tres jóvenes destrozó a este tranquilo pueblo costero. Ahora, la misteriosa muerte de una joven vuelve a sacar el pasado a la luz.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/krB35Cn1yhqmlddMDWCW9UThFlN.png",
-                    "icono": "https://image.tmdb.org/t/p/original/cjyR1P2iPKXFXcKB3hRMvlKLoP9.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/6qp185qgY84bK7k5CKkAkivRuIO.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/84AD24D4795A4FBC9AD4E83DE48789AE_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/BC1941972BC941DF8B6431B5F946E22B_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/18F0F235DB55447FA952C2F57A288C93_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/439BC5E26DB54690A397F4E08B7D5BE4_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F36233B09BC1400D816468684B7E906F_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1B246C0D6DE042A6B02C9EB6EA2F8D0F_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 284605,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "Fubar",
                     "genero": "Action & Adventure, Drama, Comedia",
                     "descripcion": "Cuando un padre y su hija descubren que ambos trabajan en secreto para la CIA, sus peligrosas misiones se mezclan con dinámicas familiares de lo más incómodas.",
