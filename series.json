@@ -4119,6 +4119,75 @@
                     ],
                     "tmdb_id": 1418,
                     "total_seasons": 12
+                },
+                {
+                    "nombre": "Nuestro Seúl por descubrir",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Hermanas gemelas, cuyas similitudes terminan en su apariencia, intercambian identidades en medio de luchas personales y se embarcan en un viaje para redescubrir el amor y la vida.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9hhLBsrAhKzVcKBkbfMlh5DG41i.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cI2jAwUO3paBOsUl0xcSQD4aBwe.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/BF2B53C0527048838F6204E0B466D2A4_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4F97A3C24387413A9B98020569FFD2E1_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2402B76857E14F8B903C3D96E7ECBAA1_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2BEA112BBBA346FC81CC45DE81AF3921_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8C24D6030EF84B4EB3A0C903851A3FA5_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C6469FE079A84BC7B6AEFA9567AA61E4_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/95FB3BD487E44F31BFCCEFFD1EBE954D_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F1B5D970F2514594A6BD4D6ECA304428_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D402EED74633470DAF39F63CDE09C414_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F55B071562D943B1A56D3B1C95F30BE9_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 261980,
+                    "total_seasons": 1
                 }
             ]
         },
