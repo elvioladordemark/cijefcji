@@ -1446,7 +1446,18 @@
         "name": "DIRECTV 1",
         "url": "http://38.211.242.128:8001/play/a09s/index.m3u8",
         "icono": "https://i.postimg.cc/SNR0RZVV/images-10.png"
+    },
+	        {
+        "name": "DIRECTV 2",
+        "url": "http://38.211.242.128:8001/play/a09s/index.m3u8",
+        "icono": "https://i.postimg.cc/SNR0RZVV/images-10.png"
+    },
+    {
+        "name": "DIRECTV +",
+        "url": "http://38.211.242.128:8001/play/a09s/index.m3u8",
+        "icono": "https://i.postimg.cc/SNR0RZVV/images-10.png"
     }
+	    
 ]
 },
 {
