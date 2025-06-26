@@ -2426,7 +2426,7 @@
     "samples": [
     {
         "name": "HBO",
-        "url": "http://38.211.242.128:8001/play/a09s/index.m3u8",
+        "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOHD/default.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=df18f6a05bab28d89e5dc01d88f4deb8&key=baceb525467c0db22ba83090616c1ad0",
         "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
