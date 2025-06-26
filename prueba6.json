@@ -2419,6 +2419,20 @@
     }
 ]
 
+    },
+	
+ {
+    "name": "PACK HBO GLOBAL PRUEBA",
+    "samples": [
+    {
+        "name": "HBO",
+        "url": "http://38.211.242.128:8001/play/a09s/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pp0316dn5w6kgdzk25jl/hbo1.json?rlkey=zm0ucfozhh5ywnvkukhhuzf77&st=27jzsgmu&dl=0",
+        "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
+  }	    
+]
+
   },
 
        	
