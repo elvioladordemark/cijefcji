@@ -53,7 +53,7 @@
     "samples": [
    {
         "name": "EVENTOS DIRECTV",
-        "url": "https://m1.merichunidya.com:999/hls/dsports.m3u8?md5=rVLHyv7ORa86IgZYd0HkmA&expires=1750904626",
+        "url": "https://m2.merichunidya.com:999/hls/dsports.m3u8?md5=kDBEq2lkmR22o3Q9dLv7YA&expires=1750994166",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
         "icono": "https://i.postimg.cc/SNR0RZVV/images-10.png"
