@@ -1037,6 +1037,233 @@
                     ],
                     "tmdb_id": 93405,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "El oso",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/yuHeksANqi7f2E7oQrw1A2r50Dh.png",
+                    "icono": "https://image.tmdb.org/t/p/original/2S4gdgjQ1ejmqULtoHwhEqhvNj9.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/AjdEGHt5GGhe6VWdcYkWdLyfY9D.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El sistema",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/61EC6F07C19E4676A04C578E07076293_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Las manos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AB6B1837D68B41E084F29F2FAEC54109_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La brigada",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0A4D2C13F4084B26B3D4F9184864D283_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Los perros",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/73C7CDD4F32546F9A77612604424DDB1_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El Sheridan",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/12BC8A5C6CD340969AB0E8B2F60F4995_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Ceres",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5D04F3881A6B4BB08C0956DCB1E4D1A7_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El repaso",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B5B40D73B11940EC92DCFF2307D96ECF_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La braciola",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E8809A0742DE4EB59CC8171F3F48E5AF_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Ternera",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2264B28FE5934919A9F482EF843F05E0_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Pasta",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/BE2632AD92EC4D10B1A42F620856EC88_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Sundae",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A51254ADA44F4A939E1C92FD8C5540F5_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Melón verde",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7C863AF5EFCD4BEA802B4F8A9D5E011B_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Bolitas pop",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B58B50AA86A34508B0DD5B91FCF3A182_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Peces",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2D37987E90394D369E32F9FD0B69339E_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Tenedores",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6A6D1C8003164A8F89F6523555DC5E0F_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Boloñesa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/606034B53DE94484A8E922A37A2A35CB_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Tortilla",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B102E5EED2634532AEFD259504927139_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "The Bear",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EB8C569E5E924DAAAE60EA0A4538F2A0_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Mañana",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A52E93754E3141C5A568B11E4C541552_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "A continuación",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/55B267A3D47649F4BAE061CEC679A2B1_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Listos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B196D0C02C744433822AF0154184631B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Violet",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5E8BCD89667B47DDBB7B394F0DA67BCB_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Niños",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4EB695C803AD441B82D577C7BD5B7B10_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Servilletas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EF4E385911FF45A9BA4308D1B40D7551_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Legado",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FAF2384025AD44E18CA8CC19481103E4_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Cubitos de hielo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7D5EA0CBDD824B3EA1F1341C1713531B_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Disculpas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5A0BF25C4A1D411182B29FA9D6830F30_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Para siempre",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/908E61239E4847188A04D6B0F6DD0788_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 4",
+                            "numero_temporada": 4,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Marmotas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A25FDF70C5AD4BDBA97C4DBCCD99BC99_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Soubise",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5E21B7CA6CB7462C8BAFDDD80570097F_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Vieira",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D49E08D053804D0FB7A5247EF467C679_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Gusanos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6F34BEFDF20B471299C676A33C5A394B_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Replicantes",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1DA636143C454EF1A1061545DD76A8CB_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Sophie",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4D5373B528EB4E4F9AE368C180E7E7DD_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Osos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B37ADB19AA644151B14680405B2AD0E6_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Verde",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/14CBF78CFDA241AFAC420440BF660423_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Tonnato",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EA6682C4099444B8A396165688A7BA44_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Adiós",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E53D341CD9454E339482A127B7D27DCC_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 136315,
+                    "total_seasons": 4
                 }
             ]
         },
