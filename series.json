@@ -4423,6 +4423,65 @@
                     ],
                     "tmdb_id": 261980,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El oso",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "Un joven chef lucha por transformar una tienda de bocadillos junto a un equipo de cocineros novatos.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/yuHeksANqi7f2E7oQrw1A2r50Dh.png",
+                    "icono": "https://image.tmdb.org/t/p/original/2S4gdgjQ1ejmqULtoHwhEqhvNj9.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/AjdEGHt5GGhe6VWdcYkWdLyfY9D.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El sistema",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/61EC6F07C19E4676A04C578E07076293_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Las manos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AB6B1837D68B41E084F29F2FAEC54109_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La brigada",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0A4D2C13F4084B26B3D4F9184864D283_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Los perros",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/73C7CDD4F32546F9A77612604424DDB1_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El Sheridan",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/12BC8A5C6CD340969AB0E8B2F60F4995_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Ceres",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5D04F3881A6B4BB08C0956DCB1E4D1A7_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El repaso",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B5B40D73B11940EC92DCFF2307D96ECF_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La braciola",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E8809A0742DE4EB59CC8171F3F48E5AF_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 136315,
+                    "total_seasons": 4
                 }
             ]
         },
