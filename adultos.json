@@ -271,6 +271,16 @@
                 "url": "https://cdn.adultiptv.net/bigass.m3u8",
                 "type": "HLS",
                 "icono": "https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png"
+            },
+            {
+                "name": "VENUS (opc2)",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/1920px-Canal_Venus_logo_%282%29.svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     }
