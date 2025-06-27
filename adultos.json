@@ -291,6 +291,16 @@
                 "headers": {
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
+            },
+            {
+                "name": "PLAYBOY (opc2)",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/CbcmBJ3/Playboy-TV-01-removebg-preview.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     }
