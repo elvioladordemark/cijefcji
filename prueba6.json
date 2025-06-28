@@ -1405,6 +1405,47 @@
         "icono": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png"
     }
 ]
+},
+{
+    "name": "PACK TNT SPORTS CHILE",
+    "samples":  [
+
+	{
+        "name": "DAZN 1",
+        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzY0MjA0OTg5NjUwLTBhODgtMTVmNC1kOWU2LTU0ZjQwZjRi/master.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
+        "icono": "https://i.postimg.cc/MGszFY2X/images-11.png"
+    },
+    {
+        "name": "DAZN OPC 2",
+        "url": "https://dca-ac-live.cdn.indazn.com/dugongeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMWd4cWc3eWljeXMydjFycWg2NDRoY2l3OXEiXSwiZXhjIjpbXSwiaGVhZGVycyI6W10sImNvIjpmYWxzZSwiaXAiOmZhbHNlLCJhc24iOmZhbHNlLCJpbnRzaWciOiJ2d2N0U2tZZzk2RXY1enoyZEJwVVBOUk5HdHVpa2V4VWRVcWRzOFBSeDU4IiwiaWF0IjoxNzUwNDY1NjIzLCJleHAiOjE3NTA1NTIwMjN9.4UtCYY5x02tJaPsouZQmQnIrR_kNOu6-eT1H_Ty2PdE/1gxqg7yicys2v1rqh644hciw9q/tv25f/stream.m3u8?channel=1630&outlet=dazn-us&plang=en",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
+        "icono": "https://i.postimg.cc/MGszFY2X/images-11.png"
+    },	    
+   {
+        "name": "DAZN 2",
+        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iYkR2M1gzM4Y2MlhTLkJWOi1yMyYGNtEDOhZWLjVWZxgjYkFzL.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
+        "icono": "https://i.postimg.cc/MGszFY2X/images-11.png"
+    },
+   {
+        "name": "DAZN 3",
+        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzY0MjA0OTg5NjUwLTBhODgtMTVmNC1kOWU2LTU0ZjQwZjRi/master.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
+        "icono": "https://i.postimg.cc/MGszFY2X/images-11.png"
+    },
+   {
+        "name": "DAZN 4",
+        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzY0MjA0OTg5NjUwLTBhODgtMTVmNC1kOWU2LTU0ZjQwZjRi/master.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
+        "icono": "https://i.postimg.cc/MGszFY2X/images-11.png"
+    }	    
+]
 
 },
 
