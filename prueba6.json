@@ -72,7 +72,56 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
         "icono": "https://i.postimg.cc/kXyDzZtx/Ge-BQfo-EWYAA1vd-L.jpg"
-    },	    
+    },
+	    
+    {
+        "name": "TELEFUTURO FLOW HD",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
+        "headers": {
+            "Origin": "https://web.app.flow.com.py",
+            "Referer": "https://web.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+   {
+    "name": "TELEFUTURO FLOW HD opción 2 py",
+    "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxMDcxNzI0Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVmZUhEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA2M2FiYzdkYzMxODc3MzciLCJzZXNzaW9uX2lkIjoiODAwMTcwMDctMTc1MDg5ODkyNC01MDciLCJjbGllbnRfaWQiOiIxMTEyMjAxMSIsImRldmljZV9pZCI6IjgwMDE3MDA3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjQ1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.mgRyrv5wzjdknAh1qAMyv32EXJSUMSv5D7NXXzt2lv5wluDkG2vLg_jAC8kI_xl3U8QWabP65md9umt7Pd0wGg==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
+    "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
+    "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	        {
+        "name": "PY | SNT 🇵🇾",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/nxn9adh2409ceum2vmhkx/snt.json?rlkey=t12dj6hptaqjneyq8clqcmymz&st=9mz7elpt&dl=0",
+        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
+        "headers": {
+            "Origin": "https://web.app.flow.com.py",
+            "Referer": "https://web.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+    {
+        "name": "PY | SNT 🇵🇾 opción 2",
+        "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxMDcxNzI0Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVmZUhEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA2M2FiYzdkYzMxODc3MzciLCJzZXNzaW9uX2lkIjoiODAwMTcwMDctMTc1MDg5ODkyNC01MDciLCJjbGllbnRfaWQiOiIxMTEyMjAxMSIsImRldmljZV9pZCI6IjgwMDE3MDA3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjQ1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.mgRyrv5wzjdknAh1qAMyv32EXJSUMSv5D7NXXzt2lv5wluDkG2vLg_jAC8kI_xl3U8QWabP65md9umt7Pd0wGg==/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/nxn9adh2409ceum2vmhkx/snt.json?rlkey=t12dj6hptaqjneyq8clqcmymz&st=9mz7elpt&dl=0",
+        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
     {
         "name": "TELEFE",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
