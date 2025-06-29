@@ -711,12 +711,12 @@
     },
 
     {
-       "name": "CANALES DE ARGENTINA SIN GEI",
+       "name": "CANALES DE ARGENTINA SIN GEO",
     "samples": [
 
     {
         "name": "AMERICA TV ",
-        "url": "https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+        "url": "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
         "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
