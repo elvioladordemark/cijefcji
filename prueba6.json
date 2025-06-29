@@ -1129,6 +1129,18 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
+	    	    {
+        "name": "ESPN SUR",
+        "url": "http://bantel-cdn4.iptvperu.tv:1935/MswB47/espn.stream/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
+        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+        "headers": {
+            "Origin": "https://web.app.flow.com.py",
+            "Referer": "https://web.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
     {
         "name": "ESPN OPCION 2",
         "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxMzE4ODMxIiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVmZUhEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImFlNDRmOTNlMTY4Yzc5NDEiLCJzZXNzaW9uX2lkIjoiODEwMTUwNjItMTc1MTE0NjAzMS05NDciLCJjbGllbnRfaWQiOiIxMTEyMjAxMSIsImRldmljZV9pZCI6IjgxMDE1MDYyIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiI5MyIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.OTR4lfTyP2Z9MisK7z0dCJpsSnF4r2hrXSnun4kyEv4d8q9RTtvwxAO2S-Nl2g7z2Zssc0bQA-eLDcSr12sV0Q==/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
