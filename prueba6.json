@@ -201,7 +201,12 @@
   {
         "name": "CANALES DE PARAGUAY",
         "samples": [
-    {
+       {
+        "name": "MOTOR SUR",
+        "url": "https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8",
+        "icono": "https://i.postimg.cc/43P22mH1/descarga-14.png"
+    },
+		{
         "name": "PARAVISION 🇵🇾",
         "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
         "type": "CLEARKEY",
