@@ -277,6 +277,12 @@
                 "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/287.ts",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "VENUS",
+                "url": "http://190.60.40.35:12500/play/VENUS/index.m3u8",
+                "type": "HLS",
+                "icono": "https://cdn.mitvstatic.com/channels/ar_venus_m.png"
             }
         ]
     }
