@@ -3336,6 +3336,50 @@
                     ],
                     "tmdb_id": 72844,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Al borde de la realidad: Latinoamérica",
+                    "genero": "Reality",
+                    "descripcion": "Personas reales cuentan sus propias historias de fantasmas en esta serie de terror; sus encuentros con lo sobrenatural y lo paranormal se recrean vívidamente.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gGHtvjdZQmlSFZ77koRM4QbwD8f.png",
+                    "icono": "https://image.tmdb.org/t/p/original/vOK1gIRWR99FxGcwc6YtRGkyRF8.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/mAMX8TdG4rf19lBN6ruBvUlYaaN.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La casa maligna",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/BC3CE7EB3FD44780A9DA1219DD366CCB_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La muñeca maldita",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ADA7F079953C40D48DD947E92255C370_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La dama del molino",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FF467DD7AD7A456CB04F15361EA1F0E3_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Algo toca la puerta",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B015340B48654F2394ABB4BDA8F7A267_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El diablo baila en Semana Santa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9FB26D1BB22A4747AB15EABD84FD452D_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 120587,
+                    "total_seasons": 1
                 }
             ]
         },
