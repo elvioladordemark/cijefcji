@@ -277,6 +277,12 @@
                 "url": "http://190.60.40.35:12500/play/VENUS/index.m3u8",
                 "type": "HLS",
                 "icono": "https://cdn.mitvstatic.com/channels/ar_venus_m.png"
+            },
+            {
+                "name": "SEXTREME",
+                "url": "http://190.60.40.35:12500/play/a0gu/index.m3u8",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest?cb=20110531221305&path-prefix=es"
             }
         ]
     }
