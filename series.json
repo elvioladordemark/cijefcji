@@ -9624,6 +9624,80 @@
                     ],
                     "tmdb_id": 93405,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Sandman",
+                    "genero": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+                    "descripcion": "Después de pasar años encarcelado, Morfeo (el Rey de los Sueños) emprende un viaje por diferentes mundos para encontrar lo que le fue arrebatado y recuperar su poder.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gzps6OMJAL9Hz1tVlLs4oi4Q4Qt.png",
+                    "icono": "https://image.tmdb.org/t/p/original/b7EIwmXtQBEyrLHcUEyuJxPoARk.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wX3twEPd6RCkQly9JVEkw4a6Qbi.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El sueño de los justos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DD66B0EA5D8345C69F99020E86BBFC39_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Anfitriones imperfectos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4E2FD8D27958445C830B1B62668BE3EA_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "... Sueña conmigo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8407003B0F8B4B9EB206579B9F30843F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Una esperanza en el infierno",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3268C87341EB41B0AFC3E9DF06B091AD_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "24 horas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ED6714A051D244D98F4D14126B3C7B70_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El sonido de sus alas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/73B1B9A704AE42049CC93847BA5653D6_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La casa de muñecas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6CF8A02F709746B1A94B9F39F2B8B3D9_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Jugar a papás y mamás",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/11D2644CE1C041C89B3EFB27292F5668_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Coleccionistas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B13027345115493EAF8302337E910498_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Corazones perdidos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B3669D72A000456EAD133036C8920251_media.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Un Sueño de Mil Gatos/Calíope",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F4E8C6717F6A43B78745F69CF36B3E85_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 90802,
+                    "total_seasons": 2
                 }
             ]
         },
