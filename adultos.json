@@ -295,6 +295,12 @@
                 "url": "http://190.60.40.35:12500/play/a0gb/index.m3u8",
                 "type": "HLS",
                 "icono": "https://cdn.mitvstatic.com/channels/ar_venus_m.png"
+            },
+            {
+                "name": "PLAYBOY",
+                "url": "http://38.211.242.128:8001/play/a0db/index.m3u8",
+                "type": "HLS",
+                "icono": "https://c.files.bbci.co.uk/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg"
             }
         ]
     }
