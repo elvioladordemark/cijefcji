@@ -307,17 +307,6 @@
                 "url": "http://tvvip.us:8880/live/FL4m4L4T$TV*Sv/eZWd*69I88$PWq*X25a$XVc0gW$/254195.m3u8",
                 "type": "HLS",
                 "icono": "https://c.files.bbci.co.uk/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg"
-            },
-            {
-                "name": "Playboy TV",
-                "url": "https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/112/CH_LOGO/160/160/0/0/8669389807114.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f51160ad68cb411abbae2b7e51e20ad4&key=3015d76327dcd38f19037e5af639ebb2",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
             }
         ]
     }
