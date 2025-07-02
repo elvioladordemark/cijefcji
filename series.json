@@ -11763,6 +11763,65 @@
                     ],
                     "tmdb_id": 119647,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Tour de Francia: En el corazón del peloton",
+                    "genero": "Documental",
+                    "descripcion": "Esta serie sigue las penas y las alegrías de varios equipos de ciclistas que compiten en la edición de 2022 de la carrera más exigente del mundo.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/je9BymhoIwWa2duLNElhqzHu9CP.png",
+                    "icono": "https://image.tmdb.org/t/p/original/2xrm5AmCslfGQ8gcS3CxbP9C4MU.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/b39z3QrGaIDzL5SNXSMtrHQWOcB.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El «Grand Départ»",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EB00F4DD0D4045C0A4922B8909BEF92E_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Bienvenidos al infierno",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D34E20285A814DA490C9944150EB0F63_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El peso de una nación",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CE53B28D5ADB46479753AE1706ADF6C8_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Ataque, contraataque",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1D3D61A4258842D1A71B4807143B9E16_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "A tumba abierta",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D0FD34F28A2946C88EC6A5B0C98F9F79_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Plan B",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5160E39E86804133865EDC973E5D5E05_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Todo por el podio",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/BD3A1747084444FEAD3195ECE99024B7_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El camino a París",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B82F494D8078462D8C2897B2271EC63C_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 225335,
+                    "total_seasons": 3
                 }
             ]
         },
