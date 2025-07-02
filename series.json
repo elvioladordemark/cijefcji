@@ -5307,6 +5307,65 @@
                     ],
                     "tmdb_id": 136315,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "Division Palermo",
+                    "genero": "Comedia, Crimen",
+                    "descripcion": "Una Guardia Urbana inclusiva, ideada como operación de marketing para mejorar la imagen de las fuerzas de seguridad, descubrirá algo que no debía y se enfrentará con unos extraños narcos.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/luCk3dk9W1Cls3dpoawCVmG4lSq.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jffhwRp7gdZKiUDelXQSg0jtT76.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2pdt6yqPPWeJx8vWW8atWxEHw7A.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Guardia Urbana",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/508359EC9D574A21BCA547B7518B03A8_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Bienvenido a la selva",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ED9B4F92F32C4E709EF2047394EEE187_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Fin de semana verde",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F378872175AC44C98ACA751956BDCA3F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un match",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5E3E40C6525A42A6B3F71A94CC88A504_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Los escalones están en tu mente",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/25FAC3FE26184DB1BA0E3779DDDD584C_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Amistades peligrosas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F5732D101CA14A9D9C8ECFA70D93EB00_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Noche de la electrónica",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0E6EBBCE99F645F29C920284E7AC0EB9_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Casi héroes",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/20A96081BB094E8D84AB7AE119A27D61_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 219066,
+                    "total_seasons": 2
                 }
             ]
         },
