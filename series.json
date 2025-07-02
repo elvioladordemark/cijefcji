@@ -11437,6 +11437,45 @@
                     ],
                     "tmdb_id": 285801,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Betaal",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "La historia se desarrolla en una lejana aldea, que rápidamente se convierte en el escenario de una batalla sangrienta cuando el Coronel de la Compañía de las Indias Orientales de dos siglos de antigüedad, infectado con la maldición de Betaal, y su batallón de soldados zombis sedientos de sangre son liberados desde su tumba...",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/296OCWouBOiYqMrRE7E2up6HUFw.png",
+                    "icono": "https://image.tmdb.org/t/p/original/87nmt1R1W34fNOb31fvDnw15fUa.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tPUEME9NpRo4l3lxdVJRwp5stx5.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C1C1BFCCF38A427FBF154392E92D292A_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D849436CAC2043FCBB7F9E1EE6B7B43D_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4ED6EA518E4A44D09C7D1C7F2E148BFA_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4C574888A5FB4B6DAC3DF8673E960540_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 103759,
+                    "total_seasons": 1
                 }
             ]
         },
