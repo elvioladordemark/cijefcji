@@ -9822,6 +9822,70 @@
                     ],
                     "tmdb_id": 93405,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Un gallo para Esculapio",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Nelson, un muchacho humilde, viaja desde el interior trayéndole un gallo de riña a su hermano. Al no poder encontrarse con él, emprende su búsqueda por el difícil escenario del conurbano bonaerense. Siguiendo las pistas sobre su paradero, se vincula con Chelo, gallero y jefe de una banda de piratas del asfalto. Pronto comenzará a sospechar que este personaje está vinculado con la desaparición. Decidido a descubrir qué pasó con su hermano, el joven se infiltra en la banda de Chelo y en el entorno del desaparecido. El estallido de una violenta guerra entre bandas rivales modificará todo el panorama para Nelson, y así su camino de descubrimiento se convertirá en el principio de un nuevo viaje que lo cambiará para siempre.",
+                    "anio": "2017",
+                    "iconPng": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/41feb074-9442-4e77-ab47-a263178876c2/f143e081-3011-11f0-8769-02c81e0da017?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320",
+                    "icono": "https://image.tmdb.org/t/p/original/en9LmgDdmyQEGFtwyOUAT7W03gc.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/3GQFcJln8KbCSojNgTOC2CeroPU.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Van Dan",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F8047B778A4A4F8EB25B1D5689EF7C22_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Amo del Cielo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FB179FE8E4CB48A5BBB43EFE57BA124B_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La Sangre",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/42B96ABFF9764F06A1773EC395BB6F4B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La Cantora",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/82DD603A944746488DE3C0FEA8F21BC6_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La Niña Bonita",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EB2F842EDB9A4F44B07BDD3ED6EF3ABC_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Berenjena In The Papusa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A3BB5BA0753E4B5B9DC886F152F4BEB5_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Almafuerte",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0D3302FA7D6542148FC5303DE2E9F05D_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Il Morto che Parla",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B8C248E88E164430A6166F78DC8D09C2_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El Pájaro ve la Luz",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8B9825D7118C474CB3810517BD311565_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 73700,
+                    "total_seasons": 2
                 }
             ]
         },
