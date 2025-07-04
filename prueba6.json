@@ -6,7 +6,7 @@
     "samples": [
 	    {
         "name": "TIGO PRUEBA",
-        "url": "https://vsd149.okcdn.ru:443/hls/8314291030748.m3u8/sig/6zqsAzxZQrg/expires/1751413572557/srcIp/181.94.232.2/urls/185.226.53.69/clientType/1/srcAg/UNKNOWN_ANDROID/mid/9215264693980/8314291030748_high/index.m3u8",
+        "url": "http://190.128.129.83:8000/play/a03m/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
