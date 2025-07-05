@@ -1005,10 +1005,20 @@
         "icono": "https://i.postimg.cc/MTbYWVcM/IMG-20250704-WA0068-1.jpg"
     },
 	        {
+        "name": "POWER MAX FM",
+        "url": "https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8",
+        "icono": "https://i.postimg.cc/bwGb6S6W/images-14.jpg"
+    },
+	        {
         "name": "RETRO TV",
         "url": "https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8",
         "icono": "https://i.postimg.cc/PqxgkT4M/descarga-32.jpg"
     },
+    {
+        "name": "GARAGE TV",
+        "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
+        "icono": "https://i.postimg.cc/wv5b7GLX/Large-logo-garage-TV-HD-png-9288a09ab4d6cbef56c691cd4890aa24.png"
+    },	    
 	    {
         "name": "CANAL 2 MISIONES",
         "url": "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8",
