@@ -9933,6 +9933,55 @@
                     ],
                     "tmdb_id": 115567,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Angela",
+                    "genero": "Drama",
+                    "descripcion": "Ángela lleva una vida aparentemente idílica de puertas para afuera: tiene dos hijos fantásticos, un esposo encantador y una casa espectacular. Sin embargo, esta fachada es un fraude y cada vez le cuesta más esfuerzo mantenerla. Ángela es en realidad una mujer maltratada por un marido obsesivo que le ha convencido de que sin él no sería nada. Hasta que un día aparece Edu, un atractivo joven que le desvela sorprendentes secretos y que está dispuesto a ayudarla eliminándolo de su vida.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/oRSVRveIBlA7UomN5yoKaTRI9bQ.jpg",
+                    "icono": "https://image.tmdb.org/t/p/original/oRSVRveIBlA7UomN5yoKaTRI9bQ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/6R8NwzwZdMP9fbXVYLH1LiVh74G.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "A de Abuso",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/40DE8EC3B6BD424E94EDAA658FA0889D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "N de Nerviosismo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/89E4445BA60A496F845E5B07087A1B02_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "G de Gravedad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3CEB001E73C940A78B07FCD1B132D01A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "E de Efusividad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7D0A930E1ADF4193846D48786922BEE6_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "L de Libertad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3CBD476481774F47A83068D8769FA215_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "A de Amor",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/88FA3C034EC5484A8BF447AD46D3CD68_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 231452,
+                    "total_seasons": 1
                 }
             ]
         },
