@@ -9854,6 +9854,85 @@
                     ],
                     "tmdb_id": 62287,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La cocinera de Castamar",
+                    "genero": "Drama",
+                    "descripcion": "Cuenta la historia de Clara Belmonte y Diego, el Duque de Castamar, ambos con un pasado doloroso, pero a quienes les cambiará la vida al conocerse. Tendrán que luchar contra uno de los grandes obstáculos de la época si quieren estar juntos: la diferencia de clases, además de hacer frente a la sed de venganza de Enrique de Arcona.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/sdUbE3hZEJiDE1joJ0a22PF01Zl.png",
+                    "icono": "https://image.tmdb.org/t/p/original/vIRPWtiWNjQIYWsHplwedbZxUcC.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qhM3xfjtwyUyHsJtk4ZscjppKP.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El ingrediente esencial",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/126DF28D82344F2CBA44CC0531CC43E6_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La noche del rey",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/410F178032934D38B65B4A634F1FA1F2_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Credo ut intelligam",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B2D3BFCF90634D2DAB84A124D5C6C0A3_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Vuela",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/242268F11DF6422DBDDA84E5981D35D9_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La decisión",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/82EFB170498447128F06E5ABF49736BF_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Donde no llega la luz",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3C3B1C0D7C0B4A8C8800988DCE2A1BF0_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Para que no nos borren",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4BBE28A6E88B46278091C171C5DE1295_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Lo que no será",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/37437E978B2C4DFCAF6A990CF3F88282_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La verdad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F02D6BD553C344E4BAB3558FB6B91B90_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Lo que de verdad importa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/85E4E8797CB440569C0E91248CD78292_media.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Lub-dub",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/36C9B91ACE8E4D51A755FC090B0431FC_media.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "El lugar de cada uno",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CCAC462B2F184F0F86DD2D95F600E8B8_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 115567,
+                    "total_seasons": 1
                 }
             ]
         },
