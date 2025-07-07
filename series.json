@@ -10076,6 +10076,45 @@
                     ],
                     "tmdb_id": 275464,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Cuenta Regresiva",
+                    "genero": "Drama, Crimen, Misterio",
+                    "descripcion": "Tras el homicidio de un oficial de Seguridad Nacional a plena luz del día, reclutan a Mark Meachum, un detective de Los Ángeles, para investigar en una fuerza especial con agentes encubiertos de cada rama de las fuerzas del orden. Pero la búsqueda del asesino revela una historia aún más siniestra de lo imaginable e inicia la carrera contra el tiempo para salvar una ciudad en la que viven millones.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/kqeYJP8SoLQ91l41CYmSGqgN2ta.png",
+                    "icono": "https://image.tmdb.org/t/p/original/p69fxSp0XoKXhaPduoUNBse3ibt.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4pxGvtwxDlATy9nvJMvYL8u25LZ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "No soltar a la presa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D5B5AAC13ACB4871BE7353517C2560CA_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Muerto miles de veces",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2BBAC1E3B5D04A5BBCABA6F64D17517F_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Feliz cumpleaños, Final",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/80311618A50044EA9C670AF3F0D3CA90_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Acallar las dudas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2ADF5C8C27CF4315A73AFBB5706A7D11_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 256317,
+                    "total_seasons": 1
                 }
             ]
         },
