@@ -6088,6 +6088,65 @@
                     ],
                     "tmdb_id": 114471,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Sweet Tooth: El niño ciervo",
+                    "genero": "Drama, Sci-Fi & Fantasy",
+                    "descripcion": "Un cataclismo ha devastado el mundo. Gus, mitad chico y mitad ciervo, se une a una variopinta familia de niños híbridos como él para buscar respuestas a lo ocurrido.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/d22ysQ41Bc6ROPDleFx295r6SlU.png",
+                    "icono": "https://image.tmdb.org/t/p/original/s6fj4CUqv23t7EUNad9bQ4seqae.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xpba0Dxz3sxV3QgYLR8UIe1LAAX.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Fuera del bosque",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0E3CE3747D1E457D8F4963445C3140B8_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Siento lo de los muertos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/00C5AED474454F19BDBFAFC334116FAE_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Mierdas raras de ciervo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DF4F8292C8454CA99642C94BFB93B2C8_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Salsa secreta",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/110E295D007A4CFD877D0E0BA30330D9_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "¿Qué hay en la cámara frigorífica?",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C8EE24A1652F4B63BF8F7EE141FAF486_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Un extraño peligroso en un tren",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2AD3A16A760648ED87778F9769F7BB41_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Cuando papá conoció a Birdie",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DCCDFB4D2D12476D909D3ADCE42F4E06_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Grandullón",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6FD3BD498CEB416ABC10C328DDD343BF_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 103768,
+                    "total_seasons": 3
                 }
             ]
         },
