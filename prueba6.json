@@ -1040,7 +1040,7 @@
 
     {
         "name": "AMERICA TV ",
-        "url": "https://smt-edge04.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https:/player.sensa.com.ar/&webtoken=1.0",
+        "url": "https://smt-edge04.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed936cd5cb59eeee83addafb446662a4&key=dd4b7aeb2bc000468883296e7ae4a09b",
         "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
