@@ -57,16 +57,37 @@
 	    
   },
  {
-    "name": "FINAL ESTUDIANTES VS VÉLEZ",
+    "name": "ESPACIO PARÁ EVENTOS DEPORTIVOS",
     "samples": [
    {
-        "name": "ESTUDIANTES VS VÉLEZ",
+        "name": "EVENTOS 1",
         "url": "https://d9.merichunidya.com:1686/hls/disneyplus.m3u8?md5=OHtjbGSZ-juTSnmCouZnKg&expires=1752025798",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
         "icono": "https://i.postimg.cc/SNR0RZVV/images-10.png"
-    }
-
+    },
+   {
+        "name": "EVENTOS 2",
+        "url": "https://d9.merichunidya.com:1686/hls/disneyplus.m3u8?md5=OHtjbGSZ-juTSnmCouZnKg&expires=1752025798",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
+        "icono": "https://i.postimg.cc/SNR0RZVV/images-10.png"
+    },
+	    
+   {
+        "name": "EVENTOS 3",
+        "url": "https://d9.merichunidya.com:1686/hls/disneyplus.m3u8?md5=OHtjbGSZ-juTSnmCouZnKg&expires=1752025798",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
+        "icono": "https://i.postimg.cc/SNR0RZVV/images-10.png"
+    },
+   {
+        "name": "EVENTOS 4",
+        "url": "https://d9.merichunidya.com:1686/hls/disneyplus.m3u8?md5=OHtjbGSZ-juTSnmCouZnKg&expires=1752025798",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
+        "icono": "https://i.postimg.cc/SNR0RZVV/images-10.png"
+    }	    
     
 ]
 	    
