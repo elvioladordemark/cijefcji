@@ -2358,6 +2358,75 @@
                     ],
                     "tmdb_id": 67166,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "Ballard",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "La inspectora Renée Ballard se sumerge en una red de asesinatos y corrupción mientras persigue a un cruel asesino en serie y descubre una siniestra conspiración policial que amenaza todo lo que defiende. Con sus propios demonios acechándola, Ballard debe burlar a criminales y colegas para proporcionarle la tan esperada justicia a las víctimas y sus familias.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/i8UUQymvMK3V2kRfqTCQu1wUQev.png",
+                    "icono": "https://image.tmdb.org/t/p/original/3ErR4qIwAWQPlonlfko4j6UlPiP.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Biblioteca de Almas Perdidas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F97E827BCAC54D08B0A6AC653FC23BBD_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El pajar",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1A5F6682C3224CEA9B12A909208BBD9A_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Trae tu bebida",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/79E626A4632B4AEEB759CA38A22352A4_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Minas terrestres",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2B02C7C31A16460FB0699D9CF5E08AAC_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Lo que se hace en la oscuridad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F4ACCC63417B451E8F0D29EFC09ED1EB_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Bajo la superficie",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CDCD3C7EB0AF4DB48CE9CA3253697703_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Encrucijada",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/21B307AF352B43448F6D38EE44EC4A35_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Última llamada",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6238DB076E1F44979B9E8C584DBBC6CD_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Colateral",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1C7EEBE058E04051B216B1C544D1D5F6_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Final",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AA38AEF383AC47599B728D333BCA7649_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 239826,
+                    "total_seasons": 1
                 }
             ]
         },
