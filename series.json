@@ -10562,6 +10562,60 @@
                     ],
                     "tmdb_id": 256317,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El verano en que me enamoré",
+                    "genero": "Drama",
+                    "descripcion": "Una serie basada en el superventas del New York Times. En verano, Belly y su familia van a la casa de la playa de los Fisher en Cousins. Todos los veranos son iguales... hasta que Belly cumple 16 años. Las relaciones se cuestionarán, se revelarán dolorosas verdades, y Belly cambiará para siempre. Es el verano del primer amor, del primer desamor y del crecimiento: es el verano en que se pone guapa.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3UifAsW2VwhCQmX3sG3ivZdHWy3.png",
+                    "icono": "https://image.tmdb.org/t/p/original/dalsmJZErwS1oqDJoSi85sxdxMX.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lAV3JxRj3OJpf1YDmChhdmIdadU.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Casa de verano",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5321B4B0CE3145EA994016640EC7C386_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Vestido de verano",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6FC062B606BA472DBFE3C644B0D65B99_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Noches de verano",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8E0D974DFF9A47EF9803F07FB8185D73_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Calor de verano",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EC50904DF4B5465181B8C81C28FC6C34_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Ligue de verano",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F4E78091D4EE482997A675D6ED752AA2_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Marea de verano",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/57128C0EA1384F33BD8CA4769BC9C962_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Amor de verano",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CB2F053239A34E65AA698D47413A17A9_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 194766,
+                    "total_seasons": 3
                 }
             ]
         },
