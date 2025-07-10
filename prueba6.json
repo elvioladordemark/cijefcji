@@ -2788,7 +2788,19 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
-	
+	{
+                "name": "HBO SENSA",
+                "url": "http://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dead023f7a81634339ae639990c1517a&key=ba970222b4466c61d0deccc67ab34452",
+                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
+                "headers": {
+                "Referer": "https://player.sensa.com.ar/",
+                "webtoken": "1.0",
+                "Origin": "https://player.sensa.com.ar",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+                }
+            },
             {
                 "name": "HBO 2 FLOW",
                 "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd",
