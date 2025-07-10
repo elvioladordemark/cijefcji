@@ -748,6 +748,26 @@
     },
 
     {
+       "name": "CANALES DE ARGENTINA SENSA",
+    "samples": [
+
+    {
+        "name": "AMERICA TV ",
+        "url": "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b5651806b42f087c58332b052de727c5&key=11901b35cc3e5aa73619f64d02c38a0f",
+        "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar",
+            "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    }		
+]
+
+    },
+
+    {
        "name": "CANALES DE ARGENTINA",
     "samples": [
 
