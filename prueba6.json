@@ -5,6 +5,25 @@
     "name": "⚽TIGO SPORTS SOLO EVENTOS",
     "samples": [
    {
+        "name": "EVENTOS1 TIGO FULL HD",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+    },
+    {
+        "name": "EVENTOS 2 TIGO FULL HD",
+        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+        "headers": {
+            "Origin": "https://www.tigosports.com.py",
+            "Referer": "https://www.tigosports.com.py/",
+            "User-Agent": "FireFox"
+        },
+    },
+	    {
         "name": "TIGO EN VIVO PRUEBA",
         "url": "http://190.128.129.83:8000/play/a03m/index.m3u8",
         "type": "CLEARKEY",
@@ -32,26 +51,8 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },	    
-{
-        "name": "EVENTOS1 TIGO FULL HD",
-        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },
-    {
-        "name": "EVENTOS 2 TIGO FULL HD",
-        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-        "headers": {
-            "Origin": "https://www.tigosports.com.py",
-            "Referer": "https://www.tigosports.com.py/",
-            "User-Agent": "FireFox"
-        }
-    }
+    }	    
+
      
     
 ]
