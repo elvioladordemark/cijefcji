@@ -776,20 +776,8 @@
     "Origin": "https://player.sensa.com.ar",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
         }
-    },
-{
-        "name": "CANAL 9 OPC",
-        "url": "https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7c1f50e3f51216bdd1efcc99d3a27217&key=3441c930277d824402aafee446ba8f90",
-        "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
-        "headers": {
-            "webtoken": "1.0",
-	    "Origin": "https://player.sensa.com.ar",
-            "Referer": "https://player.sensa.com.ar/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-    }	    
+    }
+	    
 ]
 
     },
