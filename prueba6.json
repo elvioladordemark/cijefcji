@@ -17,12 +17,7 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-        "headers": {
-            "Origin": "https://www.tigosports.com.py",
-            "Referer": "https://www.tigosports.com.py/",
-            "User-Agent": "FireFox"
-        },
-    },
+       },
 	    {
         "name": "TIGO EN VIVO PRUEBA",
         "url": "http://190.128.129.83:8000/play/a03m/index.m3u8",
