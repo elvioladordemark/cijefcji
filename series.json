@@ -5770,6 +5770,45 @@
                     ],
                     "tmdb_id": 116450,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Cásate con mi esposo: Japón",
+                    "genero": "Drama, Comedia, Sci-Fi & Fantasy",
+                    "descripcion": "Misa ha sido un personaje secundario toda su vida, confiando ciegamente en su mejor amiga y su marido. Cuando descubre su aventura, la traición la lleva a la muerte. Al despertar diez años atrás, Misa jura ser en la protagonista de su propia historia. Planea destruir a sus traidores haciendo que se casen, pero tras conocer a su director en el trabajo, empieza a cuestionarse quién es realmente.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/8iTqKV6DiIVlggRbylUnTY1AGAi.png",
+                    "icono": "https://image.tmdb.org/t/p/original/naN5VjwB7zwyEqtOPJRcrFhaQiW.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/z6Hsjm0kt5ajxPZOAY18TX8U5dn.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Déjà vu 2015",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/186F525258A84D7FBD0D35903A4350D3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Su primer amor",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E6990DBF760A44048552051DE511BA4F_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El error de Cupido",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/028711E6F5A445D0AC8E8C7F9D219629_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La norma inevitable",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1F7884056A0A4F83BDC1F69AF466128D_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 290160,
+                    "total_seasons": 1
                 }
             ]
         },
