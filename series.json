@@ -1188,6 +1188,85 @@
                     ],
                     "tmdb_id": 85077,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "Los gringo hunters",
+                    "genero": "Crimen",
+                    "descripcion": "En esta serie inspirada en hechos reales, una unidad de élite de la policía mexicana da caza a fugitivos de EE. UU. sin saber que una conspiración crece en su interior.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/52bMPQ8FdE9TK2aNLTMdEgHnTxJ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/gut76EbVg6UoMKm3tBXDaAhAP1G.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8UwMxc0VOXfAB6PsNLY0TRaeBmw.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Another bad hombre",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/90C1399FB0224440B6E3E99D29F3C279_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Escape to Baja",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/43810CCAF2344121A57FEB3D0FF02A82_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Poder blanco",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/631A2C94518942CDA48F07FD969328C0_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Soy la carnada",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E9BF5B4BD551400285343C0AB76401D5_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El American Dream",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B1FF7DE2AC8640FBA9E42B1C7A4891E8_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Nueva Tijuana",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6B41240EAF5C4741B23E7C4BC0D79B96_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El sueño mexicano",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AC9ED8574E464E3AA2B31478FE64EC55_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "¿Y qué, no puedo llorar?",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C4140705B6A34987A26D32BFDE221AE4_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Control de confianza",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D2D025462E324339B7EC16CB276D857C_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Cordero de Dios",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/14D94FD997784783895640794F267006_media.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "«Anybody call a cop?»",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CE0405A7212649B5BE482A87B64E415A_media.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "428",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/22A45D350324428AA8A7977BF9188BA2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 246026,
+                    "total_seasons": 1
                 }
             ]
         },
