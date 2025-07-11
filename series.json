@@ -10667,6 +10667,65 @@
                     ],
                     "tmdb_id": 194766,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Safe",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Tras la desaparición de su hija, un hombre viudo empieza a descubrir los secretos que esconde la gente cercana a él.",
+                    "anio": "2018",
+                    "iconPng": "https://image.tmdb.org/t/p/original/24B1JETmr0wsXX4AuqgRdEqFv6C.png",
+                    "icono": "https://image.tmdb.org/t/p/original/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ctvZVrJBRjOgLeQtLaNEbg9w0y8.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9C3C0A2681B84503835FE0660B31CF31_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/810F6CD052F24390B5C557BBA36DF37B_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AF1275070072475894FC0984FE4665FF_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F5F6D78FD74D4B5CA76B0A164F446A95_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C938DCB3CACE48A8A75AC5595D973326_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9B525686A0D346FC91D8CCB9A3772794_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AAAB0C649D884977B13D45EF207D0B61_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6BE41615DBF345FCB94D5CBC9879D907_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 72792,
+                    "total_seasons": 1
                 }
             ]
         },
