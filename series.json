@@ -4070,6 +4070,70 @@
                     ],
                     "tmdb_id": 120587,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La maldición de Bly Manor",
+                    "genero": "Misterio, Drama",
+                    "descripcion": "Morir no equivale a desaparecer. En este gótico romance del creador de ‘La maldición de Hill House’, una ‘au pair’ se adentra en un abismo de escalofriantes secretos.",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4hIr322TRrDLi4vsxNsiG1cvzv3.png",
+                    "icono": "https://image.tmdb.org/t/p/original/deEQpv3rXUDUrDjw1pQ5vWU8Eri.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El mejor de los lugares",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FC9CF2B8B81741EF902610B503C9FBCF_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El pupilo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CBA7A45FE7244A7CA5B4A71ED7A29A90_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Las dos caras: 1.ª parte",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EDB71933F23945C0AFBE282E7DBA879D_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Los amigos de los amigos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ABD2E7660F104487AD6B09F990DD39F7_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El altar de los muertos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/BDB1A6F7BECB466BA60E118727588EC3_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El rincón feliz",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DFAED0BB39D6493A86987A4199BA90E9_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Las dos caras: 2.ª parte",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/98D10F9027CD4771B09272343094581D_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La leyenda de ciertas ropas antiguas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1DB82819D68640F1B8951F6396FD6257_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La bestia en la jungla",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/39841837FB7B4DA3AB925917C59B5BB1_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 109958,
+                    "total_seasons": 1
                 }
             ]
         },
