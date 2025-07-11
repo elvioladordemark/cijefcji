@@ -743,45 +743,12 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
         "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"
     }
-]
 
-    },
-
-    {
-       "name": "CANALES DE ARGENTINA SENSA",
-    "samples": [
-
-    {
-        "name": "AMERICA TV ",
-        "url": "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b5651806b42f087c58332b052de727c5&key=11901b35cc3e5aa73619f64d02c38a0f",
-        "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
-        "headers": {
-   "Referer": "https://player.sensa.com.ar/",
-    "webtoken": "1.0",
-    "Origin": "https://player.sensa.com.ar",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-        }
-    },
-	 {
-        "name": "TV PUBLICA",
-        "url": "https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6b17538810f1dd4485f174dcc204872c&key=3d5b973772433ce07c8999aa659ea48c",
-        "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",
-        "headers": {
-            "Referer": "https://player.sensa.com.ar/",
-    "webtoken": "1.0",
-    "Origin": "https://player.sensa.com.ar",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-        }
-    }
 	    
-]
-
-    },
-
+ ]
+	    
+	    
+  },
     {
        "name": "CANALES DE ARGENTINA",
     "samples": [
