@@ -10785,6 +10785,55 @@
                     ],
                     "tmdb_id": 72792,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Menem",
+                    "genero": "Drama",
+                    "descripcion": "Menem, un político extravagante y carismático, llega a ser Presidente de un país en crisis. Su mandato, donde privatiza empresas públicas, dolariza la economía y consulta brujas, es atravesado por atentados terroristas y la muerte de su hijo. A su lado, su fotógrafo, Olegario Salas, ve su vida transformarse, como toda la sociedad argentina, entre la recuperación económica y casos de corrupción.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/k1zHgPrqHtl91jXYH1b6qZcOmUm.png",
+                    "icono": "https://image.tmdb.org/t/p/original/vQAfWpbme4JJzczx3Ys9DaENtby.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tZm9n31urNww6SHW9WfVb9NA0AS.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6D36F912DE304EFC8065D6000CD4AB26_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D1B93B24C1C0427C8560A96FA0D397A3_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/572AF9E0119747119A304871A642C4BE_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/51AF4DBA5C054ED5B95D5E359AFCE209_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/BD9420C7B2874BA9BC1266012869ADC4_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F82CE56511E746F5A5AADBBE3E093D1E_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 292073,
+                    "total_seasons": 1
                 }
             ]
         },
