@@ -2580,6 +2580,65 @@
                     ],
                     "tmdb_id": 246026,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Engaños",
+                    "genero": "Drama, Crimen, Misterio",
+                    "descripcion": "Tras ver a su supuestamente difunto marido en una cámara de vigilancia, la exsoldado Maya destapa una siniestra conspiración familiar que se remonta a los años 90.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/A0h5iR67KKD4hrj1POb3noYVx02.png",
+                    "icono": "https://image.tmdb.org/t/p/original/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7kivt7lILTPl1onQLmoRGswJPS1.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/51A098FDFD2E47F29658C54AB8D53A57_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F9349961C37247C4AFFB2F6AC1E31E33_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D0B90DD955294011AE23ED6A18D988DD_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CEB1DDAC79BF4AD9B91B6B781E56733C_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/664FE7495D014857AA16395D0DFA5BD7_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/988F8D72B2AB4ADDBCBF4C7A5D0A4808_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/13B127DC879F438A8A6FA41DE95E713F_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/BE3B1342705248F6B4BBCE741A670563_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 220801,
+                    "total_seasons": 1
                 }
             ]
         },
