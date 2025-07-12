@@ -5868,6 +5868,50 @@
                     ],
                     "tmdb_id": 290160,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Yo soy Betty, la fea",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Beatriz Pinzón Solano es una brillante economista con maestría en finanzas; solo tiene un defecto: es fea. Todo cambia cuando comienza a trabajar en Ecomoda, una de las empresas más grandes del país, donde conoce y se enamora de Armando Mendoza. Esta vez la vida le dará una segunda oportunidad para demostrar que puede convertirse en la mujer más deseada y amada del mundo.",
+                    "anio": "1999",
+                    "iconPng": "https://image.tmdb.org/t/p/original/mAqVRs6mbq4CTZNHB3z3segwpLl.png",
+                    "icono": "https://image.tmdb.org/t/p/original/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ftiQHOrAGTGXVsJ1pcAVC5Dau78.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E92583BD8BE54CBA85DE0196048B4307_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3236B6A318DF494F84A6B303AFE1EE71_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5596C40EED8E4D4FAAB95A86B28ABEE7_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/30B64979769E48C381E0CDF5E4BBB287_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AB52CE11C09743989FFC7CA2F220006A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 16286,
+                    "total_seasons": 1
                 }
             ]
         },
