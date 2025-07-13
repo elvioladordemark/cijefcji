@@ -69,133 +69,25 @@
     "samples": [
   {
         "name": "CHELSEA VS PSG",
-        "url": "https://d10.merichunidya.com:1686/hls/dsports.m3u8?md5=i21eYE5RTDetVpj2nh16IA&expires=1752432028",
-        "icono": "https://i.postimg.cc/sDqghVvP/Whats-App-Image-2025-07-13-at-13-34-21.jpg"
-    } 	    
-
-     
-    
-]
-	    
-	    
-  },
- {
-    "name": "EVENTOS MUNDIAL DE CLUBES",
-    "samples": [
-   {
-        "name": "EVENTOS DIRECTV",
-        "url": "https://d8.merichunidya.com:1686/hls/dsports.m3u8?md5=5zrfPX_ml_vHqL9UZFhLaA&expires=1751738735",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
-        "icono": "https://i.postimg.cc/SNR0RZVV/images-10.png"
-    },
-	
-   {
-        "name": "DAZN LA LIGA",
-        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CM0MWNmV2YhdjZ1EWLjF2Yi1COyADNtkTN2EWL0QWOzATN4QzL.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8d7cb8fbc81cf3eddf8ebb5db5e11282&key=b7a98812ab8d8974649a6ec420c013e1",
-        "icono": "https://i.postimg.cc/kXyDzZtx/Ge-BQfo-EWYAA1vd-L.jpg"
-    },
-
-	    
-    {
-        "name": "TELEFUTURO FLOW HD",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
-        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
-        "headers": {
-            "Origin": "https://web.app.flow.com.py",
-            "Referer": "https://web.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-    },
-   {
-    "name": "TELEFUTURO FLOW HD opción 2 py",
-    "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyMTg5ODI1Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImM0Y2M4YTU1NDMwZTVlYTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiI4OCIsInNvdXJjZXMiOls2OSw4NSwxNDQsODYsODhdfQ==.6zf5-bHlrbdZtuQezjsYk6bOI3ll7XkViZCAjLNVlFPwz36JzX1HoQTZfzJL8kf6573RymnL5yIxUxjabcANhw==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
-    "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
-    "headers": {
-            "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-    },
-	        {
-        "name": "PY | SNT 🇵🇾",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/nxn9adh2409ceum2vmhkx/snt.json?rlkey=t12dj6hptaqjneyq8clqcmymz&st=9mz7elpt&dl=0",
-        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
-        "headers": {
-            "Origin": "https://web.app.flow.com.py",
-            "Referer": "https://web.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "PY | SNT 🇵🇾 opción 2",
-        "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyMTg5ODI1Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImM0Y2M4YTU1NDMwZTVlYTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiI4OCIsInNvdXJjZXMiOls2OSw4NSwxNDQsODYsODhdfQ==.6zf5-bHlrbdZtuQezjsYk6bOI3ll7XkViZCAjLNVlFPwz36JzX1HoQTZfzJL8kf6573RymnL5yIxUxjabcANhw==/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/nxn9adh2409ceum2vmhkx/snt.json?rlkey=t12dj6hptaqjneyq8clqcmymz&st=9mz7elpt&dl=0",
-        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
-        "headers": {
-            "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "TELEFE",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0",
-        "icono": "https://i.postimg.cc/kXyDzZtx/Ge-BQfo-EWYAA1vd-L.jpg",
-        "headers": {
-            "Origin": "https://web.app.flow.com.py",
-            "Referer": "https://web.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "TELEFE 2",
-        "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyMTg5ODI1Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImM0Y2M4YTU1NDMwZTVlYTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiI4OCIsInNvdXJjZXMiOls2OSw4NSwxNDQsODYsODhdfQ==.6zf5-bHlrbdZtuQezjsYk6bOI3ll7XkViZCAjLNVlFPwz36JzX1HoQTZfzJL8kf6573RymnL5yIxUxjabcANhw==/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0",
-        "icono": "https://i.postimg.cc/kXyDzZtx/Ge-BQfo-EWYAA1vd-L.jpg",
-        "headers": {
-            "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/guia-de-tv",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-    },
-      {
-        "name": "TELEFE 3",
-        "url": "https://val01.ride.com.ar/tvmia/an11/playlist.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0",
-        "icono": "https://i.postimg.cc/kXyDzZtx/Ge-BQfo-EWYAA1vd-L.jpg",
-        "headers": {
-            "Origin": "https://web.app.flow.com.ar",
-            "Referer": "https://web.app.flow.com.ar/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-    },  
-
-    {
-        "name": "EVENTOS 2 TIGO FULL HD",
         "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.postimg.cc/kXyDzZtx/Ge-BQfo-EWYAA1vd-L.jpg",
+        "icono": "https://i.postimg.cc/sDqghVvP/Whats-App-Image-2025-07-13-at-13-34-21.jpg",
         "headers": {
             "Origin": "https://www.tigosports.com.py",
             "Referer": "https://www.tigosports.com.py/",
             "User-Agent": "FireFox"
-        }
+        },   
+
+  {
+        "name": "CHELSEA VS PSG",
+        "url": "https://d10.merichunidya.com:1686/hls/dsports.m3u8?md5=i21eYE5RTDetVpj2nh16IA&expires=1752432028",
+        "icono": "https://i.postimg.cc/sDqghVvP/Whats-App-Image-2025-07-13-at-13-34-21.jpg"
     }
+	
+     
+    
+
 
 	    
        ]
