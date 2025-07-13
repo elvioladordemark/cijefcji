@@ -69,18 +69,6 @@
     "samples": [
   {
         "name": "CHELSEA VS PSG",
-        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.postimg.cc/sDqghVvP/Whats-App-Image-2025-07-13-at-13-34-21.jpg",
-        "headers": {
-            "Origin": "https://www.tigosports.com.py",
-            "Referer": "https://www.tigosports.com.py/",
-            "User-Agent": "FireFox"
-        },   
-
-  {
-        "name": "CHELSEA VS PSG",
         "url": "https://d10.merichunidya.com:1686/hls/dsports.m3u8?md5=i21eYE5RTDetVpj2nh16IA&expires=1752432028",
         "icono": "https://i.postimg.cc/sDqghVvP/Whats-App-Image-2025-07-13-at-13-34-21.jpg"
     }
