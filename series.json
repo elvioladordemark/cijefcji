@@ -1166,6 +1166,35 @@
                     ],
                     "tmdb_id": 290160,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Dexter: Resurrección",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/t6XuW8n3wM8coN5QLvIbLx1Ayl7.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fORqf1CdugrD5oHnGYL24VZktFQ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/UI2S7dJdGylqp9xK3GwRt7zz68.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un corazón que late",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D6BC578F471A48789974E877266448A5_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Tímido ante la cámara",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C1489A6A2C02412780EB34E41058DA21_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 259909,
+                    "total_seasons": 1
                 }
             ]
         },
