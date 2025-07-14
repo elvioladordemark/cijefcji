@@ -714,6 +714,31 @@
              "webtoken": "1.0",
 	    "Referer": "https://player.sensa.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        },
+		      {
+        "name": "A24",
+        "url": "https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed936cd5cb59eeee83addafb446662a4&key=dd4b7aeb2bc000468883296e7ae4a09b",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar/",
+             "webtoken": "1.0",
+	    "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	    {
+        "name": "CANAL 26",
+        "url": "https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b35aecc554b859a97cf11b892731af1f&key=3a5da1a7c6a5cc6e488bdbbbf09132ff",
+        "icono": "https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar/",
+             "webtoken": "1.0",
+	    "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     }
  ]
