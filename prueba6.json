@@ -4790,28 +4790,19 @@
 	    {
           "name": "RECORD NEWS",
     "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
-    "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
+    "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8"
   },
 	    {
-          "name": "TV ZOOM",
+          "name": "BAND",
     "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
-    "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8"
+    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
   },
 	     {
           "name": "SBT",
-    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+    "icono": "https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1366217477.m3u8",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
-  },
-	    {
-          "name": "TVE",
-    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
-    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
-  },
-	    {
-          "name": "TV PARANA TURISMO",
-    "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
-    "url": "http://200.189.113.201/hls/tve.m3u8"
   }
+
     ]
 },
 	{
