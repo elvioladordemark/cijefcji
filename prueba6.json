@@ -592,8 +592,130 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
         "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"
     }
-
+ ]
 	    
+	    
+  },
+    {
+       "name": "🇦🇷ARGENTINA GLOBAL",
+    "samples": [
+{
+        "name": "AMERICA TV",
+        "url": "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b5651806b42f087c58332b052de727c5&key=11901b35cc3e5aa73619f64d02c38a0f",
+        "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar/",
+             "webtoken": "1.0",
+	    "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	    {
+        "name": "TV PUBLICA",
+        "url": "https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6b17538810f1dd4485f174dcc204872c&key=3d5b973772433ce07c8999aa659ea48c",
+        "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar/",
+             "webtoken": "1.0",
+	    "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	    {
+        "name": "CANAL 9",
+        "url": "https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7c1f50e3f51216bdd1efcc99d3a27217&key=3441c930277d824402aafee446ba8f90",
+        "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar/",
+             "webtoken": "1.0",
+	    "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    }, 
+	{
+        "name": "TELEFE",
+        "url": "https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9bb54fccffaddd38916e85c08de98cc9&key=d06f509c418eb6f1b2fc2b766445328b",
+        "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar/",
+             "webtoken": "1.0",
+	    "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	{
+        "name": "EL TRECE",
+        "url": "https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e7b05c7a737b7f0a5d571b91deaa2697&key=4079ac205b544b1c294ee1568906ff58",
+        "icono": "https://github.com/masterentertainment/listas/blob/main/logos/EL13.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar/",
+             "webtoken": "1.0",
+	    "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	    {
+        "name": "TN NOTICIAS",
+        "url": "https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4b4ebe3c68c4c95c7639096e76c233d0&key=0c48cd5e3298b762a099acdc05a5182a",
+        "icono": "https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar/",
+             "webtoken": "1.0",
+	    "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	      {
+        "name": "C5N",
+        "url": "https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd1767fe3554f1285222b5610105c0e9&key=839d5b1eec7eb70d68c1e1531fc0d6d4",
+        "icono": "https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar/",
+             "webtoken": "1.0",
+	    "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	      {
+        "name": "LN+ LA NACION",
+        "url": "https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a002010b506854599dffbb8b9048ec7c&key=160eedf85229da919a7c5eec4fbef809",
+        "icono": "https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar/",
+             "webtoken": "1.0",
+	    "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	      {
+        "name": "CRONICA TV",
+        "url": "https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194f0682180e147f7928078dcc78a019&key=ddfc08545e74a6bd8870f1189cd1bec0",
+        "icono": "https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar/",
+             "webtoken": "1.0",
+	    "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    }
  ]
 	    
 	    
@@ -627,19 +749,7 @@
                 
        }
     },
-	 {
-        "name": "AMERICA TV SENSA ",
-        "url": "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b5651806b42f087c58332b052de727c5&key=11901b35cc3e5aa73619f64d02c38a0f",
-        "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
-        "headers": {
-            "Origin": "https://player.sensa.com.ar/",
-             "webtoken": "1.0",
-	    "Referer": "https://player.sensa.com.ar/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-    },    
+	   
     {
         "name": "TV PUBLICA",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
@@ -654,7 +764,7 @@
         }
 	},
 	     {
-        "name": "CANAL 9 OPC 2",
+        "name": "CANAL 9 OPC ",
         "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNDcxNDA2Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiMWQ0NjI4YzRkYjA0MmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiODgiLCJzb3VyY2VzIjpbNjksODUsMTQ0LDg2LDg4XX0=.d8WBiU3jA3QzHuCsXNeQmh8mBhzUNjcL8B82XTVK6WzHeuw9BADiIAiHZy6eBInbPorawHaFGArVSPzLH50xwQ==/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
