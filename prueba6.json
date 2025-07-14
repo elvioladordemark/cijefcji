@@ -656,7 +656,7 @@
         "url": "https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e7b05c7a737b7f0a5d571b91deaa2697&key=4079ac205b544b1c294ee1568906ff58",
-        "icono": "https://github.com/masterentertainment/listas/blob/main/logos/EL13.png",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png",
         "headers": {
             "Origin": "https://player.sensa.com.ar/",
              "webtoken": "1.0",
@@ -669,7 +669,7 @@
         "url": "https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4b4ebe3c68c4c95c7639096e76c233d0&key=0c48cd5e3298b762a099acdc05a5182a",
-        "icono": "https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png",
+        "icono": "https://i.ibb.co/dsvcQTLn/todo-noticias-logo-png-seeklogo-462511.png",
         "headers": {
             "Origin": "https://player.sensa.com.ar/",
              "webtoken": "1.0",
@@ -682,7 +682,7 @@
         "url": "https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd1767fe3554f1285222b5610105c0e9&key=839d5b1eec7eb70d68c1e1531fc0d6d4",
-        "icono": "https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png",
+        "icono": "https://i.ibb.co/p6GQ3L3m/68747470733a2f2f692e696d6775722e636f6d2f453370616d41352e706e67.png",
         "headers": {
             "Origin": "https://player.sensa.com.ar/",
              "webtoken": "1.0",
@@ -708,7 +708,7 @@
         "url": "https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194f0682180e147f7928078dcc78a019&key=ddfc08545e74a6bd8870f1189cd1bec0",
-        "icono": "https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png",
+        "icono": "https://i.ibb.co/DHhzqNrr/unnamed.png",
         "headers": {
             "Origin": "https://player.sensa.com.ar/",
              "webtoken": "1.0",
@@ -720,7 +720,7 @@
         "url": "https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed936cd5cb59eeee83addafb446662a4&key=dd4b7aeb2bc000468883296e7ae4a09b",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png",
+        "icono": "https://i.ibb.co/WWfTn7M9/LnXQkIU.png",
         "headers": {
             "Origin": "https://player.sensa.com.ar/",
              "webtoken": "1.0",
@@ -733,7 +733,7 @@
         "url": "https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b35aecc554b859a97cf11b892731af1f&key=3a5da1a7c6a5cc6e488bdbbbf09132ff",
-        "icono": "https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png",
+        "icono": "https://i.ibb.co/60XLr3MX/canal26-logo.png",
         "headers": {
             "Origin": "https://player.sensa.com.ar/",
              "webtoken": "1.0",
