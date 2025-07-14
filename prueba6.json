@@ -61,29 +61,7 @@
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
     }	
 
-]
-   },
-	
- {
-    "name": "GRAN FINAL CHELSEA VS PSG",
-    "samples": [
-{
-        "name": "CHELSEA VS PSG",
-        "url": "https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8",
-        "icono": "https://i.postimg.cc/sDqghVvP/Whats-App-Image-2025-07-13-at-13-34-21.jpg"
-},
-	    {
-        "name": "CHELSEA VS PSG",
-        "url": "https://d8.merichunidya.com:1686/hls/vix1hd.m3u8?md5=nV_kYqdxZWjkrj1Q3XRFCA&expires=1752439358",
-        "icono": "https://i.postimg.cc/sDqghVvP/Whats-App-Image-2025-07-13-at-13-34-21.jpg"
-    }
-	
-     
-    
-
-
-	    
-       ]
+  ]
 	    
   },
  {
@@ -649,6 +627,19 @@
                 
        }
     },
+	 {
+        "name": "AMERICA TV SENSA ",
+        "url": "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b5651806b42f087c58332b052de727c5&key=11901b35cc3e5aa73619f64d02c38a0f",
+        "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar/",
+             "webtoken": "1.0",
+	    "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },    
     {
         "name": "TV PUBLICA",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
