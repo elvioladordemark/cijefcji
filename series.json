@@ -13526,6 +13526,55 @@
                     ],
                     "tmdb_id": 262277,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Sobrevivir a la muerte",
+                    "genero": "Documental",
+                    "descripcion": "¿Qué pasa después de morir? Esta docuserie analiza historias personales y estudios sobre experiencias cercanas a la muerte, la reencarnación y los fenómenos paranormales.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/tvWoLJs8OoNOVSpPnTx93fvmkHX.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xk87pgtyn7Kib8iV8yhmH0CnsWx.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/aWARgBHV3UQFdi2nCU9ey3h7vt.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Experiencias cercanas a la muerte",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2ADE198113BA44B9BB1D19730ADA3677_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Médiums: 1.ª parte",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9CC831D2D46F4B218745A836758220F1_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Médiums: 2.ª parte",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/55C73587873340A6A1A1A1EF81BF934D_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Mensajes del más allá",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/67F5673ACF8D45CC8DC8BFB4E3443596_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Ver gente muerta",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5B69D28EE6634035B6D97DC31976501B_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Reencarnación",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/99AEB80D74C242EAACCF73ECA4D1DDD2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 115391,
+                    "total_seasons": 1
                 }
             ]
         },
