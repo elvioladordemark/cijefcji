@@ -3980,6 +3980,85 @@
                     ],
                     "tmdb_id": 278196,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Leviathan",
+                    "genero": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+                    "descripcion": "En un pasado alternativo de estética ‘steampunk’, un príncipe austriaco a la fuga y un aviador escocés de incógnito emprenden una misión inesperada para evitar una guerra mundial.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/mE8cOdjOpBo30W5DpIv3eEllK31.png",
+                    "icono": "https://image.tmdb.org/t/p/original/dSo7tUQQ4gneagQ43DfL9t37CKj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kobz3t4TKPXRUGUpcV3Ic7sgLtW.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "En medio de la tormenta",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3E83CBEDAE194EE5879B4DA51CE7105D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Preludio a la guerra",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/293C4347CB70409782B026082B7C88C4_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Clankers y darwinistas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F07FC3B442874AC7B5F4D5C767D010EC_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El peso del pasado",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C663EAE95D1642B391FCDFF822D2C517_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Hacia el este",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B9C4235D4A004DF6BD64925C7EAECF18_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Sombras de Estambul",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A5FCFE92931D4813B304798FE9B17FCE_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Aguas revueltas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4CA98E9BC2CD4B91898323A3918D46AE_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Behemoth",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CB80C1FB952F435EB26CB33CEFB56D9C_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Tunguska",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6130339DFC2349CA95C528A65C52AE46_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Verdades y mentiras",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E4FE3FE1B790472A886F6A289740558E_media.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Goliat",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D8CC4FECEB944E9CAECA5253CA54ADEF_media.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Bajo el mismo cielo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/34F4222A010C4336B6A879AFBD706062_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 256323,
+                    "total_seasons": 1
                 }
             ]
         },
