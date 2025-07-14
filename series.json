@@ -3951,6 +3951,35 @@
                     ],
                     "tmdb_id": 74204,
                     "total_seasons": 8
+                },
+                {
+                    "nombre": "El verano en que Hikaru murió",
+                    "genero": "Animación, Misterio",
+                    "descripcion": "Hikaru estuvo desaparecido durante una semana hace seis meses. Cuando su mejor amigo Yoshiki decide hablar con él porque algo no le cuadra, la escalofriante verdad sale a la luz.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/bTsglw33gakburMAvcuNGv65Kxg.png",
+                    "icono": "https://image.tmdb.org/t/p/original/otMGif4lK4zRph8Trj1RH9boBIV.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jclmJcyV8twDtTtSNJiMVAg6Xyv.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El sustituto",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F896B05A922D412C996ED351999063F8_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sospechas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C3131689AE9649F888D193CE970E0C24_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 278196,
+                    "total_seasons": 1
                 }
             ]
         },
