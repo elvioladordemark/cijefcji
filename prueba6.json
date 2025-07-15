@@ -749,7 +749,12 @@
             "Referer": "https://web.app.flow.com.py/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-    }    
+    },
+   {
+                "name": "ESPN SUR 2",
+                "icono": "http://bantel-cdn4.iptvperu.tv:1935/Ff8cjS/espn2.stream/playlist.m3u8",
+                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8"
+            }	    
 ]
 },
 
