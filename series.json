@@ -2874,6 +2874,55 @@
                     ],
                     "tmdb_id": 247718,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Sol negro",
+                    "genero": "Crimen, Misterio, Drama",
+                    "descripcion": "Una joven madre que huye de su turbulento pasado es acusada de matar a su jefe en una finca de rosas... justo antes de descubrir que era su padre.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7JvQxQFxGd2JS5w2NK6clBBuhuL.png",
+                    "icono": "https://image.tmdb.org/t/p/original/7R0AJdkMfXvuhJP4uWGqDCwjmxE.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/f6wPBGmukimVnVNOyLRmHLCjMb0.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un pequeño desvío",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9466C57B1D2240EB8C1AB6E403B53415_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Alguien lo sabía",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6AB0E1F8F03B4DBDB5B893A50C173BD1_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Todo se desmorona",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/535F30C1226A4C8BA5AF4C966635F4F2_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Incansable",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/275A5B87020348329ED289933DB9B1F8_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Háblame",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F9845F9388E44B62937DE393AE9C0AFE_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Una buena madre",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/64916102111D45A6A9925CB098A19366_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 272466,
+                    "total_seasons": 1
                 }
             ]
         },
