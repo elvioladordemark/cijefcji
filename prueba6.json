@@ -3965,6 +3965,16 @@ https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 	 {
     "name": "MUSICA",
     "samples": [
+	        {
+        "name": "TOP TV BRASIL",
+        "url": "https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8",
+        "icono": "[download-1.jpg](https://postimg.cc/68xnDmDQ)"
+    },
+	          {
+        "name": " MUSIC HITS",
+        "url": "https://amg00658-amg00658c41-canelatv-international-5234.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelamusichitsta-canelatvinternational/playlist.m3u8",
+        "icono": "https://i.postimg.cc/xjBMFk3N/download-2.jpg"
+    },
 	    {
         "name": "RETRO MUSIC",
         "url": "http://magmaplayer.com/stream/m3u8/AwH2Kmp5ZI8kAmxhAwNhZwZ5YwEsZGp0AGp2/hls/791.m3u8",
@@ -4049,37 +4059,48 @@ https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 	    },
 	     {
         "name": "VEVO 70'S",
-        "url": "https://dqwknz5qopbgu.cloudfront.net/playlist.m3u8",
+        "url": "https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8",
         "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
     },
 	    {
-        "name": "VEVO 80'S",
-        "url": "https://d36tolctzl3cf9.cloudfront.net/playlist.m3u8",
+        "name": "VEVO 70 & 80'S",
+        "url": "https://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8",
         "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
     },
 	    {
         "name": "VEVO 90'S",
-        "url": "https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8",
+        "url": "https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
+	       {
+        "name": "VEVO 2010",
+        "url": "https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8",
         "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
     },
 	    {
         "name": "VEVO COUNTRY",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8",
+        "url": "https://d3u2u3qzvtw7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-apxt8ie33sx6d/Vevo_Country.m3u8",
         "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
     },
 	    {
         "name": "VEVO HIP HOP",
-        "url": "https://d3mzlmrngyf08j.cloudfront.net/playlist.m3u8",
+        "url": "https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8",
         "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
     },
 	    {
-        "name": "VEVO LATINO",
-        "url": "https://d3k7iagvenqkpa.cloudfront.net/playlist.m3u8",
+        "name": "VEVO POP LATINO",
+        "url": "https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
+	    
+	    {
+        "name": "VEVO LATINO ES",
+        "url": "https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8",
         "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
     },
 	    {
         "name": "VEVO POP",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8",
+        "url": "https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8",
         "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
     },
 	    {
@@ -4092,9 +4113,24 @@ https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8",
         "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
     },
+	        {
+        "name": "VEVO REGIONAL MX",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64dab5fe35425100080e2991/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
+	    	        {
+        "name": "VEVO ICONO LATINO",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
+	    	        {
+        "name": "VEVO ROCK",
+        "url": "https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8",
+        "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
+    },
 	    {
         "name": "VEVO 2K",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
+        "url": "https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8",
         "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
     }
     ]
