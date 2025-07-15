@@ -3958,20 +3958,11 @@ https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
             "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-   ]
-
-    },
-    {
-        "name": "CANALES MUSICALES",
-        "samples": [
-
-    },
-{
-        "name": "TROPICALIA MUSIC TV",
-        "url": "https://rds3gen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/index.m3u8?admin=nacion",
-        "icono": "https://i.postimg.cc/kG6B9cq3/download-6.jpg"
-    },
-    
+ ]
+            },
+	    {
+    "name": "CANALES MUSICALES",
+    "samples": [
 {
         "name": "MUSIC TOP",
         "url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8",
