@@ -135,7 +135,8 @@
     },
     {
         "name": "PY | SNT 🇵🇾 opción 2",
-        "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNDcxNDA2Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiMWQ0NjI4YzRkYjA0MmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiODgiLCJzb3VyY2VzIjpbNjksODUsMTQ0LDg2LDg4XX0=.d8WBiU3jA3QzHuCsXNeQmh8mBhzUNjcL8B82XTVK6WzHeuw9BADiIAiHZy6eBInbPorawHaFGArVSPzLH50xwQ==/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd",
+        "url": "
+https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNjAwNTYyIiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M0ZWRzL05PVElDSUFTX1BZX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0NjZiNDg5Zjc3NmY5NGI1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIwMSIsInNvdXJjZXMiOls3Nyw4NSwxNDQsODYsODhdfQ==.F1dqMOgqoiXpJTd-Sy5vfwG2LUBN05q0k5RHWewxccx3AYdsJVCOhrea0zTpahlR0I0YXcv9NOheQRH4_kG8Pg==/live/c4eds/SNT_C4/SA_Live_dash_enc_wl/SNT_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/nxn9adh2409ceum2vmhkx/snt.json?rlkey=t12dj6hptaqjneyq8clqcmymz&st=9mz7elpt&dl=0",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
@@ -1106,7 +1107,61 @@
 ]
 },
       	 {
-    "name": "⚽ESPN OPCIONAL",
+    "name": "⚽ESPN SUR GLOBAL",
+    "samples": [
+
+ {
+        "name": "ESPN SUR 1",
+        "url": "http://bantel-cdn4.iptvperu.tv:1935/MswB47/espn.stream/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
+        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+        "headers": {
+            "Origin": "https://web.app.flow.com.py",
+            "Referer": "https://web.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	     {
+                "name": "ESPN SUR 2",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/Ff8cjS/espn2.stream/playlist.m3u8",
+                
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            },
+	     {
+                "name": "ESPN SUR 3",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/D6Vp42/espn3.stream/playlist.m3u8",
+                
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            },
+	     {
+                "name": "ESPN SUR 4",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/hDp0yb/espn4.stream/playlist.m3u8",
+                
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            },
+	     {
+                "name": "ESPN SUR 5",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/PNwE9t/espn5.stream/playlist.m3u8",
+                
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            },
+	       {
+                "name": "ESPN SUR 6",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/e43Gyk/espn6.stream/playlist.m3u8",
+                
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            },
+	       {
+                "name": "ESPN SUR 7",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/HiOmL1/espn7.stream/playlist.m3u8",
+                
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            }
+]
+},
+      	 {
+    "name": "⚽ESPN GLOBAL",
     "samples": [
 
 	        {
