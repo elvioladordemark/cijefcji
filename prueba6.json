@@ -3969,7 +3969,12 @@ https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
         "name": "MUSIC TOP",
         "url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8",
         "icono": "https://i.postimg.cc/pVkG4J1c/download-3.jpg"
-    },   
+    },
+	        {
+        "name": "BOX PLAYLIST",
+        "url": "https://d3e900fnvjyq99.cloudfront.net/d/BKFNLVLBL20NVRK6FYE0/hls3/now_-1m_15s/m.m3u8",
+        "icono": "https://i.postimg.cc/vTW3P5kM/download-5.jpg"
+    },    
 	    {
         "name": "TOP TV BRASIL",
         "url": "https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8",
@@ -4100,7 +4105,7 @@ https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 	    
 	    {
         "name": "VEVO LATINO ES",
-        "url": "https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8",
+        "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/playlist.m3u8",
         "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
     },
 	    {
