@@ -3,6 +3,36 @@
         "name": "⚽TIGO SPORTS SOLO EVENTOS",
         "samples": [
 {
+    "name": "⚽TIGO SPORTS SOLO EVENTOS",
+    "samples": [
+  {
+        "name": "EVENTOS1 TIGO FULL HD",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+    },
+    {
+        "name": "EVENTOS 2 TIGO FULL HD",
+        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+    "headers": {
+
+			    "Origin": "https://www.tigosports.com.py",
+			    "Referer": "https://www.tigosports.com.py/",
+	    "User-Agent": "FireFox"
+		    }
+    },
+    {
+        "name": "EVENTOS 3 PLAY TV PY HD",
+        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/ad6d9ad340dc44cfaed441c88e5104801748631800536430103c0e78511edba2f6b8db5aabe06TfPoq7bcpzIioW1uMA4mxQSR/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+    },
+	        {
         "name": "TIGO EN VIVO PRUEBA",
         "url": "http://190.128.129.83:8000/play/a03m/index.m3u8",
         "type": "CLEARKEY",
