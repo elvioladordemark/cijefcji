@@ -534,6 +534,66 @@
 
     },
     {
+        "name": "ESPN SUR",
+        "samples": [
+    {
+        "name": "ESPN SUR 1",
+        "url": "http://bantel-cdn4.iptvperu.tv:1935/MswB47/espn.stream/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono": "https://i.postimg.cc/dt2zJQKH/download.png",
+        "headers": {
+            "Origin": "https://web.app.flow.com.py",
+            "Referer": "https://web.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        },
+	     {
+        "name": "ESPN 2 SUR",
+        "url": "http://bantel-cdn4.iptvperu.tv:1935/Ff8cjS/espn2.stream/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "icono": "https://i.postimg.cc/dt2zJQKH/download.png"
+    },
+		    {
+        "name": "ESPN 3 SUR",
+        "url": "http://bantel-cdn4.iptvperu.tv:1935/D6Vp42/espn3.stream/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "icono": "https://i.postimg.cc/dt2zJQKH/download.png"
+    },
+	  {
+        "name": "ESPN 4 SUR",
+        "url": "http://bantel-cdn4.iptvperu.tv:1935/hDp0yb/espn4.stream/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "icono": "https://i.postimg.cc/dt2zJQKH/download.png"
+    },
+		  {
+        "name": "ESPN 5 SUR",
+        "url": "http://bantel-cdn4.iptvperu.tv:1935/e43Gyk/espn6.stream/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "icono": "https://i.postimg.cc/dt2zJQKH/download.png"
+    },
+	  {
+        "name": "ESPN 6 SUR",
+        "url": "http://bantel-cdn4.iptvperu.tv:1935/e43Gyk/espn6.stream/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "icono": "https://i.postimg.cc/dt2zJQKH/download.png"
+    },
+	  {
+        "name": "ESPN 7 SUR",
+        "url": "http://bantel-cdn4.iptvperu.tv:1935/HiOmL1/espn7.stream/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "icono": "https://i.postimg.cc/dt2zJQKH/download.png"
+    }
+		
+]
+
+    },
+    {
     "name": "DEPORTES ESPN",
     "samples":  [
 
