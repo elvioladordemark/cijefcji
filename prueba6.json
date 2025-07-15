@@ -3965,7 +3965,12 @@ https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 	 {
     "name": "MUSICA",
     "samples": [
-	        {
+	          {
+        "name": "MUSIC TOP",
+        "url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8",
+        "icono": "https://i.postimg.cc/pVkG4J1c/download-3.jpg"
+    },   
+	    {
         "name": "TOP TV BRASIL",
         "url": "https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8",
         "icono": "[download-1.jpg](https://postimg.cc/68xnDmDQ)"
@@ -4063,7 +4068,7 @@ https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
         "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
     },
 	    {
-        "name": "VEVO 70 & 80'S",
+        "name": "VEVO 70 & 80",
         "url": "https://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8",
         "icono": "https://i.ibb.co/Xf22PckG/download-vevo-logo-png-free-unlimited-transparent-images-13221-2048x824.png"
     },
