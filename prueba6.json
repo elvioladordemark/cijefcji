@@ -2273,26 +2273,35 @@
         "name": "🎬CANALES DE NOVELAS",
         "samples": [
             {
+        "name": "LAS ESTRELLAS",
+        "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono": "https://i.ibb.co/7tsQ0pDD/Las-Estrellas-Logo-Vector-svg.png"
+    },
+
+		{
                 "name": "RCN +",
                 "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
                 "icono": "https://i.ibb.co/j80Rjhd/MJzuRAN.png"
             },
-            {
-                "name": "NOVELAS TURCAS",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.ibb.co/TVFBq72/turcas-logo-3203466-C6-C-seeklogo-com.png"
-            },
-            {
-                "name": "TLN",
-                "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
-            },
+             {
+        "name": "NOVELAS TURCAS",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono": "https://i.ibb.co/TVFBq72/turcas-logo-3203466-C6-C-seeklogo-com.png"
+    },
+
+           {
+        "name": "TLN",
+        "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono":"https://i.ibb.co/KHSrKnN/7314320.png"
+
             {
                 "name": "AZ CORAZÓN",
                 "url": "http://magmaplayer.com/stream/m3u8/ZGR5KmL2KmR0BP4lAQLhZGtjYwD3KmR3AQZkAj/hls/66.m3u8",
