@@ -14086,6 +14086,75 @@
                     ],
                     "tmdb_id": 283484,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "The outsider (El visitante)",
+                    "genero": "Drama, Misterio, Crimen",
+                    "descripcion": "El detective Ralph Anderson, está a punto de comenzar un nuevo caso: el cuerpo mutilado de un niño de 11 años ha sido encontrado en los bosques de Georgia y hay que aclarar lo sucedido. Ralph todavía está recuperándose de la muerte de su propio hijo, por lo que abordará el caso de forma poco convencional, contando para ello con la ayuda de una investigadora privada con misteriosas habilidades.",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/tm4LIOT1WPcXq02Ko31VjyRfBQa.png",
+                    "icono": "https://image.tmdb.org/t/p/original/foegemcN2ZS7dQI30NIfWpRl2Ls.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lmlsqpAfDZnZumcFhbsTrOy9uNZ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Pan comido",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4AEE0DC0C8E94BAF8AD382FFB1E0449D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Roanoke",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D2648845E3F946CCADED315427CD48C4_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Tío oscuro",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5F48EC3F839C41A4802637DAA515052A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Que viene el coco",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E159650F51B04983A5D7CCE1814EC999_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Bebe lágrimas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1AF3CB4F6AE84C6A8392AD0155147F8A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Bebelágrimas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1B3AEB193B3B49839AB1A883AEFFE95F_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "En los pinos, en los pinos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DC67B895E33F405BA253E6898290A08A_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Cabeza de zorro",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/76980EDB9F7F45EFBD9952CB8121842D_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Tigres y osos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AE01AFE5DA2E455B92797EC0CF22941C_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Debo/No puedo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5ED376B5F6D141938618A829A9877A75_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 84661,
+                    "total_seasons": 1
                 }
             ]
         }
