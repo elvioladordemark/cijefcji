@@ -581,7 +581,33 @@
                 "name": "ESPN 2 SUR",
                 "url": "http://bantel-cdn4.iptvperu.tv:1935/Ff8cjS/espn2.stream/playlist.m3u8",
                 "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-  }
+  },
+{
+                "name": "ESPN 3 SUR",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/hDp0yb/espn4.stream/playlist.m3u8",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+  },	
+{
+                "name": "ESPN 4 SUR",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/hDp0yb/espn4.stream/playlist.m3u8",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+  },
+{
+                "name": "ESPN 5 SUR",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/PNwE9t/espn5.stream/playlist.m3u8",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+  },
+{
+                "name": "ESPN 6 SUR",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/e43Gyk/espn6.stream/playlist.m3u8",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+  },
+{
+                "name": "ESPN 7 SUR",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/HiOmL1/espn7.stream/playlist.m3u8",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+  }		    
+	    
 ]
 
     },
