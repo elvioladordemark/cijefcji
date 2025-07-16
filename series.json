@@ -14155,6 +14155,65 @@
                     ],
                     "tmdb_id": 84661,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Marianne",
+                    "genero": "Misterio",
+                    "descripcion": "Una novelista se da cuenta de que sus historias de terror se hacen realidad y decide volver a su ciudad natal para enfrentarse a los demonios del pasado que la inspiran.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/tAr8pnxESI8oeTOthY5Iza2TdwO.png",
+                    "icono": "https://image.tmdb.org/t/p/original/vORXihb6o0UvzHZfikBSD7H13Qk.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/yD01qWyOqc6J2lRutzOt3Wu8Wnz.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Tus sueños",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/92D728245ECB47A0B40DE28CFCE06723_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Tradición",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/92D728245ECB47A0B40DE28CFCE06723_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "No soy fácil",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/00EFA0EA7332417E87978514163EE465_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un momento precioso",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D562B138388349BF93BC86FA78272B99_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Tú la dejaste",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/341350104613441A85A8968CAA6AC27B_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Recuerdos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/862270BB904F42CAB4496E1B747D51F8_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Éramos demasiado jóvenes",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CB1EDCF15D884ED4906687CD360398B8_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Martes",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/07E7E633E08A47CDAE69B18CA948DF2C_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 92916,
+                    "total_seasons": 1
                 }
             ]
         }
