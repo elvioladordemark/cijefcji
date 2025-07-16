@@ -62,7 +62,13 @@
     {
         "name": "CANALES DE PARAGUAY",
         "samples": [
-     {
+          {
+        "name": "ÑANDEPORTETEPE TV",
+        "url": "https://live.enhdtv.com:8081/8184/index.m3u8",
+        "icono": "https://i.postimg.cc/YqhDk41Y/f86cf0dd-0d89-4f90-bd44-5ec2aeff405d.jpg"
+    },
+	
+	{
         "name": "PARAVISION 🇵🇾",
         "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
         "type": "CLEARKEY",
@@ -2272,7 +2278,12 @@
     {
         "name": "🎬CANALES DE NOVELAS",
         "samples": [
-           {
+            {
+        "name": "LAS ESTRELLAS",
+        "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",",
+        "icono": "https://i.ibb.co/7tsQ0pDD/Las-Estrellas-Logo-Vector-svg.png"
+    }, 
+	{
                 "name": "RCN +",
                 "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
                 "type": "CLEARKEY",
