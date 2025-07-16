@@ -62,7 +62,14 @@
     {
         "name": "CANALES DE PARAGUAY",
         "samples": [
-    {
+     {
+        "name": "ÑANDEPORTETEPE TV",
+        "url": "https://live.enhdtv.com:8081/8184/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "icono": "https://i.postimg.cc/YqhDk41Y/f86cf0dd-0d89-4f90-bd44-5ec2aeff405d.jpg"
+    },
+	{
         "name": "PARAVISION 🇵🇾",
         "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
         "type": "CLEARKEY",
