@@ -13968,6 +13968,55 @@
                     ],
                     "tmdb_id": 215522,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Solo una mirada",
+                    "genero": "Misterio, Crimen, Drama",
+                    "descripcion": "Cuando aparece una fotografía misteriosa, Greta debe enfrentarse a verdades ocultas para salvar a su marido de sus oscuros secretos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/nrYWHKSyMNDS82ZhZX1pcAK9uc6.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rQ0K2m5ofSTEKHW3ELqhObjAjNf.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/iqayykMio4K0qq4MSBDTMLrwQG9.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/53D101908C8B410C9B1C172C2B3FB63B_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F92E13E2098A4FD1B48A9E3534E1DCF5_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5657C56AF08B41A983245D5028838528_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8E00443700AC4F2999598E56FFC9DEA6_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/37584B30617D4C1E8A45371060976810_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A250965317CB4696B70A6CBD8F4B058A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 283484,
+                    "total_seasons": 1
                 }
             ]
         }
