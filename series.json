@@ -14214,6 +14214,85 @@
                     ],
                     "tmdb_id": 92916,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "American Horror Story",
+                    "genero": "Drama, Misterio, Sci-Fi & Fantasy",
+                    "descripcion": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+                    "anio": "2011",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7CHU6cuoRLZyumxd0UX1aT633jy.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/24D6FFDEB50E4713B7EAB1AC138E9FBB_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Allanamiento",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D6A0186DA73545AC99A7DE75C151E1B2_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La casa del crimen",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7A3C8FB14FC34F59808CC4CC5C6E303B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Halloween (Parte 1)",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6CE106B7EE944E33AA86BF64CD70AF38_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Halloween (Parte 2)",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6CB57759B1294C6BBB10D1C0433FFFA6_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Cerdito, cerdito",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0ABDE247DB594651913429358CB3577C_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Jornada de puertas abiertas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ACD0815879334BEB955A493304A7D10C_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El hombre de látex",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D111EEB82274430588CD5CBF26C6143E_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Niña aterradora",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/295247AE12DC449AB86120161131F393_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Niños ardientes",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6199DBD24849461F9C15E579B8733335_media.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Nacimiento",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/22FD45CDF43C4140919CDDD8F096B86B_media.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "El renacer",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/596C3353FDE44BB894A83F4F5D6AF3B8_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 1413,
+                    "total_seasons": 12
                 }
             ]
         }
