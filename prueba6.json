@@ -1319,7 +1319,8 @@
     {
         "name": "SKY SPORTS",
         "samples": [
-          {
+    
+		{
         "name": "SKY SPORTS",
         "url": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd",
         "type": "CLEARKEY",
@@ -1505,6 +1506,18 @@
                 "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
                 "icono": "https://i.postimg.cc/ryRD97zL/a7691067-f886-417f-a3c6-a8627a1ab405.jpg"
   },
+		         {
+                "name": "NBA",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6792c30abc03978b9b8bb832/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+                "icono": "https://i.postimg.cc/BvVTn2k2/download-2.png"
+  },
+		 {
+        "name": "GOLF",
+        "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/GOLFCHANNELHD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd45f6a37a3887044bac88a63e55b70e&key=2dff34fba01dd53d0a37dc913bb9ba51",
+        "icono": "https://i.postimg.cc/bw6bmQz4/download-3.png"
+    }
 		{
                 "name": "BEIN SPORTS Ñ",
                 "url": "http://magmaplayer.com/stream/m3u8/BQxlKmxkKmRmZv4kBGRhZl40Ay8kAmDmZQp/hls/91.m3u8",
