@@ -7138,6 +7138,75 @@
                     ],
                     "tmdb_id": 230923,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Star Trek: Strange New Worlds",
+                    "genero": "Sci-Fi & Fantasy",
+                    "descripcion": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
+                    "icono": "https://image.tmdb.org/t/p/original/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/627K48naKH2Y3Rz47Ydra4qktdI.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Strange New Worlds",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4AD9262E58A049C88C4E53D7153507CA_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Los niños del cometa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0F188F45AB7848148E1203554332D093_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Los fantasmas de Ilyria",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A2D66BA053304AA9A846142F947D7801_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Memento Mori",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/51EEBFA6237F473881BE9DD1DC779BED_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Spock emocionado",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6418330940784352B42B45B99989007F_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Que nos levante a donde el dolor no pueda llegar",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/01EA47A89D48498092F6617A337AD49A_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La Serene Squall",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/151E830432564067BCF50411CCFF30E1_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El reino Elíseo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AB5AD090021F46FAB5AF3FAC9C6E4B5C_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Todos los que vagan",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/53F1BEE9BEBE444E976BA98BCF7DB7D0_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Una cualidad de piedad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D1797CD6D47643B1A563D0E2A0DDB7B0_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 103516,
+                    "total_seasons": 3
                 }
             ]
         },
