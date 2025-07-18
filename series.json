@@ -1141,6 +1141,55 @@
                     ],
                     "tmdb_id": 259909,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Indomable",
+                    "genero": "Misterio, Drama",
+                    "descripcion": "Kyle Turner es un agente especial que trabaja como investigador del Servicio de Parques Nacionales. Cuando se descubre un brutal asesinato en un lugar remoto del parque nacional de Yosemite, Turner se ve envuelto en una tensa investigación que indaga en los secretos ocultos del parque y le obliga a enfrentarse a los fantasmas de su propio pasado. Para resolver el caso, se une a Naya Vasquez (Lily Santiago), una joven guardabosques recientemente llegada de Los Ángeles. Juntos intentarán descubrir la verdad detrás del crimen. A medida que la investigación avanza, emergen secretos oscuros que pondrán a prueba su confianza mutua, su temple… y su propia supervivencia.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ekOCySpQLS8Ezq9T6dl7xvf0iDp.png",
+                    "icono": "https://image.tmdb.org/t/p/original/zqVjGBzJgC2lN9O5Baxborh1IMs.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4YzGFGbHgEIqbRfIt9nbyFP1VPw.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un evento astronómico",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/912BDA23AD3344E890A83B4658D1DC80_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La desaparecida",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9C454DCD56FF47BE9FE49EFB08A4B40B_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El-o’-win",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/68188D2AFC7B433191E478258923BD8C_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Fiebre del oro",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5DB1D46DEFEF46BE8B42690C5FAB9BE7_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Oterces",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B06C1A6F799D49F782E78F02D4B6BFBA_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Todas las pistas conducen aquí",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6B6A384A6D8644819A96DFCE67B73D39_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 248852,
+                    "total_seasons": 1
                 }
             ]
         },
