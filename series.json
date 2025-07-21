@@ -4342,6 +4342,65 @@
                     ],
                     "tmdb_id": 126118,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Martes de terror extremo",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Esta serie, inspirada en el programa de radio tailandés de terror ‘Angkhan Khlumpong’, presenta ocho historias basadas en experiencias reales que comparten los oyentes.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/j5MWQEdaXRSIDTPPXd3TtWyOzRE.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jIXIgNFwecGhdfk0axFGgWxfR9Q.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7zVbbKRpJ4jCgY65IbehYe4t6st.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Nuestra hermana pequeña",
+                                    "url": "http://goovdme.967sd1f.homes/vod/24D2D0EE56E1485FB4CBDA766A76F1C1_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El vestido de novia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/445CADD46B514FC98EB02F7162912F69_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Oda a mi familia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A1D3E004876147598096C0FFB3ADD52D_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Promesas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/36B202278A41428C991C4C66A0D32691_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Clase espectral",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B90ABB142E664E64B86297FED2B73214_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La chica de al lado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/74FD58FBA6B34E0EA11961904A9BABCF_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Querida abuela",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B7BD9D6D0DB1437EB1C4A3A5421C6411_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Maldición viral",
+                                    "url": "http://goovdme.967sd1f.homes/vod/844C7A1CEE4E4488BA08E3411B7AFD9E_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 258306,
+                    "total_seasons": 1
                 }
             ]
         },
