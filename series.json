@@ -2748,6 +2748,35 @@
                     ],
                     "tmdb_id": 272466,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Matices",
+                    "genero": "Crimen, Misterio",
+                    "descripcion": "Seis pacientes psiquiátricos se reúnen en una bodega aislada para completar el tratamiento del doctor Marlow, pero cuando se produce una muerte sospechosa, todos se convierten en sospechosos de una investigación de asesinato.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1IXAzimOE6ZJYuBtjZiKMQkCF1K.png",
+                    "icono": "https://image.tmdb.org/t/p/original/AvT0eKDjW9fs4Dmi6x9XCLGK3nA.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tG8EUw9lYeZsPrDL4vePhLWj7D.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Eviana",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0F76E0C3004940749688584F4F26F793_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Doctor Marlow",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EDF35DB5493D44558B62133A3B53C7F7_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 259854,
+                    "total_seasons": 1
                 }
             ]
         },
