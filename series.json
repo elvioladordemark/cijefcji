@@ -14519,6 +14519,60 @@
                     ],
                     "tmdb_id": 1413,
                     "total_seasons": 12
+                },
+                {
+                    "nombre": "Midnight mass",
+                    "genero": "Misterio, Drama",
+                    "descripcion": "Una comunidad al borde de la extinción y ávida de fe recibe la llegada de un carismático sacerdote, que trae consigo milagros, misterios y un renovado fervor religioso.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/lru5eHBMYT7D00qnhNYXu5LGQsp.png",
+                    "icono": "https://image.tmdb.org/t/p/original/4ZQiVDFQgGO791f9pAcsPUeOtFe.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4XbQb5YoWK9oMrlQdKwtZ1ccpC8.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Libro I: Génesis",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B0F43FA40E2F426C8CD30EE6FA421865_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Libro II: Salmos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0DB0343AE3124C418E48702A9A00368D_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Libro III: Proverbios",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CE48968B200C4EFEB527F88C568F4ADD_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Libro IV: Lamentaciones",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1F302FA7E46043C4A0F9B342EC3691DF_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Libro V: Evangelio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0F1DA9EB775B48AA94750B1720FEFAE0_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Libro VI: Los hechos de los apóstoles",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E856B21F366044C296611E2747699BF5_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Libro VII: Apocalipsis",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/42B06B7E79B04D3A801EC9D3E14EBA03_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 97400,
+                    "total_seasons": 1
                 }
             ]
         }
