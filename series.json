@@ -12330,6 +12330,65 @@
                     ],
                     "tmdb_id": 248852,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Intimidad",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Un video sexual de una política con futuro prometedor, filtrado a la prensa, es el catalizador de esta historia que narra la vida de cuatro mujeres que se ven forzadas a pisar la delgada línea entre lo que pertenece a la vida pública y privada. ¿Dónde están los límites de nuestra intimidad? ¿Qué pasa con nuestras vidas cuando nuestra privacidad se convierte en la conversación de todo el mundo?",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/vY9oYNhH9J60nJyDNxxjAjx8k3k.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xUJwNJx5f39SgUtOqFIRCvZPeik.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qL6BW5QMgVoYk8AlnMXPY4bivpW.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Medio mortal",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E0798A26A7AC4F9DAC1C844ADC8DB169_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Posición / Exposición",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F205D67373CB4BAAAC82E3D8834CA7A9_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Prosopagnosia",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/672F5FD125004334AD38652CC63B5AC9_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La caída",
+                                    "url": "http://goovdme.967sd1f.homes/vod/863DC565A91C4326AFF344599E160FED_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "En funciones",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A1BF4A3FBE974EA288099772A01F52FD_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Sola",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BE670956F37C40F68A937F0BCC35EBB1_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Mañana",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B75DEF45A1464341BB322E0DF86B7A2B_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Una decisión",
+                                    "url": "http://goovdme.967sd1f.homes/vod/36CFB8AA847D468DAB4BA227850FCACE_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 123534,
+                    "total_seasons": 1
                 }
             ]
         },
