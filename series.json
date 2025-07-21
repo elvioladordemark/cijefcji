@@ -6299,6 +6299,65 @@
                     ],
                     "tmdb_id": 241361,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Mentiras, la serie",
+                    "genero": "Comedia, Soap",
+                    "descripcion": "Tras enterarse que Emmanuel Mijares ha muerto, Daniela, Dulce, Yuri y Lupita son convocadas a una misteriosa mansión. Obligadas a interactuar, las enemistades entre ellas no tardarán en explotar y las mentiras que han escondido durante años saldrán a la luz. Pero, poco a poco, estás mujeres se empezarán a cuestionar, a verse a sí mismas, y a descubrir que comparten mucho más de lo que pensaban.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/56qJ7s23RTWdJZIm0Udh41tap1e.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jzfyq5YqzpGG83ZBcODK5BwvcGM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/romZHSReJrR0sHJ55PBWl1jb81s.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Mentiras",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CCC262363BD04765B576388431C29A5E_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Chacales, castores y parásitos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A9B88120D0E642E4B949EA2FF4FBF208_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Detrás de un gran hombre",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7CE3D914C6B94736B1876DA2172347C0_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Ecuaciones de Segundo Grado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6CF4BD18FBD44A2D8FBADB9395014846_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Una Noche de Copas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E116181CA7D542D4877F41A86B5004DC_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Una Noche Loca",
+                                    "url": "http://goovdme.967sd1f.homes/vod/13B2F5A6A47B435CA6607DF738A2D276_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Confesiones",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F33BC470E6A2400A83473544D5D9953D_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Verdades",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6DC2CEBE6CD342168BBD9048119D9D88_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 290321,
+                    "total_seasons": 1
                 }
             ]
         },
