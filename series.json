@@ -7620,6 +7620,75 @@
                     ],
                     "tmdb_id": 103516,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Dulce hogar",
+                    "genero": "Sci-Fi & Fantasy, Action & Adventure",
+                    "descripcion": "Cuando unos monstruos brutales siembran el terror y amenazan a la humanidad, un adolescente problemático y atormentado es la mejor baza de sus vecinos para sobrevivir.",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/kLqVuKol0VVQNc9sQ6OBZuoNPr9.png",
+                    "icono": "https://image.tmdb.org/t/p/original/474kBht8w1y0HFKbfwk7FX1MKoh.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/10A1287C27B44328B013F79153D79C33_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E65AD36350B3449BB3F776E4894BC5AD_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C034B4050DD241049559D6584078ADFB_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FA4AAE337A3B44219CAF301F9962B184_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/87BEF094B9554E8D85A4F3C76EBAD337_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D5EEA1A9A2E94381B4C95892C179D47F_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A5DD322C9F134DA8B96EEBBB7258D433_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C1DE34EA55014EF1AF8228CE8D392826_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A47F371CC5FD4B1E9340811415134F97_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://goovdme.967sd1f.homes/vod/54AA74FC615D430187EEBFAACE1EFD8C_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 96648,
+                    "total_seasons": 3
                 }
             ]
         },
