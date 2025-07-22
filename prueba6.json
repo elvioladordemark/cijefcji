@@ -4179,16 +4179,8 @@
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
                 }
+		    ]
             },
-            {
-                "name": "GOL TV",
-                "icono": "https://i.ibb.co/WBs0G8p/Goltv.png",
-                "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/2370.ts",
-                "drm_scheme": "clearkey",
-                "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
-            }
-        ]
-    },
     {
         "name": "🇧🇴CANALES DE BOLIVIA",
         "samples": [
