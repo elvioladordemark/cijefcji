@@ -4072,6 +4072,17 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
                 }
             },
+		{
+                "name": "REDE TV",
+                "url": "https://live.eu-north-1a.cf.dmcdn.net/sec2(sTbxLGbgjDzeLFG7Ct6kPehi0s_HYgymT8PoYb86F7XqZYkEM2A26iGcYnSELPwXS_ZvgUdd8j8tr_0Kc6xOvnYbVSRN15igGb17zBhUmsH9bbbALLkLDNqQfpJd-yVk)/dm/3/x8xps0s/d/live-720.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/W4X0H8yP/R-1.png",
+                "headers": {
+                    "Referer": "https://embedtv-2.icu/",
+                    "Origin": "https://embedtv-2.icu",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
 		
 		     {
                 "name": "TV BRASIL",
