@@ -4057,6 +4057,20 @@
 	 {
         "name": "🇧🇷CANALES DE BRASIL",
         "samples": [
+		{
+                "name": "GLOBO",
+                "url": "http://magmaplayer.com/stream/m3u8/AQHlKmRkZQAsZGp5YwLjYwVmBF40Zy8kAmHmZGx/hls/1103.m3u8",
+                "icono": "https://i.ibb.co/ks5M1Rxf/globo-tv-logo.png",
+                 "headers": {
+                       "X-App": "ps",
+        "X-Version": "10/1.0.9",
+        "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
+        "X-Did": "cddfe5e8c019cb3c",
+        "User-Agent": "Magma Player/10",
+        "Accept-Encoding": "gzip",
+        "Connection": "Keep-Alive"
+                }
+            },
               {
                 "name": "SBT",
                 "url": "https://www.dailymotion.com/cdn/live/video/x8u8n0m.m3u8?sec=OQcBz-Jn1BlJxzuz7kRsWhEKhJa-HgVYU0trqYKCMk177d3ZiGE2i2BKXdhHXLAEe2l_iDQMrE5CmK6oZvwD2Q&dmTs=989541&dmV1st=72cc4ac9-94ea-42a2-ad28-2ec26026973e",
