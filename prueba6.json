@@ -1405,10 +1405,19 @@
                 }
             },
 		{
-                "name": "DIRECTV 2",
-                "url": "http://nbcod.g4dldf3d.xyz/live/cyx-715A94454CDB870833D9B9587CFA/cyx-715A94454CDB870833D9B9587CFA_xycjco_905330041.ts",
-                "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png"
-  },
+                "name": "DIRECTV SPORTS 2",
+                "url": "http://magmaplayer.com/stream/m3u8/AQD3KmZkAI8kAmxhAwNhZwZ5YwDlKmR3AGZkBD/hls/315.m3u8",
+                "icono": "https://i.ibb.co/357S9W8n/DSPORTS2-01.png",
+                 "headers": {
+                       "X-App": "ps",
+        "X-Version": "10/1.0.9",
+        "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
+        "X-Did": "cddfe5e8c019cb3c",
+        "User-Agent": "Magma Player/10",
+        "Accept-Encoding": "gzip",
+        "Connection": "Keep-Alive"
+                }
+            },
 	{
                 "name": "DIRECTV PLUS",
                 "url": "http://38.211.242.128:8001/play/a05h/index.m3u8",
