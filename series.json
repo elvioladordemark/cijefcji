@@ -6368,6 +6368,75 @@
                     ],
                     "tmdb_id": 290321,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Battle Camp",
+                    "genero": "Reality",
+                    "descripcion": "",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/p3LjDdz9Z2DLPAgSDYlcRxsjmgI.png",
+                    "icono": "https://image.tmdb.org/t/p/original/wuSaLjPrTagk892fEywXHA6i8Xu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/gx94TGPbZFtbtnAh6dRGFDR5qYL.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FC3D397FE61744B3AEAD2A89C1D1260D_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0CA2F55276154CAAB57AE647501717F6_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C0DA367754614555A7E85AFFE5FA8235_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6AA1509A2D704D2DAD0FA721A7A59AFB_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E3618DB962D3418487CBA09DFE9D0382_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BF5487BC13F24C7F8D7FE8C0391A7491_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C201A036D60447EEB077F578F5FC6693_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CC7BED0EFF1944A281018C54F3E9366D_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://goovdme.967sd1f.homes/vod/74E3DE13D5D6404BA1D0C32D405C46B9_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2FE0D59311744E27BD0357FE7E355F88_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 287366,
+                    "total_seasons": 1
                 }
             ]
         },
