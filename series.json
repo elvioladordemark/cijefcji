@@ -6527,6 +6527,50 @@
                     ],
                     "tmdb_id": 128308,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Nada",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Un emblemático dandi de Buenos Aires, crítico gastronómico sofisticado y provocador, vive desde hace décadas con una ama de llaves que se ocupa de todo por él, desde la limpieza de la casa hasta sus asuntos más privados. Pero un giro inesperado del destino lo deja solo y lo lleva a darse cuenta de que realmente no puede hacer nada sin ayuda. Cuando una inexperta e ingenua chica del campo paraguayo aparece buscando trabajo, él debe decidir entre contratarla, y enseñarle todas sus manías, o intentar vivir solo.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5V4eT5zq27YwzcUbSa9IWlPrlak.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5NBVnp1Alm8xf6vfM9X6gpIZUNd.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/p3iKi7aaD2bbpftrZpSshGEvajr.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Estar en el horno",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B669DA45223A4377802447539D8CA33F_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Remar en dulce de leche",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/30FBAE6E2B074D6CA41B3185F19C18A5_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La verdad de la milanesa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A06075CD152F47F1B1F97CA0B00FA6D4_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Comerse un garrón",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DD7EC1D1F2ED45F88955ED9471A953D4_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Tirar manteca al techo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8CA6F752ED6E45E5854AC12CD7505124_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 201413,
+                    "total_seasons": 1
                 }
             ]
         },
