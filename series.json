@@ -12468,6 +12468,50 @@
                     ],
                     "tmdb_id": 123534,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Sirenas",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "Preocupada por el nivel de intimidad en la relación entre su hermana y su jefa multimillonaria, una mujer normal busca respuestas en una lujosa villa junto al mar.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gDqTj8PRCYTrsqrBz6oM40flLyA.png",
+                    "icono": "https://image.tmdb.org/t/p/original/1TzDuPhuThqMq0RudPXES1qXiMp.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/nFOufr0IvCtMLyTleHOrtyj0htv.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Exilio",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AF8E7B409F304324AF3F28D9CF16272B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Garras",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0BE35E342C3A498EA95B7D4B7584528B_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Monstruo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D8BF7EC027E941899D4445458FA0F20C_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Perséfone",
+                                    "url": "http://goovdme.967sd1f.homes/vod/33493EF874BE40478003AB3B692BB2CB_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Canto de sirenas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5B372CBD6953421DB0175078E7BB5F66_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 246992,
+                    "total_seasons": 1
                 }
             ]
         },
