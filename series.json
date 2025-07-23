@@ -8215,6 +8215,65 @@
                     ],
                     "tmdb_id": 114472,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Agente Carter",
+                    "genero": "Drama, Sci-Fi & Fantasy",
+                    "descripcion": "1946. La paz ha significado un revés para la agente Carter al verse marginada cuando los hombres vuelven del extranjero. Trabajando como agente secreta en la R.C.E., Peggy se ve haciendo trabajo administrativo cuando preferiría pasar a la acción y luchar contra los malos. Al mismo tiempo, busca la manera de apañárselas como mujer soltera tras haber perdido al amor de su vida, Steve Rogers. Cuando un viejo amigo, Howard Stark, es acusado injustamente de vender sus armas más letales, se pone en contacto con Peggy para encontrar a los responsables y limpiar su nombre.",
+                    "anio": "2015",
+                    "iconPng": "https://image.tmdb.org/t/p/original/mxk5K9IbAJc5rGzHmCzpcflIxM9.png",
+                    "icono": "https://image.tmdb.org/t/p/original/scZsg0rfAyH8ADphzrdhgo5jAXd.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/6oDTpqIvHa9a7kkn79uEOpx7V9X.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Ahora no es el final",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F9DAB4BD386E44FAAB6CB1C98CD6D3A7_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Puente y túnel",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D44F5BF7BAC4428FBCE1004447B0628A_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Vive el momento",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2391BD3C73F941089D6ECF47B4031E5D_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El botón Blitzkrieg",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C28F96BBC6F245D9B858B8D7A70ECEB3_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El techo de hierro",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0DCE4CB15D00413DBC508967126BCA5B_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Un pecado que cometer",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/163799DE6BA14E52820AA747E7BE42EA_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Caos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/79687DBF2E70419E96B9AF9CB2BC0276_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Despedida",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BA0240E553E24CA28A263446D9BEAF0F_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 61550,
+                    "total_seasons": 2
                 }
             ]
         },
