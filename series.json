@@ -12818,6 +12818,55 @@
                     ],
                     "tmdb_id": 294282,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Camaleón: El pasado no cambia",
+                    "genero": "Drama",
+                    "descripcion": "Sabrina, una periodista de investigación, lleva una vida estable junto a su hija y su marido. Sin embargo, su mundo colapsa con la reaparición de Salvador Carvallo, un famoso artista y amigo de su madre Iris, que reabre en Sabrina capítulos oscuros de su vida que creía olvidados y que ponen en jaque su estabilidad. Enfrentada con el pasado y con el descubrimiento de un nuevo secreto en el presente, Sabrina luchará por exponer la verdad, incluso si nadie está dispuesto a escucharla.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/yHeWyO6jWXlJGP2eEykfwfWgDhf.png",
+                    "icono": "https://image.tmdb.org/t/p/original/4QzuQqYF7SN4H8IxqfMUfz5A64V.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8VqpTJOZJyL0ArO9QUYnFkbCFdZ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "En restropectiva",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2679F1DA303B486BAA0BB17F23C65604_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Bocetos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/72A00124B64E47299A74B36A3CA6D11B_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "En caída",
+                                    "url": "http://goovdme.967sd1f.homes/vod/399332BB5887439DB4174B6836C70AB4_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Manipulación",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CD138700DA3140498C6949A3D05C0211_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Marcado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E60262E3321648C4B29412A23464EDA3_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Ave Fénix",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1B7A8DA04CBB46E89F7DAFB3D08A10CD_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 221812,
+                    "total_seasons": 1
                 }
             ]
         },
