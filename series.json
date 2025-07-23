@@ -14375,6 +14375,55 @@
                     ],
                     "tmdb_id": 103759,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Falcon y el Soldado de Invierno",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "Siguiendo los eventos de 'Vengadores: Endgame', Sam Wilson/Falcon y Bucky Barnes/Soldado de Invierno se unen en una aventura global que pondrá a prueba sus habilidades... y su paciencia",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5L6We83M3S1Dnasfn6PrkocDFHE.png",
+                    "icono": "https://image.tmdb.org/t/p/original/kW3vNNeeIDkZ2xoRyWmNkeOK6f1.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Nuevo orden mundial",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6A68B917AE224816B7771C58BEAD6D1C_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El hombre estrellado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AAE7662E14BA44DDB5A7353A6689C766_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Tráfico de influencias",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2F76053FAB794E84B1719BA0A47908CC_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El mundo nos observa",
+                                    "url": "http://goovdme.967sd1f.homes/vod/16625040B0384143A4607A99CABCE84F_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La verdad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3FA6D0558B144F30B2752720ACDAE8C1_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Un mundo, un pueblo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D16E2CCF025043CCA47E097EFCF6C0B3_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 88396,
+                    "total_seasons": 1
                 }
             ]
         },
