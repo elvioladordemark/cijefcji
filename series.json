@@ -8166,6 +8166,55 @@
                     ],
                     "tmdb_id": 96648,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Invasión secreta",
+                    "genero": "Drama, Sci-Fi & Fantasy, Action & Adventure",
+                    "descripcion": "Nick Furia descubre que una facción de cambiaformas skrulls está invadiendo la Tierra en secreto.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9rFTTd61YSsnZRkhYptyd6gVicL.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jXLhr96JH5DG6TBM8rx8subMpnE.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/6mOK9j99OFlxGc3ird2jWUeUha9.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Resurrección",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0EB50E4DE6C747E79903C2CAC3385D3B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Promesas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5529041F60264F9EBEDB2255B497FE38_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Traicionado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/428477BE35D846C39596269EC974DDED_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Amado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7C1C61441981472687B29FBEE971FE46_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Cosecha",
+                                    "url": "http://goovdme.967sd1f.homes/vod/992A5DAD0F014B4ABEC6A31B6382746A_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Hogar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/67E716C9331442A4A36FBD76E88AE398_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 114472,
+                    "total_seasons": 1
                 }
             ]
         },
