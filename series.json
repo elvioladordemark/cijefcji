@@ -2817,6 +2817,60 @@
                     ],
                     "tmdb_id": 259854,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Por mandato del cielo",
+                    "genero": "Crimen, Drama, Misterio",
+                    "descripcion": "La fe de un detective de la policía mormona se ve sacudida al investigar el asesinato de una mujer que parece involucrar a la Iglesia.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/txKyjwhrIXDfx92tVUeg6Il5c0J.png",
+                    "icono": "https://image.tmdb.org/t/p/original/oZtkeXeZb2Yg20wwChxj8WTVHOF.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/x9PFD8fWrFcWVCXLdrTy5oaO9YS.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Cuando Dios era amor",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1CB4344B6DE340EFBA6AE4D0E70E988A_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Legítimo lugar",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/135C46D40A8340B68061FF441CF0AA15_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Rendirse",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A9BB7DEE17BF40F2A96AAA0F6C8FB026_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Iglesia y fuerza",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7B8B070C27AF47F6B26A925EC0532082_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Un Elegido fuerte y poderoso",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B74DFFA5CEE34FF089E894AAC37E6BDE_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Revelación",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C88C1835650949619BF4EDE87A161D82_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Expiación de la sangre",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/63A1133191F34AEA830D8FE7FB25BA99_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 128095,
+                    "total_seasons": 1
                 }
             ]
         },
