@@ -12975,6 +12975,55 @@
                     ],
                     "tmdb_id": 221812,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Superestar",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "Con el cambio de siglo un cometa atravesó el cielo de España desmontando las leyes de la fama y el éxito, desintegrando la frontera entre lo popular y lo underground. Durante un par de años las portadas y las horas de prime time fueron conquistadas por famosos de otra dimensión. Criaturas que hasta entonces parecían condenadas a la burla y el desprecio y que acapararon nuestra atención sin adaptarse a ninguna normalidad. Un relato mágico donde caben conspiraciones esotéricas, noches eternas, ladrillos cuánticos, supervillanos multicolores y una improbabilidad hecha estrella: Tamara.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/uAZGkupHJk5r6sSNVTZ0axf3dBn.png",
+                    "icono": "https://image.tmdb.org/t/p/original/aZC1Z3OnknhYRMMCR8N1XwFVElG.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ait9LRAst2vhSL4Ji9dWDlTM43K.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Margarita Seisdedos y la crisis del ladrillo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E2191E30956C480EBE16AAB92F9EED63_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El extraño caso del doctor Leonardo y míster Dantés",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B83D3BAC5D3D41A997F4CB17B3F4A589_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Loly Álvarez y Arlekin en la carretera podrida",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F0562B6E8B204DA484469AF99D2419E2_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Quiero la cabeza de Paco Porras",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EC5C2808F44A4B66ABEFBD869887242B_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Tony Genil y las ‘losers’ de Bohemia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4D7B27363AA74EC392D4F38A04453539_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La balada de Marimar Cuena Seisdedos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E8781FDCAF714F3590B6292F70CCA5DD_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 243456,
+                    "total_seasons": 1
                 }
             ]
         },
