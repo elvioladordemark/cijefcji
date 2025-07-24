@@ -1602,6 +1602,20 @@
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
                 "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
             },
+{
+        "name": "TUDN USA",
+        "url": "https://ja.periquitopan.store/tudnusa/tracks-v1a1/mono.m3u8?md5=MDZq6awBqKUCz0yweh7wSA&expires=1740359849",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f8943d114e25151c8ae4f612351d5a5f&key=7f34c9a70c836020cbc3273c427ff277",
+        "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+        "headers": {
+            "Origin": "https://streamdz4.lat",
+            "Referer": "https://streamdz4.lat/",
+	 
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },	
+		
             {
                 "name": "TUDN",
                 "url": "http://magmaplayer.com/stream/m3u8/ZGxlKmx1Zy8kAQthZwVlYwRmAP4kZmIsZGp0ZmZj/hls/952.m3u8",
