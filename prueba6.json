@@ -1253,7 +1253,20 @@
     {
         "name": "⚽ DEPORTES TYC Y TNT SPORTS",
         "samples": [
-    {
+   {
+        "name": "TYC SPORTS GLOBAL",
+        "url": "https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d0cf6c1d49c16f5180f86e1870b00f&key=7eb6743b5f44b52ba27c88229c8c7ae2",
+        "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar",
+            "Referer": "https://player.sensa.com.ar/",
+	    "webtoken": "1.0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },	
+	{
         "name": "TYC SPORTS",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
         "type": "CLEARKEY",
@@ -1307,6 +1320,19 @@
         "url": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
         "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
     },
+	{
+        "name": "TNT SPORTS GLOBAL",
+        "url": "https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c26371079e89206d63e1454893e881b6&key=adac3c3b3774e411d6e49724f7ea0ee3",
+        "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar",
+            "Referer": "https://player.sensa.com.ar/",
+	    "webtoken": "1.0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },	
     {
         "name": "TNT SPORT HD",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
@@ -1319,6 +1345,7 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
+		
     {
         "name": "TNT SPORT HD opcion 2",
         "url": "https://edge-live17-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzNDk0NTYzIiwic2lwIjoiMTcwLjI0NS4xMzIuODkiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjRiZTk5YTA5NTI0NzNjMTciLCJzZXNzaW9uX2lkIjoiODE2MTYzMzAtMTc1MzMyMTc2My03MDAiLCJjbGllbnRfaWQiOiIxMzE2MDg4MSIsImRldmljZV9pZCI6IjgxNjE2MzMwIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIxMDYiLCJzb3VyY2VzIjpbODUsODYsODhdfQ==.hVnx6g8wA0bFzuBp2oj7VI4dKZtmdj-7hH52Ok5wAGylHCBOMVJg_eB3TRpxPOZTFRxhn33SIO_oigksUBApSQ==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
