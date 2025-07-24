@@ -13024,6 +13024,65 @@
                     ],
                     "tmdb_id": 243456,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Washington Black",
+                    "genero": "Drama",
+                    "descripcion": "George Washington «Wash» Black, de 11 años, se embarca en un viaje por todo el mundo en busca de su identidad tras huir de una plantación de azúcar en Barbados a bordo de una máquina voladora en compañía del excéntrico hermano inventor de su amo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3bDIktX4q8lJOJ5N5mdrENRKVkW.png",
+                    "icono": "https://image.tmdb.org/t/p/original/oJfZI4pXQQBQutHT15y0evJNGZv.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vapoYt08nte9AnFPSGADNau8C6I.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D4D47777D7BC4C1BA2D3D88514F3B804_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5664BECD357E4E20A5EC56BCEEBED906_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E3765B0A382340F594F409F87C17525B_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/838E863928A34A5EB9CE988242DEE60F_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3DAA5891727B4B56BB13BA5CE06E589D_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E65B5694308D497EBD29842189C2C4E4_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BA8FF744D5E44FC08F34DA372F8A12C7_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EF7E817EB76B47838926D984C5928213_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 156390,
+                    "total_seasons": 1
                 }
             ]
         },
