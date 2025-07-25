@@ -192,42 +192,7 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     }	
-]
 
-    },
-    {
-        "name": "CANALES DE PARAGUAY GLOBAL",
-        "samples": [
-          {
-        "name": "SNT",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8",
-        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
-    },
-	{
-        "name": "C9N",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8",
-        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
-    },
-	 {
-        "name": "TELEFUTURO",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8",
-        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
-    },	
- {
-        "name": "RPC",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/117.m3u8",
-        "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg"
-    },
-		 {
-        "name": "GEN TV",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1415.m3u8",
-        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg",
-    },	
-		 {
-        "name": "ABC",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
-        "icono": "https://i.ibb.co/dGqjksf/descarga.png"
-    }
 ]
 
     },
