@@ -8528,6 +8528,90 @@
                     ],
                     "tmdb_id": 90802,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Los 100",
+                    "genero": "Sci-Fi & Fantasy, Action & Adventure, Drama, Crimen",
+                    "descripcion": "Situada 97 años después de una guerra nuclear que ha destruido la civilización, los supervivientes de una nave espacial, que han sobrevivido durante 3 generaciones en el espacio, envían 100 delincuentes juveniles \"para testear\" las condiciones de la Tierra, con la esperanza de eventualmente volver a poblar el planeta. El grupo de jóvenes tratará de sobrevivir en un entorno desconocido y hostil a pesar de las brechas que se abren entre ellos, unos partidarios de seguir en conexión con la nave, otros a favor de empezar de cero sin depender de nadie. Mientras, en la nave, las luchas por el poder político se recrudecen, llevando a los dirigentes a situaciones extremas y difíciles decisiones.",
+                    "anio": "2014",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7h2L7K3RpcMry8mVsX4GVFFHspb.png",
+                    "icono": "https://image.tmdb.org/t/p/original/7zzHG46UG43IkfdEVKuCo2L84eM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/13B04053C32C43A3BEB32EBF6832EDCC_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sobrevivir en la Tierra",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E7C5D167AF3944978EC28E499B0F87F4_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Morir en la tierra",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C1D9FA04958A474A9FB02847E6ED49BF_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La ley de Murphy",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FCAAEDA159934D3BBDF849C0B6CDA3B5_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El último destello del crepúsculo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DCF61B3FF40D43F9B4879D1E026AEA82_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El custodio de su hermana",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1FB293D166FC4ED6908786AEE952919A_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Sometidos a presión",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D1767A209FF54E91889924FBA3B20434_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La excursión",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/61BB1982EBF64AC8996995A6A5463957_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El día de la unidad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/03AC0187EEFB4ECD95A2E782BE2363F3_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Me he convertido en la muerte",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AE5A0EB98E564FCC8904C0327027DC89_media.ts"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "La calma",
+                                    "url": "http://goovdme.967sd1f.homes/vod/82F11AB367E94EC088F94A20B9DF7AA8_media.ts"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Somos terrestres: 1.ª parte",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C1F990BE9B1949B197B4F380D5B77A52_media.ts"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Somos terrestres: 2.ª parte",
+                                    "url": "http://goovdme.967sd1f.homes/vod/35BFDE382A844AA6B11916A01F3441BF_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 48866,
+                    "total_seasons": 7
                 }
             ]
         },
