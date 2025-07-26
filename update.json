@@ -2,6 +2,6 @@
   "versionName": "5.0",
   "versionCode": 5,
   "apkUrl": "https://vimetrix.lat/convert/app-release.apk",
-  "mandatory": true,
+  "mandatory": false,
   "message": "• Correcciones de estabilidad• Mejor rendimiento en Android TV"
 }
