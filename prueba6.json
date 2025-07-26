@@ -64,7 +64,7 @@
         "samples": [
        {
         "name": "EVENTOS 1",
-        "url": "https://d10.merichunidya.com:1686/hls/dsports.m3u8?md5=tdOqWqamcLhsfvm0jpsUyw&expires=1753402869",
+        "url": "https://d8.merichunidya.com:1686/hls/espnar.m3u8?md5=7ZGRpoZ6jnqU6Bdq6DLY8w&expires=1753498665",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f8943d114e25151c8ae4f612351d5a5f&key=7f34c9a70c836020cbc3273c427ff277",
         "icono": "https://i.postimg.cc/5N8scd61/download-8.jpg",
