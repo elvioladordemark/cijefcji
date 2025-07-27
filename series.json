@@ -15123,6 +15123,60 @@
                     ],
                     "tmdb_id": 88396,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Gatillo",
+                    "genero": "Action & Adventure, Drama, Crimen",
+                    "descripcion": "En Corea del Sur, donde la posesión de armas está prohibida, un audaz policía y un misterioso aliado unen fuerzas y luchan por frenar una amenaza inminente.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/x4HADJBXu0z8YiOguPrAK1k71Vi.png",
+                    "icono": "https://image.tmdb.org/t/p/original/pSoosNbPUTzEncABa4hlCGnSpA0.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2jiEkTXR7oiQNDfdday8AM9J5qF.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F40A45C82A164F95BD93345A8C00D55F_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/567C91BBA4D34B389D09CFED78EB4862_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9A42FAB6DB7746A6847D58633E1A9020_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CB33D080B6D947A9B93A0565AF913C38_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A5382DBFD96E4E85A6BCF7B1F79E8595_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5D68BB98B3E2430BBF467F09934F7CA2_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FE83994523EE40F1BCBA6B1DB428EC43_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 238084,
+                    "total_seasons": 1
                 }
             ]
         },
