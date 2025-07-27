@@ -1646,7 +1646,7 @@
         "samples": [
  {
                 "name": "CAZE TV",
-                "url": "https://embmaxtv.online/cazetv/index.m3u8",
+                "url": "https://embmaxtv.online/cazetv/tracks-v1/index.fmp4.m3u8",
                 "type": "HLS",
                 "icono": "https://i.postimg.cc/GpDjJJPK/download-5.png",
                 "headers": {
