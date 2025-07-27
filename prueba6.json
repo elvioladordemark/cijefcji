@@ -64,7 +64,7 @@
         "samples": [
        {
         "name": "EVENTOS 1",
-        "url": "https://ghepardos-skium.hf.space/proxy/hls/manifest.m3u8?api_password=Patatini1!&d=https://embmaxtv.online/premiereclubes/index.m3u8",
+        "url": "https://embmaxtv.online/sportv/tracks-v1a1/mono.ts.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f8943d114e25151c8ae4f612351d5a5f&key=7f34c9a70c836020cbc3273c427ff277",
         "icono": "https://i.postimg.cc/5N8scd61/download-8.jpg",
