@@ -1636,13 +1636,17 @@
     {
         "name": "⚽ DEPORTES BRASIL",
         "samples": [
- {
-    "name": "Premier clubes",
-    "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
-    "icono": "https://embedtv.digital/assets/images/premiere.png"
-  },
+{
+                "name": "PREMIERE CLUBE",
+                "url": "https://embmaxtv.online/sportv3/tracks-v1a1/mono.ts.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+                "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
   {
     "name": "Premier 2",
     "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd",
