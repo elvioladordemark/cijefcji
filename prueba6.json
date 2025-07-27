@@ -2708,6 +2708,93 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             }
+		]
+
+  },
+
+       	
+       	 {
+     "name": "🎥PACK-HBO BRASIL",
+        "samples": [
+           {
+                "name": "HBO BR",
+                "url": "https://lb1.embmaxtv.online/hbo/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/3rZ1F0wT/download-11.jpg",
+                "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+		{
+                "name": "HBO 2 BR",
+                "url": "https://lb1.embmaxtv.online/hbo2/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/3rZ1F0wT/download-11.jpg",
+                "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+		{
+                "name": "HBO EXTREME BR",
+                "url": "https://lb1.embmaxtv.online/hboxtreme/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/3rZ1F0wT/download-11.jpg",
+                "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+		{
+                "name": "HBO FAMILY BR",
+                "url": "https://lb1.embmaxtv.online/hbofamily/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/3rZ1F0wT/download-11.jpg",
+                "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+		{
+                "name": "HBO SIGNATURE BR",
+                "url": "https://lb1.embmaxtv.online/hbosignature/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/3rZ1F0wT/download-11.jpg",
+                "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+		{
+                "name": "HBO MUNDY BR",
+                "url": "https://lb1.embmaxtv.online/hbomundi/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/3rZ1F0wT/download-11.jpg",
+                "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+		{
+                "name": "HBO POP BR",
+                "url": "https://lb1.embmaxtv.online/hbopop/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/3rZ1F0wT/download-11.jpg",
+                "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+	
+		
         ]
     },
     {
