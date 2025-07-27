@@ -1036,51 +1036,61 @@
 
     },
     {
-    "name": "ESPN SUR",
+    "name": "ESPN GLOBAL",
     "samples":  [
-
-	    {
-        "name": "ESPN",
-        "url": "http://bantel-cdn4.iptvperu.tv:1935/MswB47/espn.stream/playlist.m3u8",
+{
+        "name": "ESPN 1",
+        "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d243ebd7a57bea4b4b052ae13f4c051&key=5c1925879de873d43b7c25925902539b",
+        "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
         "headers": {
-            "Origin": "https://web.app.flow.com.py",
-            "Referer": "https://web.app.flow.com.py/",
+            "Origin": "https://player.sensa.com.ar",
+            "Referer": "https://player.sensa.com.ar/",
+	    "webtoken": "1.0",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
-	{
-                "name": "ESPN 2 SUR",
-                "url": "http://bantel-cdn4.iptvperu.tv:1935/Ff8cjS/espn2.stream/playlist.m3u8",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-  },
-{
-                "name": "ESPN 3 SUR",
-                "url": "http://bantel-cdn4.iptvperu.tv:1935/D6Vp42/espn3.stream/playlist.m3u8",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-  },	
-{
-                "name": "ESPN 4 SUR",
-                "url": "http://bantel-cdn4.iptvperu.tv:1935/hDp0yb/espn4.stream/playlist.m3u8",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-  },
-{
-                "name": "ESPN 5 SUR",
-                "url": "http://bantel-cdn4.iptvperu.tv:1935/PNwE9t/espn5.stream/playlist.m3u8",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-  },
-{
-                "name": "ESPN 6 SUR",
-                "url": "http://bantel-cdn4.iptvperu.tv:1935/e43Gyk/espn6.stream/playlist.m3u8",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-  },
-{
-                "name": "ESPN 7 SUR",
-                "url": "http://bantel-cdn4.iptvperu.tv:1935/HiOmL1/espn7.stream/playlist.m3u8",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-  },
+	    {
+        "name": "ESPN 2",
+        "url": "https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6a8bd6496d2444301c9d4d0feca9d75b&key=3fd1967701ba2897729187b60094c158",
+        "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar",
+            "Referer": "https://player.sensa.com.ar/",
+	    "webtoken": "1.0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+ {
+        "name": "ESPN 3",
+        "url": "https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8836252059b793a79173838dc1186ff1&key=aa16f90e51ce5652dab93834e434caa8",
+        "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar",
+            "Referer": "https://player.sensa.com.ar/",
+	    "webtoken": "1.0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	    {
+        "name": "ESPN 4",
+        "url": "https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=034653d3413f23e87249d1fb7e68359a&key=a0d6b849f17c430e9cc02d07739a4e4a",
+        "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+        "headers": {
+            "Origin": "https://player.sensa.com.ar",
+            "Referer": "https://player.sensa.com.ar/",
+	    "webtoken": "1.0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	  
 {
         "name": "ESPN PREMIUM GLOBAL",
         "url": "https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd",
