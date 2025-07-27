@@ -2903,6 +2903,55 @@
                     ],
                     "tmdb_id": 128095,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Humo",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Un investigador de incendios tiene que colaborar con una agente de policía y su carrera contrarreloj para atrapar a dos pirómanos desata un retorcido juego de secretos y sospechas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/fmNSefk4GEJ8Pzk5vGg2xxF75zD.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ftbV3JuMSlM5Dk93TgYIMvbD9mY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2gfOS8A4gBAf8O9SjpgZIc2Z5yI.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/641BBB49B38747EFBD2F23A963ACD938_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Vuestra alegría me entristece",
+                                    "url": "http://goovdme.967sd1f.homes/vod/305796973F8A49949FBCD2665C7B6B7E_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Leche rara",
+                                    "url": "http://goovdme.967sd1f.homes/vod/931DE72D92784CD2859CDA91BCBB9275_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Fresa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/26E76DA8F43A4197BCB8B56CC9880A83_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El tamaño importa",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FEF6A306EFCC4459B69565346FCA02FB_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Hombría",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FE14FED265404B16804D847E669CFB57_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 215995,
+                    "total_seasons": 1
                 }
             ]
         },
