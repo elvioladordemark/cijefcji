@@ -64,13 +64,13 @@
         "samples": [
        {
         "name": "EVENTOS 1",
-        "url": "https://jpo1.dbcast.live/TSBhWCSKcamWt2uOdCHATg/1753585910/323830333a326130303a323030363a653161313a616633333a666462633a3366323a39383465/ff750/playlist.m3u8?b=1",
+        "url": "https://ghepardos-skium.hf.space/proxy/hls/manifest.m3u8?api_password=Patatini1!&d=https://embmaxtv.online/premiereclubes/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f8943d114e25151c8ae4f612351d5a5f&key=7f34c9a70c836020cbc3273c427ff277",
         "icono": "https://i.postimg.cc/5N8scd61/download-8.jpg",
         "headers": {
-            "Origin": "https://streamtpglobal.com",
-            "Referer": "https://streamtpglobal.com/",
+            "Origin": "https://embedcanaistv.com",
+            "Referer": "https://embedcanaistv.com/",
 	 
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
