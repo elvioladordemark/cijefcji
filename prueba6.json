@@ -1806,7 +1806,18 @@
                     "Origin": "https://embedcanaistv.com",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
                 }
-            }	
+            },
+		{
+                "name": "TNT SPORTS ESTADIO",
+                "url": "https://lb1.embmaxtv.online/tnt/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/8cCYPTZF/TNT-SPORTS.png",
+                "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },	
 		
         ]
     },
