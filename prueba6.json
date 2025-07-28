@@ -837,7 +837,25 @@
         "url": "http://200.121.48.17:8000/play/a14i/index.m3u8",
         "icono": "https://i.ibb.co/m5bbjySK/LOGO2.png"
     }
-		
+	]
+
+    },
+    {
+    "name": "DEPORTES ESPN GLOBAL",
+    "samples":  [
+
+	    {
+        "name": "ESPN",
+        "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d243ebd7a57bea4b4b052ae13f4c05&key=5c1925879de873d43b7c25925902539b",
+        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+        "headers":{
+    "Referer": "https://player.sensa.com.ar/",
+    "webtoken": "1.0",
+    "Origin": "https://player.sensa.com.ar",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+  }	
 ]
 
     },
@@ -1237,132 +1255,7 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     }
-]
 
-    },
-   {
-    "name": "⚽ DISNEY +",
-    "samples": [
-        {
-            "name": "DISNEY+ 1",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney1",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 2",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney2",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 3",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney3",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 4",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney4",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 5",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney5",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 6",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney6",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 7",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney7",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 8",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney8",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 9",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney9",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 10",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney10",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 11",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney11",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 12",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney12",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 13",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney13",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 14",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney14",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 15",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney15",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 16",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney16",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 17",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney17",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 18",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney18",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 19",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney19",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        },
-        {
-            "name": "DISNEY+ 20",
-            "url": "https://la12hd.com/vivo/canales.php?stream=disney20",
-            "type": "WEBVIEW",
-            "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
-        }
     ]
 },
     {
@@ -1615,67 +1508,7 @@
         "Connection": "Keep-Alive"
                 }
             }
-        ]
-    },
-    {
-        "name": "⚽DEPORTES DAZN",
-        "samples": [
-            {
-                "name": "DAZN 1",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3pjdg5xfn19y74nnfp5fz/dazn1.json?rlkey=m4yv0ryoc582xh6hsono68lqw&st=wrsdnpd7&dl=0",
-                "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
-            },
-            {
-                "name": "DAZN 2",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eab5a3f3e3b4ba5d42d40ca30d17571&key=f3f061ded9b70e8160590d5802ecda6d",
-                "icono": "https://i.ibb.co/zVyXvjM/dazn2.png"
-            },
-            {
-                "name": "DAZN 3",
-                "url": "https://dtvlivegratis.com/stream.php?stream=disney8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bad8efff688c0dbb3711e4a7114c22a3&key=6ba800673b20776c0c850130d45e1920",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9TSJe2eq5BVR4iTiqiPimKvFk0vztXF9PcbaLhYfG&s"
-            },
-            {
-                "name": "DAZN 4",
-                "url": "http://79.117.39.146:8000/play/a0ln",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8",
-                "icono": "https://i.postimg.cc/MGV5vpFx/images.png"
-            },
-            {
-                "name": "FORMULA 1",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8",
-                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-            },
-            {
-                "name": "FORMULA 1 FULL HD",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa",
-                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-            },
-            {
-                "name": "LA LIGA HYPERMOTION",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd",
-                "url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8235cccf08d0ff149a20dfcd11ff68b&key=e8ea3a1ae6892eb76a73dc1b14d216d6",
-                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-            },
-            {
-                "name": "DAZN LA LIGA",
-                "url": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/9e1i4w12nobb5tc7ka3b0/daznliga.json?rlkey=sl7msjhndx49v5yos75e1etfz&st=pmjjwg93&dl=0",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU"
-            }
+      
         ]
     },
      {
