@@ -2962,6 +2962,65 @@
                     ],
                     "tmdb_id": 215995,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Los crímenes del mandala",
+                    "genero": "Crimen, Drama, Misterio",
+                    "descripcion": "Tras una serie de asesinatos rituales que conmocionan a un pequeño pueblo, una inspectora y un expolicía deben investigar un misterio que guarda relación con su pasado.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/OKLX6IaPvGfCCzcJNvzaaEzHZb.png",
+                    "icono": "https://image.tmdb.org/t/p/original/i0Jl1EkHux33PrOi0W5F2ECvH3q.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/m8s8Fp7fITnPzaftmVcsQYR5mMm.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/27B098E9CE9440E3B1BDC14F82D27C2C_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D91D2A2C6FBD460988676B6113B673B2_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E1CD0ED3097E4DBE89E953262A7EC272_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A6B7FAA32EE649638BAE106B15102672_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7902044832D74CD19D9D20BB5D66DF2D_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/025FC68BEA0547229F0B096D97A44A6F_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C2DD87DA33F7473E8B8E3F52EBA5E9D2_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/92BDAA0130FC4D8E83FAD57D2C3D5758_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 247831,
+                    "total_seasons": 1
                 }
             ]
         },
