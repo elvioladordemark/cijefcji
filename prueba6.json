@@ -56,7 +56,14 @@
     {
         "name": "CANALES DE PARAGUAY",
         "samples": [
-    {
+     {
+        "name": "ÑANDEPORTETEPE TV",
+        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+        "icono": "https://i.postimg.cc/c4ccv62z/IMG-20250630-WA0013.jpg"
+    },
+
+		
+	{
         "name": "PARAVISION 🇵🇾",
         "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
         "type": "CLEARKEY",
