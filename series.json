@@ -13676,6 +13676,55 @@
                     ],
                     "tmdb_id": 156390,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Día cero",
+                    "genero": "Drama, War & Politics",
+                    "descripcion": "Encomiendan a un expresidente de Estados Unidos jubilado encontrar el origen de un ciberataque mortal, pero se encuentra con una gran red de mentiras y conspiraciones.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9IdkviirIgAyV7uBEaZuUi7pscA.png",
+                    "icono": "https://image.tmdb.org/t/p/original/285ow3eWdUV4ApB64axKmxn1MBJ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/t4JPNpET4aEmMA4Fg7Bfc7tI6jQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/58F496B1F1314BD3AA39BC59BC2857BD_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B6D4977314034A0C920ED47050FDDA3B_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F19998BC03BB42B28EF103941F5CEA0B_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/80ADC7B1350F4F61ACFE2A4CBA71B46E_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2FDD77C38BAD42E09C0DAD9AD6234E0D_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/35D9E91D188B495293853AE792C098C5_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 216082,
+                    "total_seasons": 1
                 }
             ]
         },
