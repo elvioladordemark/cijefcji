@@ -837,26 +837,8 @@
         "url": "http://200.121.48.17:8000/play/a14i/index.m3u8",
         "icono": "https://i.ibb.co/m5bbjySK/LOGO2.png"
     }
-	]
 
-    },
-    {
-    "name": "DEPORTES ESPN GLOBAL",
-    "samples":  [
-
-	    {
-        "name": "ESPN",
-        "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d243ebd7a57bea4b4b052ae13f4c05&key=5c1925879de873d43b7c25925902539b",
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
-        "headers":{
-    "Referer": "https://player.sensa.com.ar/",
-    "webtoken": "1.0",
-    "Origin": "https://player.sensa.com.ar",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-  }
-}
+	   
 ]
 
     },
