@@ -15449,6 +15449,75 @@
                     ],
                     "tmdb_id": 238084,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El agente nocturno",
+                    "genero": "Action & Adventure, Drama, Misterio",
+                    "descripcion": "Unidos por una llamada a medianoche, un agente del FBI y una experta en ciberseguridad deben desentrañar una intrincada red de conspiraciones políticas.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/m3sS9wIfntjqkKCxrAvXNCbQuGG.png",
+                    "icono": "https://image.tmdb.org/t/p/original/uYNgC4Zd9NMcpMVug9NTgeIqfTy.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7e3HWC8qQwmTBE92RijNQUZDOsi.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La llamada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/17F94AEE1AC34AE2A027A38439922CFC_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Rellamada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/08F1C9CB3B8D48199D0C74CF9F0BEABC_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La cuidadora del zoo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DC0A50EC350D4B94B9AEA2FFBA425D9C_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Confidencial",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D2DCB979D452421A8933B78AAC197A5C_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La marioneta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9B260B25C89344CAA1DAA478D05DC4EE_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Aguas profundas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/493BA0D23E2847B2BB88122055C4B683_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Un plato que se sirve frío",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E62B4B665B7E42B393A0C34DA60526B9_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Déjà vu",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F41D972C870F4E518F5349D780940D73_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Más vale malo conocido...",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/81F2BC0F2C9246C5BD6265716D3F5A20_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Padres",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B1EA4F5074CD4ACFB17766D96D5B780C_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 129552,
+                    "total_seasons": 3
                 }
             ]
         },
