@@ -13725,6 +13725,65 @@
                     ],
                     "tmdb_id": 216082,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Héroes de guardia",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "Un experimentado médico militar llega a un centro de trauma y convierte a su equipo en una unidad salvavidas de élite gracias a sus métodos bruscos pero eficaces.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/pH07RkDA1YLz160Auk1SoR0bHwz.png",
+                    "icono": "https://image.tmdb.org/t/p/original/o0gcDBhbiQOq8pKCBbGcjismLWD.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Llega el sustituto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9DF2DF8FDBEC46E0A871E6170D5473FC_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El nacimiento del protegido n.º 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/52F5B9FA5E3E4FB3A32F738F4A242340_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Hay que seguir corriendo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/50EF049070BC4B12BB276037059D726A_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Más cerca de lo que crees",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E687D13338D5421E8B0D1C50471492B9_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Código negro",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AF6CCB38913F4BA4A1CC0E7C7FF8BE7A_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Motivos para no rendirse",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/63E4A0AF4A674FC6A34403FB10AEB505_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "SOS desde Sudán del Sur",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D8461B22F5C44CA297B6C2789FAA3455_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Paciente: Baek Kang-hyuk",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B7510C7D5D414F008D8EA6F19F2136C3_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 217553,
+                    "total_seasons": 1
                 }
             ]
         },
