@@ -13784,6 +13784,45 @@
                     ],
                     "tmdb_id": 217553,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Ciudad tóxica",
+                    "genero": "Drama",
+                    "descripcion": "Cuando en Corby nacen decenas de niños con discapacidades, sus madres emprenden una lucha para que los responsables rindan cuentas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1BrRSjiiuokO4NZprPqHzehv39D.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fCHmcC6MC7hXy7OO2KRjmJxskAg.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/b704D47McpSgVTkFS8PjJX3U2YE.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3226B4C1F505467BB79388E48B11050D_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8894B45AB4E149949D2B6DAFCFE474DD_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4D8936DF90AF4817A6493859F94A9011_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FFFC925484F445B2AD1FA6EDE799D784_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 232342,
+                    "total_seasons": 1
                 }
             ]
         },
