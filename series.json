@@ -15574,6 +15574,55 @@
                     ],
                     "tmdb_id": 129552,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Érase una vez el Oeste",
+                    "genero": "Western, Drama, Action & Adventure",
+                    "descripcion": "Una madre y su hijo huyen de su pasado y forman una nueva familia mientras se enfrentan a un duro panorama de libertad y crueldad en el viejo Oeste.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/uwyTfoCl5Hbl3kCFFfiZSlfNBQw.png",
+                    "icono": "https://image.tmdb.org/t/p/original/38ekdiOvFe04uzZbpaCPO9QhFMk.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/17153CB504A34636B11E6F5E27B481AD_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EA083603446449FF9A917023EBF41809_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/248CF14358FE4062B47C4F65C153F26A_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/311846B5CECC4362AA3002BB28D154D3_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BADE876515454078B245A1CD1DB0B56F_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3F783D323EC14EAB91D596A46EDFC96A_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 215866,
+                    "total_seasons": 1
                 }
             ]
         },
