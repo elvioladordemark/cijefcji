@@ -2528,32 +2528,31 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
       },
-      {
-        "name": "AZ CORAZÓN",
-        "url": "http://magmaplayer.com/stream/m3u8/ZGR5KmL2KmR0BP4lAQLhZGtjYwD3KmR3AQZkAj/hls/66.m3u8",
-        "icono": "https://i.ibb.co/GQxmrfgs/canales-azcorazon.png",
+       {
+        "name": "CANAL DE LAS ESTRELLAS",
+        "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3&key=917309c98f072b0bd484dd6560c6d166",
+        "icono": "https://i.ibb.co/ZKNb722/Las-Estrellas-logo-2016.png",
         "headers": {
-          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-          "X-Did": "704b97090ad1fb5e",
-          "X-Version": "8/1.0.7",
-          "User-Agent": "Magma Player/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
+          "Origin": "https://web.app.flow.com.py",
+          "Referer": "https://web.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
       {
-        "name": "TELEMUNDO",
-        "url": "http://magmaplayer.com/stream/m3u8/BQx0Kmt4BS8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/888.m3u8",
-        "icono": "https://i.ibb.co/WvNvtgwz/Telemundo-logo-2018-svg.png",
+        "name": "PASIONES",
+        "url": "https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d41cf825e878f0d8e276218af7f5b7e1&key=13d1b73ab578ab8623be9347bcf8972a",
+        "icono": "https://i.ibb.co/Jd4QbVc/800px-Pasiones-Tv-logo-svg.png",
         "headers": {
-          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-          "X-Did": "704b97090ad1fb5e",
-          "X-Version": "8/1.0.7",
-          "User-Agent": "Magma Player/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
+          "Origin": "https://web.app.flow.com.py",
+          "Referer": "https://web.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       }
+      
     ]
   },
   {
