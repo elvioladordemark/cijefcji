@@ -29,23 +29,17 @@
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       },
       {
-        "name": "bdbtg",
-        "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=MDAxIFVTQTogRmlmYSBDbHViZXMgLyBJbnRlciBNaWFtaSB2cyBBbC1BaGx5IDY6MDBQTSAtIERBWk4=&t=p&f=.m3u8",
+        "name": "COPA PY",
+        "url": "https://live.enhdtv.com:8081/8210/index.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       },
       {
-        "name": "OP. 2",
-        "url": "https://opchannel01.tigosports.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/master.mpd?dvr_window_length=30",
-        "type": "WIDEVINE",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b52a7fa91fb031a3d6f2a505414b6fcd&key=a655a22f9c0a66574b5d95dee212fbf9",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "FireFox"
-        }
-      }
+        "name": "EVENTOS VARIOS",
+        "url": "https://live.enhdtv.com:8081/821/index.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+      },
     ]
   },
   {
