@@ -13823,6 +13823,75 @@
                     ],
                     "tmdb_id": 232342,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Pecados inconfesables",
+                    "genero": "Drama",
+                    "descripcion": "Una mujer atrapada en un matrimonio controlador encuentra consuelo y venganza en un joven amante, hasta que todo se convierte en una lucha desesperada por sobrevivir.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7FHnGpG2LCLe4yItXmU12qd7MFG.png",
+                    "icono": "https://image.tmdb.org/t/p/original/lCNNV8vVVqW2XRy1bIouhwUoLai.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/sU03jP3DpUG86IJDmbSyR5gTLel.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La trampa",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BE5427ED150241838E2F43E670545CC1_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Reencuentro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FCF85BCF48484503BE00D13AF2797A1F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Desesperada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DEFBC32E5A02474782AED885414539B1_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Bajo sospecha",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CB360CE1723C4E1C8245306AB670B578_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Las dudas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/52B9D67F92A84022835B75985C4CF387_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Falsa muerte",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A01BB7530C9C4E62842CC9BC7C822EFC_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La caída del fiscal",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0BE240DDECBB4E5DB23AECF046A64DC9_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La llamada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2553477C7903410BAE835AC26F914CCE_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Capturados",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B201855BFDAC4344ABD6D7873967C374_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Está vivo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AFEFA2F4B240416C99114E97A8B21B8D_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 290276,
+                    "total_seasons": 1
                 }
             ]
         },
