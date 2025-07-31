@@ -29,23 +29,18 @@
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       },
       {
-        "name": "bdbtg",
-        "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=MDAxIFVTQTogRmlmYSBDbHViZXMgLyBJbnRlciBNaWFtaSB2cyBBbC1BaGx5IDY6MDBQTSAtIERBWk4=&t=p&f=.m3u8",
+        "name": "TIGO COPA PY",
+        "url": "https://live.enhdtv.com:8081/8210/index.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       },
       {
-        "name": "OP. 2",
-        "url": "https://opchannel01.tigosports.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/master.mpd?dvr_window_length=30",
-        "type": "WIDEVINE",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b52a7fa91fb031a3d6f2a505414b6fcd&key=a655a22f9c0a66574b5d95dee212fbf9",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "FireFox"
-        }
+        "name": "TIGO INTERMEDIAS",
+        "url": "https://live.enhdtv.com:8081/8212/index.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       }
+      
     ]
   },
   {
@@ -1101,7 +1096,7 @@
     "samples": [
       {
         "name": "Premier clubes",
-        "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
+        "url": "https://02.xn--u9j5h1bzc8106c.com/hls/Vk8rYzg1WGtMTDh1YlU0Myt6Z2s3UW1qemVjNUh5L09aQWREc096TzFGQmRLUlVGRE5zVTVVNGhPRzNzSEhFWGpQT3FraTM2aVNxTlFUcUREMzdmOUVkMXpUaExIZzBIcm90NDgyc1c1TlYzNWFZM3ZIaXpWUFV6QTVqYjBldmIvaGhJTWxxZXptTnNIRlYrb0l5MVBRPT0,/N3FtZmJjR1dmbjkvdVJGZHNuWUZFb1FYNVVxS2lLRWcybjNQNzRjOVhWcEpJWHFGazdmV2d1L0RVeTRIZzNjTzI0QkJKMXdyZHk4RVhxUktjQklEQk41U203SlJ6dnNPK2RRK00vYnFCVUU9/pre1/tracks-v1a1/m3u8_gx_mono.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
@@ -1157,7 +1152,7 @@
       },
       {
         "name": "SPORTV 1",
-        "url": "https://aipapai.shop/_temp/sportv.m3u8",
+        "url": "https://01.xn--u9j5h1bzc8106c.com/hls/cndoT2IvaG5QL1NHVkNPMDFlc2ZGTSsweDhLcllnVlViVWt6SGN2cC9vNUlrZERwdU1JSUZnaXQveWgvVW9pTnkrdC84L3JaM2hYS2hTRW9nSEJlY2UzRXc3c0Fmcmp5KzM1NnJYaEk1djJmVytnb1l2eVd5eXBFejJoNWR3SXFtSi84UGo4ZW41TzhHZUxjRDZLSGNRPT0,/Rko3VWRCK0RlZVJOdExCMU56WGJjcis2RkRnVUN4eW1rRXZablBxdVQ2MzFsMDVIaHl5Sml1S0Jaenhjb2ZhZzUycFZKbis4VUV2WXdSNndPcEdlQ1dLdXlCcWE1ZUhDT0lzNCtzWGpBaHM9/sportv/tracks-v1a1/m3u8_gx_mono.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
@@ -1168,7 +1163,7 @@
       },
       {
         "name": "SPORTV 2",
-        "url": "https://aipapai.shop/_temp/sportv2.m3u8",
+        "url": "https://01.xn--u9j5h1bzc8106c.com/hls/ZmgxN3Z1akRmRzQ5WEN4Z3JNNCtXdk8vUUF6TjN0SEhJazQ4WFcrWTFCbHBJbUpqZWVwU3VNKzlJbm03Nko5MnhXVUUxdVFjYXhGOHlGV3VZYy9GZmc9PQ,,/master.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
@@ -1179,7 +1174,7 @@
       },
       {
         "name": "SPORTV 3",
-        "url": "https://aipapai.shop/_temp/sportv3.m3u8",
+        "url": "https://01.xn--u9j5h1bzc8106c.com/hls/M09XZEh2alc5a0U3WWZDU0I0aEFjM2tpMW53WkxVQjF3V2hYSUx2RlZQaWx4LzNIS2dkWnVKak1MVDlCUm41cTZCOXJxSkJSN3ExL2hQTm4va1BVaHF5a1lJa091dW9OZjFiWFNmZncrOVFOSlZtOFVDTDhJNU4vN3dFNERxeDRYajBOUGZxVU1IMGpNQzVmT01RcE1RPT0,/Rko3VWRCK0RlZVJOdExCMU56WGJjcis2RkRnVUN4eW1rRXZablBxdVQ2MzFsMDVIaHl5Sml1S0Jaenhjb2ZhZzUycFZKbis4VUV2WXdSNndPcEdlQ1dLdXlCcWE1ZUhDT0lzNCtzWGpBaHM9/sportv3/tracks-v1a1/m3u8_gx_mono.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
