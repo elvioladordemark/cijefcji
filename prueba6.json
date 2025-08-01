@@ -809,6 +809,78 @@
         "url": "http://200.121.48.17:8000/play/a14i/index.m3u8",
         "icono": "https://i.ibb.co/m5bbjySK/LOGO2.png"
       }
+]
+  },
+  {
+    "name": "🇧🇷CANALES DE BRASIL",
+    "samples": [
+      {
+        "name": "SBT",
+        "url": "https://aipapai.shop/_temp/sbt.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/sbt-1.webp",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "GLOBO SP",
+        "url": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-4467789534.googleapis.com.pt/docs/boborj/__index.m3u8?sv=76&nu3zAQc9HC3GbwJq=1754006822-lRzSjAlxVZkfSfG5FoPxUK1Ut303JmJdNsSYNRox2ds%3D",
+        "type": "HLS",
+        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/globo-1-300x150-1.webp",
+        "headers": {
+          "Referer": "https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/",
+          "Origin": "https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "GLOBO NEWS",
+        "url": "https://aipapai.shop/_temp/globonews.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/globonews-1-300x150-1.webp",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CNN BRASIL",
+        "url": "https://aipapai.shop/_temp/cnnbrasil.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/cnnbr.webp",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "BAND NEWS",
+        "url": "https://aipapai.shop/_temp/bandnews.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/bandnews.webp",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "RECORD NEWS",
+        "url": "https://aipapai.shop/_temp/record.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/recordnews-1-300x150-1.webp",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      }
+      
       
     ]
   },
