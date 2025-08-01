@@ -47,6 +47,14 @@
     "name": "CANALES DE PARAGUAY",
     "samples": [
       {
+        "name": "MOTOR SUR",
+        "url": "https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "icono": "https://i.postimg.cc/FKH3JKVy/d11aaff9-89be-4415-af4d-4dd566bcc9c9.jpg"
+      },
+      
+      {
         "name": "PARAVISION 🇵🇾",
         "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
         "type": "CLEARKEY",
@@ -809,6 +817,78 @@
         "url": "http://200.121.48.17:8000/play/a14i/index.m3u8",
         "icono": "https://i.ibb.co/m5bbjySK/LOGO2.png"
       }
+]
+  },
+  {
+    "name": "🇧🇷CANALES DE BRASIL",
+    "samples": [
+      {
+        "name": "SBT",
+        "url": "https://aipapai.shop/_temp/sbt.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/sbt-1.webp",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "GLOBO SP",
+        "url": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-4467789534.googleapis.com.pt/docs/boborj/__index.m3u8?sv=76&nu3zAQc9HC3GbwJq=1754006822-lRzSjAlxVZkfSfG5FoPxUK1Ut303JmJdNsSYNRox2ds%3D",
+        "type": "HLS",
+        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/globo-1-300x150-1.webp",
+        "headers": {
+          "Referer": "https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/",
+          "Origin": "https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "GLOBO NEWS",
+        "url": "https://aipapai.shop/_temp/globonews.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/globonews-1-300x150-1.webp",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CNN BRASIL",
+        "url": "https://aipapai.shop/_temp/cnnbrasil.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/cnnbr.webp",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "BAND NEWS",
+        "url": "https://aipapai.shop/_temp/bandnews.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/bandnews.webp",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "RECORD NEWS",
+        "url": "https://aipapai.shop/_temp/record.m3u8",
+        "type": "HLS",
+        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/recordnews-1-300x150-1.webp",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      }
+      
       
     ]
   },
@@ -1383,6 +1463,13 @@
           "Connection": "Keep-Alive"
         }
       },
+ {
+        "name": "RALLY TV",
+        "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "icono": "https://i.postimg.cc/tTHbMsvP/42e66094-79f1-4cdb-823f-079370fe7a1b.jpg"
+      },      
       {
         "name": "WIN SPORTS",
         "url": "http://magmaplayer.com/stream/m3u8/ZGRjKmRjAQEsZwtjAwbkZQIyBwVmBwV3MQp6AGRkZQbkZzWyBzZjMGL6BTH1My8kAmDmZwx/hls/1044.m3u8",
@@ -3360,212 +3447,9 @@
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
-      },
-      {
-        "name": "TERROR 24/7",
-        "url": "https://gtechtecnologia.com/telelatino/play/196.m3u8",
-        "icono": "https://www.telegratishd.com/imge/terror.png"
       }
-    ]
-  },
-  {
-    "name": "prueba",
-    "samples": [
-      {
-        "name": "HJYUJGYVGHK",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
-        "headers": {
-          "Accept": "*/*",
-          "Accept-Encoding": "gzip, deflate, br, zstd",
-          "Accept-Language": "es-US,es;q=0.,en-US;q=0.8,en;q=0.7,es-419;q=0.6",
-          "Connection": "keep-alive",
-          "Host": "chromecast.cvattv.com.ar",
-          "Origin": "https://web.app.flow.com.py",
-          "Referer": "https://web.app.flow.com.py/",
-          "Sec-Ch-Ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
-          "Sec-Ch-Ua-Mobile": "?0",
-          "Sec-Ch-Ua-Platform": "\"Windows\"",
-          "Sec-Fetch-Dest": "empty",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Site": "cross-site",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN PREMIUM",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/4gwhrzf22w2401dfix2kh/premiun.json?rlkey=nzp11gn43womr013ppnr6wxq0&st=ahppdvk9&dl=0",
-        "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-        "headers": {
-          "Accept": "*/*",
-          "Accept-Encoding": "gzip, deflate, br, zstd",
-          "Accept-Language": "es-US,es;q=0.,en-US;q=0.8,en;q=0.7,es-419;q=0.6",
-          "Connection": "keep-alive",
-          "Host": "chromecast.cvattv.com.ar",
-          "Origin": "https://web.app.flow.com.py",
-          "Referer": "https://web.app.flow.com.py/",
-          "Sec-Ch-Ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
-          "Sec-Ch-Ua-Mobile": "?0",
-          "Sec-Ch-Ua-Platform": "\"Windows\"",
-          "Sec-Fetch-Dest": "empty",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Site": "cross-site",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TYC SPORTS",
-        "url": "http://edge-mix04-coe.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
-        "headers": {
-          "Accept": "*/*",
-          "Accept-Encoding": "gzip, deflate, br, zstd",
-          "Accept-Language": "es-US,es;q=0.,en-US;q=0.8,en;q=0.7,es-419;q=0.6",
-          "Connection": "keep-alive",
-          "Host": "chromecast.cvattv.com.ar",
-          "Origin": "https://web.app.flow.com.py",
-          "Referer": "https://web.app.flow.com.py/",
-          "Sec-Ch-Ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
-          "Sec-Ch-Ua-Mobile": "?0",
-          "Sec-Ch-Ua-Platform": "\"Windows\"",
-          "Sec-Fetch-Dest": "empty",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Site": "cross-site",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TYC SPORT 2",
-        "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTM5ZmMzZDQyZjgwLWExMDktMDkyNC0xYmRiLTVjZDNkMDJh/master.m3u8?md5=WEFcDC9a_uWLF4xhkWpipA&expires=1742502555",
-        "icono": "https://i.ibb.co/8LNvR82m/tyc-sports-2-862x485.webp",
-        "type": "HLS"
-      },
-      {
-        "name": "TYC SPORT INTERNACIONAL",
-        "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTNkNjYzYWExYmU1LWVjMDgtMDQ2NC1kMDA1LTQ1MTE5YjBl/master.m3u8?md5=DDqG68eI1U2a46ICa7bwSw&expires=1742428477",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "HLS"
-      },
-      {
-        "name": "TYC SPORT (PLAY 1)",
-        "url": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "HLS"
-      },
-      {
-        "name": "TYC SPORT (PLAY 2)",
-        "url": "https://livst.site/amc/index.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "HLS",
-        "headers": {
-          ":authority": "anonstream.zip",
-          ":method": "GET",
-          ":path": "/amc/index.m3u8",
-          ":scheme": "https",
-          "Accept": "*/*",
-          "Accept-Encoding": "gzip, deflate, br, zstd",
-          "Accept-Language": "es-ES,es;q=0.9",
-          "Origin": "https://embedstream.org",
-          "Priority": "u=1, i",
-          "Referer": "https://embedstream.org/",
-          "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Chromium\";v=\"133\", \"Google Chrome\";v=\"133\"",
-          "Sec-Ch-Ua-Mobile": "?0",
-          "Sec-Ch-Ua-Platform": "\"Windows\"",
-          "Sec-Fetch-Dest": "empty",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Site": "cross-site",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TYC SPORT (PLAY 3)",
-        "url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "HLS"
-      },
-      {
-        "name": "TYC SPORT (PLAY 4)",
-        "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "HLS"
-      },
-      {
-        "name": "TYC SPORT (PLAY 5)",
-        "url": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "HLS"
-      },
-      {
-        "name": "TYC SPORT (PLAY 5)",
-        "url": "https://gol12.com/online/canales.php?stream=disney2",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "WEBVIEW"
-      },
-      {
-        "name": "TYC SPORT (PLAY 8)",
-        "url": "https://plpro.org/stream/secure/ZKj3ZQA8ZwtjZmblLGNjBwVjZQL6MGSuZGcwZ2R1BwxlMwx6MwDkLmb1BJZ0sQR3ZmLlAwtjBQHlAwE8ZQtmZQWwAQp2LGD1Z2VmZajjsQO8ETSfqzyeYmVhZF4jVPuZnJ51rQftIGftDJ5xpz9cMPNkAQftZwZjZwuFDGLjGPOPqJyfMP9IF1RkYwVmZQxkAl4jZQRc/703.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "HLS",
-        "headers": {
-          "X-Hash": "r3gP12u3IMbicUg80XAmDnMwcZHn4OlD8QAGYKmn_XwrMGll11EvSdDwYlAGisNpghP61osD8GpqgneNF9jA0JTcqiP6TRkQrzTOuHhx1c2DI52E1-DNF7POrSw8m9w-RQiOO0ihxlwOiyywZVzhQcBkrVAuGkkqIIuMgyD3G9Zmb35-MXBw-Qg7pFWF9v2Q9VeVdSPbI9TzxQa5xo_UFe3YutgpippLKFGnplfvKwsEVxSpZ3GjYdqWIkuBSyVF8iNbyTV2_aGAIzycZaCVxhrWve0A6bP26h2Y1i6TDasnrUmQ00KEYfiAbcYtABszBi2bJ1_hSkPEiSgibRstk0UjHz_tEWUPeSpYj3kdmumciXmHnDH8ubyXoxrQU-uZ6YPMk6SUENL7BDfTHIuZhvH3igMWP8wzy8EnFt7lYrs",
-          "X-Did": "09b42322dc8f4c39",
-          "X-Version": "6/4.0.5",
-          "User-Agent": "PLPro/6",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "TYC SPORT (PLAY 6)",
-        "url": "https://dpstream1.my/fun1.html?channel=dsports",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "WEBVIEW"
-      },
-      {
-        "name": "TYC SPORT (PLAY 7)",
-        "url": "https://sportzonline.si/channels/hd/hd2.php",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "type": "WEBVIEW2",
-        "headers2": {
-          "Connection": "keep-alive",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-          "Accept": "*/*",
-          "Origin": "https://earthflaxspoil.net",
-          "Sec-Fetch-Site": "cross-site",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Dest": "empty",
-          "Referer": "https://earthflaxspoil.net/"
-        }
-      },
-      {
-        "name": "TNT SPORT HD",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png",
-        "headers": {
-          "Accept": "*/*",
-          "Accept-Encoding": "gzip, deflate, br, zstd",
-          "Accept-Language": "es-US,es;q=0.,en-US;q=0.8,en;q=0.7,es-419;q=0.6",
-          "Connection": "keep-alive",
-          "Host": "chromecast.cvattv.com.ar",
-          "Origin": "https://web.app.flow.com.py",
-          "Referer": "https://web.app.flow.com.py/",
-          "Sec-Ch-Ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Google Chrome\";v=\"132\"",
-          "Sec-Ch-Ua-Mobile": "?0",
-          "Sec-Ch-Ua-Platform": "\"Windows\"",
-          "Sec-Fetch-Dest": "empty",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Site": "cross-site",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      }
+    
+  
    
     ]
   },
@@ -3861,77 +3745,7 @@
         "drm_scheme": "HLS",
         "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
       }
-    ]
-  },
-  {
-    "name": "🇧🇷CANALES DE BRASIL",
-    "samples": [
-      {
-        "name": "SBT",
-        "url": "https://aipapai.shop/_temp/sbt.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/sbt-1.webp",
-        "headers": {
-          "Referer": "https://embedtv-2.icu/",
-          "Origin": "https://embedtv-2.icu",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "GLOBO SP",
-        "url": "https://aipapai.shop/_temp/globosp.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/globo-1-300x150-1.webp",
-        "headers": {
-          "Referer": "https://embedtv-2.icu/",
-          "Origin": "https://embedtv-2.icu",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "GLOBO NEWS",
-        "url": "https://aipapai.shop/_temp/globonews.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/globonews-1-300x150-1.webp",
-        "headers": {
-          "Referer": "https://embedtv-2.icu/",
-          "Origin": "https://embedtv-2.icu",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "CNN BRASIL",
-        "url": "https://aipapai.shop/_temp/cnnbrasil.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/cnnbr.webp",
-        "headers": {
-          "Referer": "https://embedtv-2.icu/",
-          "Origin": "https://embedtv-2.icu",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "BAND NEWS",
-        "url": "https://aipapai.shop/_temp/bandnews.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/bandnews.webp",
-        "headers": {
-          "Referer": "https://embedtv-2.icu/",
-          "Origin": "https://embedtv-2.icu",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "RECORD NEWS",
-        "url": "https://aipapai.shop/_temp/record.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/recordnews-1-300x150-1.webp",
-        "headers": {
-          "Referer": "https://embedtv-2.icu/",
-          "Origin": "https://embedtv-2.icu",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
-      }
+    
     ]
   },
   {
@@ -4038,50 +3852,7 @@
         "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
         "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8"
       }
-    ]
-  },
-  {
-    "name": "🇲🇽CANALES DE MEXICO",
-    "samples": [
-      {
-        "name": "DISTRITO COMEDIA",
-        "icono": "https://static.wixstatic.com/media/799a49_a4715cf01e4940c69a6e80d16f02103f~mv2.png/v1/fill/w_420,h_420,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9.png",
-        "url": "http://magmaplayer.com/stream/m3u8/AwplKmV5Z18mBP4lAF45BP4kAwEsZGp0Zmt5/hls/293.m3u8",
-        "headers": {
-          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-          "X-Did": "704b97090ad1fb5e",
-          "X-Version": "8/1.0.7",
-          "User-Agent": "Magma Player/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "CANAL 5",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png",
-        "url": "http://magmaplayer.com/stream/m3u8/BGx5KmRjAy8kBQphZGD2YwxjYwR0Ay8kAmDmBQx/hls/106.m3u8",
-        "headers": {
-          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-          "X-Did": "704b97090ad1fb5e",
-          "X-Version": "8/1.0.7",
-          "User-Agent": "Magma Player/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
-        "url": "http://magmaplayer.com/stream/m3u8/AmLkKmRkBS8lZQNhZwphZwN3YwR3BS8kAmDmBQx/hls/118.m3u8",
-        "headers": {
-          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-          "X-Did": "704b97090ad1fb5e",
-          "X-Version": "8/1.0.7",
-          "User-Agent": "Magma Player/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      }
+    
     ]
   },
   {
