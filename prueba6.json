@@ -1548,6 +1548,12 @@
         }
       },
       {
+        "name": "RALLY TV",
+        "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+      },
+      {
         "name": "SKY SPORTS LA LIGA",
         "url": "http://magmaplayer.com/stream/m3u8/ZwH0KmRjAmysZGxjYwR4Av44AP4kAmEsZGp0ZmR5/hls/1079.m3u8",
         "icono": "https://i.ibb.co/QjdqmjHs/Sky-Sports-La-Liga-II.png",
