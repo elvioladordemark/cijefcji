@@ -162,6 +162,12 @@
         "icono": "https://yt3.googleusercontent.com/o1juQh7EOWuWghEcnuIJsMD5zUI0q6-Wx9vSJGpLmkiUEGY6KVQWch6ygzUqx8a18nTkf2aV=s900-c-k-c0x00ffffff-no-rj"
       },
       {
+        "name": "MOTORSUR",
+        "url": "https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+      },
+      {
         "name": "UNICANAL",
         "url": "https://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_C/UNICANAL_C4.mpd",
         "type": "CLEARKEY",
