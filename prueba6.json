@@ -106,30 +106,7 @@
         "type": "HLS",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       }
-]
-  },
-  {
-    "name": "SUPER CLASICO OLIMPIA VS CERRO PORTEÑO",
-    "samples": [
-    {
-        "name": "OLIMPIA VS CERRO PORTEÑO",
-        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.postimg.cc/wvLWLgg5/5d7225e8-13d3-4fe6-b75f-5eb16170ff4f.jpg"
-      },
-         {
-        "name": "OLIMPIA VS CERRO PORTEÑO",
-        "url": "https://live.enhdtv.com:8081/8210/index.m3u8",
-        "type": "HLS",
-        "icono": ""
-      },
-      {
-        "name": "TIGO INTERMEDIAS",
-        "url": "https://live.enhdtv.com:8081/8212/index.m3u8",
-        "type": "HLS",
-        "icono": "https://i.postimg.cc/wvLWLgg5/5d7225e8-13d3-4fe6-b75f-5eb16170ff4f.jpg"
-      }
+
       
       ]
   },
