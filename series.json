@@ -7163,6 +7163,75 @@
                     ],
                     "tmdb_id": 133727,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "Dos hombres y medio",
+                    "genero": "Comedia",
+                    "descripcion": "Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.",
+                    "anio": "2003",
+                    "iconPng": "https://image.tmdb.org/t/p/original/uh1l6fvRjdLYaHU6gN0CmSYVC4B.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sBR2LYNbgtnA76fbIO2AuX8duXD.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/coHpOy9OJyFiHWeH36cSHMpLUHC.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A3BFEA8C3DB54E538275EDB36A32A9B5_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Ratas Voladoras",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B426963820124AD884D12A3741835E8F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Gire a la izquierda en Sunset y siga hasta ver las puertas del infierno",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4684E989C3DB49398C2ED4DD2AF0854C_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Si no puedo componer mi canción del chocolate, me voy a echar una siesta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/997BDFE71A0744F8B833110E6A9A1084_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "¡No querrás acabar con chepa!",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/67DAFAEFEEA44F858430FFD80DFC81A6_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Se habrá ido de viaje en su escoba",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A9B2E1147B7441AAA90E96EC7AD85DDA_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Sí Están Tiesas Son Falsas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FCD6024BC9E14C418C6E123EB3E5FB43_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Veinticinco renacuajos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5CD9A57D9519461C8F3E8FB58FBF8C2A_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Fase Una, Completada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8C95365BD8EF420B8EE3B1C62FCE57AC_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Feliz Día de Acción de Gracias",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F8D1CB0C71D5441FA29BD44968888CAA_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 2691,
+                    "total_seasons": 12
                 }
             ]
         },
