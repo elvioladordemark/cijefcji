@@ -4305,6 +4305,65 @@
                     ],
                     "tmdb_id": 207332,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La fiesta de las salchichas: Frutopía",
+                    "genero": "Animación, Comedia, Action & Adventure, Sci-Fi & Fantasy",
+                    "descripcion": "Tras acabar con la humanidad, la comida intenta crear su propia utopía.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/m1Df8qOqpHkgXUTh1t3UmEpaOF0.png",
+                    "icono": "https://image.tmdb.org/t/p/original/dLndpV6k1AcDRmFlLCxuWtt3wja.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rZEAjnN7sH7gmCKvFirwL18Zdhc.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Primer plato",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0BCC487F19D8453782D51AA79A835B83_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Segundo plato",
+                                    "url": "http://goovdme.967sd1f.homes/vod/082CDD6845E0400BBBA235330CF96BBF_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Tercer plato",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EBD8DEA55DCE4943A8D3879BAECFD663_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Cuarto plato",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EA2856807C4D4B539B0436B009FF7F95_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Quinto plato",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E5D0F2C18A934A48AAF750393B28F8F7_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Sexto plato",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C509E1EA950546FF990118CC515EB3DB_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Séptimo plato",
+                                    "url": "http://goovdme.967sd1f.homes/vod/767DAD9FA1E649A8BDD1FCA9F1418BE6_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Octavo plato",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E3F437FCDD024AD482239A8154DF3A31_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 213249,
+                    "total_seasons": 2
                 }
             ]
         },
