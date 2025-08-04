@@ -2,17 +2,13 @@
   {
     "name": "⚽TIGO SPORTS SOLO EVENTOS",
     "samples": [
-    {
-                "name": "EVENTOS1 TIGO FULL HD",
-                "url": "https://abe6mek8.s3.eu-west-1.amazonaws.com/hls/stream6/index.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-                "headers": {
-                    "Referer": "https://elverruca.tech/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-                    "Origin": "https://elverruca.tech"
-                }
-            },
+   {
+        "name": "EVENTOS1 TIGO FULL HD",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+      },
       {
         "name": "EVENTOS 2 TIGO FULL HD",
         "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
