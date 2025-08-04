@@ -983,6 +983,35 @@
                     ],
                     "tmdb_id": 133727,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "El gran guerrero",
+                    "genero": "Drama",
+                    "descripcion": "Con los cuatro reinos de Hawái divididos por la guerra, el gran guerrero Ka’iana emprende la monumental misión de unir a su pueblo, a la vez que se acerca una amenaza existencial.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/89w3iTGvXOcUaxQVmUltXZSdop9.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qEcYaWKUUJITpp3hwTIGtgfHeEZ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tJOo7J1JJrv4GeNOsZB0yISdr9L.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El gran guerrero",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F06BBC942B15409ABEA25375141AD89B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Marea cambiante",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FC11123ED968492B92DAF354D16FCC6D_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 196890,
+                    "total_seasons": 1
                 }
             ]
         },
