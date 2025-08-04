@@ -1557,6 +1557,38 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
       }
+       ]
+  },
+  {
+    "name": "⚽ DEPORTES URUGUAY",
+    "samples": [
+      {
+        "name": "VTV UY",
+        "url": "http://magmaplayer.com/stream/secure/AGt2KmZlAS8lBQNmBwWuZQN6ZwNjAwcyZJRkBzWuLzL6ZzV0BGb1LwLjBzL0BTSsZGp1AQNkAwZmBI8lZQZjMTWvMGAxMQV1L2DkKmN.m3u8",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "6llefvWZQCHVxrNCX9OZp66HTa29kMnqZ3EgMd6ErrXoQoW3nxYIALtDbBfVkce-Dw5NMOQrX9C0sf-LpKgBzLoEcCTm7afd0OnKU7hoLSRjFuuulzv7HC5Rb_K2jLdttkVY5YXLUn1gZWkrqE-7GGvmwsWWnbEi_Z5U-C-uMkpcnhl-yXnNmzETLNmweCsGNdgVsjRFw3enWQiipulm9ivb8eH0EYB9y5ZnR11fYqXDkrk3d_UfNy4P7-PIMdQgOFHoQeHr6Cz2DtX9eLH40DmH2n9g3K56cZHyn-CdD-neuE-HxrFfOA3T35swyDTss-c0FhvuEBGQxHMvQUosSdrBmMG7_V5nE6JfyDJ9-Pqj14JE1hjKmcDyVFHUs-6MRLtwk-e6uzmQejic0pCO6FhhZpoUoPZf6x865oqdKcRW46qqkLCVTAJnq3Bj9C9gfVgf62dpTccaZ6D-Boew0nc-EoXUp8lL3L653J6m_uHciuvv14rOK748Ce5wVfDd-p81-A35qi_edApQpxzxRCETbx88JDipx9kCRAdEgXa6B5WO2FLEVpDZr6NPBlpD5yvgVfhg8l8Q_3gsgxPH8jTfFukY9Ox1UmM6wwBZ_xpynEz_I3fW4CoHVjc6aeyn",
+          "X-Did": "2030dbbe3dd25cd1",
+          "User-Agent": "Magma Player/10",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      {
+        "name": "VTV PLUD UY",
+        "url":"https://magmaplayer.com/stream/secure/ZGRkKmRjZwusZGxjYwR3AF41BP4lAQOsZGp1AQV1BGZ5ZS82MwD4AwRmBTMvAzVjZTH3KmN.m3u8",
+        "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "1RvFSZuD545DcoQpiFIwkQlVMM3iOYduCkviiuN1kyt1fgvHbe2K_FpOteuYVddkQcODLajSU8wCMd0talYv3w6-9AAeU5zG65TCqGDJzIzKT-Shn3EJyTzdqq7UWYK4mwqxUP3ADeaEzvsVhwKYo86nzj-v3eBj4s--7jlO-bObVeyAJZ09qvrT7bKAzMgIhQXaaMiLlrHmvZ9i1CgL8wif9WnPWYf0M0gfm1MgFG5uE7K9xv2SR73Poj3AZzSN7y_BYO3JX7YnFsbCCKFKQS631V49dOd_EClUgl35ZtU3ty98iiVsWhVMpDzfdQmUtQPQabh7uxrvr1dXbE7eqITDCAWqzTClVatOfPPrKwie-L0lq0S-k_M-CEkty-8g7ALgqHTmkwvvUHZ-dHAPlDt0o4YF5sY8IThJz4wt4gEDciLVmgG__kuF3w_89Q5KlUGFgxY1c7_0_-zbDgqNbrMaXsbCP1UV6ZcgH1yxwewM4z477euEIGu_l2OisuuRIK8tCUOwINYOrFP4ft1R1qiWKivvMd5KoqIqtJJlwoKharjctDBKKuGRgE08fOZ1rfGRRnOQA7-LpxWmDoSdm6gKa9RpHLi-R-Mqge10S4jjVwohW2kRm1FbtvD-WRcS",
+          "X-Did": "2030dbbe3dd25cd1",
+          "User-Agent": "Magma Player/10",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
       
     ]
   },
