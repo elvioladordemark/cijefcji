@@ -1377,8 +1377,8 @@
     "samples": [
       {
         "name": "VTV",
-        "url": "http://magmaplayer.com/stream/secure/AGt2KmZlAS8lBQNmBwWuZQN6ZwNjAwcyZJRkBzWuLzL6ZzV0BGb1LwLjBzL0BTSsZGp1AQNkAwZmBI8lZQZjMTWvMGAxMQV1L2DkKmN.m3u8",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "url": "http://magmaplayer.com/stream/secure/AGt5KmZkAI8lBQNmBwWuZQN6ZwNjAwcyZJRkBzWuLzL6ZzV0BGb1LwLjBzL0BTSsZGp1AQNkBQR1ZS8lZQZjMTWvMGAxMQV1L2DkKmN.m3u8",
+        "icono": "https://i.postimg.cc/rwj8FSvc/download-12.jpg",
         "headers": {
           "X-App": "ps",
           "X-Version": "10/1.0.9",
@@ -1392,7 +1392,7 @@
       {
         "name": "VTV PLUS",
         "url":"http://magmaplayer.com/stream/secure/AGt5KmZkAI8lBQNmBwWuZQN6ZwNjAwcyZJRkBzWuLzL6ZzV0BGb1LwLjBzL0BTSsZGp1AQNkBQR1ZS8lZQZjMTWvMGAxMQV1L2DkKmN.m3u8",
-        "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
+        "icono": "https://i.postimg.cc/HsGWSWwG/download-13.jpg",
         "headers": {
           "X-App": "ps",
           "X-Version": "10/1.0.9",
@@ -1404,9 +1404,9 @@
         }
       },
       {
-        "name": "DIRECTV SPORTS PLUS",
-        "url": "http://magmaplayer.com/stream/m3u8/Awx5KmZkAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/314.m3u8",
-        "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
+        "name": "VTV PLUS",
+        "url": "http://magmaplayer.com/stream/secure/AGt5KmZkAI8lBQNmBwWuZQN6ZwNjAwcyZJRkBzWuLzL6ZzV0BGb1LwLjBzL0BTSsZGp1AQNkBQR1ZS8lZQZjMTWvMGAxMQV1L2DkKmN.m3u8",
+        "icono": "https://i.postimg.cc/HsGWSWwG/download-13.jpg",
         "headers": {
           "X-App": "ps",
           "X-Version": "10/1.0.9",
