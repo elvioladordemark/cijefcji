@@ -908,7 +908,7 @@
     "samples": [
       {
         "name": "SBT",
-        "url": "https://04-mcteteu.shop/secret_key/f8c883837db42c94e58fadec42968736.m3u8",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/78.m3u8",
         "type": "HLS",
         "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/sbt-1.webp",
         "headers": {
@@ -919,7 +919,7 @@
       },
       {
         "name": "GLOBO SP",
-        "url": "https://04-mcteteu.shop/secret_key/68777c095394dfb453963ecfc228b3b9.m3u8",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8",
         "type": "HLS",
         "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/globo-1-300x150-1.webp",
         "headers": {
@@ -928,44 +928,12 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
       },
+   
       {
-        "name": "GLOBO NEWS",
-        "url": "https://aipapai.shop/_temp/globonews.m3u8",
+        "name": "BAND",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/80.m3u8",
         "type": "HLS",
-        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/globonews-1-300x150-1.webp",
-        "headers": {
-          "Referer": "https://embedtv-2.icu/",
-          "Origin": "https://embedtv-2.icu",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "CNN BRASIL",
-        "url": "https://aipapai.shop/_temp/cnnbrasil.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/cnnbr.webp",
-        "headers": {
-          "Referer": "https://embedtv-2.icu/",
-          "Origin": "https://embedtv-2.icu",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "BAND NEWS",
-        "url": "https://aipapai.shop/_temp/bandnews.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/bandnews.webp",
-        "headers": {
-          "Referer": "https://embedtv-2.icu/",
-          "Origin": "https://embedtv-2.icu",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "RECORD",
-        "url": "https://04-mcteteu.shop/secret_key/1d079b57f71a891693a381dac449c75f.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv-0.icu/wp-content/uploads/2024/10/recordnews-1-300x150-1.webp",
+        "icono": "https://i.postimg.cc/RhSPb0H4/download-6.png",
         "headers": {
           "Referer": "https://embedtv-2.icu/",
           "Origin": "https://embedtv-2.icu",
