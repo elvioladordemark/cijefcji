@@ -2853,6 +2853,19 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
+{
+        "name": "FOOD NETWORK",
+        "url": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ca0fbad21a0e908c0280dcc27e6ee0e&key=62670eedbafdf9360b4ecaed738e26cd",
+        "icono": "https://github.com/masterentertainment/listas/blob/main/logos/FDNET.png?raw=true",
+        "headers": {
+          "Origin": "https://web.app.flow.com.py",
+          "Referer": "https://web.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      
       {
         "name": "HISTORY",
         "url": "https://cdn-py.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dashttps://cdn-py.cvattv.com.arh_enc_C/HistoryHD.mpd",
