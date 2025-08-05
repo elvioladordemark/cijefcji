@@ -940,6 +940,91 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
       }
+      ]
+  },
+  {
+    "name": "EVENTOS DISNEY",
+    "samples": [
+      {
+        "name": "EVENTOS 1",
+        "url": "https://belami.top/Contenidos/futbolfree/play4.php?c=disney1",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/MHKnxQ9d/0bf8d683-a691-4d6f-a85c-ddfc27d68021.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+       {
+        "name": "EVENTOS 2",
+        "url": "https://belami.top/Contenidos/futbolfree/play4.php?c=disney2",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/MHKnxQ9d/0bf8d683-a691-4d6f-a85c-ddfc27d68021.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+       {
+        "name": "EVENTOS 3",
+        "url": "https://belami.top/Contenidos/futbolfree/play4.php?c=disney3",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/MHKnxQ9d/0bf8d683-a691-4d6f-a85c-ddfc27d68021.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+       {
+        "name": "EVENTOS 4",
+        "url": "https://belami.top/Contenidos/futbolfree/play4.php?c=disney4",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/MHKnxQ9d/0bf8d683-a691-4d6f-a85c-ddfc27d68021.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+ {
+        "name": "EVENTOS 5",
+        "url": "https://belami.top/Contenidos/futbolfree/play4.php?c=disney5",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/MHKnxQ9d/0bf8d683-a691-4d6f-a85c-ddfc27d68021.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+ {
+        "name": "EVENTOS 1",
+        "url": "https://belami.top/Contenidos/futbolfree/play4.php?c=disney6",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/MHKnxQ9d/0bf8d683-a691-4d6f-a85c-ddfc27d68021.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+ {
+        "name": "EVENTOS 7",
+        "url": "https://belami.top/Contenidos/futbolfree/play4.php?c=disney7",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/MHKnxQ9d/0bf8d683-a691-4d6f-a85c-ddfc27d68021.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+
       
       
     ]
