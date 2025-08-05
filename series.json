@@ -17479,6 +17479,50 @@
                     ],
                     "tmdb_id": 110316,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "El Instituto",
+                    "genero": "Misterio, Sci-Fi & Fantasy",
+                    "descripcion": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/me5WYDi5vTGSMR6K5WnFRNBMjwn.png",
+                    "icono": "https://image.tmdb.org/t/p/original/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8O4O9ZdkAvaahhvMLrjDci1feD6.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El chico",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FF57E18F0C3E4B418BC41DA7E3BB772B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Pinchazos por puntos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F48D0A1CF6504888AA09C1AAE8824F39_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Graduación",
+                                    "url": "http://goovdme.967sd1f.homes/vod/59713C854F604360B75CC7C668685CA7_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La caja",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F27D87E684B346979160D1F2FD788205_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La mitad trasera",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E90EA22C3D774157842EFEF40FEE7167_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 253372,
+                    "total_seasons": 1
                 }
             ]
         }
