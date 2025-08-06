@@ -200,8 +200,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
         "headers": {
-          "Origin": "https://web.app.flow.com.ar",
-          "Referer": "https://web.app.flow.com.ar/",
+          "Origin": "https://web.app.flow.com.py",
+          "Referer": "https://web.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
@@ -624,6 +624,12 @@
     "name": "CANALES DE ARGENTINA",
     "samples": [
       {
+        "name": "CIUDAD MAGAZINE",
+        "url": "https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8",
+        "icono": "https://i.postimg.cc/rFF8JMBS/download-16.jpg"
+      },
+      
+      {
         "name": "AMERICA TV ",
         "url": "https://cdn-py.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
         "type": "CLEARKEY",
@@ -690,8 +696,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
         "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
         "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar/",
+          "Origin": "https://web.app.flow.com.py",
+          "Referer": "https://web.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
@@ -714,8 +720,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0",
         "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
         "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar/guia-de-tv",
+          "Origin": "https://web.app.flow.com.py",
+          "Referer": "https://web.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
