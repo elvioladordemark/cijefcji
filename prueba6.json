@@ -2582,6 +2582,145 @@
                 "type": "HLS",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv_0rMgZ6OxQ2zGi_bJPpXaqLw7IdwJ25IA&s"
             }
+
+]
+  },
+  {
+    "name": "🇪🇨CANALES DE ECUADOR",
+    "samples": [
+      {
+        "name": "ECUADOR TV",
+        "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
+        "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "ECUAVISA",
+        "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
+        "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1"
+      },
+      {
+        "name": "TELEAMAZONAS",
+        "url": "http://magmaplayer.com/stream/m3u8/ZwZ3Kmt2A18kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/867.m3u8",
+        "icono": "https://i.ibb.co/BVGGqzx4/R.png",
+        "headers": {
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      {
+        "name": "TELEVICENTRO",
+        "url": "http://magmaplayer.com/stream/m3u8/AGp0Kmx2Ay8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/966.m3u8",
+        "icono": "https://i.ibb.co/hxbDT16f/Televicentro-HN-logo-2020.png",
+        "headers": {
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      {
+        "name": "CANAL UNO",
+        "icono": "https://i.ibb.co/Z1M5q5gQ/sEW6C5G.png",
+        "url": "https://cp.panelchs.com:1936/8034/8034/playlist.m3u8"
+      },
+      {
+        "name": "EL CANAL DEL FÚTBOL",
+        "url": "http://magmaplayer.com/stream/m3u8/ZmN4KmxmBS8kAwthZwDmYwR4AP4kAmMsZGp0ZmNm/hls/938.m3u8",
+        "icono": "https://i.ibb.co/7pvyJMk/ecdf.webp",
+        "headers": {
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      {
+        "name": "GOL TV",
+        "icono": "https://i.ibb.co/WBs0G8p/Goltv.png",
+        "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/2370.ts",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
+      }
+    ]
+  },
+  {
+    "name": "🇧🇴CANALES DE BOLIVIA",
+    "samples": [
+      {
+        "name": "BOLIVIA TV",
+        "icono": "https://i.ibb.co/S7cFTqXC/unnamed-1.png",
+        "url": "https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8"
+      },
+      {
+        "name": "BOLIVIA TV 2",
+        "icono": "https://i.ibb.co/S7cFTqXC/unnamed-1.png",
+        "url": "https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8"
+      },
+      {
+        "name": "BOLIVISIÓN",
+        "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
+        "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8"
+      },
+      {
+        "name": "ATB",
+        "icono": "https://i.postimg.cc/90mrPFYc/ATB-B.jpg",
+        "url": "http://186.121.206.197/live/daniel/index.m3u8"
+      },
+      {
+        "name": "CADENA A",
+        "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
+        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8"
+      },
+      {
+        "name": "MEGA TV",
+        "icono": "https://i.ibb.co/TxqSrMpc/3d4uiZF.png",
+        "url": "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8"
+      },
+      {
+        "name": "RED ADVENIR",
+        "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
+        "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "🇲🇽CANALES DE MEXICO",
+    "samples": [
+      {
+        "name": "DISTRITO COMEDIA",
+        "icono": "https://static.wixstatic.com/media/799a49_a4715cf01e4940c69a6e80d16f02103f~mv2.png/v1/fill/w_420,h_420,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9.png",
+        "url": "http://magmaplayer.com/stream/m3u8/AwplKmV5Z18mBP4lAF45BP4kAwEsZGp0Zmt5/hls/293.m3u8",
+        "headers": {
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      {
+        "name": "CANAL 5",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png",
+        "url": "http://magmaplayer.com/stream/m3u8/BGx5KmRjAy8kBQphZGD2YwxjYwR0Ay8kAmDmBQx/hls/106.m3u8",
+        "headers": {
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      
       
 
       ]
@@ -9546,156 +9685,8 @@
             }
         
         
-    ]
-  },
-  {
-    "name": "🇪🇨CANALES DE ECUADOR",
-    "samples": [
-      {
-        "name": "ECUADOR TV",
-        "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
-        "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "ECUAVISA",
-        "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
-        "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1"
-      },
-      {
-        "name": "TELEAMAZONAS",
-        "url": "http://magmaplayer.com/stream/m3u8/ZwZ3Kmt2A18kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/867.m3u8",
-        "icono": "https://i.ibb.co/BVGGqzx4/R.png",
-        "headers": {
-          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-          "X-Did": "704b97090ad1fb5e",
-          "X-Version": "8/1.0.7",
-          "User-Agent": "Magma Player/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "TELEVICENTRO",
-        "url": "http://magmaplayer.com/stream/m3u8/AGp0Kmx2Ay8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/966.m3u8",
-        "icono": "https://i.ibb.co/hxbDT16f/Televicentro-HN-logo-2020.png",
-        "headers": {
-          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-          "X-Did": "704b97090ad1fb5e",
-          "X-Version": "8/1.0.7",
-          "User-Agent": "Magma Player/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "CANAL UNO",
-        "icono": "https://i.ibb.co/Z1M5q5gQ/sEW6C5G.png",
-        "url": "https://cp.panelchs.com:1936/8034/8034/playlist.m3u8"
-      },
-      {
-        "name": "EL CANAL DEL FÚTBOL",
-        "url": "http://magmaplayer.com/stream/m3u8/ZmN4KmxmBS8kAwthZwDmYwR4AP4kAmMsZGp0ZmNm/hls/938.m3u8",
-        "icono": "https://i.ibb.co/7pvyJMk/ecdf.webp",
-        "headers": {
-          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-          "X-Did": "704b97090ad1fb5e",
-          "X-Version": "8/1.0.7",
-          "User-Agent": "Magma Player/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "GOL TV",
-        "icono": "https://i.ibb.co/WBs0G8p/Goltv.png",
-        "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/2370.ts",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
-      }
-    ]
-  },
-  {
-    "name": "🇧🇴CANALES DE BOLIVIA",
-    "samples": [
-      {
-        "name": "BOLIVIA TV",
-        "icono": "https://i.ibb.co/S7cFTqXC/unnamed-1.png",
-        "url": "https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8"
-      },
-      {
-        "name": "BOLIVIA TV 2",
-        "icono": "https://i.ibb.co/S7cFTqXC/unnamed-1.png",
-        "url": "https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8"
-      },
-      {
-        "name": "BOLIVISIÓN",
-        "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
-        "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8"
-      },
-      {
-        "name": "ATB",
-        "icono": "https://i.postimg.cc/90mrPFYc/ATB-B.jpg",
-        "url": "http://186.121.206.197/live/daniel/index.m3u8"
-      },
-      {
-        "name": "CADENA A",
-        "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
-        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8"
-      },
-      {
-        "name": "MEGA TV",
-        "icono": "https://i.ibb.co/TxqSrMpc/3d4uiZF.png",
-        "url": "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8"
-      },
-      {
-        "name": "RED ADVENIR",
-        "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
-        "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "🇲🇽CANALES DE MEXICO",
-    "samples": [
-      {
-        "name": "DISTRITO COMEDIA",
-        "icono": "https://static.wixstatic.com/media/799a49_a4715cf01e4940c69a6e80d16f02103f~mv2.png/v1/fill/w_420,h_420,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9.png",
-        "url": "http://magmaplayer.com/stream/m3u8/AwplKmV5Z18mBP4lAF45BP4kAwEsZGp0Zmt5/hls/293.m3u8",
-        "headers": {
-          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-          "X-Did": "704b97090ad1fb5e",
-          "X-Version": "8/1.0.7",
-          "User-Agent": "Magma Player/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "CANAL 5",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png",
-        "url": "http://magmaplayer.com/stream/m3u8/BGx5KmRjAy8kBQphZGD2YwxjYwR0Ay8kAmDmBQx/hls/106.m3u8",
-        "headers": {
-          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-          "X-Did": "704b97090ad1fb5e",
-          "X-Version": "8/1.0.7",
-          "User-Agent": "Magma Player/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
-        "url": "http://magmaplayer.com/stream/m3u8/AmLkKmRkBS8lZQNhZwphZwN3YwR3BS8kAmDmBQx/hls/118.m3u8",
-        "headers": {
-          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-          "X-Did": "704b97090ad1fb5e",
-          "X-Version": "8/1.0.7",
-          "User-Agent": "Magma Player/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      }
+    
+     
     ]
   },
   {
