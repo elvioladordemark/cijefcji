@@ -55,74 +55,12 @@
       }
       ]
   },
-  {
-    "name": "PARAGUAY GLOBAL",
-    "samples": [
-      {
-        "name": "SNT",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
-      },
-      {
-        "name": "TELEFUTURO",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
-      },
-      
-         {
-        "name": "RPC",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/117.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg"
-      },
-         {
-        "name": "GEN TV",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1415.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "icono": "https://latinartv.com/sites/default/files/logos/gentv.jpg"
-      },
-
-         {
-        "name": "5 DIAS PY",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "icono": "https://i.ibb.co/Pg6v5zn/images.png"
-      },
-
-         {
-        "name": "SUR TV",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "icono": "https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg"
-      },
-
-         {
-        "name": "ABC",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "icono": "https://i.ibb.co/dGqjksf/descarga.png"
-      },
-         {
-        "name": "C9N",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
-      }
+ 
       
       ]
     },
     {
-        "name": "PARAGUAY 🇵🇾 BLOQUEOS",
+        "name": "PARAGUAY 🇵🇾 1",
         "samples": [
             {
                 "name": "PARAVISION 🇵🇾",
