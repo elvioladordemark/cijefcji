@@ -3488,6 +3488,31 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ba384f9d983c731ab1e3702c16e2faf&key=f28adca4375e8a041fd22aef26440009",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
+      },
+
+ {
+        "name": "SPORTV 1 ADAPTATIVO",
+        "url": "https://metalgear.bemtv.cn/STREAM/8316/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2245f48a5998442f835099d30f2e0305&key=f48f6ce816fe86d8c10587e9a7e927a3",
+        "icono": "https://i.postimg.cc/L4PGjPJG/download-18.jpg"
+      },
+
+       {
+        "name": "SPORTV 2 ADAPTATIVO",
+        "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ba384f9d983c731ab1e3702c16e2faf&key=f28adca4375e8a041fd22aef26440009",
+        "icono": "https://i.postimg.cc/L4PGjPJG/download-18.jpg"
+      },
+
+      
+       {
+        "name": "SPORTV 3 ADAPTATIVO",
+        "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ba384f9d983c731ab1e3702c16e2faf&key=f28adca4375e8a041fd22aef26440009",
+        "icono": "https://i.postimg.cc/L4PGjPJG/download-18.jpg"
       }
       
       
