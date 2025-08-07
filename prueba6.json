@@ -3152,17 +3152,15 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
-      {
-        "name": "PREMIER CLUBES OPC 2",
-        "url": "https://embmaxtv.online/premiereclubes/index.m3u8",
-        "type": "HLS",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "headers": {
-          "Referer": "https://embedcanaistv.com/",
-          "Origin": "https://embedcanaistv.com",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
+
+        {
+        "name": "Premier clubes 2",
+        "url": "https://02.xn--u9j5h1bzc8106c.com/hls/Vk8rYzg1WGtMTDh1YlU0Myt6Z2s3UW1qemVjNUh5L09aQWREc096TzFGQmRLUlVGRE5zVTVVNGhPRzNzSEhFWGpQT3FraTM2aVNxTlFUcUREMzdmOUVkMXpUaExIZzBIcm90NDgyc1c1TlYzNWFZM3ZIaXpWUFV6QTVqYjBldmIvaGhJTWxxZXptTnNIRlYrb0l5MVBRPT0,/N3FtZmJjR1dmbjkvdVJGZHNuWUZFb1FYNVVxS2lLRWcybjNQNzRjOVhWcEpJWHFGazdmV2d1L0RVeTRIZzNjTzI0QkJKMXdyZHk4RVhxUktjQklEQk41U203SlJ6dnNPK2RRK00vYnFCVUU9/pre1/tracks-v1a1/m3u8_gx_mono.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
+        "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
+    
       
       {
         "name": "Premier 2",
