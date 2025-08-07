@@ -17085,6 +17085,60 @@
                     ],
                     "tmdb_id": 120040,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Fútbol americano: un sábado cualquiera en la Conferencia del sureste",
+                    "genero": "Documental",
+                    "descripcion": "Decir que sus trabajos son exigentes es quedarse corto. En la SEC, entrenar a un equipo histórico es como una olla a presión y perder no es una opción.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/uYsprKI7WICU6vQueyiy42VH5yT.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5ksKByoHmrqqNQaWf1uaxgfZLyA.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jXLuyha3b3iJi8dzlbMIRmRKDks.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Saque inicial",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9DEE8BDC36E049A78C589D945D6D1B88_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Quarterback",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AE42A94F0B9A4FEE9C38298396A9A9B6_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Sorprender al mundo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/79BBC196067949DE83A73DB07754AF3A_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Punto de inflexión",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4A0AB23FC8BC41068F0581D06FD418C8_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La familia del fútbol",
+                                    "url": "http://goovdme.967sd1f.homes/vod/600522AF9A2C4AD5823A10C91E27F289_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Por el honor",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2A591967D1BD4CC8A27E697A2363AE31_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Solo hay que ganar",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CCC7309E6E7E4E3AA92FBD56E0F8A64F_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 296069,
+                    "total_seasons": 1
                 }
             ]
         },
