@@ -14792,6 +14792,55 @@
                     ],
                     "tmdb_id": 290276,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Marcada",
+                    "genero": "Drama",
+                    "descripcion": "Desesperada por pagar la cirugía que le salvó la vida a su hija, la devota ex policía Babalwa recurre a un salvador impío para que la ayude a organizar un atrevido atraco.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/eTmnUGaF6kS0s3nsucCIn0PzXrO.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fNJarIm84EcMPISFtRXuT56rqVI.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/maxJ6oaC3tgO0lUiudLCLN4FPS8.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/171DD99AA8CB45D8B0BDDC504AF566F0_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/95744DABAE3A48858C7E8CD9F44E0910_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F464BF003548464280AEE2E34F3CBE57_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BCD59446664F4D108768238AC96D3D33_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/ADF53ADEE92D4FA48D28D09FA2F3871F_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BED34B9337F749B083504EE43B09560E_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 293808,
+                    "total_seasons": 1
                 }
             ]
         },
