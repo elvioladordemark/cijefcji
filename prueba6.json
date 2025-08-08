@@ -274,15 +274,13 @@
 
           {
                 "name": "ESPN 2",
-                "url": "//live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd",
+                "url": "https://edge-live15-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0ODQzNjQ2Iiwic2lwIjoiMTc5LjM4LjE4NS41NyIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjcxYTkyYTRhOTUyNGFhNmUiLCJzZXNzaW9uX2lkIjoiODE4Mjc2OTgtMTc1NDY3MDg0Ni0yNzkiLCJjbGllbnRfaWQiOiIxMzIyMzgyMiIsImRldmljZV9pZCI6IjgxODI3Njk4IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTA4Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.BwQp7tHjDxOg2lWzTAZ1e7S5fbW8eeLHAx67EseWc4BuQxAY372g1dnJDBRM5oNPhd6oEVmKueFXmRLa5TJAjQ=//live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e",
                 "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
                 "headers": {
-https://edge-live15-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0ODQzNjQ2Iiwic2lwIjoiMTc5LjM4LjE4NS41NyIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjcxYTkyYTRhOTUyNGFhNmUiLCJzZXNzaW9uX2lkIjoiODE4Mjc2OTgtMTc1NDY3MDg0Ni0yNzkiLCJjbGllbnRfaWQiOiIxMzIyMzgyMiIsImRldmljZV9pZCI6IjgxODI3Njk4IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTA4Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.BwQp7tHjDxOg2lWzTAZ1e7S5fbW8eeLHAx67EseWc4BuQxAY372g1dnJDBRM5oNPhd6oEVmKueFXmRLa5TJAjQ=
-                "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/",
-                    
+                    "Origin": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
 }
             },
