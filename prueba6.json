@@ -949,7 +949,7 @@
           ]
   },
   {
-    "name": "CANALES DE PARAGUAY",
+    "name": "CANALES DE PARAGUAY🇵🇾",
     "samples": [
        {
         "name": "ÑANDEPORTETEPE TV",
@@ -1472,6 +1472,25 @@
                 "nombre": "MI TV",
                 "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8",
                 "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png"
+            },
+
+           {
+                "nombre": "REPÚBLICA TV",
+                "url": "https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png"
+            },
+
+          {
+                "nombre": "UNION TV",
+                "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+                "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png"
+            },
+            {
+                "nombre": "YAGUARON TV",
+                "url": "https://video.hostingcaaguazu.com:19360/regionalnetworkstv/regionalnetworkstv.m3u8",
+                "tipo": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://mediosenparaguay.com/gallery_gen/cae134f3e8f4e494d2759fd7fc84854c_300x300_fill.jpg"
             }
 
     
