@@ -29,9 +29,17 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       },
+
+{
+        "name": "TIGO VARIADOS 1",
+        "url": "https://live.enhdtv.com:8081/8166/index.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+      }
+      
       
  {
-        "name": "TIGO COPA PY",
+        "name": "TIGO VARIADOS 2",
         "url": "https://live.enhdtv.com:8081/8222/index.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
@@ -48,14 +56,9 @@
         "url": "http://190.128.129.83:8000/play/a03n/index.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-      },
-     
-      {
-        "name": "TIGO INTERMEDIAS",
-        "url": "https://live.enhdtv.com:8081/8212/index.m3u8",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       }
+     
+      
 
 ]
     },
