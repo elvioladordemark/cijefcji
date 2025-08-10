@@ -610,68 +610,68 @@
         "name": "EVENTOS PANAMERICANAS",
         "samples": [
              {
-                "name": "EVENTOS 1",
-                "url": "https://live-sacl.streann.tech/live_abr/panam2/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ3NzE3NzksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.LKYRqA048fKW0YpMrnIKvRRxHwcJZz2BrwCM7XShfY0",
+                "name": "EVENTOS 1 AQUATICS",
+                "url": "https://live-sacl.streann.tech/live_abr/panam2/live/panam2_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ4NTgxNzMsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.NY_bbRw06KjeC0MPeu9LkOm9wKJg3-kzXe5hnUO9YDU",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://i.postimg.cc/R0G2KkbR/b87f732b-79ee-42e8-8158-40faba5e842c.jpg"
             },
 
           {
-                "name": "EVENTOS 2",
-                "url": "https://live-sacl.streann.tech/live/panam2_144p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ3OTc3NjEsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.7ut6Hv5XhcOhnWeQAIbivMXPVUYPJ-SinnFBBs8YZ6o",
+                "name": "EVENTOS 2 VOLLEY",
+                "url": "https://live-sacl.streann.tech/live_abr/panam4/live/panam4_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ4NTgyNzksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGM1Y2U0YjA5YjhmNDA0ZTJlZmYifQ.EjYhZYgUhHPe0TLloMOnLDHUJJfXbLfYCUYOSLAZo74",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://i.postimg.cc/R0G2KkbR/b87f732b-79ee-42e8-8158-40faba5e842c.jpg"
             },
 
           {
-                "name": "EVENTOS 3",
-                "url": "https://live-sacl.streann.tech/live_abr/panam2/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ3NzE3NzksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.LKYRqA048fKW0YpMrnIKvRRxHwcJZz2BrwCM7XShfY0",
+                "name": "EVENTOS 3 FENCING",
+                "url": "https://live-sacl.streann.tech/live_abr/panam6/live/panam6_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ4NTgzMjUsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNhZWU0YjA5YjhmNDA0ZTJmNmYifQ.nZbkjgKC_74IKg9cQLBZVaK4qon8LH17C09snEu4TFw",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://i.postimg.cc/R0G2KkbR/b87f732b-79ee-42e8-8158-40faba5e842c.jpg"
             },
 
 
           {
-                "name": "EVENTOS 4",
-                "url": "https://live-sacl.streann.tech/live_abr/panam2/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ3NzE3NzksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.LKYRqA048fKW0YpMrnIKvRRxHwcJZz2BrwCM7XShfY0",
+                "name": "EVENTOS 4 HOCKEY",
+                "url": "https://live-sacl.streann.tech/live_abr/panam8/live/panam8_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ4NTgzOTQsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNlMmU0YjA5YjhmNDA0ZTJmNzEifQ.MQ70BWmg2oQEgN1B3oE7dUVxwL8Ra4zkuuOowFMWPUk",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://i.postimg.cc/R0G2KkbR/b87f732b-79ee-42e8-8158-40faba5e842c.jpg"
             },
 
           {
                 "name": "EVENTOS 5",
-                "url": "https://live-sacl.streann.tech/live_abr/panam2/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ3NzE3NzksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.LKYRqA048fKW0YpMrnIKvRRxHwcJZz2BrwCM7XShfY0",
+                "url": "https://live-sacl.streann.tech/live_abr/panam10/live/panam10_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ4NTg0NzAsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGQ0ZGU0YjA5YjhmNDA0ZTJmN2EifQ.3dGLz0NXjXF0KiBPQBr0aJqiwL5G8zeX5p9Mn_xxdvM",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://i.postimg.cc/R0G2KkbR/b87f732b-79ee-42e8-8158-40faba5e842c.jpg"
             },
 
           {
                 "name": "EVENTOS 6",
-                "url": "https://live-sacl.streann.tech/live_abr/panam2/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ3NzE3NzksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.LKYRqA048fKW0YpMrnIKvRRxHwcJZz2BrwCM7XShfY0",
+                "url": "https://live-sacl.streann.tech/live_abr/panam12/live/panam12_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ4NTg1MzgsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGRhMGU0YjA5YjhmNDA0ZTJmY2MifQ.VJ3SqbLKnd6FG_jLapVjqr2XACFzmKqmHFaLVPc1YWQ",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://i.postimg.cc/R0G2KkbR/b87f732b-79ee-42e8-8158-40faba5e842c.jpg"
             },
 
 
           {
                 "name": "EVENTOS 7",
-                "url": "https://live-sacl.streann.tech/live_abr/panam2/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ3NzE3NzksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.LKYRqA048fKW0YpMrnIKvRRxHwcJZz2BrwCM7XShfY0",
+                "url": "https://live-sacl.streann.tech/live_abr/panam14/live/panam14_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ4NTg1NTksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGY2MWU0YjBlNmQ1ZDJjYTg2ODEifQ.nD2arr-AY0gvyBwnxbNRMuij9KqNNVaZ655zLvWxUT4",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://i.postimg.cc/R0G2KkbR/b87f732b-79ee-42e8-8158-40faba5e842c.jpg"
             },
 
       {
                 "name": "EVENTOS 8",
-                "url": "https://live-sacl.streann.tech/live_abr/panam2/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ3NzE3NzksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.LKYRqA048fKW0YpMrnIKvRRxHwcJZz2BrwCM7XShfY0",
+                "url": "https://live-sacl.streann.tech/live_abr/panam16/live/panam16_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ4NTg2MDAsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGZhOGU0YjBlNmQ1ZDJjYTg2ODUifQ.utpi3LoxLIZPdQ8jj1U_mrXugqM-0xMbRL_VN8hERds",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://i.postimg.cc/R0G2KkbR/b87f732b-79ee-42e8-8158-40faba5e842c.jpg"
             },
 
           {
                 "name": "EVENTOS 9",
-                "url": "https://live-sacl.streann.tech/live_abr/panam2/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ3NzE3NzksInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGJkOWU0YjA5YjhmNDA0ZTJlZDIifQ.LKYRqA048fKW0YpMrnIKvRRxHwcJZz2BrwCM7XShfY0",
+                "url": "https://live-sacl.streann.tech/live_abr/panam18/live/panam18_source/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ4NTg2MzYsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGZmNmU0YjBlNmQ1ZDJjYTg2OGIifQ.ogO0FpKkdT_Zz9uiQTot0PY5tJ4HXOpOWD7MRjnuA1A",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://i.postimg.cc/R0G2KkbR/b87f732b-79ee-42e8-8158-40faba5e842c.jpg"
             }
 
       
