@@ -1632,7 +1632,7 @@
             },
             {
                 "name": "Somos La Plata",
-                "url": https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0OTMwODg1Iiwic2lwIjoiMTc5LjM4LjE4NS41NyIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzZDE3YTYyYjYzMWY4YmEiLCJzZXNzaW9uX2lkIjoiODE4Mjc2OTgtMTc1NDc1ODA4NS01NzEiLCJjbGllbnRfaWQiOiIxMzIyMzgyMiIsImRldmljZV9pZCI6IjgxODI3Njk4IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiODEiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.3miTINDUDSkVFEECRtXL2jkd6z7Zxe86IB9gRwjnKRXpOY79fCjzPyDg7w3RpxxQr2166Xq8K8tfxaC58yRuew==//live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd",
+                "url": "https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0OTMwODg1Iiwic2lwIjoiMTc5LjM4LjE4NS41NyIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzZDE3YTYyYjYzMWY4YmEiLCJzZXNzaW9uX2lkIjoiODE4Mjc2OTgtMTc1NDc1ODA4NS01NzEiLCJjbGllbnRfaWQiOiIxMzIyMzgyMiIsImRldmljZV9pZCI6IjgxODI3Njk4IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiODEiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.3miTINDUDSkVFEECRtXL2jkd6z7Zxe86IB9gRwjnKRXpOY79fCjzPyDg7w3RpxxQr2166Xq8K8tfxaC58yRuew==//live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSNoh-IlnEG1YvhT0YsB8IWevwPGG7b16D-g&s",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bffd3b447aa44a429a703245836e46fa&key=13be31c0bcb76b28b1248bf64ab3926e",
@@ -3364,6 +3364,8 @@
                     "webtoken": "1.0"
                 }
             }
+
+          
         ]
     },
     {
@@ -4099,6 +4101,8 @@
           "Connection": "Keep-Alive"
         }
       }
+
+
     ]
   },
   {
@@ -4470,6 +4474,8 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       }
+
+      
 
 ]
     },
