@@ -4,55 +4,6 @@
             "nombre": "RECOMENDADOS",
             "series": [
                 {
-                    "nombre": "Ironheart",
-                    "genero": "Sci-Fi & Fantasy, Crimen",
-                    "descripcion": "La brillante inventora Riri Williams vuelve a Chicago, donde conoce a Parker Robins, el Encapuchado.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/6DHtWG4tmGoAmEExgXjmcn1qzY6.png",
-                    "icono": "https://image.tmdb.org/t/p/original/AmzGVKlLvpraNAXxPYUROiN2Ulj.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Llévame a casa",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/44005A516FA249AEAEC56041259F1FA4_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6D9DC28F960D4811B5A527856882B7AC_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Corremos peligro, tía",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/31106ED1328B45D8BADDFC26735D3C6A_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Magia mala",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ECD99C4068844EED8BDFF6E723A1E995_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "El karma es un fallo",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/28DF9F52423747289687A117E6C792D6_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "El pasado es el pasado",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CE8E144DA4B444628D737344D65C9910_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 114471,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "The Chosen (Los elegidos)",
                     "genero": "Drama, Familia",
                     "descripcion": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
