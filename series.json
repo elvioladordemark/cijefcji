@@ -4249,6 +4249,45 @@
                     ],
                     "tmdb_id": 213249,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Los ojos de Wakanda",
+                    "genero": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+                    "descripcion": "A lo largo de la historia de Wakanda, valientes guerreros han recibido la misión de viajar por el mundo para recuperar peligrosos artefactos de vibranium. La serie explorará diferentes épocas en el tiempo y representará la historia de aquellos que hicieron que Wakanda se mantuviera en secreto durante siglos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rlghnsYQpsx2UbSmAj5TFDsWGI8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xkMPhwoj0W5Db8EnMnoj1CbmY1W.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/toQjmDgQvZJWRQPOYQYNFLTqkLL.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La guarida del león",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7145D7E524EC4A888A4607D159942A43_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Leyendas y mentiras",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4C01DE9E37E344ABAEE8B48E480C5143_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Perdido y encontrado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FF99E85B037B43BAB886C5A699A43EA4_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La última Pantera",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3E6F2315BB3B426FB43D79E4C15FC08B_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 241388,
+                    "total_seasons": 1
                 }
             ]
         },
