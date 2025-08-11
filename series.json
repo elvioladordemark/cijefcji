@@ -804,6 +804,35 @@
                     ],
                     "tmdb_id": 281004,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Outlander: Sangre de mi sangre",
+                    "genero": "Drama",
+                    "descripcion": "Desde los campos de batalla de la Primera Guerra Mundial hasta las escarpadas Tierras Altas de la Escocia del siglo XVIII, dos parejas predestinadas deben desafiar las fuerzas que buscan separarlas, desarrollándose de maneras sorprendentes e imprevistas en esta saga romántica que se desarrolla a través del tiempo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3WqbicAKsH65x4nA02cTegs82ra.png",
+                    "icono": "https://image.tmdb.org/t/p/original/2vEp7mniHlKcK6LKJxCu4hOr56V.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/woz7IYtEDj2aYvuh9p9fnqMa0Lv.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Providencia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EC30DF6DF0AE41D08A0A51C7445FA8C4_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sellado con un beso",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9A86CCEAFD594BE7A29B41AFCB002347_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 207484,
+                    "total_seasons": 1
                 }
             ]
         },
