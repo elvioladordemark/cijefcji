@@ -848,6 +848,91 @@
                     ],
                     "tmdb_id": 207484,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Platonico",
+                    "genero": "Comedia",
+                    "descripcion": "Después de un largo paréntesis en su amistad, unos viejos amigos con una conexión platónica vuelven a encontrarse en la mediana edad. Su amistad se vuelve más obsesiva y desestabiliza sus vidas de una manera muy divertida.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/iGdPxmapf3g86IWbZHfOH7fFiOD.png",
+                    "icono": "https://image.tmdb.org/t/p/original/eqSWtzuRQepKMWlYKeU76hxVoli.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/aZerXLRyZMuGjQXI61f2CmSig7o.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/447583B4C2AA4BFF9697BA7AA0490BE6_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Gandalf, el lagarto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CDF33E994D3049B8B47A7AB4698213DF_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El retiro de socios",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8A22FD13240C4B68869F4776ECDB3983_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La fiesta del divorcio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/36204D45DCA04FF6B89E43EAB1514F8E_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El novio de mi mujer",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A52BB6CF1C344CE4B357E7DFFA4CA214_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Los grandes 26",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/801CDFEABBA940499EF29DEE868F6878_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Deja que el río fluya",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BDFC473E182C43288B48C81EF3F72CE8_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "San Diego",
+                                    "url": "http://goovdme.967sd1f.homes/vod/790A9C4409914D7F855CD7816E855FA1_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La fiesta del pijama",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DB0ED270498C44588B7ED4BA481D16F5_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Cuando Will conoció a Sylvia",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/ABBC26A260F84C0DBD4716E9279F3189_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La fiesta de compromiso",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7D780536B34047CD8045CF489B1AB3AB_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La cena",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D868FF18CB1444B39F58BC540BFAC028_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 112211,
+                    "total_seasons": 2
                 }
             ]
         },
