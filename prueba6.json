@@ -3213,29 +3213,63 @@
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
             },
             {
-                "name": "SKY EVENTO 1",
-                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEVENT1HD/default.mpd",
+                "name": "SKY EVENTOS 1",
+                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a3636a51227fa338cdddf5892d8a621c&key=1444ee3c4d08bf39454b914f797968eb",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=1444ee3c4d08bf39454b914f797968eb",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
             },
+ {
+                "name": "SKY EVENTOS 2",
+                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYLIVEEVENT2HD/default.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7239a58fb7388b222a834d549bf18d8f&key=8b04a883e88dbdebc43673d998ea1cb2",
+                "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+            },
+
+      {
+                "name": "SKY EVENTOS 3",
+                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT3HD/default.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=561a21ad50f806b77d328dedbe59f93e&key=edf3e70cc9de81a73e2a00fe9c0611a8",
+                "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+            },
+
+      {
+                "name": "SKY EVENTOS 4",
+                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT4HD/default.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a931b2e953695ffb0cfd38573e97ba33&key=4ddd99cc4fb168d7f0e20be8a3287100",
+                "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+            },
+
+      {
+                "name": "SKY EVENTOS 5",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c89e84c52eae0428b7d2c8e887a48ec&key=758a1484f920a0f1aa73e95d5f2be225",
+                "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+            },
+
+
+      
             {
                 "name": "SKY LA LIGA",
-                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORT16HD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c88dc6c668cac3b468d4a4c7e176ff3d&key=1aeb739de2c14ed0ad658ca8043208d8",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
             },
             {
                 "name": "SKY BUNDESLIGA",
-                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYSPORT24HD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
             },
             {
                 "name": "SKY PRIMERA LIGA",
-                "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/live/channel(vc1021n07j)/master.mpd",
+                "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=002046c9a49b9ab1cdb6616bec5d26c3&key=d2f92f6b7edc9a1a05d393ba0c20ef9e",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
