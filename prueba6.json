@@ -2933,7 +2933,20 @@
           "Referer": "https://web.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+{
+        "name": "TNT SPORT IZZI",
+        "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNTHD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dca8597f12f8d6928b55c1291c7bb300&key=36c8b3f51d474b95f0adad70899343e1",
+        "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
+        "headers": {
+          "Origin": "https://web.app.flow.com.py",
+          "Referer": "https://web.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
+      
        
     
     ]
@@ -3058,6 +3071,14 @@
         "type": "HLS",
         "icono": "https://i.postimg.cc/MT0jPRQF/IMG-20250731-WA0159.jpg"
       },
+
+      {
+                "name": "NBA",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/NBAHD/default.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a5cd47bba986b233d3731297cb62fdf9&key=0d067e22a727ae9f264478f5c2ed903a",
+                "icono": "https://i.postimg.cc/0NPxTpn2/download-13.png"
+            },
 
       {
         "name": "PADEL",
