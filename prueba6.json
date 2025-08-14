@@ -62,13 +62,13 @@
         "samples": [
             {
                 "name": "PARAVISION 🇵🇾",
-                "url": "https://edge-live12-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1Mjk4NTYzIiwic2lwIjoiMTc5LjM4LjIwMS4yMDQiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb05vdGljaWFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4MDllNmJiZmMwMTNjMWQ0Iiwic2Vzc2lvbl9pZCI6IjgyNDQ2Njc4LTE3NTUxMjU3NjMtMzAxIiwiY2xpZW50X2lkIjoiMTMyNzIwMTUiLCJkZXZpY2VfaWQiOiI4MjQ0NjY3OCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.TDlLPrQBO4aaMeqmompfI0HIFmQPD4CbF3bYYVx0JGeZdcSd4WdVTvSSal9nrXmrB3g8hKyHUHBOoGFPNazVTg==//live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
+                "url": "https://edge-live14-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1MzAyOTE1Iiwic2lwIjoiMTc5LjM4LjE2NS4yMzAiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzZTQ3MThlNWIxMDA4M2FhIiwic2Vzc2lvbl9pZCI6IjgyNDUxNDI2LTE3NTUxMzAxMTUtNjkxIiwiY2xpZW50X2lkIjoiMTMyNzIwMTUiLCJkZXZpY2VfaWQiOiI4MjQ1MTQyNiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjcxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.ExEAHxHzcR4h-4yQ7jAfI3VKBf3F5bsFvfqB0EjJiGZn4CZL2_MHkGOpNOJZ7VZRSoPX9Zej6U7iJY4sjQ3GFg==//live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
                 "icono": "https://i.ibb.co/qMvpYJqT/R.png",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
