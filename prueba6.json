@@ -2720,13 +2720,92 @@
           "Connection": "Keep-Alive"
         }
       }
+
+      
+
+      ]
+    },
+    {
+        "name": "PACK DEPORTES ESPN SUR 🇦🇷",
+        "samples": [
+            {
+                "name": "ESPN 1 SUR",
+                "url": "http://51.222.111.105:25461/PPV=FREE/8=13=2025/1",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+                "headers": {
+                  
+                  "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+          {
+                "name": "ESPN 2 SUR",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/Ff8cjS/espn2.stream/playlist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+                "headers": {
+                  
+                  "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+
+            {
+                "name": "ESPN 3 SUR",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/D6Vp42/espn3.stream/playlist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+                "headers": {
+                  
+                  "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+          {
+                "name": "ESPN 4 SUR",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/hDp0yb/espn4.stream/playlist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+                "headers": {
+                  
+                  "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+
+          {
+                "name": "ESPN 5 SUR",
+                "url": "http://bantel-cdn4.iptvperu.tv:1935/PNwE9t/espn5.stream/playlist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+                "headers": {
+                  
+                  "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
       
       
 
       ]
     },
     {
-        "name": "PACK DEPORTES ESPN FOX ​🇦🇷",
+        "name": "PACK DEPORTES ESPN Y FOX ​🇦🇷",
         "samples": [
             {
                 "name": "ESPN PREMIUM",
