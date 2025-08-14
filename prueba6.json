@@ -4483,6 +4483,36 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             }
+
+
+           ]
+      },
+  {
+    "name": "SONY CINEMAS",
+    "samples": [
+      {
+        "name": "SONY ONE EXITOS",
+        "icono": "https://i.postimg.cc/pX47JBKH/download-19.jpg",
+        "url": "https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8"
+      },
+
+      {
+        "name": "SONY ONE HITS ACCIÓN",
+        "icono": "https://i.postimg.cc/pX47JBKH/download-19.jpg",
+        "url": "https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8"
+      },
+
+        {
+        "name": "SONY ONE HITS ACCIÓN",
+        "icono": "https://i.postimg.cc/pX47JBKH/download-19.jpg",
+        "url": "https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8"
+      },
+
+       {
+        "name": "CINE,SONY ONE SERIES COMEDIA",
+        "icono": "https://i.postimg.cc/pX47JBKH/download-19.jpg",
+        "url": "https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8"
+      }
       
 
 
