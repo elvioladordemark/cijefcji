@@ -4321,18 +4321,23 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
       },
-       {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "url": "https://cdn-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3&key=917309c98f072b0bd484dd6560c6d166",
-        "icono": "https://i.ibb.co/ZKNb722/Las-Estrellas-logo-2016.png",
-        "headers": {
-          "Origin": "https://web.app.flow.com.py",
-          "Referer": "https://web.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
+
+      {
+                "name": "Canal De Las Estrellas",
+                "url": "https://edge-live14-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1MzAyOTE1Iiwic2lwIjoiMTc5LjM4LjE2NS4yMzAiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzZTQ3MThlNWIxMDA4M2FhIiwic2Vzc2lvbl9pZCI6IjgyNDUxNDI2LTE3NTUxMzAxMTUtNjkxIiwiY2xpZW50X2lkIjoiMTMyNzIwMTUiLCJkZXZpY2VfaWQiOiI4MjQ1MTQyNiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjcxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.ExEAHxHzcR4h-4yQ7jAfI3VKBf3F5bsFvfqB0EjJiGZn4CZL2_MHkGOpNOJZ7VZRSoPX9Zej6U7iJY4sjQ3GFg==//live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3&key=917309c98f072b0bd484dd6560c6d166",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+
+      
+       
             {
         "name": "CANAL DE LAS ESTRELLAS 2",
         "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
@@ -4340,18 +4345,31 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.ibb.co/ZKNb722/Las-Estrellas-logo-2016.png"
       },
+
       {
-        "name": "PASIONES",
-        "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d41cf825e878f0d8e276218af7f5b7e1&key=13d1b73ab578ab8623be9347bcf8972a",
-        "icono": "https://i.ibb.co/Jd4QbVc/800px-Pasiones-Tv-logo-svg.png",
-        "headers": {
-          "Origin": "https://web.app.flow.com.py",
-          "Referer": "https://web.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      }
+                "name": "Pasiones",
+                "url": "https://edge-live14-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1MzAyOTE1Iiwic2lwIjoiMTc5LjM4LjE2NS4yMzAiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzZTQ3MThlNWIxMDA4M2FhIiwic2Vzc2lvbl9pZCI6IjgyNDUxNDI2LTE3NTUxMzAxMTUtNjkxIiwiY2xpZW50X2lkIjoiMTMyNzIwMTUiLCJkZXZpY2VfaWQiOiI4MjQ1MTQyNiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjcxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.ExEAHxHzcR4h-4yQ7jAfI3VKBf3F5bsFvfqB0EjJiGZn4CZL2_MHkGOpNOJZ7VZRSoPX9Zej6U7iJY4sjQ3GFg==//live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/Jd4QbVc/800px-Pasiones-Tv-logo-svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d41cf825e878f0d8e276218af7f5b7e1&key=13d1b73ab578ab8623be9347bcf8972a",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Novelísima",
+                "url": "http://cdn.sensa.com.ar/bpk-tv/Novelis/default/index_fk.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
+      
 
 
     ]
