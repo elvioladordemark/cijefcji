@@ -3415,7 +3415,78 @@
           "Origin": "https://embedtv-2.icu",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
+      },
+
+{
+        "name": "ESPN BR",
+        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/65504723a3c5fe592110ae3c8b92cab2.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+      {
+        "name": "ESPN 2 BR",
+        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/add1e481fbec7d4ac4bfbc8c4ec86edf.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+
+      {
+        "name": "ESPN 3 BR",
+        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/a480cfa2febd14ff6ad9febdf1eaccc5.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+
+      {
+        "name": "ESPN 4 BR",
+        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/43009e461b69c05e0e495f77d655ddff.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+      {
+        "name": "ESPN 5 BR",
+        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/7a136860f932f1bbca245e199cffd592.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
       }
+
+
+  
+      
+
+      
+
+      
+      
       
     ]
   },
@@ -3486,6 +3557,22 @@
       },
       {
         "name": "RALLY TV",
+        "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/MT0jPRQF/IMG-20250731-WA0159.jpg"
+      },
+
+
+      {
+                "name": "NBA",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/NBAHD/default.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a5cd47bba986b233d3731297cb62fdf9&key=0d067e22a727ae9f264478f5c2ed903a",
+                "icono": "https://i.postimg.cc/pVnSyzhW/download-13.png"
+            },
+
+      {
+        "name": "NBA",
         "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/MT0jPRQF/IMG-20250731-WA0159.jpg"
