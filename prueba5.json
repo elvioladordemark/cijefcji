@@ -58,7 +58,7 @@
       ]
     },
     {
-        "name": "PARAGUAY 🇵🇾 1",
+        "name": "PARAGUAY GLOBAL 🇵🇾",
         "samples": [
             {
                 "name": "PARAVISION 🇵🇾",
@@ -316,24 +316,14 @@
     ]
   },
   {
-    "name": "CANALES DE PARAGUAY",
+    "name": "CANALES DE PARAGUAY OPCION 2",
     "samples": [
        {
         "name": "ÑANDEPORTETEPE TV",
         "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
         "icono": "https://i.postimg.cc/J4PRyMsf/bd166c26-5fe4-4872-9db9-731cf39fa11c.jpg"
       },
-      {
-        "name": "PARAVISION 🇵🇾",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-        "icono": "https://tv-libre.com/img/paravision.webp",
-        "headers": {
-          "Origin": "https://web.app.flow.com.py",
-          "Referer": "https://web.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+      
       },
       {
         "name": "PARAVISIÓN 🇵🇾 opción 2",
@@ -1107,7 +1097,7 @@
  ]
   },
   {
-    "name": "CANALES DE ARGENTINA",
+    "name": "CANALES DE ARGENTINA OPCION 2",
     "samples": [
       {
         "name": "CIUDAD MAGAZINE",
