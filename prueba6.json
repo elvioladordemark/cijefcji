@@ -285,6 +285,22 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
+{
+        "name": "FOX SPORTS (SUR)",
+        "url": "http://plpro.org/stream/secure/ZKjkZGDlsQR5ZP4kAmHhAQRhAmO8ZGp1AGR5AwN2AGRjBUj0ZJZkBGAuMQDmMQxmA2AusQO8ZUkRLJk2nJfiZv4kYwNtXRkcoaI4BlOIBlOOozElo2yxVQR1BlNlZmRjZSWBBQWZVRW1nJkxY0SDZ0RhZwDjBGN1YwNkAF5OZvx/452.m3u8",
+        "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
+        "headers": {
+         
+          "X-Version": "8/4.0.7",
+          "X-Hash": "ijshNy1X9WtKYw6lm1B9hCMaM133e1kvUpbpspv0FkPzGBbtXVFG05jufKcYh6DnjN4xdBSgsC9DBSj1EwChodqjnXgMCpweDR4-8zAcAVmu12DkxNJeRto3fPbOU6hb6_bnkvE5BDkEk_9OzDYb0-j8KnPg4AJMpHStlzPGyMEym8nejbmQoOMzW3dToba3Muh8eVzm7GyPUzNaabi56Fhj0R-fBzFcmSwIiMpZbHWLKk4SRh5hNWR6ak4WCv_2tNu47G6iJGEh6YhtP9bKvahsCIMDd44Udu6Bf-Yfxu-guKO7zjGDfMyeKWw1UTgoc_xyR0nLT_ixx6F3va-Jw_ZDoeWJLHPz0t_eRcybsnSBvKPzvYRk5wks-8GBRWz9sEErthpJGPLD74NCSqv6u-2GFA65SyhWHAY5AT78gh-q5kzahmYsKZeNYhey7IxW9XZXWM8RkEDTBKk3ThdtN3qpGo-yM_EWfBYTa_VWThnZh86ntSvpxbQ-KrLYHfkK",
+          "X-Did": "41c193ad43d937ca",
+          "User-Agent": "PLPro/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+
+          
             {
                 "name": "FOX SPORTS 2",
                 "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1Mzk5OTc5Iiwic2lwIjoiMTc5LjM4LjE2NS4yMzAiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0MGEyZGMwYzAxZjhkYjVmIiwic2Vzc2lvbl9pZCI6IjgyNDg0NDM3LTE3NTUyMjcxNzgtNjcwIiwiY2xpZW50X2lkIjoiMTMxMDM0NzMiLCJkZXZpY2VfaWQiOiI4MjQ4NDQzNyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.2nkirl5jlnf65JKdelmuBJeb9XK34LwsIiXwWe8y4ui2krtWhOnLTdHy9Ji44GtBsEU1MxJTVHh28rlmBhqa4g==//live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd",
@@ -1497,7 +1513,7 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
-            {
+{
                 "name": "Telefe",
                 "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1Mzk5OTc5Iiwic2lwIjoiMTc5LjM4LjE2NS4yMzAiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0MGEyZGMwYzAxZjhkYjVmIiwic2Vzc2lvbl9pZCI6IjgyNDg0NDM3LTE3NTUyMjcxNzgtNjcwIiwiY2xpZW50X2lkIjoiMTMxMDM0NzMiLCJkZXZpY2VfaWQiOiI4MjQ4NDQzNyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.2nkirl5jlnf65JKdelmuBJeb9XK34LwsIiXwWe8y4ui2krtWhOnLTdHy9Ji44GtBsEU1MxJTVHh28rlmBhqa4g==//live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
                 "type": "CLEARKEY",
@@ -1509,6 +1525,25 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
+
+          {
+                "name": "TELEFE PRUEBA",
+                "url": "http://vps-4729499-x.dattaweb.com/flo/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
+                "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.py",
+                    "Referer": "https://web.app.flow.com.py/",
+                   "Host": "vps-4729499-x.dattaweb.com"
+                  "Accept-Encoding": "gzip",
+                     "Connection": "Keep-Alive"
+          
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+          
             {
                 "name": "Telefé Internacional",
                 "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1Mzk5OTc5Iiwic2lwIjoiMTc5LjM4LjE2NS4yMzAiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0MGEyZGMwYzAxZjhkYjVmIiwic2Vzc2lvbl9pZCI6IjgyNDg0NDM3LTE3NTUyMjcxNzgtNjcwIiwiY2xpZW50X2lkIjoiMTMxMDM0NzMiLCJkZXZpY2VfaWQiOiI4MjQ4NDQzNyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.2nkirl5jlnf65JKdelmuBJeb9XK34LwsIiXwWe8y4ui2krtWhOnLTdHy9Ji44GtBsEU1MxJTVHh28rlmBhqa4g==//live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd",
@@ -3199,32 +3234,19 @@
       },
       {
         "name": "DIRECTV SPORTS 2",
-        "url":"http://magmaplayer.com/stream/secure/AGt5KmZkAI8lBQNmBwWuZQN6ZwNjAwcyZJRkBzWuLzL6ZzV0BGb1LwLjBzL0BTSsZGp1AQNkBQR1ZS8lZQZjMTWvMGAxMQV1L2DkKmN.m3u8",
-        "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
+        "url": "http://plpro.org/stream/secure/ZKjkZGDlsQR5ZP4kAmHhAQRhAmO8ZGp1AGR5AwN2AGRjBUj0ZJZkBGAuMQDmMQxmA2AusQO8ZUkRLJk2nJfiZv4kYwNtXRkcoaI4BlOIBlOOozElo2yxVQR1BlNlZmRjZSWBBQWZVRW1nJkxY0SDZ0RhZwDjBGN1YwNkAF5OZvx/317.m3u8",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
         "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "1RvFSZuD545DcoQpiFIwkQlVMM3iOYduCkviiuN1kyt1fgvHbe2K_FpOteuYVddkQcODLajSU8wCMd0talYv3w6-9AAeU5zG65TCqGDJzIzKT-Shn3EJyTzdqq7UWYK4mwqxUP3ADeaEzvsVhwKYo86nzj-v3eBj4s--7jlO-bObVeyAJZ09qvrT7bKAzMgIhQXaaMiLlrHmvZ9i1CgL8wif9WnPWYf0M0gfm1MgFG5uE7K9xv2SR73Poj3AZzSN7y_BYO3JX7YnFsbCCKFKQS631V49dOd_EClUgl35ZtU3ty98iiVsWhVMpDzfdQmUtQPQabh7uxrvr1dXbE7eqITDCAWqzTClVatOfPPrKwie-L0lq0S-k_M-CEkty-8g7ALgqHTmkwvvUHZ-dHAPlDt0o4YF5sY8IThJz4wt4gEDciLVmgG__kuF3w_89Q5KlUGFgxY1c7_0_-zbDgqNbrMaXsbCP1UV6ZcgH1yxwewM4z477euEIGu_l2OisuuRIK8tCUOwINYOrFP4ft1R1qiWKivvMd5KoqIqtJJlwoKharjctDBKKuGRgE08fOZ1rfGRRnOQA7-LpxWmDoSdm6gKa9RpHLi-R-Mqge10S4jjVwohW2kRm1FbtvD-WRcS",
-          "X-Did": "2030dbbe3dd25cd1",
-          "User-Agent": "Magma Player/10",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "DIRECTV SPORTS PLUS",
-        "url": "http://magmaplayer.com/stream/m3u8/Awx5KmZkAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/314.m3u8",
-        "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
-          "X-Did": "cddfe5e8c019cb3c",
-          "User-Agent": "Magma Player/10",
+         
+          "X-Version": "8/4.0.7",
+          "X-Hash": "ijshNy1X9WtKYw6lm1B9hCMaM133e1kvUpbpspv0FkPzGBbtXVFG05jufKcYh6DnjN4xdBSgsC9DBSj1EwChodqjnXgMCpweDR4-8zAcAVmu12DkxNJeRto3fPbOU6hb6_bnkvE5BDkEk_9OzDYb0-j8KnPg4AJMpHStlzPGyMEym8nejbmQoOMzW3dToba3Muh8eVzm7GyPUzNaabi56Fhj0R-fBzFcmSwIiMpZbHWLKk4SRh5hNWR6ak4WCv_2tNu47G6iJGEh6YhtP9bKvahsCIMDd44Udu6Bf-Yfxu-guKO7zjGDfMyeKWw1UTgoc_xyR0nLT_ixx6F3va-Jw_ZDoeWJLHPz0t_eRcybsnSBvKPzvYRk5wks-8GBRWz9sEErthpJGPLD74NCSqv6u-2GFA65SyhWHAY5AT78gh-q5kzahmYsKZeNYhey7IxW9XZXWM8RkEDTBKk3ThdtN3qpGo-yM_EWfBYTa_VWThnZh86ntSvpxbQ-KrLYHfkK",
+          "X-Did": "41c193ad43d937ca",
+          "User-Agent": "PLPro/8",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
       }
+    
     ]
   },
   {
