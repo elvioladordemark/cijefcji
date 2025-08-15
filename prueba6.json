@@ -3185,13 +3185,13 @@
     "samples": [
       {
         "name": "DIRECTV SPORTS",
-        "url": "http://plpro.org/stream/secure/ZKjmZwE8ZGtkYwx0YwVmZv4lsQR3AGHlZmV4AGpkAQO8AzV1MGVkAGZ1L2IyLwx0L3jjsQO8ETSfqzyeYmVhZF4jVPuZnJ51rQftIGftDJ5xpz9cMPNkAQftZwDjBHWFGwWQDFOPqJyfMP9IHQSOYwVmZGNjAF4jZQpc/324.m3u8",
+        "url": "http://plpro.org/stream/secure/ZKjkZGDlsQR5ZP4kAmHhAQRhAmO8ZGp1AGR5AwN2AGRjBUj0ZJZkBGAuMQDmMQxmA2AusQO8ZUkRLJk2nJfiZv4kYwNtXRkcoaI4BlOIBlOOozElo2yxVQR1BlNlZmRjZSWBBQWZVRW1nJkxY0SDZ0RhZwDjBGN1YwNkAF5OZvx/1142.m3u8",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
         "headers": {
-          "X-App": "ps",
+         
           "X-Version": "8/4.0.7",
-          "X-Hash": "7u7c4YZv-YH7rt4AvI4FCv5ElnCGMZyKauKmhx1MQVvTnezoqNc_LWU1B0yPSOYwaZOcyDeETirQf7RESASqp5Gzw4qkVWvje6AsT2h_7PDUEr2e7rlH8mkcK3Ucl1IYvxxsyGjkEbEK4Jhv5SzKdupr2krGMy-2lyYvMB9wwrIanJK4khd9hKCs4IA1X-LAZee6NPBpLmq_hZ5yGYGQ6UV4_Xc7bOVNFP7RDaXTnFw2sbv0yU-AtbjLa3zyXmOzpzvpcKBYDbjTE2c8uYrk72FPehuMMZ9dw4cxfRTWMOrGBVohLhRbBiRmCXTFVdh5mu5B9QqHzMLY3iR0zBoxRonhDWL29LOk4TrKfkjgyv6QegR5LYlvxhnOZvQQm7Qq4eSOdRSJxfJi1KwrOu2DAIM10cVjMxn9rzPMJTy8CIUoQjYWY4lmGc_VMEKLOsVaTzNtv2IH8FalRloncZ3rcddAWJeJSGGjY7PxdO1usemHKyAO62YLZZJISK6WDXAG",
-          "X-Did": "2030dbbe3dd25cd1",
+          "X-Hash": "ijshNy1X9WtKYw6lm1B9hCMaM133e1kvUpbpspv0FkPzGBbtXVFG05jufKcYh6DnjN4xdBSgsC9DBSj1EwChodqjnXgMCpweDR4-8zAcAVmu12DkxNJeRto3fPbOU6hb6_bnkvE5BDkEk_9OzDYb0-j8KnPg4AJMpHStlzPGyMEym8nejbmQoOMzW3dToba3Muh8eVzm7GyPUzNaabi56Fhj0R-fBzFcmSwIiMpZbHWLKk4SRh5hNWR6ak4WCv_2tNu47G6iJGEh6YhtP9bKvahsCIMDd44Udu6Bf-Yfxu-guKO7zjGDfMyeKWw1UTgoc_xyR0nLT_ixx6F3va-Jw_ZDoeWJLHPz0t_eRcybsnSBvKPzvYRk5wks-8GBRWz9sEErthpJGPLD74NCSqv6u-2GFA65SyhWHAY5AT78gh-q5kzahmYsKZeNYhey7IxW9XZXWM8RkEDTBKk3ThdtN3qpGo-yM_EWfBYTa_VWThnZh86ntSvpxbQ-KrLYHfkK",
+          "X-Did": "41c193ad43d937ca",
           "User-Agent": "PLPro/8",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
