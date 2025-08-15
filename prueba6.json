@@ -3185,14 +3185,15 @@
     "samples": [
       {
         "name": "DIRECTV SPORTS",
-        "url": "http://magmaplayer.com/stream/secure/AGt2KmZlAS8lBQNmBwWuZQN6ZwNjAwcyZJRkBzWuLzL6ZzV0BGb1LwLjBzL0BTSsZGp1AQNkAwZmBI8lZQZjMTWvMGAxMQV1L2DkKmN.m3u8",
+        "url": "http://plpro.org/stream/secure/ZKjmZwE8ZGtkYwx0YwVmZv4lsQR3AGHlZmV4AGpkAQO8AzV1MGVkAGZ1L2IyLwx0L3jjsQO8ETSfqzyeYmVhZF4jVPuZnJ51rQftIGftDJ5xpz9cMPNkAQftZwDjBHWFGwWQDFOPqJyfMP9IHQSOYwVmZGNjAF4jZQpc/324.m3u8",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
         "headers": {
           "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "6llefvWZQCHVxrNCX9OZp66HTa29kMnqZ3EgMd6ErrXoQoW3nxYIALtDbBfVkce-Dw5NMOQrX9C0sf-LpKgBzLoEcCTm7afd0OnKU7hoLSRjFuuulzv7HC5Rb_K2jLdttkVY5YXLUn1gZWkrqE-7GGvmwsWWnbEi_Z5U-C-uMkpcnhl-yXnNmzETLNmweCsGNdgVsjRFw3enWQiipulm9ivb8eH0EYB9y5ZnR11fYqXDkrk3d_UfNy4P7-PIMdQgOFHoQeHr6Cz2DtX9eLH40DmH2n9g3K56cZHyn-CdD-neuE-HxrFfOA3T35swyDTss-c0FhvuEBGQxHMvQUosSdrBmMG7_V5nE6JfyDJ9-Pqj14JE1hjKmcDyVFHUs-6MRLtwk-e6uzmQejic0pCO6FhhZpoUoPZf6x865oqdKcRW46qqkLCVTAJnq3Bj9C9gfVgf62dpTccaZ6D-Boew0nc-EoXUp8lL3L653J6m_uHciuvv14rOK748Ce5wVfDd-p81-A35qi_edApQpxzxRCETbx88JDipx9kCRAdEgXa6B5WO2FLEVpDZr6NPBlpD5yvgVfhg8l8Q_3gsgxPH8jTfFukY9Ox1UmM6wwBZ_xpynEz_I3fW4CoHVjc6aeyn",
+          "X-Version": "8/4.0.7",
+          "X-Hash": "7u7c4YZv-YH7rt4AvI4FCv5ElnCGMZyKauKmhx1MQVvTnezoqNc_LWU1B0yPSOYwaZOcyDeETirQf7RESASqp5Gzw4qkVWvje6AsT2h_7PDUEr2e7rlH8mkcK3Ucl1IYvxxsyGjkEbEK4Jhv5SzKdupr2krGMy-2lyYvMB9wwrIanJK4khd9hKCs4IA1X-LAZee6NPBpLmq_hZ5yGYGQ6UV4_Xc7bOVNFP7RDaXTnFw2sbv0yU-AtbjLa3zyXmOzpzvpcKBYDbjTE2c8uYrk72FPehuMMZ9dw4cxfRTWMOrGBVohLhRbBiRmCXTFVdh5mu5B9QqHzMLY3iR0zBoxRonhDWL29LOk4TrKfkjgyv6QegR5LYlvxhnOZvQQm7Qq4eSOdRSJxfJi1KwrOu2DAIM10cVjMxn9rzPMJTy8CIUoQjYWY4lmGc_VMEKLOsVaTzNtv2IH8FalRloncZ3rcddAWJeJSGGjY7PxdO1usemHKyAO62YLZZJISK6WDXAG",
+",
           "X-Did": "2030dbbe3dd25cd1",
-          "User-Agent": "Magma Player/10",
+          "User-Agent": "PLPro/8",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
