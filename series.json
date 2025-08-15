@@ -8327,6 +8327,22 @@
                                     "url": "http://goovdme.967sd1f.homes/vod/EABE1470E2FA41B788B8ADF92810E5E0_media.ts"
                                 }
                             ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D8DEB88B611C47B3B58854C84A59C6FE_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/21D17DA4F768429690F136D0A233BB17_media.ts"
+                                }
+                            ]
                         }
                     ],
                     "tmdb_id": 230424,
