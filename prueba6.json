@@ -187,6 +187,21 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
+
+          {
+        "name": "FOX SPORTS GLOBAL",
+        "url": "http://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/452.m3u8",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "headers": {
+          
+          "X-Version": "8/4.0.7",
+          "X-Hash": "ijshNy1X9WtKYw6lm1B9hCMaM133e1kvUpbpspv0FkPzGBbtXVFG05jufKcYh6DnjN4xdBSgsC9DBSj1EwChodqjnXgMCpweDR4-8zAcAVmu12DkxNJeRto3fPbOU6hb6_bnkvE5BDkEk_9OzDYb0-j8KnPg4AJMpHStlzPGyMEym8nejbmQoOMzW3dToba3Muh8eVzm7GyPUzNaabi56Fhj0R-fBzFcmSwIiMpZbHWLKk4SRh5hNWR6ak4WCv_2tNu47G6iJGEh6YhtP9bKvahsCIMDd44Udu6Bf-Yfxu-guKO7zjGDfMyeKWw1UTgoc_xyR0nLT_ixx6F3va-Jw_ZDoeWJLHPz0t_eRcybsnSBvKPzvYRk5wks-8GBRWz9sEErthpJGPLD74NCSqv6u-2GFA65SyhWHAY5AT78gh-q5kzahmYsKZeNYhey7IxW9XZXWM8RkEDTBKk3ThdtN3qpGo-yM_EWfBYTa_VWThnZh86ntSvpxbQ-KrLYHfkK",
+          "X-Did": "41c193ad43d937ca",
+          "User-Agent": "PLPro/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
            
            
             {
@@ -3185,14 +3200,14 @@
     "samples": [
       {
         "name": "DIRECTV SPORTS",
-        "url": "http://magmaplayer.com/stream/secure/AGt2KmZlAS8lBQNmBwWuZQN6ZwNjAwcyZJRkBzWuLzL6ZzV0BGb1LwLjBzL0BTSsZGp1AQNkAwZmBI8lZQZjMTWvMGAxMQV1L2DkKmN.m3u8",
+        "url": "http://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/324.m3u8",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
         "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "6llefvWZQCHVxrNCX9OZp66HTa29kMnqZ3EgMd6ErrXoQoW3nxYIALtDbBfVkce-Dw5NMOQrX9C0sf-LpKgBzLoEcCTm7afd0OnKU7hoLSRjFuuulzv7HC5Rb_K2jLdttkVY5YXLUn1gZWkrqE-7GGvmwsWWnbEi_Z5U-C-uMkpcnhl-yXnNmzETLNmweCsGNdgVsjRFw3enWQiipulm9ivb8eH0EYB9y5ZnR11fYqXDkrk3d_UfNy4P7-PIMdQgOFHoQeHr6Cz2DtX9eLH40DmH2n9g3K56cZHyn-CdD-neuE-HxrFfOA3T35swyDTss-c0FhvuEBGQxHMvQUosSdrBmMG7_V5nE6JfyDJ9-Pqj14JE1hjKmcDyVFHUs-6MRLtwk-e6uzmQejic0pCO6FhhZpoUoPZf6x865oqdKcRW46qqkLCVTAJnq3Bj9C9gfVgf62dpTccaZ6D-Boew0nc-EoXUp8lL3L653J6m_uHciuvv14rOK748Ce5wVfDd-p81-A35qi_edApQpxzxRCETbx88JDipx9kCRAdEgXa6B5WO2FLEVpDZr6NPBlpD5yvgVfhg8l8Q_3gsgxPH8jTfFukY9Ox1UmM6wwBZ_xpynEz_I3fW4CoHVjc6aeyn",
-          "X-Did": "2030dbbe3dd25cd1",
-          "User-Agent": "Magma Player/10",
+          
+          "X-Version": "8/4.0.7",
+          "X-Hash": "ijshNy1X9WtKYw6lm1B9hCMaM133e1kvUpbpspv0FkPzGBbtXVFG05jufKcYh6DnjN4xdBSgsC9DBSj1EwChodqjnXgMCpweDR4-8zAcAVmu12DkxNJeRto3fPbOU6hb6_bnkvE5BDkEk_9OzDYb0-j8KnPg4AJMpHStlzPGyMEym8nejbmQoOMzW3dToba3Muh8eVzm7GyPUzNaabi56Fhj0R-fBzFcmSwIiMpZbHWLKk4SRh5hNWR6ak4WCv_2tNu47G6iJGEh6YhtP9bKvahsCIMDd44Udu6Bf-Yfxu-guKO7zjGDfMyeKWw1UTgoc_xyR0nLT_ixx6F3va-Jw_ZDoeWJLHPz0t_eRcybsnSBvKPzvYRk5wks-8GBRWz9sEErthpJGPLD74NCSqv6u-2GFA65SyhWHAY5AT78gh-q5kzahmYsKZeNYhey7IxW9XZXWM8RkEDTBKk3ThdtN3qpGo-yM_EWfBYTa_VWThnZh86ntSvpxbQ-KrLYHfkK",
+          "X-Did": "41c193ad43d937ca",
+          "User-Agent": "PLPro/8",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
