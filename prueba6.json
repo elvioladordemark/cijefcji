@@ -3692,7 +3692,7 @@
     "samples": [
       {
                 "name": "TNT sports es",
-                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNTHD/default.mpd",
+                "url": "https://Live-atv-cdn.izzigo.tv/2/out/u/dash/TNT/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dca8597f12f8d6928b55c1291c7bb300&key=36c8b3f51d474b95f0adad70899343e1",
                 "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
@@ -3700,35 +3700,35 @@
       
       {
                 "name": "TNT UK 1",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd",
+                "url": "https://ottb.Live.cf.ww.aiv-cdn.net/1hr-nitro/live/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ae26845bd33038a9c0774a0981007294&key=63ac662dde310cfb4cc6f9b43b34196d",
                 "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
             },
             {
                 "name": "TNT UK 2",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/1hr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d1708b185c6c4d7b37600520c7cc93c&key=1aace05f58d8edef9697fd52cb09f441",
                 "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
             },
             {
                 "name": "TNT UK 3",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/1hr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4e993aa8c1f295f8b94e8e9e6f6d0bfe&key=86a1ed6e96caab8eb1009fe530d2cf4f",
                 "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
             },
             {
                 "name": "TNT UK 4",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/1hr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e31a5a81caff5d07ea2411a571fc2e59&key=96c5ef69479732ae734f962748c19729",
                 "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
             },
             {
                 "name": "TNT UK 5",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/1hr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60c0d9b41475e01db4ffb91ed557fbcc&key=36ee40e58948ca15e3caba8d47b8f34b",
                 "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
@@ -3741,21 +3741,21 @@
       
       {
                 "name": "SKY LA LIGA",
-                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTSl6HD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c88dc6c668cac3b468d4a4c7e176ff3d&key=1aeb739de2c14ed0ad658ca8043208d8",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
             },
             {
                 "name": "SKY BUNDESLIGA",
-                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYSPORT24HD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
             },
             {
                 "name": "SKY PRIMERA LIGA",
-                "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd",
+                "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vcl021n07j)/master.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=002046c9a49b9ab1cdb6616bec5d26c3&key=d2f92f6b7edc9a1a05d393ba0c20ef9e",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
@@ -3763,21 +3763,21 @@
       
       {
                 "name": "SKY SPORTS",
-                "url": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTHD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=335511dfdf0d03bc06f1fdead5870b5a&key=1a022fb33ad3de4d4579b04966551488",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
             },
             {
                 "name": "SKY SPORTS 2",
-                "url": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTS2lHD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
             },
             {
                 "name": "SKY EVENTO 1",
-                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENTlHD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a3636a51227fa338cdddf5892d8a621c&key=1444ee3c4d08bf39454b914f797968eb",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
@@ -3786,7 +3786,7 @@
 
       {
                 "name": "SKY EVENTO 2",
-                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYLIVEEVENT2HD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYLlVEEVENT2HD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7239a58fb7388b222a834d549bf18d8f&key=8b04a883e88dbdebc43673d998ea1cb2",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
@@ -3795,7 +3795,7 @@
 
       {
                 "name": "SKY EVENTO 3",
-                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT3HD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLlVEEVENT3HD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=561a21ad50f806b77d328dedbe59f93e&key=edf3e70cc9de81a73e2a00fe9c0611a8",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
@@ -3803,7 +3803,7 @@
 
       {
                 "name": "SKY EVENTO 4",
-                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT4HD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLlVEEVENT4HD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a931b2e953695ffb0cfd38573e97ba33&key=4ddd99cc4fb168d7f0e20be8a3287100",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
@@ -3812,7 +3812,7 @@
 
       {
                 "name": "SKY EVENTO 5",
-                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYLlVEEVENT5HD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c89e84c52eae0428b7d2c8e887a48ec&key=758a1484f920a0f1aa73e95d5f2be225",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
@@ -3820,7 +3820,7 @@
             
             {
                 "name": "SKY FORMULA 1",
-                "url": "https://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7342/index.m3u8",
+                "url": "https://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZlUX/7342/index.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=002046c9a49b9ab1cdb6616bec5d26c3&key=d2f92f6b7edc9a1a05d393ba0c20ef9e",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
