@@ -3748,8 +3748,8 @@
             },
             {
                 "name": "SKY BUNDESLIGA",
-                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYSPORT24HD/default.mpd",
-                "type": "CLEARKEY",
+                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd",
+                "type": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpdCLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
             },
@@ -3770,7 +3770,7 @@
             },
             {
                 "name": "SKY SPORTS 2",
-                "url": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTS2lHD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYLIVEEVENT2HD/default.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=",
                 "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
