@@ -6931,6 +6931,23 @@
         ]
     },
     {
+        "name": "TRAILERS (MUY PRONTO)",
+        "samples": [
+            {
+                "name": "F1 la película",
+                "url": "http://goovdme.967sd1f.homes/vod/3C809B1536FD4E7285163A7DCF426DFB_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/yKIG63pXN89EfbTA7yKpwxAU1rf.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1Lz0CmgukN8KyzxIn8gGe4NLV3D.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aRdiaF4QQWN2mDeDwZuLzszwSdv.png",
+                "descripcion": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
+                "anio": "2025",
+                "genero": "Acción, Drama",
+                "duracion": "156 min",
+                "type": "PELICULA"
+            }
+        ]
+    },
+    {
         "name": "ACCIÓN",
         "samples": [
             {
@@ -8971,23 +8988,6 @@
                 "anio": "2025",
                 "genero": "Acción, Suspense",
                 "duracion": "87 min",
-                "type": "PELICULA"
-            }
-        ]
-    },
-    {
-        "name": "TRAILERS (MUY PRONTO)",
-        "samples": [
-            {
-                "name": "F1 la película",
-                "url": "http://goovdme.967sd1f.homes/vod/3C809B1536FD4E7285163A7DCF426DFB_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/yKIG63pXN89EfbTA7yKpwxAU1rf.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1Lz0CmgukN8KyzxIn8gGe4NLV3D.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/aRdiaF4QQWN2mDeDwZuLzszwSdv.png",
-                "descripcion": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
-                "anio": "2025",
-                "genero": "Acción, Drama",
-                "duracion": "156 min",
                 "type": "PELICULA"
             }
         ]
