@@ -3691,6 +3691,14 @@
     "name": "⚽DEPORTES TNTN UK",
     "samples": [
       {
+                "name": "TNT sports es",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNTHD/default.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dca8597f12f8d6928b55c1291c7bb300&key=36c8b3f51d474b95f0adad70899343e1",
+                "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
+            },
+      
+      {
                 "name": "TNT UK 1",
                 "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd",
                 "type": "CLEARKEY",
@@ -3708,7 +3716,7 @@
                 "name": "TNT UK 3",
                 "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=86a1ed6e96caab8eb1009fe530d2cf4f&key=86a1ed6e96caab8eb1009fe530d2cf4f",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4e993aa8c1f295f8b94e8e9e6f6d0bfe&key=86a1ed6e96caab8eb1009fe530d2cf4f",
                 "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
             },
             {
@@ -3720,9 +3728,9 @@
             },
             {
                 "name": "TNT UK 5",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/vl/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60c0d9b41475e01db4ffb91ed557fbc&key=36ee40e58948ca15e3caba8d47b8f34b",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60c0d9b41475e01db4ffb91ed557fbcc&key=36ee40e58948ca15e3caba8d47b8f34b",
                 "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
             }
       ]
