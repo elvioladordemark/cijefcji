@@ -64,13 +64,13 @@
         "samples": [
             {
                 "name": "ESPN PREMIUM",
-                "url": "https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1NjM5NjkxIiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VTUE4yX0FyZy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZWViNTEwZWY3MjExNjI4NiIsInNlc3Npb25faWQiOiI4MjQ5Nzk5MC0xNzU1NDY2ODkxLTY2NiIsImNsaWVudF9pZCI6IjQzNTQzOTYiLCJkZXZpY2VfaWQiOiI4MjQ5Nzk5MCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjIwMSIsInNvdXJjZXMiOls3Nyw4NSwxNDQsODYsODhdfQ==.NBaKE9StLPt-isi51iC6xfrdI5Aeg_1tzpvGM2Oy1DUEfjHJlu-ZJTpgiJ18gRA0gJhNQLZwJsJa791mEAMDmA==.rKu8XPNTsyMIGcXaoxtl6ftzYp9W58x0r3i3f8CMENjfNDcGbugBLHG47ORnJLQuvycLbAhdS2oKQH4jl_9aIw==//live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+                "url": "https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1NjM5NjkxIiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VTUE4yX0FyZy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZWViNTEwZWY3MjExNjI4NiIsInNlc3Npb25faWQiOiI4MjQ5Nzk5MC0xNzU1NDY2ODkxLTY2NiIsImNsaWVudF9pZCI6IjQzNTQzOTYiLCJkZXZpY2VfaWQiOiI4MjQ5Nzk5MCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjIwMSIsInNvdXJjZXMiOls3Nyw4NSwxNDQsODYsODhdfQ==.NBaKE9StLPt-isi51iC6xfrdI5Aeg_1tzpvGM2Oy1DUEfjHJlu-ZJTpgiJ18gRA0gJhNQLZwJsJa791mEAMDmA==//live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.py",
-                    "Referer": "https://web.app.flow.com.py/",
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
