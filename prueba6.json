@@ -275,7 +275,7 @@
             },
  {
                 "name": "ESPN 7 CLARO TV",
-                "url": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd",
+                "url": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?ck=eyI0OTAyMGZmYzhiNWNjNTQyYzQ2OTM3MGM0MDAwMDU2NSI6IjhlYTQyOTI1ODZkNGRmM2FiNGVmMTczNDUzZjZjNTU1In0%3D",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49020ffc8b5cc542c469370c40000565&key=8ea4292586d4df3ab4ef173453f6c555",
                 "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png",
