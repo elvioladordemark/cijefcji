@@ -54,10 +54,76 @@
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       }
 
-
-      
-      
 ]
+    },
+    {
+         "name": "COPA LIBERTADORES 8V0S DE FINAL-VUELTA 🏆",
+        "samples": [
+       {
+                "name": "19.00pm Velez vs Fortaleza",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/81392",
+                "icono": "https://statics.eleconomista.com.ar/2025/08/68a3208d29582.png",
+                "type": "HLS"
+            },
+            {
+                "name": "19.00pm Velez vs Fortaleza OPC2",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/66507",
+                "icono": "https://statics.eleconomista.com.ar/2025/08/68a3208d29582.png",
+                "type": "HLS"
+            },
+            {
+                "name": "21:30pm Racing vs Peñarol ",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/66507",
+                "icono": "https://www.elprimergrande.com/wp-content/uploads/2025/06/BV-2025-23-e1751305487415-1024x576.jpeg",
+                "type": "HLS"
+            },
+            {
+                "name": "21:30pm Racing vs Peñarol OPC2",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/81392",
+                "icono": "https://www.elprimergrande.com/wp-content/uploads/2025/06/BV-2025-23-e1751305487415-1024x576.jpeg",
+                "type": "HLS"
+            },
+            {
+                "name": "21:30pm Sao Paulo vs Atl. Nacional",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/61604",
+                "icono": "https://www.infobae.com/resizer/v2/B4YBQ3JXWZDMHMKWB7JTX5HYWA.jpg?auth=f5f2d503493644c3558473377d5b00abe5597dbae11fc1461b927c5605fd88f7&smart=true&width=992&height=558&quality=85",
+                "type": "HLS"
+            },
+            {
+                "name": "21:30pm Sao Paulo vs Atl. Nacional OPC2",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/81393",
+                "icono": "https://www.infobae.com/resizer/v2/B4YBQ3JXWZDMHMKWB7JTX5HYWA.jpg?auth=f5f2d503493644c3558473377d5b00abe5597dbae11fc1461b927c5605fd88f7&smart=true&width=992&height=558&quality=85",
+                "type": "HLS"
+            }
+
+
+          ]
+    },
+    {
+        "name": "COPA SUDAMERICANA 8VOS DE FINAL-VUELTA 🏆",
+        "samples": [
+            {
+                "name": "19:00pm Huracán vs Once Caldas",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/81388",
+                "icono": "https://i.postimg.cc/dVw34Y8d/Dise-o-sin-t-tulo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "19:00pm Huracán vs Once Caldas OPC2",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/72015",
+                "icono": "https://i.postimg.cc/dVw34Y8d/Dise-o-sin-t-tulo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "21:30pm Fluminense vs América de Cali",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/6270",
+                "icono": "https://media.tycsports.com/files/2025/08/17/873247/fluminense-vs-america-de-cali-en-vivo-como-llegan-al-partido_862x485.webp",
+                "type": "HLS"
+            }
+      
+
+    
+    ]
     },
     {
         "name": "⚽DEPPORTES ARGENTINA ​🇦🇷",
