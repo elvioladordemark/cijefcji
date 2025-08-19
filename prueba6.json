@@ -3306,7 +3306,27 @@
         "name": "RED ADVENIR",
         "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
         "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8"
-      }
+      },
+        {
+                "name": "FUTBOL CANAL 1 (SOLO EVENTOS)",
+                "url": "http://chve.lat:80/live/CAMBIOTV/Ecuadortvtelegrsm/32ae2922-6fef-4574-8a57-f6ff69ee5773.ts",
+                "icono": "https://tavilatam.com/wp-content/uploads/2025/02/TAVI_futbol-canal_bolivia-1.png",
+                "type": "HLS"
+            },
+            {
+                "name": "FUTBOL CANAL 2 (SOLO EVENTOS)",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/261261.ts",
+                "icono": "https://tavilatam.com/wp-content/uploads/2025/02/TAVI_futbol-canal_bolivia-1.png",
+                "type": "HLS"
+            },
+            {
+                "name": "FUTBOL CANAL 3 (SOLO EVENTOS)",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/261261.ts",
+                "icono": "https://tavilatam.com/wp-content/uploads/2025/02/TAVI_futbol-canal_bolivia-1.png",
+                "type": "HLS"
+            }
+
+      
     ]
   },
   {
