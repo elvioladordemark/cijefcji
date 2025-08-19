@@ -1852,7 +1852,93 @@
         "url": "http://200.121.48.17:8000/play/a14i/index.m3u8",
         "icono": "https://i.ibb.co/m5bbjySK/LOGO2.png"
       }
+
+
 ]
+    },
+    {
+        "name": "ARGENTINA OPC 3",
+        "samples": [
+            {
+                "name": "TV PUBLICA FHD",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/58809",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttOOJa4L2V28ntclvD4Eut3mXizKPd60dHQ&s",
+                "type": "HLS"
+            },
+            {
+                "name": "EL NUEVE",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/58814",
+                "icono": "https://yt3.googleusercontent.com/NvbzRmJuyeZp7HJC8Gly8pqzVSY36wdvhWmb0KQ36idjR-PJfoQpA13GgkWFvZ-Nd8_6xlwVFA=s900-c-k-c0x00ffffff-no-rj",
+                "type": "HLS"
+            },
+            {
+                "name": "TELEFE",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/163",
+                "icono": "https://television.com.ar/wp-content/uploads/2024/01/telefe-TAPA.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "EL TRECE",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/58797",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "CRONICA TV",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/69083",
+                "icono": "https://yt3.googleusercontent.com/EGyrGJo_3mJxohmZxkP0Ksma9r1J1fU1ORZkGkwJkGJKRyeu6aHTD_Zi-4AodbD0hLRnTzoCWA=s900-c-k-c0x00ffffff-no-rj",
+                "type": "HLS"
+            },
+            {
+                "name": "TELEMAX",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/58800",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFTZVS00fRQhhbeWgwDDiRDvZ-1QTyR06W8w&s",
+                "type": "HLS"
+            },
+            {
+                "name": "A 24",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/58804",
+                "icono": "https://play-lh.googleusercontent.com/TWQgJ9V0vOtKFxXvV0XElYV8WLher-1L0XnbHg0ZkDAJUt4Of63K7FLp5JE-rl1hOw",
+                "type": "HLS"
+            },
+            {
+                "name": "C5N",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/58805",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHStRIhzd2VO5orzkMKACCrngUM9yZFFgang&s",
+                "type": "HLS"
+            },
+            {
+                "name": "TYC SPORTS",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/58799",
+                "icono": "https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q",
+                "type": "HLS"
+            },
+            {
+                "name": "TNT SPORT HD",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/81660",
+                "icono": "https://media.licdn.com/dms/image/v2/D4E0BAQEVY6f4cOU50Q/company-logo_200_200/company-logo_200_200/0/1707274610685/tnt_sports_u_s_logo?e=2147483647&v=beta&t=9PauIrQ3cHf174faiZCo6z_g_9_7JsI5gNBKBgcP1fA",
+                "type": "HLS"
+            },
+            {
+                "name": "TNT SPORT SD",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/81661",
+                "icono": "https://media.licdn.com/dms/image/v2/D4E0BAQEVY6f4cOU50Q/company-logo_200_200/company-logo_200_200/0/1707274610685/tnt_sports_u_s_logo?e=2147483647&v=beta&t=9PauIrQ3cHf174faiZCo6z_g_9_7JsI5gNBKBgcP1fA",
+                "type": "HLS"
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/81659",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ESPN PREMIUM (opc2)",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/81658",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",
+                "type": "HLS"
+            }
+
+    
     },
     {
         "name": "INTERIOR DE ARGENTINA ​🇦🇷",
