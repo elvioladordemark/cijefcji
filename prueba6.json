@@ -102,11 +102,17 @@
     {
         "name": "COPA SUDAMERICANA 8VOS DE FINAL-VUELTA 🏆",
         "samples": [
-            {
-                "name": "19:00pm Huracán vs Once Caldas",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/81388",
+          {
+                "name": "19:00pm Huracán vs Once Caldas ",
+                "url": "https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1NjM5ODI3Iiwic2lwIjoiMTc5LjM4LjE2NS4yMzAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU0NTBmOTUwNzYwMDZlMTMiLCJzZXNzaW9uX2lkIjoiODI0ODQ0MzctMTc1NTQ2NzAyNy0zNzUiLCJjbGllbnRfaWQiOiIxMzEwMzQ3MyIsImRldmljZV9pZCI6IjgyNDg0NDM3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTM5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.AaXn4JJ9gv6gVaioSPDEcf_CN2k8FwvdHvPcEIHH8YZ8CoMhBVlBhcvUNJ1e-rVCRFCaf8r6AtOtWAtch1pHlw==//live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
                 "icono": "https://i.postimg.cc/dVw34Y8d/Dise-o-sin-t-tulo.png",
-                "type": "HLS"
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
             {
                 "name": "19:00pm Huracán vs Once Caldas OPC2",
