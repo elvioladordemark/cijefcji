@@ -60,41 +60,30 @@
          "name": "COPA LIBERTADORES 8V0S DE FINAL-VUELTA 🏆",
         "samples": [
        {
-                "name": "19.00pm Velez vs Fortaleza",
-                "url": "http://bantel-cdn4.iptvperu.tv:1935/Ff8cjS/espn2.stream/playlist.m3u8",
-                "icono": "https://statics.eleconomista.com.ar/2025/08/68a3208d29582.png",
-                "type": "HLS"
+                "name": "19.00pm ESTUDIANTES vs CERRO",
+              "url": "https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1ODYxMTY4Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY193bC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImMyYzcyM2EwNmU5MmZmOWEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjAxIiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.-9_2ifPF8yeuoLs12sbmNojMqqAHD-n9KGEs5INGMdsR1uvfvuqStRpq8n6hE5mABs4CtTaPaKwPNrRvUx3tkA==//live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
+                "icono": "https://i.postimg.cc/Xqzz1Jpt/69f0de05-bc1e-41b6-993e-86115b87c64b.jpg",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
             {
-                "name": "19.00pm Velez vs Fortaleza OPC2",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/66507",
-                "icono": "https://statics.eleconomista.com.ar/2025/08/68a3208d29582.png",
-                "type": "HLS"
-            },
-            {
-                "name": "21:30pm Racing vs Peñarol ",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/66507",
-                "icono": "https://www.elprimergrande.com/wp-content/uploads/2025/06/BV-2025-23-e1751305487415-1024x576.jpeg",
-                "type": "HLS"
-            },
-            {
-                "name": "21:30pm Racing vs Peñarol OPC2",
-                "url": "http://bantel-cdn4.iptvperu.tv:1935/PNwE9t/espn5.stream/playlist.m3u8",
-                "icono": "https://www.elprimergrande.com/wp-content/uploads/2025/06/BV-2025-23-e1751305487415-1024x576.jpeg",
-                "type": "HLS"
-            },
-            {
-                "name": "21:30pm Sao Paulo vs Atl. Nacional",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/61604",
-                "icono": "https://www.infobae.com/resizer/v2/B4YBQ3JXWZDMHMKWB7JTX5HYWA.jpg?auth=f5f2d503493644c3558473377d5b00abe5597dbae11fc1461b927c5605fd88f7&smart=true&width=992&height=558&quality=85",
-                "type": "HLS"
-            },
-            {
-                "name": "21:30pm Sao Paulo vs Atl. Nacional OPC2",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/81393",
-                "icono": "https://www.infobae.com/resizer/v2/B4YBQ3JXWZDMHMKWB7JTX5HYWA.jpg?auth=f5f2d503493644c3558473377d5b00abe5597dbae11fc1461b927c5605fd88f7&smart=true&width=992&height=558&quality=85",
-                "type": "HLS"
+                "name": "21.30pm INTERNACIONAL vs FLAMENGO",
+              "url": "https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1ODYxMTY4Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY193bC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImMyYzcyM2EwNmU5MmZmOWEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjAxIiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.-9_2ifPF8yeuoLs12sbmNojMqqAHD-n9KGEs5INGMdsR1uvfvuqStRpq8n6hE5mABs4CtTaPaKwPNrRvUx3tkA==//live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
+                "icono": "https://i.postimg.cc/QM3nyvdN/ce33740c-761d-4865-89e3-e692ed55f017.jpg",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
+            
 
 
           ]
@@ -103,7 +92,7 @@
         "name": "COPA SUDAMERICANA 8VOS DE FINAL-VUELTA 🏆",
         "samples": [
           {
-                "name": "19:00pm Huracán vs Once Caldas ",
+                "name": "19:00pm CIENCIANO vs BOLIVAR ",
                 "url": "https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1ODYxMTY4Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY193bC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImMyYzcyM2EwNmU5MmZmOWEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjAxIiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.-9_2ifPF8yeuoLs12sbmNojMqqAHD-n9KGEs5INGMdsR1uvfvuqStRpq8n6hE5mABs4CtTaPaKwPNrRvUx3tkA==//live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
@@ -115,30 +104,19 @@
                 }
             },
             {
-                "name": "19:00pm Huracán vs Once Caldas OPC2",
+                "name": "21:30pm U.CATOLICA vs ALIANZA LIMA",
                 "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/72015",
                 "icono": "https://i.postimg.cc/dVw34Y8d/Dise-o-sin-t-tulo.png",
                 "type": "HLS"
             },
             {
-                "name": "21:30pm Fluminense vs América de Cali",
+                "name": "21:30pm INDEPENDIENTE vs U. DE CHILE",
                 "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/6270",
                 "icono": "https://media.tycsports.com/files/2025/08/17/873247/fluminense-vs-america-de-cali-en-vivo-como-llegan-al-partido_862x485.webp",
                 "type": "HLS"
-            },
-
-          {
-                "name": "21:30pm Mushuc Runa vs Ind. del Valle",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/8277",
-                "icono": "https://elcomercio-depor-prod.web.arc-cdn.net/resizer/v2/GIYDEMRNGEYC2MJXKQ2TGORQGA.png?auth=57fe2e6e1be6f9f093e522558504471698f0ab3c545ac9a8fdfcfb0080402250&width=980&height=528&smart=true&quality=75",
-                "type": "HLS"
-            },
-            {
-                "name": "21:30pm Mushuc Runa vs Ind. del Valle OPC2",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/1378",
-                "icono": "https://elcomercio-depor-prod.web.arc-cdn.net/resizer/v2/GIYDEMRNGEYC2MJXKQ2TGORQGA.png?auth=57fe2e6e1be6f9f093e522558504471698f0ab3c545ac9a8fdfcfb0080402250&width=980&height=528&smart=true&quality=75",
-                "type": "HLS"
             }
+
+      
       
 
     
