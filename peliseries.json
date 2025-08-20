@@ -198,6 +198,18 @@
                 "genero": "Ciencia ficción, Aventura",
                 "duracion": "115 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Weapons",
+                "url": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/subscription/playlist.m3u8?cc=US&svcId=tvs.vds.1020670&a=1811842705&isExternal=true&brandId=tvs.sbd.3000&id=1094962608&l=en-US&aec=HD&webbrowser=true&xapsub=accepts-css",
+                "icono": "https://image.tmdb.org/t/p/original/aYEFAf5t3tQDztvlhrNiuMVijNp.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kyqM6padQzZ1eYxv84i9smNvZAG.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/2KMPlvfVDQcvzQdzUahdEXz2M2u.png",
+                "descripcion": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+                "anio": "2025",
+                "genero": "Terror, Misterio",
+                "duracion": "129 min",
+                "type": "PELICULA"
             }
         ]
     },
