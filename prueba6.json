@@ -153,13 +153,30 @@
     {
         "name": "COPA SUDAMERICANA 8VOS DE FINAL-VUELTA 🏆",
         "samples": [
-            {
+           
+          {
+        "name": "19:00pm Godoy Cruz vs Atlético Mineiro",
+        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "FireFox"
+        }
+      },
+          
+          {
                 "name": "19:00pm Godoy Cruz vs Atlético Mineiro = EspnSur",
                 "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/84547",
                 "icono": "https://s.yimg.com/fz/api/res/1.2/9cDMTicY0qKcledagn8EdA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0yMjg7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz00MDA-/https://s.yimg.com/am/60d/f7c7d756884468fbe366b13bcb073031",
                 "type": "HLS"
-            },
-            {
+           },
+            
+          
+          
+          {
                 "name": "19:00pm Godoy Cruz vs Atlético Mineiro =BeinXtra En Espanol",
                 "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/84549",
                 "icono": "https://s.yimg.com/fz/api/res/1.2/9cDMTicY0qKcledagn8EdA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0yMjg7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz00MDA-/https://s.yimg.com/am/60d/f7c7d756884468fbe366b13bcb073031",
@@ -171,7 +188,22 @@
                 "icono": "https://s.yimg.com/fz/api/res/1.2/9cDMTicY0qKcledagn8EdA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0yMjg7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz00MDA-/https://s.yimg.com/am/60d/f7c7d756884468fbe366b13bcb073031",
                 "type": "HLS"
             },
-            {
+           
+          {
+        "name": "21:30pm Lanús vs Central Córdoba SdE",
+        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "FireFox"
+        }
+      },
+          
+          
+          {
                 "name": "21:30pm Lanús vs Central Córdoba SdE = Espn2Colombia",
                 "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/84561",
                 "icono": "https://up.yimg.com/ib/th?id=OVFT.qo9l2ShOkEbYrqSFsYvsXi&pid=News&w=400&h=228&c=14&qlt=90&rs=1",
