@@ -64,7 +64,7 @@
         "samples": [
             {
                 "name": "ESPN PREMIUM",
-                "url": "https://edge-mix02-coe.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjQxMjUzIiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYzY1MTVjYTdiNzQwNzgyZSIsInNlc3Npb25faWQiOiI4MjUyNDc2NS0xNzU2MDY4NDUzLTg0NCIsImNsaWVudF9pZCI6IjEzMTIxODg0IiwiZGV2aWNlX2lkIjoiODI1MjQ3NjUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMjAiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDg2LDg4XX0=.kXF3b9U0ZL2RlM5Yl8tniVMxWiI6ffYid9ph_rixKac02OJFVr7VcXj-UydaHZDL9wR2O6hafIjQ9l1bSVbnUw==//live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+                "url": "https://edge01-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MDAwMTIxIiwic2lwIjoiMTAuMTMyLjIyMi4yMjQiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5MzRkMGVkM2Y3NjI5ODY3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.s5qVPtoDwt0fA0jrQA3PCw6-SnF-6FA4W6d-6FYyElIWSnK15wshorPWby0_PiFBvSY-KOLTT4STKI68BG_K5g==//live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
