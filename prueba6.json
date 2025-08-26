@@ -2350,6 +2350,19 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
       },
+{
+        "name": "BAND",
+        "url": "https://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/WzkPwCzX/download-43.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		
       {
         "name": "GLOBO SP",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/80.m3u8",
@@ -3325,28 +3338,28 @@
       
       {
         "name": "Premier 2",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/8a3b330a1e3a683fc270be1643626c39.m3u8",
+        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/808.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
       {
         "name": "Premier 3",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/42d2ad7a55882c7285e7f32c242fcde2.m3u8",
+        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/809.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
       {
         "name": "Premier 4",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/204c2c6486a7069462de952c566d6a55.m3u8",
+        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/762.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
       {
         "name": "Premier 5",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/4cf58c5b3f4c65245db0159cc178e341.m3u8",
+        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/763.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
@@ -3374,7 +3387,7 @@
       },
       {
         "name": "SPORTV 1",
-        "url": "http://icomplay.net:80/Rubian/Premium/697862.tshttp://icomplay.net:80/Rubian/Premium/697862.ts",
+        "url": "http://189.76.71.35:8555/live/stone_modular/stone_modular/277.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
@@ -3385,7 +3398,7 @@
       },
       {
         "name": "SPORTV 2",
-        "url": "https://01.xn--gckvbk4cxf3c1c.xyz/hls/cndoT2IvaG5QL1NHVkNPMDFlc2ZGTSsweDhLcllnVlViVWt6SGN2cC9vNUlrZERwdU1JSUZnaXQveWgvVW9pTnkrdC84L3JaM2hYS2hTRW9nSEJlY2UzRXc3c0Fmcmp5KzM1NnJYaEk1djJmVytnb1l2eVd5eXBFejJoNWR3SXFtSi84UGo4ZW41TzhHZUxjRDZLSGNRPT0,/Rko3VWRCK0RlZVJOdExCMU56WGJjcis2RkRnVUN4eW1rRXZablBxdVQ2MzFsMDVIaHl5Sml1S0Jaenhjb2ZhZzUycFZKbis4VUV2WXdSNndPcEdlQ1dLdXlCcWE1ZUhDT0lzNCtzWGpBaHM9/sportv/tracks-v1a1/m3u8_gx_mono.m3u8",
+        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/759.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
@@ -3396,7 +3409,7 @@
       },
       {
         "name": "SPORTV 3",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/63e0fc3c89178757a6545e4add3f7ad4.m3u8",
+        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/760.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
@@ -3408,7 +3421,7 @@
 
 {
         "name": "ESPN BR",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/65504723a3c5fe592110ae3c8b92cab2.m3u8",
+        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/287.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
         "headers": {
@@ -3420,7 +3433,7 @@
 
       {
         "name": "ESPN 2 BR",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/add1e481fbec7d4ac4bfbc8c4ec86edf.m3u8",
+        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/662.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
         "headers": {
@@ -3457,8 +3470,8 @@
       },
 
       {
-        "name": "ESPN 5 BR",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/7a136860f932f1bbca245e199cffd592.m3u8",
+        "name": "ESPN 6 BR",
+        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/920.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
         "headers": {
