@@ -42,7 +42,37 @@
         "type": "HLS",
         "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
       }
+		
+]
+    },
+    {
+        "name": "RALLY DEL PARAGUAY",
+        "samples": [
+            {
+                "name": "RALLY 1",
+                "url": "https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
 
+           {
+                "name": "RALLY 2",
+                "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
 
       
       
