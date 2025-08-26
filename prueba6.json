@@ -262,6 +262,20 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
+{
+                "name": "ESPN DEPORTES",
+                "url": "http://199.127.63.143:8989/158831_.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/18mgscd6hfjucorty09e3/espn6.json?rlkey=82ogpotgsmxryc9dik5n8s8bc&st=m240mw77&dl=0",
+                "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+			
             {
                 "name": "FOX SPORTS",
                 "url": "https://edge-vod04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjQzMTk3Iiwic2lwIjoiMTc5LjM4LjE4My4yMDkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImVmYWRmZTcyMGVkNDQwNDAiLCJzZXNzaW9uX2lkIjoiODI0NTE0MjYtMTc1NjA3MDM5Ny02ODAiLCJjbGllbnRfaWQiOiIxMzI3MjAxNSIsImRldmljZV9pZCI6IjgyNDUxNDI2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIxMzgiLCJzb3VyY2VzIjpbMTQ0LDg2XX0=.wjZkAOl8psHp0q2wShRpSa-5PfnjPZ1p1xVUXS6QXM0GNWP49PKDi9vAuCPtMjqqoQogLEDz3nLcGJa2eHmQOA==//live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
@@ -3762,16 +3776,10 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8",
         "icono": "https://i.postimg.cc/MGV5vpFx/images.png"
       },
-      {
-        "name": "FORMULA 1",
-        "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8",
-        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-      },
+ 
       {
         "name": "FORMULA 1 FULL HD",
-        "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
+        "url": "http://199.127.63.143:8989/278826_.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa",
         "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
