@@ -2472,7 +2472,7 @@
 ]
   },
   {
-    "name": "🇧🇷CANALES DE BRASIL",
+    "name": "🇧🇷CANALES DE BRASIL Y CINES PREMIUM",
     "samples": [
       {
         "name": "SBT",
@@ -2515,6 +2515,18 @@
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/GhCx32Wk/download-14.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		{
+        "name": "HBO BR",
+        "url": "https://cloud7-l2-user9874524101-2.s27-usa-cloudfront-net.online/secret_key/41a14a40666d2ce594a1e5e092dd3eae.m3u8",
+        "type": "HLS",
+        "icono": "https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg",
         "headers": {
           "Referer": "https://embedtv-2.icu/",
           "Origin": "https://embedtv-2.icu",
