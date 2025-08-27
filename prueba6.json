@@ -1384,7 +1384,58 @@
                 "icono": "https://mediosenparaguay.com/gallery_gen/cae134f3e8f4e494d2759fd7fc84854c_300x300_fill.jpg"
             }
 
-      
+			]
+    },
+    {
+        "name": "CAMARAS EN VIVO PARAGUAY 🇵🇾",
+        "samples": [
+            {
+                "name": "CAMARA 1 CDE",
+                "url": "https://video02.logicahost.com.br/brimostech/camatg01.stream/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/N0tGFc1X/download-20.png"
+            },
+
+			{
+                "name": "CAM PUENTE DE LA AMISTAD",
+                "url": "https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidoparaguai.stream/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/N0tGFc1X/download-20.png"
+            },
+
+      {
+                "name": " BR 277 SENTIDO PUENTE DE LA AMISTAD",
+                "url": "https://video04.logicahost.com.br/portovelhomamore/fozaduanapontedaamizade.stream/chunklist_w664369504.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/N0tGFc1X/download-20.png"
+            },
+
+			{
+                "name": " BR 277 SENTIDO ADUANA",
+                "url": "https://video04.logicahost.com.br/portovelhomamore/fozaduanapontedaamizade.stream/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/N0tGFc1X/download-20.png"
+            },
+
+			{
+                "name": "PUENTE DE LA AMISTAD PY",
+                "url": "https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidoparaguai.stream/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/N0tGFc1X/download-20.png"
+            },
+
+			{
+                "name": "PUENTE DE LA AMISTAD BR",
+                "url": "https://video04.logicahost.com.br/portovelhomamore/fozpontedaamizadesentidobrasil.stream/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/N0tGFc1X/download-20.png"
+            },
       
 
 ]
