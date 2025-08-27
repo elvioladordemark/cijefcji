@@ -5584,6 +5584,102 @@
           "Connection": "Keep-Alive"
         }
       }
+
+		 ]
+    },
+    {
+        "name": "RADIOS PY📻",
+        "samples": [
+           
+			{
+                "name": "RADIO DISNEY(PY)",
+                "url": "https://copaco.desdeparaguay.net/trans970/trans970/chunklist_w1549865893.m3u8?k=d6a5ac63a7f870c659b560280395bf139520650076c6caa4756a0a2e4143fd07&exp=1756271635",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/cHGzZkWF/radiodisney.png"
+            },
+
+			{
+                "name": "RADIO E40(PY)",
+                "url": "https://copaco.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8?k=fa68e89bfa344808b1f7ea0cda8201560d5f988c26c955357e541cc479b82a36&exp=1756271766",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/CxWPHrRw/estacion40.png"
+            },
+
+			{
+                "name": "RADIO FARRA(PY)",
+                "url": "https://copaco.desdeparaguay.net/movfarra/movfarra.stream/playlist.m3u8?k=7fab3152a283d577fff2bbb460ce6116eec0d464edeea0ac5865deff6e41126c&exp=1756271867",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/7L3V1HvN/farra.png"
+            },
+
+			{
+                "name": "RADIO VENUS(PY)",
+                "url": "https://copaco.desdeparaguay.net/movvenus/movvenus.stream/playlist.m3u8?k=e26033440ba52ab7ca6c917e6c5fdc58cdbc38464f6c57100317e3c72c290133&exp=1756272039",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/kMzb50zM/venus.png"
+            },
+
+			{
+                "name": "RADIO VIBRAS(PY)",
+                "url": "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8?k=a3e2379b7df40f78873a515995aa702f01bb70b7f54a60b0e8877b1c7247f0f4&exp=1756271983",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/43PcNmkj/vibras.png"
+            },
+			
+			
+			{
+                "name": " RADIO ABC CARDINAL 730(PY)",
+                "url": "https://copaco.desdeparaguay.net/trans730/trans730/playlist.m3u8?k=29a23cc4817f174766139c183a3aeaf2b44e06fb3b5ff17c4651622aa9602af3&exp=1756270802",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/fyHrhwBN/730.png"
+            },
+       {
+                "name": "RADIO 1 DE MARZO(PY)",
+                "url": "https://copaco.desdeparaguay.net/trans730/trans730/chunklist_w588925894.m3u8?k=29a23cc4817f174766139c183a3aeaf2b44e06fb3b5ff17c4651622aa9602af3&exp=1756270802",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/fyHrhwBN/730.png"
+            },
+
+			   {
+                "name": "RADIO CARITAS(PY)",
+                "url": "https://copaco.desdeparaguay.net/trans680/trans680/playlist.m3u8?k=529f8dbfafcf8db71f155310e06d8aa09c21dbfcdf945790e300cb4c5ca4ec27&exp=1756271147",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/vHgzmLm9/680.png"
+            },
+
+			 {
+                "name": "RADIO CENTRAL 1140(PY)",
+                "url": "https://copaco.desdeparaguay.net/mov1140/mov1140.stream/playlist.m3u8?k=144bda5ea3ec6cc07cbc7335f9c0b58abfb0b04d6729368862066f1d2aa81d2a&exp=1756271399",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/MGxbtCmb/1140.png"
+            },
+			{
+                "name": "RADIO CHACO BOREAL(PY)",
+                "url": "https://copaco.desdeparaguay.net/mov1330/mov1330.stream/playlist.m3u8?k=d3e0a6f095fbbd400d28776bf710fece46f4afb552ea784ca3cbaf7d1b6abf80&exp=1756271307",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/DyXrhvCP/1330.png"
+            },
+			{
+                "name": "RADIO ÑANDUTI(PY)",
+                "url": "https://copaco.desdeparaguay.net/mov1020/mov1020.stream/playlist.m3u8?k=b8210b2e4990284d1f03bac94b9d4524078c00bf4647fcdd812906bc3df1ba29&exp=1756271471",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/02DVf0qv/1020.png"
+            },
+
+			{
+                "name": "RADIO MONUMENTAL(PY)",
+                "url": "https://copaco.desdeparaguay.net/trans1080/trans1080/playlist.m3u8?k=8d44f48aa874cfa0fcf631f378947308de9e343ba120605fe79e1973deecbcfe&exp=1756271542",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/6Qjc3HCr/1080.png"
+            },
+
+			{
+                "name": "RADIO UNIVERSO(PY)",
+                "url": "https://copaco.desdeparaguay.net/trans970/trans970/playlist.m3u8?k=d6a5ac63a7f870c659b560280395bf139520650076c6caa4756a0a2e4143fd07&exp=1756271635",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/q7Rc98Wz/970.png"
+            }
+
       
       
    ]
