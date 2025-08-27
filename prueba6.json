@@ -2532,7 +2532,80 @@
           "Origin": "https://embedtv-2.icu",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
-      }
+      },
+
+		{
+        "name": "HBO 2 BR",
+        "url": "https://cloud7-l2-user9874524101-2.s27-usa-cloudfront-net.online/secret_key/503d24d48589d5fe0404232f6ea79729.m3u8",
+        "type": "HLS",
+        "icono": "https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		{
+        "name": "HBO FAMILY BR",
+        "url": "https://cloud7-l2-user9874524101-2.s27-usa-cloudfront-net.online/secret_key/ed64a70b3c55e134c097bb0b68eccbbe.m3u8",
+        "type": "HLS",
+        "icono": "https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		{
+        "name": "HBO MUNDY BR",
+        "url": "https://cloud7-l2-user9874524101-2.s27-usa-cloudfront-net.online/secret_key/3634c417580934c6adff754bdf33eaf6.m3u8",
+        "type": "HLS",
+        "icono": "https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		{
+        "name": "HBO POP BR",
+        "url": "https://cloud7-l2-user9874524101-2.s27-usa-cloudfront-net.online/secret_key/706517bc532321d32621e40d7b1427ff.m3u8",
+        "type": "HLS",
+        "icono": "https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+{
+        "name": "HBO PLUS BR",
+        "url": "https://cloud7-l2-user9874524101-2.s27-usa-cloudfront-net.online/secret_key/ab26acc3964f32afd15f2b0cd308e4bb.m3u8",
+        "type": "HLS",
+        "icono": "https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		{
+        "name": "HBO EXTREME BR",
+        "url": "https://cloud7-l2-user9874524101-2.s27-usa-cloudfront-net.online/secret_key/d366e887a78cfea0a840384f84bd2887.m3u8",
+        "type": "HLS",
+        "icono": "https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		
 
 ]
   },
