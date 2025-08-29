@@ -5370,8 +5370,71 @@
         "icono": "https://i.postimg.cc/pX47JBKH/download-19.jpg",
         "url": "https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8"
       }
-      
 
+		]
+      },
+  {
+    "name": "NETFLIX 24/7",
+    "samples": [
+      {
+        "name": "NETFLIX 1",
+        "icono": "https://i.postimg.cc/ZRgqB11x/download-21.png",
+        "url": "http://104.238.222.251:8989/168559_.m3u8"
+      },
+		  {
+        "name": "NETFLIX 2",
+        "icono": "https://i.postimg.cc/ZRgqB11x/download-21.png",
+        "url": " http://104.238.222.251:8989/168560_.m3u8"
+      },
+
+		  {
+        "name": "NETFLIX 3",
+        "icono": "https://i.postimg.cc/ZRgqB11x/download-21.png",
+        "url": " http://104.238.222.251:8989/168561_.m3u8"
+      },
+
+
+		  {
+        "name": "NETFLIX 4",
+        "icono": "https://i.postimg.cc/ZRgqB11x/download-21.png",
+        "url": "http://104.238.222.251:8989/168562_.m3u8"
+      },
+
+		  {
+        "name": "NETFLIX 5",
+        "icono": "https://i.postimg.cc/ZRgqB11x/download-21.png",
+        "url": "http://104.238.222.251:8989/168564_.m3u8"
+      },
+
+		  {
+        "name": "NETFLIX 6",
+        "icono": "https://i.postimg.cc/ZRgqB11x/download-21.png",
+        "url": "http://104.238.222.251:8989/168565_.m3u8"
+      },
+
+		  {
+        "name": "NETFLIX 7",
+        "icono": "https://i.postimg.cc/ZRgqB11x/download-21.png",
+        "url": "http://104.238.222.251:8989/168566_.m3u8"
+      },
+
+		  {
+        "name": "NETFLIX 8",
+        "icono": "https://i.postimg.cc/ZRgqB11x/download-21.png",
+        "url": "http://104.238.222.251:8989/168568_.m3u8"
+      },
+
+		  {
+        "name": "NETFLIX 9",
+        "icono": "https://i.postimg.cc/ZRgqB11x/download-21.png",
+        "url": "http://104.238.222.251:8989/168569_.m3u8"
+      },
+
+		  {
+        "name": "NETFLIX 10",
+        "icono": "https://i.postimg.cc/ZRgqB11x/download-21.png",
+        "url": "http://104.238.222.251:8989/168570_.m3u8"
+      }
 
     ]
   },
