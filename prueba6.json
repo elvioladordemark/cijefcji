@@ -4253,6 +4253,72 @@
                 }
             }
 
+			]
+    },
+    {
+        "name": "PACK UNIVERSAL IZZIGO🎥",
+        "samples": [
+              {
+                "name": "UNIVERSAL CINEMA",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSALCINEMAHD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=44a9e6477651b3b47f3a2b727d562835&key=1b87070d9fad5dee0a35ff014a2063a7",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            },
+            {
+                "name": "UNIVERSAL CRIME",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSALCRIMEHD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/bR7xSJJv/1684337272706-universal-crime.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3a908a5d38a9c496ced27faa6bf5ff8e&key=85a5835a92bd7f87faf5ffbcb8814d33",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "UNIVERSAL PREMIERE",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSALPREMIEREHD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9ccd5dd0c86a40ed719b83e1801bcd88&key=6d5e62525837ba9b7e09cfb8716116ba",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            },
+            {
+                "name": "UNIVERSAL REALITY",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSALREALITYHD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/LGyMZY7/universal-reality-logo-png-seeklogo-527123.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=02a02bce7a3c518386e0da4e5ec0188d&key=071c7cc4c2f33e1e2d3fa3807d1bbbcc",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            },
+            {
+                "name": "UNIVERSAL COMEDIA",
+                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSALCOMEDYHD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=92b162b0b1d0dbb1e401f5845b4ce109&key=83b7ae276784a7f78f4a0c1190974d5c",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
+
 
 			
 
