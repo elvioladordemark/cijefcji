@@ -115,10 +115,10 @@
 ]
     },
     {
-        "name": "RALLY DEL PARAGUAY",
+        "name": "EVENTOS FLOW",
         "samples": [
             {
-                "name": "EVENTOS FLOW 1",
+                "name": "EVENTOS FLOW 1 PY",
                 "url": "https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2NjY0MTAxIiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1NOVF9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZjQ4N2U2OTZmZDkyNTFkNSIsInNlc3Npb25faWQiOiI4MjkyMjg3NC0xNzU2NDkxMzAxLTgxMSIsImNsaWVudF9pZCI6IjY1ODQwMjkiLCJkZXZpY2VfaWQiOiI4MjkyMjg3NCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI1OSIsInNvdXJjZXMiOls3Nyw4NSwxNDQsODYsODhdfQ==.EiMNArwe8zbqC1yREEmgWOxmsLmSZaPsrmhI2WqCupvJkQwr2uS4zWTuQXsyHBTJG-QjI1lcco924qtKvQOD3A==/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://i.postimg.cc/HW3PbtWS/images-1.png",
@@ -128,21 +128,7 @@
                     "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-
-           {
-                "name": "EVENTOS FLOW 2",
-                "url": "https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2NjY0MTAxIiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1NOVF9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZjQ4N2U2OTZmZDkyNTFkNSIsInNlc3Npb25faWQiOiI4MjkyMjg3NC0xNzU2NDkxMzAxLTgxMSIsImNsaWVudF9pZCI6IjY1ODQwMjkiLCJkZXZpY2VfaWQiOiI4MjkyMjg3NCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI1OSIsInNvdXJjZXMiOls3Nyw4NSwxNDQsODYsODhdfQ==.EiMNArwe8zbqC1yREEmgWOxmsLmSZaPsrmhI2WqCupvJkQwr2uS4zWTuQXsyHBTJG-QjI1lcco924qtKvQOD3A==/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/HW3PbtWS/images-1.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0900ce66b82de0fd07aa8f12a48f29a2&key=e5556dba688fda637374ab5c87d7cda6",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             }
-			
 
 			 ]
     },
