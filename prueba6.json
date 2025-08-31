@@ -119,7 +119,7 @@
         "samples": [
             {
                 "name": "EVENTOS FLOW 1",
-                "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
+                "url": "https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2NjY0MTAxIiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1NOVF9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZjQ4N2U2OTZmZDkyNTFkNSIsInNlc3Npb25faWQiOiI4MjkyMjg3NC0xNzU2NDkxMzAxLTgxMSIsImNsaWVudF9pZCI6IjY1ODQwMjkiLCJkZXZpY2VfaWQiOiI4MjkyMjg3NCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI1OSIsInNvdXJjZXMiOls3Nyw4NSwxNDQsODYsODhdfQ==.EiMNArwe8zbqC1yREEmgWOxmsLmSZaPsrmhI2WqCupvJkQwr2uS4zWTuQXsyHBTJG-QjI1lcco924qtKvQOD3A==/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://i.postimg.cc/HW3PbtWS/images-1.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
@@ -132,9 +132,9 @@
 
            {
                 "name": "EVENTOS FLOW 2",
-                "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
+                "url": "https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2NjY0MTAxIiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1NOVF9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZjQ4N2U2OTZmZDkyNTFkNSIsInNlc3Npb25faWQiOiI4MjkyMjg3NC0xNzU2NDkxMzAxLTgxMSIsImNsaWVudF9pZCI6IjY1ODQwMjkiLCJkZXZpY2VfaWQiOiI4MjkyMjg3NCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI1OSIsInNvdXJjZXMiOls3Nyw4NSwxNDQsODYsODhdfQ==.EiMNArwe8zbqC1yREEmgWOxmsLmSZaPsrmhI2WqCupvJkQwr2uS4zWTuQXsyHBTJG-QjI1lcco924qtKvQOD3A==/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg",
+                "icono": "https://i.postimg.cc/HW3PbtWS/images-1.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0900ce66b82de0fd07aa8f12a48f29a2&key=e5556dba688fda637374ab5c87d7cda6",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
