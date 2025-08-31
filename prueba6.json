@@ -619,7 +619,7 @@
            
             {
                 "name": "ESPN",
-                "url": "https://cdn-py.cvattv.com.ar/live/c7eds//live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
+                "url": "https://cdn-py.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
                 "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
@@ -631,7 +631,7 @@
             },
             {
                 "name": "ESPN 2",
-                "url": "https://cdn-py.cvattv.com.ar/live/c7eds//live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd",
+                "url": "https://cdn-py.cvattv.com.ar/live/c4eds//live/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e",
                 "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
@@ -643,7 +643,7 @@
             },
             {
                 "name": "ESPN 3",
-                "url": "https://cdn-py.cvattv.com.ar/live/c7eds//live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd",
+                "url": "https://cdn-py.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/5pmsn36mgpxkgzgul0z0t/espn3.json?rlkey=vviwugbaa85er0cnpd1tzuw24&st=kbezymwy&dl=0",
                 "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png",
@@ -655,7 +655,7 @@
             },
             {
                 "name": "ESPN 4",
-                "url": "https://cdn-py.cvattv.com.ar/live/c7eds//live/c3eds/ESPNHD/SA_Live_dash_enc_C/ESPNHD.mpd",
+                "url": "https://cdn-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3sh7b04gzfmu7ivkj651x/espn4.json?rlkey=mxjzhate18x9ie317u2phv6dn&st=mfe42eya&dl=0",
                 "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png",
