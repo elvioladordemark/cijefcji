@@ -46,37 +46,6 @@
 ]
     },
     {
-        "name": "EVENTOS MLS",
-        "samples": [
-            {
-                "name": "INTER DE MIAMI VS ORLANDO",
-                "url": "http://icomplay.net:80/Rubian/Premium/697866.ts",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/Wpkvk7yn/download-49.jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-
-			{
-                "name": "INTER DE MIAMI VS ORLANDO 2",
-                "url": "https://nxt.plus:8443/live/conejito/conejito/265286.ts",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/Wpkvk7yn/download-49.jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }
-		
-]
-    },
-    {
         "name": "RALLY DEL PARAGUAY",
         "samples": [
             {
@@ -103,121 +72,6 @@
                     "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-
-			{
-                "name": "RALLY 3",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e31a5a81caff5d07ea2411a571fc2e59&key=96c5ef69479732ae734f962748c19729",
-                "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg"
-            }
-]
-    },
-    {
-        "name": "EVENTOS FLOW",
-        "samples": [
-            {
-                "name": "EVENTOS FLOW 1 PY",
-                "url": "https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2ODM1MjkxIiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9URUxFRlVUVVJPX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwZjQwNDE2YzA5MjhiMWY5Iiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTY2NjI0OTEtMjU5IiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjU5Iiwic291cmNlcyI6Wzc3LDg1LDg2LDg4XX0=.NVChUnPZgghnQZWh3kfgsLed5FmfGtn7sGgb3AyJFivm5WNuRr20ytJUgqK6aDRo5eFw3E5QVRGbpvcXMI3Q-Q==/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/HW3PbtWS/images-1.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }
-
-			 ]
-    },
-    {
-        "name": "??EVENTOS DISNEY+",
-        "samples": [
-            {
-                "name": "**SE ACTIVAN 10MIN ANTES**",
-                "url": "http://miarea.vip:8080/telegram@estoestvPR0M0/jV5XgSyVGysy/124708",
-                "icono": "https://i.postimg.cc/NMrK0Vjw/stopwatch-10-minutes-icon-illustration-in-flat-style-timer-illustration-on-isolated-background-time.png",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 1 • Golf European Masters",
-                "url": "http://icomplay.net:80/Rubian/Premium/156549.ts",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 2 • Ciclismo La Vuelta Etapa #6",
-                "url": "http://icomplay.net:80/Rubian/Premium/86641.ts",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 3 • TENIS US OPEN",
-                "url": "http://icomplay.net:80/Rubian/Premium/462664.ts",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 4 • TENIS US OPEN",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/61586",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 5 • UEFA Champions SORTEO",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/84900",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 6 • Torneo Proyección 2025",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/1378",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 7 • TENIS US OPEN",
-                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/591980.ts",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 8 •  MLB",
-                "url": "http://icomplay.net:80/Rubian/Premium/718797.ts",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 9 • CONCACAF Central American Cup",
-                "url": "http://icomplay.net:80/Rubian/Premium/718797.ts",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 10 •  CONCACAF Central American Cup",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/84900",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 11 •",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/64103",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 12 •",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
-            },
-            {
-                "name": "EVENTO 13 • ",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/64104",
-                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
-                "type": "HLS"
             }
 
       
@@ -3809,16 +3663,19 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
       },
-	  
-	  {
+      {
         "name": "TUDN",
-        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/952.m3u8",
+        "url": "http://magmaplayer.com/stream/m3u8/ZGxlKmx1Zy8kAQthZwVlYwRmAP4kZmIsZGp0ZmZj/hls/952.m3u8",
         "icono": "https://i.ibb.co/5XFLRVY0/TUDN-LOGO-COLOR.png",
         "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "
-      
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
       {
         "name": "WIN SPORTS",
         "url": "http://magmaplayer.com/stream/m3u8/ZGRjKmRjAQEsZwtjAwbkZQIyBwVmBwV3MQp6AGRkZQbkZzWyBzZjMGL6BTH1My8kAmDmZwx/hls/1044.m3u8",
