@@ -1621,7 +1621,15 @@
     {
         "name": "INTERIOR DE ARGENTINA ​🇦🇷",
         "samples": [
-            {
+           {
+                "name": "LATINA TV MENDOZA",
+                "url": "https://stmvideo6.livecastv.com/latina/latina/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/tRVNZw7G/download-22.png"
+            },
+			
+			
+			{
                 "name": "9 Nordeste",
                 "url": "https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTg4NzM0Iiwic2lwIjoiMTc5LjM4LjIxMy4xNDciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNmYzNGRkZmJkZmVhMDMyIiwic2Vzc2lvbl9pZCI6IjgxODI3Njk4LTE3NTQ0MTU5MzMtNDQ2IiwiY2xpZW50X2lkIjoiMTMyMjM4MjIiLCJkZXZpY2VfaWQiOiI4MTgyNzY5OCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjgxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.KzoY43qUlakxz72qdILU4PyFt42dTuLq_2pUNx1sDxYFYhh12FmuGxCIlNEGBFBZGMtzEjGhfyXEQbTvZyYrdg==//live/c4eds/CH_9_Resistencia/SA_Live_dash_enc/CH_9_Resistencia.mpd",
                 "type": "CLEARKEY",
