@@ -894,7 +894,22 @@
                     "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            }, 
+			
+			{
+                "name": "TELEFUTURO FLOW HD 2",
+                "url": "https://qn-01282-slo-1-07-1---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2ODU4MTEwIiwic2lwIjoiMTc5LjM4LjIwMy4xMDIiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE5MzVkNWU2MzZjYWRmMTgiLCJzZXNzaW9uX2lkIjoiODMwMzk3MTItMTc1NjY4NTMxMC02MTMiLCJjbGllbnRfaWQiOiIxMzEwMzQ3MyIsImRldmljZV9pZCI6IjgzMDM5NzEyIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjgyIiwic291cmNlcyI6Wzg2XX0=.SSoO2M4FqXqMSR0Eml4X5Bt-DegsYFyUoh3yCDe85P-e8NFWaYfu6uHHXR8J-m-YKUBLox3XgvTbcy-f7Ty4Ng==//live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
+                "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             },
+
+			
             {
                 "name": "RPC 🇵🇾",
                 "url": "https://edge-live01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2ODUxOTg2Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2ODNfTEEtVEVMRV9UXzIwMjUwODMxMjEwMC0yMDI1MDgzMTIzMDBfT05fQW5ldmlhNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZWNhODljZmMxZmJiZThiZCIsInNlc3Npb25faWQiOiI4MjkyMjg3NC0xNzU2Njc5MTg4LTM5OSIsImNsaWVudF9pZCI6IjY1ODQwMjkiLCJkZXZpY2VfaWQiOiI4MjkyMjg3NCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjI1OCIsInNvdXJjZXMiOls3NywxNzRdfQ==.sxyQO5FXTpHW2e6_sm0yEQP6tjXWGV-spIQl1rz1Jk6uRJLe3oTyrgs-MtTlYFIt9xGUyhM0_j6p3hSDFDC8VA=//live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd",
