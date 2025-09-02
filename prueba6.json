@@ -61,9 +61,36 @@
                 }
             },
 
+			  {
+                "name": "GEN_TV 🇵🇾 OPC2",
+                "url": "http://tplatinvip.club:2086/Victorrestr/7bdud83jjdj/191419",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
+                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
 			     {
                 "name": "UNICANAL",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2OTU2ODA5Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVub3ZlbGFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0OGZhNDZlNzQxZDE2NDE3Iiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTY3ODQwMTAtMjkxIiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.tl2ER2ecvSezfdZQe25UN2Y7jWLwRen_cKR9-8e-SXQ91cmOnHEgTXFLNcZoB4473OUgmb9Ynhz2vfFLZ6QTig==//live/c4eds/UNICANAL_C4/SA_Live_dash_enc_C/UNICANAL_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/gufaliqatmwnfv3g7aeg1/unicanal.json?rlkey=5gsk99k8zpinbk8cc6r8hbj9t&st=4tfniuuj&dl=0",
+                "icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+
+			  {
+                "name": "UNICANAL OPC2",
+                "url": "http://tplatinvip.club:2086/Victorrestr/7bdud83jjdj/191095",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/gufaliqatmwnfv3g7aeg1/unicanal.json?rlkey=5gsk99k8zpinbk8cc6r8hbj9t&st=4tfniuuj&dl=0",
                 "icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png",
@@ -87,6 +114,18 @@
                 }
             },
 
+			{
+                "name": "TYC SPORTS OPC2",
+                "url": "http://tplatinvip.club:2086/Victorrestr/7bdud83jjdj/241056",
+                "type": "CLEARKEY",
+                "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
 			{
                 "name": "TELEFÈ",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2OTU2ODA5Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVub3ZlbGFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0OGZhNDZlNzQxZDE2NDE3Iiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTY3ODQwMTAtMjkxIiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.tl2ER2ecvSezfdZQe25UN2Y7jWLwRen_cKR9-8e-SXQ91cmOnHEgTXFLNcZoB4473OUgmb9Ynhz2vfFLZ6QTig==//live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
@@ -127,6 +166,20 @@
           "X-Did": "704b97090ad1fb5e",
           "X-Version": "8/1.0.7",
           "User-Agent": "Magma Player/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+
+			{
+        "name": "TIGO SPORTS BOLIVIA",
+        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/905.m3u8",
+        "icono": "https://i.postimg.cc/cJsnVMpV/download-23.png",
+        "headers": {
+          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
+          "X-Did": "41c193ad43d937ca",
+          "X-Version": "8/4.0.7",
+          "User-Agent": "PLPro/8",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
@@ -4190,6 +4243,20 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
         "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
       },
+{
+                "name": "TUDN VIX",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+		
       {
         "name": "TUDN",
         "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/952.m3u8",
