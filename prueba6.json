@@ -2484,9 +2484,22 @@
             },
             {
                 "name": "Canal 12 Misiones",
-                "url": "https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NTg4NzM0Iiwic2lwIjoiMTc5LjM4LjIxMy4xNDciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNmYzNGRkZmJkZmVhMDMyIiwic2Vzc2lvbl9pZCI6IjgxODI3Njk4LTE3NTQ0MTU5MzMtNDQ2IiwiY2xpZW50X2lkIjoiMTMyMjM4MjIiLCJkZXZpY2VfaWQiOiI4MTgyNzY5OCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjgxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.KzoY43qUlakxz72qdILU4PyFt42dTuLq_2pUNx1sDxYFYhh12FmuGxCIlNEGBFBZGMtzEjGhfyXEQbTvZyYrdg==//live/c4eds/CH_12_Posadas/SA_Live_dash_enc/CH_12_Posadas.mpd",
+                "url": "https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2OTQzMjU4Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2ODNfTEEtVEVMRV9UXzIwMjUwOTAxMDUzMC0yMDI1MDkwMTA2MzBfT05fQW5ldmlhNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMTllNGE0Zjk2OWYwMTNmOCIsInNlc3Npb25faWQiOiI4MjkyMjg3NC0xNzU2NzcwNDU3LTI0MSIsImNsaWVudF9pZCI6IjY1ODQwMjkiLCJkZXZpY2VfaWQiOiI4MjkyMjg3NCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI1OSIsInNvdXJjZXMiOls3NywxNzRdfQ==.yctmeAQFm8O6QUI_auuGtmMM0Ocek2an4jj_7OTBW8MsE2gw-XVJt437qerD3_B-zoq_E0yWexN6wCuqnP0yCg==//live/c4eds/CH_12_Posadas/SA_Live_dash_enc/CH_12_Posadas.mpd",
                 "type": "CLEARKEY",
                 "icono": "http://canal12misiones.com/wp-content/uploads/2020/01/logo_horiz_1200x720px.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9c996a1465acddc9c3f7a2dd9b86aa88&key=a2b63e48c99bebb52bfcdb1830efdd3e",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+			  {
+                "name": "Canal 12 WEB INTERIOR",
+                "url": "https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/chunklist_w1484715179.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/nh1Rb05J/download-50.jpg",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9c996a1465acddc9c3f7a2dd9b86aa88&key=a2b63e48c99bebb52bfcdb1830efdd3e",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
