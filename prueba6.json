@@ -42,6 +42,96 @@
         "type": "HLS",
         "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
       }
+
+]
+    },
+    {
+        "name": "PACK EVENTOS ELIMINATORIAS MUNDIAL",
+        "samples": [
+             {
+                "name": "GEN_TV 🇵🇾",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2OTU2ODA5Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVub3ZlbGFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0OGZhNDZlNzQxZDE2NDE3Iiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTY3ODQwMTAtMjkxIiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.tl2ER2ecvSezfdZQe25UN2Y7jWLwRen_cKR9-8e-SXQ91cmOnHEgTXFLNcZoB4473OUgmb9Ynhz2vfFLZ6QTig==//live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
+                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+			     {
+                "name": "UNICANAL",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2OTU2ODA5Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVub3ZlbGFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0OGZhNDZlNzQxZDE2NDE3Iiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTY3ODQwMTAtMjkxIiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.tl2ER2ecvSezfdZQe25UN2Y7jWLwRen_cKR9-8e-SXQ91cmOnHEgTXFLNcZoB4473OUgmb9Ynhz2vfFLZ6QTig==//live/c4eds/UNICANAL_C4/SA_Live_dash_enc_C/UNICANAL_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/gufaliqatmwnfv3g7aeg1/unicanal.json?rlkey=5gsk99k8zpinbk8cc6r8hbj9t&st=4tfniuuj&dl=0",
+                "icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+			
+			{
+                "name": "TYC SPORTS",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2OTU2ODA5Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVub3ZlbGFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0OGZhNDZlNzQxZDE2NDE3Iiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTY3ODQwMTAtMjkxIiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.tl2ER2ecvSezfdZQe25UN2Y7jWLwRen_cKR9-8e-SXQ91cmOnHEgTXFLNcZoB4473OUgmb9Ynhz2vfFLZ6QTig==//live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+			{
+                "name": "TELEFÈ",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2OTU2ODA5Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVub3ZlbGFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0OGZhNDZlNzQxZDE2NDE3Iiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTY3ODQwMTAtMjkxIiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.tl2ER2ecvSezfdZQe25UN2Y7jWLwRen_cKR9-8e-SXQ91cmOnHEgTXFLNcZoB4473OUgmb9Ynhz2vfFLZ6QTig==//live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
+                "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TELEFÈ INTERNACIONAL",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2OTU2ODA5Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVub3ZlbGFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0OGZhNDZlNzQxZDE2NDE3Iiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTY3ODQwMTAtMjkxIiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.tl2ER2ecvSezfdZQe25UN2Y7jWLwRen_cKR9-8e-SXQ91cmOnHEgTXFLNcZoB4473OUgmb9Ynhz2vfFLZ6QTig==//live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/Xk2ZFyC/telefe-internacional.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc0abcc84ec380cfc192b96d32abad23&key=9b7825385b89ff82d01909a4ae404877"
+            },
+
+			  {
+        "name": "ATV ANDINA",
+        "icono": "https://i.ibb.co/C592Sf3C/R-3.png",
+        "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8"
+      },
+
+			 {
+        "name": "AMERICA TV PERÙ",
+        "url": "https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=Wn4tLsEN6HOkkpHym1G6auPG4J7Y35cS&sid=tSD8QINtubleM9OmJNKOqi6xxrdFARQ4&pid=NyS5NryvsTWBBbn75Rm10pAL7qEynqV1&pid_dvr=SVvNfNt7sa8F8ZdCWa4r6xeZHcdTsjVj&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=LITcutjErKGkWAHtkPvfCPCk37X1DZ2Plrk6zUTeU9XHIdyiZvac6YUsVgzwF03YmNoDuTCUi7j&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1756923976861&ot=1YuoR8M6VGxhSplNMXd4gw&proto=https&pz=us",
+        "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
+        "headers": {
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      }
+		
 		
 ]
     },
