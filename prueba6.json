@@ -306,6 +306,42 @@
                 "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
                 "type": "HLS"
             }
+
+			 {
+                "name": "DISNEY+ 1",
+                "url": "https://director.taihotel.asia/v3/director/VE1NTEyZGRlMzE1ZGU1LTZkZTgtNDMxNC1hZmZkLTFlZjdhMGE4/master.m3u8?md5=qpmG_P3Gz81Ct2V0usYM4A&expires=1741479166",
+                "icono": "https://i.ibb.co/sdh5xrvR/bc2b4bc91cf38497e3058533399566d7.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
+                "name": "DISNEY+ 2",
+                "url": "https://director.taihotel.asia/v3/director/VE1MzYwOTNhNDY3NDQ5LWRlM2ItOTM4NC1hM2RhLTg1NzFmYjk5/master.m3u8?md5=2jTSceprECsb2o-T-GKe3A&expires=1741479526",
+                "icono": "https://i.ibb.co/sdh5xrvR/bc2b4bc91cf38497e3058533399566d7.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
+                "name": "DISNEY+ 3",
+                "url": "https://director.taihotel.asia/v3/director/VE1MmQ4MDZhN2ZhOWE4LWE1ODgtZDcxNC1jYTZkLWEyNDMyMWY1/master.m3u8?md5=kF77ZHrtAhuoMYIQ9drl7g&expires=1741479759",
+                "icono": "https://i.ibb.co/sdh5xrvR/bc2b4bc91cf38497e3058533399566d7.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
+                "name": "DISNEY+ 4",
+                "url": "https://director.taihotel.asia/v3/director/VE1OTRkMjdlNzZjNmU0LTliNWEtZmE0NC0yNTRjLWQzNjU3NDBj/master.m3u8?md5=HV-_Yp-IzoYzU-cMfar0Vg&expires=1741480099",
+                "icono": "https://i.ibb.co/sdh5xrvR/bc2b4bc91cf38497e3058533399566d7.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
+                "name": "DISNEY+ 5",
+                "url": "https://director.taihotel.asia/v3/director/VE1ODcwZmI3NGJiY2FjLTA5MDgtOTVlNC1jYjMwLTE2ZGI5Mjll/master.m3u8?md5=i-TDSyViRgihMoJwfNvbig&expires=1741480243",
+                "icono": "https://i.ibb.co/sdh5xrvR/bc2b4bc91cf38497e3058533399566d7.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            }
         ]
     },
     {
