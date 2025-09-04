@@ -37,17 +37,20 @@
     {
         "name": "🏆PACK EVENTOS ELIMINATORIAS MUNDIAL",
         "samples": [
-                {
-                "name": "PARAGUAY VS ECUADOR",
-                "url": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/playlist.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
+             
+            {
+                "name": "🇵🇾 PARAGUAY VS ECUADOR 🇪🇨",
+                "url": "http://tplatinvip.club:2086/Victorrestr/7bdud83jjdj/191419",
                 "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0"
+            },
+            {
+                "name": "🇵🇾 PARAGUAY VS ECUADOR 🇪🇨",
+                "url": "http://tplatinvip.club:2086/Victorrestr/7bdud83jjdj/191095",
+                "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png?w=1920&ssl=1",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0"
             },
 			
 			{
@@ -198,18 +201,11 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
-
-			{
-                "name": "BRASIL VS CHILE",
-                "url": "https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3MTI5ODExIiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvblBWUi9jNmVkcy85NzM3X1RMTk9WX1RfMjAyNTA5MDQwMjM1LTIwMjUwOTA0MDQxNV9PTl9BbmV2aWE2L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzOTRiODQ1Y2Y2ZWJhYmNjIiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTY5NTcwMTEtNTU0IiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjU5Iiwic291cmNlcyI6Wzc3LDg1LDE0NCwxNzQsODhdfQ==.n48gnbcbe_PlxunrmGtISX4bVkajXQvrD-oj0uluZ2a5owOQZaYBcppahYEtE0YjXbv7hEVCY1-7zYQX1xXeIw==//live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
-                "icono": "https://i.postimg.cc/QMQDq5RL/HEI.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+  {
+                "name": "🇧🇷 BRASIL VS CHILE 🇨🇱",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/60",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png",
+                "type": "HLS"
             },
           
 
@@ -233,6 +229,19 @@
         }
       },
 
+			 {
+                "name": "🇺🇾 URUGUAY VS PERÙ 🇵🇪",
+                "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8",
+                "icono": "https://i.ibb.co/C592Sf3C/R-3.png",
+                "type": "HLS"
+            },
+            {
+                "name": "🇺🇾 URUGUAY VS PERÙ 🇵🇪",
+                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/9476.ts",
+                "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
+                "type": "HLS"
+            },
+
 			
 
 			{
@@ -246,8 +255,22 @@
           "User-Agent": "PLPro/8",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
-        }
-      },
+        },
+
+		{
+                "name": "🇨🇴 COLOMBIA VS BOLIVIA 🇧🇴",
+                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/13775.ts",
+                "icono": "https://i.postimg.cc/g0nVL2S3/Dise-o-sin-t-tulo-7.png",
+                "type": "HLS"
+            },
+            {
+                "name": "🇨🇴 COLOMBIA VS BOLIVIA 🇧🇴",
+                "url": "http://tplatinvip.club:2086/Victorrestr/7bdud83jjdj/190778",
+                "icono": "https://i.pinimg.com/originals/e4/bd/0b/e4bd0b9d270fbadf100a095f7cabfae2.jpg",
+                "type": "HLS"
+            },
+				
+      
 		{
         "name": "COLOMBIA VS BOLIVIA",
         "url": "http://tplatinvip.club:2086/Victorrestr/7bdud83jjdj/190778",
