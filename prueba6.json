@@ -29,10 +29,7 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       }
-     
-      
-
-]
+		]
     },
     {
         "name": "🏆PACK EVENTOS ELIMINATORIAS MUNDIAL",
@@ -201,63 +198,22 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
-  {
+
+          
+ {
+                "name": "🇧🇷 BRASIL VS CHILE 🇨🇱",
+                "url": "https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3MTI5ODExIiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvblBWUi9jNmVkcy85NzM3X1RMTk9WX1RfMjAyNTA5MDQwMjM1LTIwMjUwOTA0MDQxNV9PTl9BbmV2aWE2L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzOTRiODQ1Y2Y2ZWJhYmNjIiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTY5NTcwMTEtNTU0IiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjU5Iiwic291cmNlcyI6Wzc3LDg1LDE0NCwxNzQsODhdfQ==.n48gnbcbe_PlxunrmGtISX4bVkajXQvrD-oj0uluZ2a5owOQZaYBcppahYEtE0YjXbv7hEVCY1-7zYQX1xXeIw==//live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
+                "icono": "https://i.postimg.cc/QMQDq5RL/HEI.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e"
+            },
+            {
                 "name": "🇧🇷 BRASIL VS CHILE 🇨🇱",
                 "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/60",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png",
                 "type": "HLS"
             },
-          
-
-			  {
-        "name": "URUGUAY VS PERÙ",
-        "icono": "https://i.ibb.co/C592Sf3C/R-3.png",
-        "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8"
-      },
-
-			{
-        "name": "URUGUAY VS PERÙ",
-        "url": "http://magmaplayer.com/stream/m3u8/BGNkKmZ1KmR2BP4lAQZhZGt0YwR3Ay8kAmDmZQZ/hls/35.m3u8",
-        "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
-        "headers": {
-          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-          "X-Did": "704b97090ad1fb5e",
-          "X-Version": "8/1.0.7",
-          "User-Agent": "Magma Player/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-
-			 {
-                "name": "🇺🇾 URUGUAY VS PERÙ 🇵🇪",
-                "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8",
-                "icono": "https://i.ibb.co/C592Sf3C/R-3.png",
-                "type": "HLS"
-            },
             {
-                "name": "🇺🇾 URUGUAY VS PERÙ 🇵🇪",
-                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/9476.ts",
-                "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
-                "type": "HLS"
-            },
-
-			
-
-			{
-        "name": "COLOMBIA VS BOLIVIA",
-        "url": "https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/3d2adfa0-67cc-41fc-a58f-598fe74fa9ee:MRN2/variant/48215209b486b06c621f95db82dea5fe/bandwidth/2402400.m3u8?aid=574462d1cab0f4d50866f001&uid=Wn4tLsEN6HOkkpHym1G6auPG4J7Y35cS&sid=EsUw5NL0dvQdxGFlayxzNswWFOh2EJCs&pid=sAWqKx2AI6CEUdXg9zIlXGmvqUN8W1dd&pid_dvr=MPTmHYFNSQXg3SrUbAXYYtTfuHHo1K1F&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=iZUbYlz8trTqaVnjAcZVENAHirZqMFXhdrcZ0nNfP2jjnqY5EK7IOTYcYhte3Pia58pXcftlfJC&adInsertionGoogleStreamId=3d2adfa0-67cc-41fc-a58f-598fe74fa9ee%3AMRN2&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1757032288025&ot=3CbaL307gwDTLkZNO-FWwQ&proto=https&pz=us",
-        "icono": "https://i.postimg.cc/cJsnVMpV/download-23.png",
-        "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        },
-
-		{
                 "name": "🇨🇴 COLOMBIA VS BOLIVIA 🇧🇴",
                 "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/13775.ts",
                 "icono": "https://i.postimg.cc/g0nVL2S3/Dise-o-sin-t-tulo-7.png",
@@ -269,21 +225,23 @@
                 "icono": "https://i.pinimg.com/originals/e4/bd/0b/e4bd0b9d270fbadf100a095f7cabfae2.jpg",
                 "type": "HLS"
             },
-				
+            {
+                "name": "🇺🇾 URUGUAY VS PERÙ 🇵🇪",
+                "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8",
+                "icono": "https://i.ibb.co/C592Sf3C/R-3.png",
+                "type": "HLS"
+            },
+            {
+                "name": "🇺🇾 URUGUAY VS PERÙ 🇵🇪",
+                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/9476.ts",
+                "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
+                "type": "HLS"
+            }
+		
+     
       
-		{
-        "name": "COLOMBIA VS BOLIVIA",
-        "url": "http://tplatinvip.club:2086/Victorrestr/7bdud83jjdj/190778",
-        "icono": "https://i.postimg.cc/cJsnVMpV/download-23.png",
-        "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      }
+
+
 		
 
 
