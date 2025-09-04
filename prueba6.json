@@ -35,18 +35,7 @@
         "name": "🏆PACK EVENTOS ELIMINATORIAS MUNDIAL",
         "samples": [
              
-            {
-                "name": "🇵🇾 PARAGUAY VS ECUADOR 🇪🇨",
-                "url": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/playlist.m3u8",
-                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0"
-            },
-          
-
-
-
-			 {
+            	 {
                 "name": "PARAGUAY VS ECUADOR",
                 "url": "https://www.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=_pJGEKWMkpPkljzPxUoMAgC4fXQHDvd4rFCSXW1AdzNc5-eunZafLf-xwwGKhFpOKK-uGHWFXG_zf_OA_ygXd1DEf-pm4Vk8zOjioBp8vB21fSUS0yYs-4mr8Ect7jsn&dmTs=553042&dmV1st=e533e71d-ffd3-7050-ad39-d0f5ba9a4e8e",
                 "type": "CLEARKEY",
@@ -71,6 +60,22 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
+			
+			
+			
+			
+			{
+                "name": "🇵🇾 PARAGUAY VS ECUADOR 🇪🇨",
+                "url": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/playlist.m3u8",
+                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0"
+            },
+          
+
+
+
+		
 
 			
 
