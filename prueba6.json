@@ -164,22 +164,29 @@
                 }
             },
 
-			{
-        "name": "SPORTV 1 MPD",
-        "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733",
-        "icono"
+			  {
+        "name": "SPORTV 1",
+        "url": "http://189.76.71.35:8555/live/stone_modular/stone_modular/277.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
 
           
- {
+       {
                 "name": "🇧🇷 BRASIL VS CHILE 🇨🇱",
                 "url": "https://edge-live01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3MTk1MTExIiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvblBWUi9jNmVkcy85NzM3X1RMTk9WX1RfMjAyNTA5MDQyMDA1LTIwMjUwOTA0MjE1MF9PTl9BbmV2aWE2L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0OGJkNjcxOTgyOTlhMzRmIiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTcwMjIzMTMtMzc5IiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjU4Iiwic291cmNlcyI6Wzc3LDg1LDE0NCwxNzQsODhdfQ==.lbm4iIyqXf-g1tZwwX1SHB7cTC-Y9ciOPB2B6f36S9oCjS33ZEjaacXvCEGU58kPMsVsONT3r0ZukYzAupIQBw==//live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
                 "icono": "https://i.postimg.cc/QMQDq5RL/HEI.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e"
             },
-            {
+           
+			
+			{
                 "name": "🇧🇷 BRASIL VS CHILE 🇨🇱",
                 "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/60",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png",
