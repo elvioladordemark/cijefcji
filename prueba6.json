@@ -35,7 +35,21 @@
         "name": "🏆PACK EVENTOS ELIMINATORIAS MUNDIAL",
         "samples": [
              
-            	 {
+            	{
+                "name": "PARAGUAY VS ECUADOR",
+                "url": "https://edge-live01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3MTk1MTExIiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvblBWUi9jNmVkcy85NzM3X1RMTk9WX1RfMjAyNTA5MDQyMDA1LTIwMjUwOTA0MjE1MF9PTl9BbmV2aWE2L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0OGJkNjcxOTgyOTlhMzRmIiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTcwMjIzMTMtMzc5IiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjU4Iiwic291cmNlcyI6Wzc3LDg1LDE0NCwxNzQsODhdfQ==.lbm4iIyqXf-g1tZwwX1SHB7cTC-Y9ciOPB2B6f36S9oCjS33ZEjaacXvCEGU58kPMsVsONT3r0ZukYzAupIQBw==//live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
+                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+			
+			
+			{
                 "name": "PARAGUAY VS ECUADOR",
                 "url": "https://www.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=_pJGEKWMkpPkljzPxUoMAgC4fXQHDvd4rFCSXW1AdzNc5-eunZafLf-xwwGKhFpOKK-uGHWFXG_zf_OA_ygXd1DEf-pm4Vk8zOjioBp8vB21fSUS0yYs-4mr8Ect7jsn&dmTs=553042&dmV1st=e533e71d-ffd3-7050-ad39-d0f5ba9a4e8e",
                 "type": "CLEARKEY",
@@ -48,18 +62,6 @@
                 }
             },
 			
-			{
-                "name": "PARAGUAY VS ECUADOR",
-                "url": "https://edge-live01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3MTk1MTExIiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvblBWUi9jNmVkcy85NzM3X1RMTk9WX1RfMjAyNTA5MDQyMDA1LTIwMjUwOTA0MjE1MF9PTl9BbmV2aWE2L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0OGJkNjcxOTgyOTlhMzRmIiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTcwMjIzMTMtMzc5IiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjU4Iiwic291cmNlcyI6Wzc3LDg1LDE0NCwxNzQsODhdfQ==.lbm4iIyqXf-g1tZwwX1SHB7cTC-Y9ciOPB2B6f36S9oCjS33ZEjaacXvCEGU58kPMsVsONT3r0ZukYzAupIQBw==//live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
-                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
 			
 			
 			
@@ -122,6 +124,18 @@
             },
 
 			
+			{
+                "name": "ARGENTINA VS VENEZUELA",
+                "url": "https://edge-live01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3MTk1MTExIiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvblBWUi9jNmVkcy85NzM3X1RMTk9WX1RfMjAyNTA5MDQyMDA1LTIwMjUwOTA0MjE1MF9PTl9BbmV2aWE2L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0OGJkNjcxOTgyOTlhMzRmIiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTcwMjIzMTMtMzc5IiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjU4Iiwic291cmNlcyI6Wzc3LDg1LDE0NCwxNzQsODhdfQ==.lbm4iIyqXf-g1tZwwX1SHB7cTC-Y9ciOPB2B6f36S9oCjS33ZEjaacXvCEGU58kPMsVsONT3r0ZukYzAupIQBw==//live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
 
 			{
                 "name": "ARGENTINA VS VENEZUELA",
@@ -136,18 +150,6 @@
                 }
             },
 			
-			{
-                "name": "ARGENTINA VS VENEZUELA",
-                "url": "https://edge-live01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3MTk1MTExIiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvblBWUi9jNmVkcy85NzM3X1RMTk9WX1RfMjAyNTA5MDQyMDA1LTIwMjUwOTA0MjE1MF9PTl9BbmV2aWE2L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0OGJkNjcxOTgyOTlhMzRmIiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTcwMjIzMTMtMzc5IiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjU4Iiwic291cmNlcyI6Wzc3LDg1LDE0NCwxNzQsODhdfQ==.lbm4iIyqXf-g1tZwwX1SHB7cTC-Y9ciOPB2B6f36S9oCjS33ZEjaacXvCEGU58kPMsVsONT3r0ZukYzAupIQBw==//live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
 
 			
 			{
