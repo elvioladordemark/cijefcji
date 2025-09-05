@@ -16427,6 +16427,65 @@
                     ],
                     "tmdb_id": 199001,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "The Runarounds",
+                    "genero": "Drama",
+                    "descripcion": "Un grupo de recién graduados de preparatoria forman una banda con la esperanza de escapar del futuro mundano que les espera. Mientras buscan su gran oportunidad y un sueño casi imposible durante un verano, se enamoran y enfrentan problemas por el camino.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rrSnOcWELx3M7AF1lql7nsBMqPh.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qzNg6jgbaZKORLikwebKrh26S7P.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/oyr8vPGD66eNqruV3LjoI72UNxl.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/98C5BD530E7440ED9B4E8403DF13E35B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Morning glory",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/09BE296BF24E4696B1380A57D479E7EB_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Banda de bodas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1945203C3CE44322A50075D613717CE0_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Tres mil pavos, cinco canciones, cuatro días",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6E2E7F90067946F5A85CCFC2A2E49854_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Disfrutad del viaje",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/957D356E65474391A03E1B98B7AF9CF3_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "¿Dónde está el equipo?",
+                                    "url": "http://goovdme.967sd1f.homes/vod/14D5AAD5C5C147BB93BD033FB7D65F01_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Hipócritas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8C0412F913F04CEBB8F697E8DE58246C_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El Kill Devil",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3125E9DFCF2A4F62BCF15743586C68B5_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 248833,
+                    "total_seasons": 1
                 }
             ]
         },
