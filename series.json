@@ -4560,6 +4560,45 @@
                     ],
                     "tmdb_id": 241388,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La conserje Pokémon",
+                    "genero": "Animación, Familia",
+                    "descripcion": "Este es el Pokémon Resort: un lugar tranquilo donde los Pokémon pueden descansar y divertirse. ¿A qué adorable huésped ayudará primero Haru, la nueva conserje?",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1dJkDDpgUsmOwuMvuzwnYjT68QQ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/9tAtnMG10w5NIFDMV7kPa9lUti4.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/mfalSGLVwkpupN7Zmj0m3x4xUlr.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Soy Haru, la nueva conserje",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3ABABB9C6F2543D697610DBFA0616D71_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Psyduck, ¿te estás divirtiendo?",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/82758FB902634CA7B6DBA4B124507F8F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Yo también quiero evolucionar ya",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CBC16C22407244ACB3FC5119B1154EBC_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "¡Bienvenido al Complejo hotelero Pokémon!",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5A0BCF0626014C969C01BA89C4D9AEAE_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 221301,
+                    "total_seasons": 1
                 }
             ]
         },
