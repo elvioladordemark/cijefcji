@@ -62,15 +62,15 @@
             	
 			
 			
-			{
-                "name": "PERU VS PARAGUAY",
-                "url": "https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NjI4NDI0Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1VOSUNBTkFMX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzN2U5ZGQ3NDY3MzFhODhkIiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTc0NTU2MjMtNTUwIiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjU5Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.gzJV1REEr1og4EAgwqe9Cs0k8he270ip7x6KPu000Kb4afs26L9Vdfr8jMN5OUB3elS05E_HompJiVwSGqmOSg==",
+		{
+                "name": "PERU VS PY",
+                "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NjI5NDQ3Iiwic2lwIjoiMTc5LjM4LjIwMC4xMTYiLCJwYXRoIjoiL2xpdmUvYzZlZHMvQ2FuYWw3L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkMTE0NWM1Mzg0NDdhYTZhIiwic2Vzc2lvbl9pZCI6IjgzMDcxNzUxLTE3NTc0NTY2NDctNjQ5IiwiY2xpZW50X2lkIjoiMTMyNzIwMTUiLCJkZXZpY2VfaWQiOiI4MzA3MTc1MSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.haQDfPhdzO-https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NjMxMjQxIiwic2lwIjoiMTc5LjM4LjIwMC4xMTYiLCJwYXRoIjoiL2xpdmUvYzZlZHMvQ2FuYWw3L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlNzdiYTdhMzBiZDlkMGNjIiwic2Vzc2lvbl9pZCI6IjgzMDcxNzUxLTE3NTc0NTg0NDEtOTc1IiwiY2xpZW50X2lkIjoiMTMyNzIwMTUiLCJkZXZpY2VfaWQiOiI4MzA3MTc1MSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjEwNSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.QeinYW6mF01iCATO4hovQ32a5GlHYjCV_XBF_ZbZe9mH31kjvahoiTNkVLGZ1oNfvh2WtP7STgw1jiSjayb4XQ==//live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
+                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
-                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.py",
-                    "Referer": "https://web.app.flow.com.py/",
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
