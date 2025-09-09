@@ -34,9 +34,36 @@
     {
         "name": "🏆PACK EVENTOS ELIMINATORIAS MUNDIAL",
         "samples": [
-             
-            	{
-                "name": "PARAGUAY VS ECUADOR",
+             {
+                "name": "ECUADOR VS ARGENTINA",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+			{
+                "name": "ECUADOR VS ARGENTINA OPC 2",
+                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/417226.ts",
+                "type": "CLEARKEY",
+                "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            	
+			
+			
+			{
+                "name": "PERU VS PARAGUAY",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
@@ -50,7 +77,7 @@
 			
 			
 			    {
-                "name": "TRECE 🇵🇾",
+                "name": "PERU VS PARAGUAY",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/wtweq3d3m1xib4lh1or3h/rpc.json?rlkey=xjk79wbidhrp8tfialjc2o5lr&st=cvlw27y2&dl=0",
@@ -65,13 +92,6 @@
 			
 			
 			
-			{
-                "name": "🇵🇾 PARAGUAY VS ECUADOR 🇪🇨",
-                "url": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/playlist.m3u8",
-                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0"
-            },
           
 
 
@@ -80,92 +100,17 @@
 
 			
 
-			     {
-                "name": "PARAGUAY VS ECUADOR",
-                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c4eds/UNICANAL_C4/SA_Live_dash_enc_C/UNICANAL_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/gufaliqatmwnfv3g7aeg1/unicanal.json?rlkey=5gsk99k8zpinbk8cc6r8hbj9t&st=4tfniuuj&dl=0",
-                "icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-
-
-			 
-
-			{
-                "name": "PARAGUAY VS ECUADOR",
-                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/wtweq3d3m1xib4lh1or3h/rpc.json?rlkey=xjk79wbidhrp8tfialjc2o5lr&st=cvlw27y2&dl=0",
-                "icono": "https://i.ibb.co/CKmtNhM5/Logo-de-RPC-2016.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-
-			{
-                "name": "PARAGUAY VS ECUADOR",
-                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-                "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
+			     
 
 			
-			{
-                "name": "ARGENTINA VS VENEZUELA",
-                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-
-			{
-                "name": "ARGENTINA VS VENEZUELA",
-                "url": "http://tplatinvip.club:2086/Victorrestr/7bdud83jjdj/241056",
-                "type": "CLEARKEY",
-                "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
+			
 			
 
 			
-			{
-                "name": "ARGENTINA VS VENEZUELA",
-                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
-                "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
+		
 
 			  {
-        "name": "SPORTV 1",
+        "name": "BOLIVIA VS BRASIL",
         "url": "http://189.76.71.35:8555/live/stone_modular/stone_modular/277.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
@@ -176,51 +121,16 @@
         }
       },
 
-			 {
-                "name": "🇧🇷 BRASIL VS CHILE 🇨🇱",
-                "url": "https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
-                "icono": "https://i.postimg.cc/QMQDq5RL/HEI.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e"
-            },
-
-          
-       {
-                "name": "🇧🇷 BRASIL VS CHILE 🇨🇱",
-                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
-                "icono": "https://i.postimg.cc/QMQDq5RL/HEI.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e"
-            },
            
-			
-			{
-                "name": "🇧🇷 BRASIL VS CHILE 🇨🇱",
-                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/60",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png",
-                "type": "HLS"
-            },
             {
-                "name": "🇨🇴 COLOMBIA VS BOLIVIA 🇧🇴",
-                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/13775.ts",
-                "icono": "https://i.postimg.cc/g0nVL2S3/Dise-o-sin-t-tulo-7.png",
-                "type": "HLS"
-            },
-            {
-                "name": "🇨🇴 COLOMBIA VS BOLIVIA 🇧🇴",
-                "url": "http://tplatinvip.club:2086/Victorrestr/7bdud83jjdj/190778",
-                "icono": "https://i.pinimg.com/originals/e4/bd/0b/e4bd0b9d270fbadf100a095f7cabfae2.jpg",
-                "type": "HLS"
-            },
-            {
-                "name": "🇺🇾 URUGUAY VS PERÙ 🇵🇪",
+                "name": "CHILE VS URUGUAY",
                 "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8",
                 "icono": "https://i.ibb.co/C592Sf3C/R-3.png",
                 "type": "HLS"
             },
             {
-                "name": "🇺🇾 URUGUAY VS PERÙ 🇵🇪",
-                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/9476.ts",
+                "name": "CHILE VS URUGUAY",
+                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/9826.ts",
                 "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
                 "type": "HLS"
             }
