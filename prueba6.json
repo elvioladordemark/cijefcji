@@ -64,7 +64,7 @@
 			
 			{
                 "name": "PERU VS PARAGUAY",
-                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
+                "url": "https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NjI4NDI0Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1VOSUNBTkFMX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzN2U5ZGQ3NDY3MzFhODhkIiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTc0NTU2MjMtNTUwIiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjU5Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.gzJV1REEr1og4EAgwqe9Cs0k8he270ip7x6KPu000Kb4afs26L9Vdfr8jMN5OUB3elS05E_HompJiVwSGqmOSg==",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
                 "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
@@ -139,7 +139,15 @@
                 "icono": "https://i.ibb.co/C592Sf3C/R-3.png",
                 "type": "HLS"
             },
-            {
+            
+			{
+                "name": "CHILE VS URUGUAY",
+                "url": "https://copacogen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/chunklist_w130362638.m3u8?admin=tvaccion",
+                "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
+                "type": "HLS"
+            },
+			
+			{
                 "name": "CHILE VS URUGUAY",
                 "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/9826.ts",
                 "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
@@ -1181,7 +1189,7 @@
             },
             {
                 "name": "GEN_TV 🇵🇾",
-                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
+                "url": "https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NjI4NDI0Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1VOSUNBTkFMX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzN2U5ZGQ3NDY3MzFhODhkIiwic2Vzc2lvbl9pZCI6IjgyOTIyODc0LTE3NTc0NTU2MjMtNTUwIiwiY2xpZW50X2lkIjoiNjU4NDAyOSIsImRldmljZV9pZCI6IjgyOTIyODc0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjU5Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.gzJV1REEr1og4EAgwqe9Cs0k8he270ip7x6KPu000Kb4afs26L9Vdfr8jMN5OUB3elS05E_HompJiVwSGqmOSg==",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
                 "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
