@@ -46,10 +46,34 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
-            	
-			
+             {
+                "name": "ECUADOR VS ARGENTINA",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
+                "icono": "https://i.postimg.cc/QMQDq5RL/HEI.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },	
+
 			{
                 "name": "PERU VS PARAGUAY",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3NDc0NjI3Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9uUFZSL2M0ZWRzLzc2OTBfVExGVVRVUk9fVF8yMDI1MDkwODAyMDAtMjAyNTA5MDgwMzMwX09OX0FuZXZpYTQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ0NjI5ZWI2ZjUzODhiMjEiLCJzZXNzaW9uX2lkIjoiODI5MjI4NzQtMTc1NzMwMTgyOC0zODUiLCJjbGllbnRfaWQiOiI2NTg0MDI5IiwiZGV2aWNlX2lkIjoiODI5MjI4NzQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDE3NCw4OF19.a8-DUoQ_R9Vl2ZAq6NXED8ydha3hXXSYkK5FZ6l4mxRl3Ybt6kyRRsmYCOa0XxM6Jxpo5AyVKI90loz49yt8pw==//live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
+                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+			
+			{
+                "name": "PERU VS PARAGUAY OPC 2",
                 "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/102460.ts",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
@@ -62,7 +86,7 @@
             },
 
 			{
-                "name": "PERU VS PARAGUAY OPC 2",
+                "name": "PERU VS PARAGUAY OPC 3",
                 "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/592036.ts",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
@@ -76,7 +100,7 @@
 			
 			
 			{
-                "name": "VENEZUELA VS COLOMBIA",
+                "name": "VENEZUELA VS COLOMBIA OPC 3",
                 "url": "https://51a1.crackstreamslivehd.com/global/golperu/index.m3u8?token=14a538e9c298e3344a8b39233683d6bb12d08e69-39-1757487982-1757433982&ip=38.165.233.7",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
