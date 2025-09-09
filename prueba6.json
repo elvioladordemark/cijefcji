@@ -3125,6 +3125,19 @@
           "Connection": "Keep-Alive"
         }
       },
+
+		{
+                "name": "AMERICA 2",
+                "url": "https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-dai/1a44c6e4a0384af5b8285d9daf6e51c2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/657fbe15e3ba9363bb07c6b4/97531db3-204a-4b4f-b534-02758e653841/1.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=Wn4tLsEN6HOkkpHym1G6auPG4J7Y35cS&sid=1dzuhcsfoGkONAj3Ew8OwGMbBPoWnQT2&pid=OdZo9oYkos2PVjuadTjdzVqretjboQNw&pid_dvr=IQ503iowTUbqwsucYzizSw8sAQe7X8sb&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=0YqhUvRzUwupXxKon1N2Z3V5EtHjZtBJDfHuUGjAqOuDsJjReQQKitty0L7SLvx6YxuoLBYD5Ca&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1757474922557&ot=6N71nEnzfrO1d44UeYUFYw&proto=https&pz=us",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dde29700ee0423e1afe3828c6f251295&key=1928b62bc191bd26c357137d7d909868",
+                "headers": {
+                    "Origin": "https://mdstrm.com",
+                    "Referer": "https://mdstrm.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
       {
         "name": "GOL PERÚ",
         "url": "http://magmaplayer.com/stream/m3u8/AwDmKmD5ZS8kAwthZwDmYwR4AP4kAmMsZGp0ZmNm/hls/490.m3u8",
