@@ -1154,6 +1154,55 @@
                     ],
                     "tmdb_id": 259710,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "The Walking Dead: Daryl Dixon",
+                    "genero": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+                    "descripcion": "Daryl (Reedus) desembarca en Francia y trata de averiguar cómo ha llegado hasta allí y por qué. La serie sigue su viaje a través de una Francia rota pero resiliente mientras espera encontrar el camino de vuelta a casa. Sin embargo, a medida que avanza en su viaje, las conexiones que establece por el camino complican su plan final.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5DC9Y8DHCCBsnGGKIZqc2qBpnwC.png",
+                    "icono": "https://image.tmdb.org/t/p/original/1e6y2MiGL7KCTJfpqa3cNHLDpF3.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1JfDmPnFrk6qQbc9irAOyuWAtKm.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El alma perdida",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0623EAE079C04C90A48E9FD8F09E1422_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Alondra",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/BE42FAB721A54006929C42428FC19B00_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "París siempre será París",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2C9428AA5BC142C18CA515716AE0D025_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La Dama de Hierro",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1B06A76B8F1740CCA261DBEDB780798C_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Dos amores",
+                                    "url": "http://goovdme.967sd1f.homes/vod/911E799470D94EB793A2FD12CB73A183_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Volviendo a casa",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2A53DF95F3F84BAFBC3A3161F3F61B08_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 211684,
+                    "total_seasons": 3
                 }
             ]
         },
