@@ -1130,6 +1130,30 @@
                     ],
                     "tmdb_id": 280888,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La reina de la confianza",
+                    "genero": "Crimen, Comedia, Drama",
+                    "descripcion": "En un mundo lleno de villanos y víctimas, tres estafadores luchan contra la codicia. Solo roban a los malos sin buscar venganza. ¿Qué pasaría si el crimen se convirtiera en un juego y la justicia en un truco? Bienvenido al mundo de La reina de la confianza. Yi-rang es la líder. James, el profesional, y Gu-ho, el justo. Recuerda: no confíes en lo que ves y no caigas en la trampa de un estafador.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/janVFBGgsOADYFx16mKYGjtWGzE.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qdaRDDaFb1AhuETBM49A1FZiSdJ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ibT5W5lpedfG9TUmplkMldpDigJ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Marcación rápida 0",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EAF3D9BCFBC94BBCBFD1448F0593BCD4_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 259710,
+                    "total_seasons": 1
                 }
             ]
         },
