@@ -16786,6 +16786,65 @@
                     ],
                     "tmdb_id": 248833,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Beauty in Black",
+                    "genero": "Drama",
+                    "descripcion": "El destino de una stripper da un vuelco cuando se cruza con una rica familia disfuncional que maneja un emporio de cosmética y un retorcido negocio de tráfico de personas.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3T9SX0tA6VqIrQCNuO5B7gGxyF5.png",
+                    "icono": "https://image.tmdb.org/t/p/original/i98Jl46WBpK7ymttNOakowtNuFF.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ywJcUIMTCjstPLvvyIiPWP3G3m3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Que lluevan billetes",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5FB1BAD5CA4847909E1AE5E2AB664091_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Bailando con papá",
+                                    "url": "http://goovdme.967sd1f.homes/vod/13CB8201CA2E4F59AF131C1BD77DF0E2_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Las consecuencias",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E586FAF545114AD295BC68E388513044_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un asunto de familia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AC2F06DAC3F14AF188BDC99F86318FE4_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Hilos sueltos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/98AAC248CEFF42A890584800D7E6EEFE_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Bang, bang",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2905B3F6876F49FBA94F9212A296BE27_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Igualdad de condiciones",
+                                    "url": "http://goovdme.967sd1f.homes/vod/35C2626DD2334C709907CC832E2D91DC_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Karma mortal",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1079F8F59F8F45CBB9F5B19FCE511CE1_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 246246,
+                    "total_seasons": 2
                 }
             ]
         },
