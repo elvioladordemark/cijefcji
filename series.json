@@ -16891,6 +16891,55 @@
                     ],
                     "tmdb_id": 246246,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Las muertas",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Basada en la aclamada novela de Jorge Ibargüengoitia, que ficciona el escalofriante caso de 'Las Poquianchis', 'Las muertas' narra el ascenso y la caída de las hermanas Arcángela y Serafina Baladro, quienes construyeron un imperio de burdeles en el México de los años 60, quedando marcadas en la historia como las asesinas seriales más despiadadas y temidas del país.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/56QcfVPCBxbXNHaEr0cBcSPeqCR.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rmIQiFYnTDttJMehqkw2GEaO18Y.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/87AE12D626A54246904276613C72C56A_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CC068275E21845CEA336600FEC0549EC_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BF61DD0808BA482B9028630127D5ACF5_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B4CC8B82E14545BBA492CC1054EF4348_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4D564A10D2774EA7B058D18E20A7C5B9_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/821861A33E8A40CEBBE885B4657C6F90_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 246485,
+                    "total_seasons": 1
                 }
             ]
         },
