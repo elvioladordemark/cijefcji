@@ -18771,6 +18771,65 @@
                     ],
                     "tmdb_id": 296069,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Necaxa",
+                    "genero": "Documental",
+                    "descripcion": "El querido equipo de fútbol mexicano Club Necaxa se esfuerza por recuperar su lugar como uno de los mejores equipos de México, mientras que su dueña mexicoamericana Eva Longoria intenta darle nueva vida al equipo con la ayuda de sus amigos de alto perfil, incluidos los nuevos copropietarios Rob Mac y Ryan Reynolds.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gvjhW6YpIxSZKXrDzGQUgGGTL84.png",
+                    "icono": "https://image.tmdb.org/t/p/original/tKiQ7H60U8hLCzCBQpzbHGfFGTm.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/r1bpP7rDsOuGMVprUAdn5kBnu8T.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/877781CCC6984798A32C7AFDBFBD7CA8_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/23B1345112774B0A9435D6635EA8DEF1_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/11DA0776DA8B41C8BDDBEEA7C00CB611_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5ED4CB41BC00457C89EFF2F9AA59D55E_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/8FDA4B96A746410685363BD11CA41DB9_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/DCF86653392E4BE5A949CC439248717F_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8DF3065D693345B09C5F35F89B23FB79_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FE7231E195044572A6CC686B13C98209_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 273754,
+                    "total_seasons": 1
                 }
             ]
         },
