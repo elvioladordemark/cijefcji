@@ -4132,6 +4132,75 @@
                     ],
                     "tmdb_id": 221301,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Hamster y gretel",
+                    "genero": "Animación, Comedia, Action & Adventure",
+                    "descripcion": "Sigue a Gretel y su mascota Hamster después de recibir nuevas habilidades. Ahora, el protector hermano mayor Kevin debe descubrir cómo trabajar con Gretel y su mascota para proteger su ciudad de peligros misteriosos.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rB0pyfyYPHyfuno4lCPdv06FZgh.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jNJnq6WAPPue9Q9BlAWEuLS1yUk.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/6vl0ZRYnf7gICpc80eUpRdGPDOL.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6CDEEA57ACC14A9B9616793CCEC7BB83_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C979A1E0201D49DF8EAA5767A3D762EA_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/882A262FC8BC4D39A29CA48085A2E30E_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D2ACFDB3F0554463A42C6FEB18549DE2_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/AAD449B3DD9144F29B2950403B7358CE_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/CA2B42176CC24045878FA9D8B2A78E0B_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1E55FB4C62464E00BB4DA84735385CA8_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/663A5405858445208CFED3B37CB3CF90_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/3C5060DBC76845FBB572654140F8BB5F_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D87F41A32C414249AFEFE084DB36D6D6_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 156606,
+                    "total_seasons": 2
                 }
             ]
         },
