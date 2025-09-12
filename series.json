@@ -16351,6 +16351,50 @@
                     ],
                     "tmdb_id": 281004,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Amanda Knox: Una historia retorcida",
+                    "genero": "Drama",
+                    "descripcion": "Miniserie inspirada en la historia de cómo Amanda Knox fue condenada injustamente por el trágico asesinato de su compañera de piso, Meredith Kercher, y su lucha para recuperar la libertad.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7jvlU3h10XrtXFUW47NPyHaHIBD.png",
+                    "icono": "https://image.tmdb.org/t/p/original/wEg4RBvHxqwRJyCqVMLKrEI9HMq.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/iLzaLdkva7wUV9HMyykaHFUFHKA.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Amanda",
+                                    "url": "http://goovdme.967sd1f.homes/vod/92F2C59B2DC142A2BEE0F8A557750BAD_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Ci vediamo più tardi (",
+                                    "url": "http://goovdme.967sd1f.homes/vod/79AF3FACF8934B118553BB6736E6C62C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El guardián de Perugia",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/8A51ACA50EA34A27B85B1EE45AD41DA3_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Solo necesitas amor",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/4471E063BE1741C0AFBE9DD8F896D632_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Don nadie",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AE2E0AB0F5294F2F91ADA5F2905E1D13_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 248416,
+                    "total_seasons": 1
                 }
             ]
         },
