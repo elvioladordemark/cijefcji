@@ -19675,6 +19675,40 @@
                     ],
                     "tmdb_id": 253372,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Las maldiciones",
+                    "genero": "Misterio, Drama",
+                    "descripcion": "La hija de un gobernador desaparece en un momento clave para su carrera. Entre la ambición y los secretos familiares, debe elegir: la política o la seguridad de su hija.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1A7LLsjJr9SlE18q73B3HTuwJL8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/x1nTOgqSWOSqAttI2QhJCK2NDAN.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8QTkUVluzNNmd3YE7hNlV37rwby.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Acto I: La ley",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AED68F213D6C4F318112E6EA650ECF41_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Acto II: Normal",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D157C8C869874301976988F3F6B909C4_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Acto III: La maldición",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D45472DEF7E8408B822A2F476999A17F_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 261617,
+                    "total_seasons": 1
                 }
             ]
         }
