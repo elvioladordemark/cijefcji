@@ -29,6 +29,24 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       }
+
+		]
+    },
+    {
+        "name": "🟢EVENTOS UFC Y BOXEO",
+        "samples": [
+            {
+                "name": "BOXEO ESPECIAL CANELO",
+                "url": "http://belami.top/test/DEMO_130925PIGE/BTV/live/10963304766123/index.m3u8",
+                "icono": "https://i.postimg.cc/vZ1YQkCb/download-52.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "UFC LOPEZ VS SILVA",
+                "url": "http://belami.top/test/DEMO_130925PIGE/BTV/live/10963304632123/index.m3u8",
+                "icono": "https://i.postimg.cc/mkwDH9S4/ufc.png",
+                "type": "HLS"
+            },
 	
       
 
