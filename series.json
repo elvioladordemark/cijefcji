@@ -8371,6 +8371,65 @@
                     ],
                     "tmdb_id": 133727,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "Los mufas: suerte para la desgracia",
+                    "genero": "Comedia",
+                    "descripcion": "",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ukg6GaW4a1IWcd8BKQHy69Wvz8F.png",
+                    "icono": "https://image.tmdb.org/t/p/original/deQ6HNhg7PECfvHWtN9a8tjVBpH.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/y0yFSGekJTjVXozu3J5FeBAttE.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/520017C784B545108D83B4BB57F26D22_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/775C8255D540402C8092C051CEF4BB0C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/696B7F6DF2314D55A885F9BEE10FDF32_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/440CEBEE3AA5498D83855F94EED6AB14_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8E326FB18A3048C196A13D25E5CDF3EB_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9CA3913E73A44AC5BAC013921C4D632D_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/81B5114C8D8C4C4881560B0A2195EE2D_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/698AB834C6DF4BD99DAED615E8EC73BC_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 299370,
+                    "total_seasons": 1
                 }
             ]
         },
