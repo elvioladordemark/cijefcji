@@ -226,12 +226,12 @@
         "samples": [
             {
                 "name": "ESPN PREMIUM",
-                "url": "https://edge-vod04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4MDU0NTA1Iiwic2lwIjoiMTc5LjM4LjE5Mi4xNDUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvU29tb3NfTm9ydGUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU3NmY3OWMwZjcwNzMzM2UiLCJzZXNzaW9uX2lkIjoiODM1NDM0NzItMTc1Nzg4MTcwNy00ODciLCJjbGllbnRfaWQiOiIxMzI3MjAxNSIsImRldmljZV9pZCI6IjgzNTQzNDcyIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTM4Iiwic291cmNlcyI6WzE0NCw4Nl19.kqyflyoE5Y0AlHDab_qRkIaqyT_-imcDmAfCm0AqBJcKHbXoyUIZTllX2AKxuNFvpmBFwHpyw_Wt1g9MmjmSlA==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4MDU2NjA4Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9DYW5hbDkvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQ2YmVjNjE3MzQ0ZTcyY2MiLCJzZXNzaW9uX2lkIjoiODM0NDA3MTAtMTc1Nzg4MzgwNy03MDkiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNDQwNzEwIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg2XX0=.zjmxerRD3OCwVavLtzf3qgvwPbeH_pxJEUE-L2ZUley4L70HhD0W1AzsxPUEX24ouZydybRSLq5nZsaR1GBBbQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar/",
+                    "Origin": "https://web.app.flow.com.ar/",https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4MDU2NjA4Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9DYW5hbDkvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQ2YmVjNjE3MzQ0ZTcyY2MiLCJzZXNzaW9uX2lkIjoiODM0NDA3MTAtMTc1Nzg4MzgwNy03MDkiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNDQwNzEwIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg2XX0=.zjmxerRD3OCwVavLtzf3qgvwPbeH_pxJEUE-L2ZUley4L70HhD0W1AzsxPUEX24ouZydybRSLq5nZsaR1GBBbQ==
                     "Referer": "https://web.app.flow.com.ar//",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
