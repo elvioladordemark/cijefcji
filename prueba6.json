@@ -3171,7 +3171,120 @@
           "Origin": "https://embedtv-2.icu",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
-      }
+      },
+
+		 {
+                "name": "REDE TV",
+                "icono": "https://redetvgo.com.br/client/assets/logo/logo-oficial.png",
+                "url": "https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist.m3u8?"
+            },
+            {
+                "name": "GAZETA TV",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",
+                "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8"
+            },
+            {
+                "name": "URBAN DRIVE",
+                "icono": "https://urban-drive.ch/cdn/shop/files/logo-o.png",
+                "url": "http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8"
+            },
+            {
+                "name": "GLOBO",
+                "url": "http://icomplay.net:80/Rubian/Premium/533678.ts",
+                "icono": "https://e7.pngegg.com/pngimages/82/749/png-clipart-brazil-rede-globo-logo-globo-com-globo-tv-international-others-miscellaneous-logo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "GLOBO 2",
+                "url": "http://icomplay.net:80/Rubian/Premium/533679.ts",
+                "icono": "https://vignette4.wikia.nocookie.net/redeglobologopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160119051348",
+                "type": "HLS"
+            },
+            {
+                "name": "TV BRASIL",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png",
+                "url": "https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "TV BRASIL",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/1154604.ts",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV BRICS Portuguese",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/1154607.ts",
+                "icono": "https://dvb.by/sources/logos/3630.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV Câmara",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/1154609.ts",
+                "icono": "https://www.camara.leg.br/midias/image/2022/03/marca-camara-preferencial-cores.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV Cidade de Petrópolis",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/1154614.ts",
+                "icono": "https://i.imgur.com/xUs8gHV.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV Cidade Verde",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/1154616.ts",
+                "icono": "https://i.imgur.com/SysgBqZ.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV Clube",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/1154617.ts",
+                "icono": "https://i.imgur.com/CpXjcyE.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV Cultura",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/1154620.ts",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/250px-Cultura_logo_2013.svg.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV Guará",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/1154635.ts",
+                "icono": "https://cmsphoto.ww-cdn.com/superstatic/41269/art/grande/8131153-12773456.jpg?v=1441721706",
+                "type": "HLS"
+            },
+            {
+                "name": "TV Life America",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/1154639.ts",
+                "icono": "https://cdn.technettv.com/channel/11705/logo_256.jpeg",
+                "type": "HLS"
+            },
+            {
+                "name": "TV Maceió",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/1154640.ts",
+                "icono": "https://tvmaceio.tv.br/wp-content/uploads/2015/07/tv-logo-2-novo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV MAX",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/1154644.ts",
+                "icono": "https://i.imgur.com/2Pg0baJ.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV Metropole",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/1154645.ts",
+                "icono": "https://i.imgur.com/bJyjLpg.png",
+                "type": "HLS"
+            }
 
 ]
   },
