@@ -70,6 +70,57 @@
                 "url": "http://belami.top/test/DEMO_130925PIGE/BTV/live/10963304632123/index.m3u8",
                 "icono": "https://i.postimg.cc/mkwDH9S4/ufc.png",
                 "type": "HLS"
+            },
+			{
+        "name": "🥊 🥊EVENTOS BOXING-UFC 🥊🥊",
+        "samples": [
+            {
+                "name": "BOXING | CANELO VS CRAWFORD 1 (LAT)",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/722025.ts",
+                "icono": "https://s.yimg.com/fz/api/res/1.2/ZIgQNnJPwoILFpq74TOTeQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0yMjg7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz00MDA-/https://s.yimg.com/am/60d/d76ccb16c00f33a4edea9ed6d7ba05af",
+                "type": "HLS"
+            },
+            {
+                "name": "BOXING | CANELO VS CRAWFORD 2 (LAT)",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/79a63b5e-8430-4560-a022-e73a52504b8f.ts",
+                "icono": "https://s.yimg.com/fz/api/res/1.2/ZIgQNnJPwoILFpq74TOTeQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0yMjg7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz00MDA-/https://s.yimg.com/am/60d/d76ccb16c00f33a4edea9ed6d7ba05af",
+                "type": "HLS"
+            },
+            {
+                "name": "BOXING | CANELO VS CRAWFORD 3 (ING)",
+                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/597261.ts",
+                "icono": "https://s.yimg.com/fz/api/res/1.2/ZIgQNnJPwoILFpq74TOTeQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0yMjg7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz00MDA-/https://s.yimg.com/am/60d/d76ccb16c00f33a4edea9ed6d7ba05af",
+                "type": "HLS"
+            },
+            {
+                "name": "BOXING | CANELO VS CRAWFORD 4 (ING)",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/0c2055c6-13c2-426a-972f-da816370538c.ts",
+                "icono": "https://s.yimg.com/fz/api/res/1.2/ZIgQNnJPwoILFpq74TOTeQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0yMjg7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz00MDA-/https://s.yimg.com/am/60d/d76ccb16c00f33a4edea9ed6d7ba05af",
+                "type": "HLS"
+            },
+            {
+                "name": " UFC NOCHE Lopes vs Silva 1 PRELIMINARES",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/722023.ts",
+                "icono": "https://schedule.fightmag.com/wp-content/uploads/2025/06/noche-ufc-lopes-vs-silva-1068x601.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "UFC NOCHE Lopes vs Silva 2 PRELIMINARES",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/722005.ts",
+                "icono": "https://schedule.fightmag.com/wp-content/uploads/2025/06/noche-ufc-lopes-vs-silva-1068x601.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "UFC NOCHE Lopes vs Silva 3",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/722006.ts",
+                "icono": "https://schedule.fightmag.com/wp-content/uploads/2025/06/noche-ufc-lopes-vs-silva-1068x601.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "UFC NOCHE Lopes vs Silva 4",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/722007.ts",
+                "icono": "https://schedule.fightmag.com/wp-content/uploads/2025/06/noche-ufc-lopes-vs-silva-1068x601.jpg",
+                "type": "HLS"
             }
 	
       
