@@ -1434,7 +1434,88 @@
                 "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"
             }
     
-
+]
+    },
+    {
+        "name": "PARAGUAY OPC SIN BLOQUEO PRUEBA",
+        "samples": [
+            {
+                "name": "LA TELE HD",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/14066",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/330px-Flag_of_Paraguay.svg.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ABC PY",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/2484e4f4-3f3a-4d88-b1a9-a4ac3ea4e286.ts",
+                "icono": "https://logo.iptveditor.com/abc.png",
+                "type": "HLS"
+            },
+            {
+                "name": "FARRA PLAY",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/88cea7fc-0645-4223-a5bc-eb1bc8913185.ts",
+                "type": "HLS"
+            },
+            {
+                "name": "LA TELE ",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/63c6c195-35a0-4628-84f0-9482b18da71f.ts",
+                "type": "HLS"
+            },
+            {
+                "name": "RPC",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/b78847ed-5967-402d-872a-8808e56db124.ts",
+                "type": "HLS"
+            },
+            {
+                "name": "C9N",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/254a4df7-3a62-4d63-97ea-bfcf0ddb8697.ts",
+                "type": "HLS"
+            },
+            {
+                "name": "PARAGUAY TV",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/f750759f-5604-4106-82a5-b816ce6ee065.ts",
+                "type": "HLS"
+            },
+            {
+                "name": "TELEFUTURO ",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/f9157edc-4a89-49d8-b698-4a68e92cf227.ts",
+                "type": "HLS"
+            },
+            {
+                "name": "SNT",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/64237abc-8042-4536-a20d-0255ac8d1f08.ts",
+                "type": "HLS"
+            },
+            {
+                "name": "UNICANAL",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/034998a1-cdc0-4833-8c8f-eb4024465171.ts",
+                "type": "HLS"
+            },
+            {
+                "name": "LA  TELE 2",
+                "url": "http://31.42.184.171:8080//live/Estoestv547/56547tvcambio/94383.ts",
+                "type": "HLS"
+            },
+            {
+                "name": "C9N HD",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/464900.ts",
+                "type": "HLS"
+            },
+            {
+                "name": "CANAL 13 HD",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/464901.ts",
+                "type": "HLS"
+            },
+            {
+                "name": "GEN TV",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/464898.ts",
+                "type": "HLS"
+            },
+            {
+                "name": "GEN TV",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/464897.ts",
+                "type": "HLS"
+            }
       
       
     ]
