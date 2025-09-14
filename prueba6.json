@@ -1063,6 +1063,85 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
         "icono": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png"
       }
+
+		]
+    },
+    {
+        "name": "DEP URUGUAY",
+        "samples": [
+            {
+                "name": "EVENTOS 1",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/295067.ts",
+                "icono": "https://s1.significados.com/foto/bandera-de-uruguay-og.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "EVENTOS 2",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/295066.ts",
+                "icono": "https://s1.significados.com/foto/bandera-de-uruguay-og.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "VTV+ PLUS ",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/490602.ts",
+                "icono": "https://i.ibb.co/7HNRN1S/Logo-VTV-Plus-nuevo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "VTV+ PLUS OP2",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/490601.ts",
+                "icono": "https://i.ibb.co/7HNRN1S/Logo-VTV-Plus-nuevo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "VTV",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a"
+            },
+            {
+                "name": "VTV OP2",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/1633",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DIRECTV",
+                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/33483.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsYXh7hEhXsufoMdm9HTUyvoyaGkdCvyYTIw&s",
+                "type": "HLS"
+            },
+            {
+                "name": "DIRECTV OP2",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/65",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsYXh7hEhXsufoMdm9HTUyvoyaGkdCvyYTIw&s",
+                "type": "HLS"
+            },
+            {
+                "name": "Gol TV",
+                "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/10494.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlaWY_DzkGPx7cubxqNKQ3t4faQbTWQHCfg&s",
+                "type": "HLS"
+            },
+            {
+                "name": "Gol TV OP2",
+                "url": "http://tv-cool.com:25461/coolevents@/qtzjdnS9PA3hswww1223/281207",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlaWY_DzkGPx7cubxqNKQ3t4faQbTWQHCfg&s",
+                "type": "HLS"
+            },
+            {
+                "name": "AUF TV (EN PRUEBA)",
+                "url": "ttps://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181835",
+                "icono": "https://pbs.twimg.com/profile_images/1389297875469877250/_Rgj0-YU_400x400.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "AUF TV (PRUEBA OPC2)",
+                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181835",
+                "icono": "https://pbs.twimg.com/profile_images/1389297875469877250/_Rgj0-YU_400x400.jpg",
+                "type": "HLS"
+            }
       
    
       
