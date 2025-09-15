@@ -5464,7 +5464,7 @@
 	]
     },
     {
-        "name": "PLUTO TV (prueba)",
+        "name": "PACK PLUTO TV",
         "samples": [
             {
                 "name": "Pluto TV Cine Comedia",
@@ -5608,7 +5608,7 @@
 			]
     },
     {
-        "name": "CANEL TV",
+        "name": " PACK CANEL TV",
         "samples": [
             {
                 "name": "CANELA NARCO DRAMA",
@@ -5636,6 +5636,74 @@
                 "icono": "https://i.postimg.cc/xd4GypL1/0-16x9-5.jpg",
                 "type": "HLS"
             }
+
+			]
+    },
+    {
+        "name": "PACK RUNTIME",
+        "samples": [
+            {
+                "name": "RUN TIME LATINO",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154",
+                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
+                "type": "HLS"
+            },
+
+			   {
+                "name": "RUN TIME FILM",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153",
+                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
+                "type": "HLS"
+            },
+
+			{
+                "name": "RUN TIME ESPAÑOL",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649",
+                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
+                "type": "HLS"
+            },
+
+			{
+                "name": "RUN TIME FAMILIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528",
+                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
+                "type": "HLS"
+            },
+
+			{
+                "name": "RUN TIME TERROR",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529",
+                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
+                "type": "HLS"
+            },
+
+			{
+                "name": "RUN TIME ACCION",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550",
+                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
+                "type": "HLS"
+            },
+
+			{
+                "name": "RUN TIME COMEDIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551",
+                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
+                "type": "HLS"
+            },
+
+			{
+                "name": "RUN TIME CRIMEN",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533",
+                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
+                "type": "HLS"
+            },
+
+			{
+                "name": "RUN TIME ROMANCE",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532",
+                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
+                "type": "HLS"
+            },
 		
 		
       
