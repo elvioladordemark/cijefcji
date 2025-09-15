@@ -43,9 +43,45 @@
         "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
       }
 
+]
+    },
+    {
+        "name": "🟢RTVE PLAY ESPECIAL ESPAÑA",
+        "samples": [
+            {
+                "name": "RTVE LA 1",
+                "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8",
+                "icono": "https://i.postimg.cc/2SthqzMX/download-25.png",
+                "type": "HLS"
+            },
 
+			 {
+                "name": "RTVE LA 2",
+                "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_576.m3u8",
+                "icono": "https://i.postimg.cc/2SthqzMX/download-25.png",
+                "type": "HLS"
+            },
+
+			{
+                "name": "RTVE TDP",
+                "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_P454PDS00170005.m3u8",
+                "icono": "https://i.postimg.cc/2SthqzMX/download-25.png",
+                "type": "HLS"
+            },
+
+			{
+                "name": "RTVE SOMOS CINE",
+                "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm6_main_P131EGS00117_720.m3u8",
+                "icono": "https://i.postimg.cc/2SthqzMX/download-25.png",
+                "type": "HLS"
+            },
 		
-		
+		{
+                "name": "RTVE SABER Y GANAR",
+                "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm9_main_720.m3u8",
+                "icono": "https://i.postimg.cc/2SthqzMX/download-25.png",
+                "type": "HLS"
+            }
 
 
 			]
