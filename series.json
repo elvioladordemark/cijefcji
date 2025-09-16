@@ -587,6 +587,22 @@
                                     "url": "http://goovdme.967sd1f.homes/vod/97BD5C5B9F954D7284A03E146D74788E_media.mp4"
                                 }
                             ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Costa Da Morte",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B16958A610B4401688AD2E70C0A6B7F2_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La Ofrenda",
+                                    "url": "http://goovdme.967sd1f.homes/vod/64E359FB15C14CE89F896D4DAE3E0387_media.ts"
+                                }
+                            ]
                         }
                     ],
                     "tmdb_id": 211684,
