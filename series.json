@@ -10851,6 +10851,65 @@
                     ],
                     "tmdb_id": 157239,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El Pacificador",
+                    "genero": "Action & Adventure, Sci-Fi & Fantasy, Drama",
+                    "descripcion": "La historia de origen de Peacemaker, un hombre que cree en la paz a cualquier precio, no importa cuántas personas tenga que matar para conseguirla.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9arGKCxY19dTahbAd8ZuVKxMzYZ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/t7NakS7qZekeXSocv6jcyd5on7A.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/pj1wFbZF3gpEg7F0EreXTvZNZTG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un truño ideal",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BBFB7B3112E54F1BB23347AAB8434D60_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mejores amigos, para nunca",
+                                    "url": "http://goovdme.967sd1f.homes/vod/67C711ECB607422782AEA22A48280A05_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Goff mejor que uno",
+                                    "url": "http://goovdme.967sd1f.homes/vod/87E240F7F046485C971D19A169EF687E_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Se hace cipote al andar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4BAAAF76AA98453DA923F4886D8A5898_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Chimpi Lerendi",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/8052F12D4B084DE3BE3EEC533C2D6257_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Lamento después de leer",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3D7F84915E654070A6DD78F2EC7E9D75_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Deja de dragonear mi corazón por todos lados",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C02CA402BFC3446582049321FF80709A_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Esto se avaca",
+                                    "url": "http://goovdme.967sd1f.homes/vod/10B4E93569C2431194AEF0FD6275507E_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 110492,
+                    "total_seasons": 2
                 }
             ]
         },
