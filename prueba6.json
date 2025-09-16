@@ -58,42 +58,40 @@
 ]
     },
     {
-        "name": "🟢RTVE PLAY ESPECIAL ESPAÑA",
+        "name": "CUARTO DE FINAL EVENTOS HOY",
         "samples": [
             {
-                "name": "RTVE LA 1",
-                "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8",
-                "icono": "https://i.postimg.cc/2SthqzMX/download-25.png",
+                "name": "VELEZ VS RACING 19:00 HS OPC 1",
+                "url": "https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4MDczMTg0Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvblBWUi9jM2Vkcy83Nl9DQU5BTC05LUhEX1RfMjAyNTA5MTUwMTAwLTIwMjUwOTE1MDI0NV9PTl9BbmV2aWEzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3OWVmZjgwZmM5NmQ5Y2VlIiwic2Vzc2lvbl9pZCI6IjgzNDQwNzEwLTE3NTc5MDAzODQtMTAzIiwiY2xpZW50X2lkIjoiMTE1MTEzMjciLCJkZXZpY2VfaWQiOiI4MzQ0MDcxMCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIwMSIsInNvdXJjZXMiOls3Nyw4NSwxNDQsMTc0LDg4XX0=.BkJTFOYNnoHPE6lgurWFaeQAL5UPGmS4iCHDG5aroM_o-8jQiZun33hEHTMKdrvnR2cyGRU1HjuWYqA4cWCv_w==//live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
+                "icono": "https://i.postimg.cc/N0mpZrX1/download-54.jpg",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+			
+			
+			
+			{
+                "name": "VELEZ VS RACING 19:00 HS OPC 2",
+                "url": "http://weib-tv.com/EstoEsTv/98tnQmKnWJ/592000.ts",
+                "icono": "https://i.postimg.cc/N0mpZrX1/download-54.jpg",
                 "type": "HLS"
             },
+
+
 
 			 {
-                "name": "RTVE LA 2",
-                "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_576.m3u8",
-                "icono": "https://i.postimg.cc/2SthqzMX/download-25.png",
-                "type": "HLS"
-            },
+        "name": "LANUS VS FLUMINENSE 21:30 HS",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.postimg.cc/wjSNKf5r/download-55.jpg"
+      }
 
-			{
-                "name": "RTVE TDP",
-                "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_P454PDS00170005.m3u8",
-                "icono": "https://i.postimg.cc/2SthqzMX/download-25.png",
-                "type": "HLS"
-            },
-
-			{
-                "name": "RTVE SOMOS CINE",
-                "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm6_main_P131EGS00117_720.m3u8",
-                "icono": "https://i.postimg.cc/2SthqzMX/download-25.png",
-                "type": "HLS"
-            },
-		
-		{
-                "name": "RTVE SABER Y GANAR",
-                "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm9_main_720.m3u8",
-                "icono": "https://i.postimg.cc/2SthqzMX/download-25.png",
-                "type": "HLS"
-            }
 
 
 			]
