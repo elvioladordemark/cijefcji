@@ -691,8 +691,17 @@
         "name": "🟢EVENTOS MLS",
         "samples": [
             {
-                "name": "** EVENTOS MLS SOLO SE ACTIVAN 10MIN ANTES**",
-                "url": "https://24a1.crackstreamslivehd.com/global/mls1es/index.m3u8?token=48dbc4c67b9afc4e12c473943f57cebe566ba3f4-1e-1758119035-1758065035&ip=38.165.233.30",
+                "name": "** EVENTOS MLS OPC 1 SOLO SE ACTIVAN 10MIN ANTES**",
+                "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/305057.m3u8?tk=ODVlZjRiOWUzNThmYmQxNWRjMzNiNDRjOThlYzcwOGVhYWI0",
+                "icono": "https://i.postimg.cc/9Xgzfs2z/download-56.jpg",
+                "type": "HLS"
+            },
+			
+			
+			
+			{
+                "name": "** EVENTOS MLS OPC 2 SOLO SE ACTIVAN 10MIN ANTES**",
+                "url": "https://d3.merichunidya.com:1686/hls/mlsusa.m3u8?md5=zGR2eP_kdmTDiU3eOF2Qsg&expires=1758081801",
                 "icono": "https://i.postimg.cc/9Xgzfs2z/download-56.jpg",
                 "type": "HLS"
             }
