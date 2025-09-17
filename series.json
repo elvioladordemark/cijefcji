@@ -16804,6 +16804,70 @@
                     ],
                     "tmdb_id": 241405,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Monstruos: La historia de Lyle y Erik Menendez",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Este estremecedor drama de crímenes reales investiga la vida de los hermanos Menendez, condenados por el brutal asesinato de sus padres en Beverly Hills en 1989.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/28749AAVbrcDnR32RjCDQB2gxxa.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ziGwbvZvcyy8i3cYNUCDLkQGsU0.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/is3ZdGCPEKTW7IyDe0khvE1nc6R.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Milli Vanilli",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8C3896A5840A44F9BAE9F15649295B61_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Qué divertido",
+                                    "url": "http://goovdme.967sd1f.homes/vod/14D50662F9C7423F8F6E0FA76CD52F0F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¿Tienes una moneda?",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4B1C3CCA7CEE42D89AF58F7AE39CB6C9_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Matar o morir",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1BC13513D0A44D60B723EEC86FC9D16D_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Heridas del pasado",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/77CDFCA56DDB4318A2FBDCD39C40E225_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "No sueñes que se acabó",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9C26531B2B6048B384A00E242399D3B3_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Que empiece el espectáculo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4F5FB58CA4DF4836AF1C235B15221F4C_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El terremoto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/368500FD9B1A4C39A585FC2988E42021_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El ahorcado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4E5EC514A34449EA8996C383693697E0_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 225634,
+                    "total_seasons": 1
                 }
             ]
         },
