@@ -29,37 +29,24 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       },
-{
-        "name": "TIGO",
-        "url": "https://live.enhdtv.com:8081/8122/index.m3u8",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
-      },
-		{
-        "name": "TIGO 1",
-        "url": "https://live.enhdtv.com:8081/8148/index.m3u8",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
-      },
      
       {
-        "name": "TIGO 2",
+        "name": "TIGO COPA PY",
         "url": "https://live.enhdtv.com:8081/8166/index.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
       },
       {
-        "name": "TIGO 3",
+        "name": "TIGO INTERMEDIAS",
         "url": "https://live.enhdtv.com:8081/8212/index.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
       }
 
-
 		]
     },
     {
-        "name": "⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷",
+        "name": "⚽DEPORTES ESPN Y FOX SPORTS GLOBAL ​🇦🇷",
         "samples": [
             {
                 "name": "ESPN PREMIUM",
@@ -210,10 +197,10 @@
                 }
             }
 
-				]
+			]
     },
     {
-        "name": "⚽DEPORTES ESPN Y FOX SPORTS OPC 2 SOLO WI-FI PERSONAL",
+        "name": "⚽DEPORTES ESPN Y FOX SPORTS OPC 2 SOLO PARA PERSONAL",
         "samples": [
             {
                 "name": "ESPN PREMIUM",
@@ -408,7 +395,8 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             }
- ]
+
+			   ]
     },
     {
         "name": "PARAGUAY GLOBAL 🇵🇾",
@@ -450,7 +438,18 @@
                 }
             }, 
 			
-
+			{
+                "name": "TELEFUTURO FLOW HD 2",
+                "url": "https://qn-01282-slo-1-07-1---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2ODU4MTEwIiwic2lwIjoiMTc5LjM4LjIwMy4xMDIiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE5MzVkNWU2MzZjYWRmMTgiLCJzZXNzaW9uX2lkIjoiODMwMzk3MTItMTc1NjY4NTMxMC02MTMiLCJjbGllbnRfaWQiOiIxMzEwMzQ3MyIsImRldmljZV9pZCI6IjgzMDM5NzEyIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjgyIiwic291cmNlcyI6Wzg2XX0=.SSoO2M4FqXqMSR0Eml4X5Bt-DegsYFyUoh3yCDe85P-e8NFWaYfu6uHHXR8J-m-YKUBLox3XgvTbcy-f7Ty4Ng==//live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
+                "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
 
 			
             {
@@ -686,95 +685,18 @@
                 "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"
             }
 
-			
-
-]
+		]
     },
     {
-        "name": "CUARTO DE FINAL EVENTOS HOY",
+        "name": "🟢EVENTOS MLS",
         "samples": [
             {
-                "name": "VELEZ VS RACING 19:00 HS OPC 1",
-                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4MjQ2MTcyIiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdmNzU0M2FhMjFmZDgxNzYiLCJzZXNzaW9uX2lkIjoiODM0NDA3MTAtMTc1ODA3MzM3MS02OTIiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNDQwNzEwIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.NOg2Yq8yelMxCoR6Bfa5KtLsyDcieanozLOWTj0e_F9Zt8UvJheLFCxpljqnZKjtvtJqv54fgDYtwNKC449ZFQ==//live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
-                "icono": "https://i.postimg.cc/N0mpZrX1/download-54.jpg",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-			
-			
-			
-			{
-                "name": "VELEZ VS RACING 19:00 HS OPC 2",
-                "url": "http://weib-tv.com/EstoEsTv/98tnQmKnWJ/592000.ts",
-                "icono": "https://i.postimg.cc/N0mpZrX1/download-54.jpg",
+                "name": "** EVENTOS MLS SOLO SE ACTIVAN 10MIN ANTES**",
+                "url": "https://24a1.crackstreamslivehd.com/global/mls1es/index.m3u8?token=48dbc4c67b9afc4e12c473943f57cebe566ba3f4-1e-1758119035-1758065035&ip=38.165.233.30",
+                "icono": "https://i.postimg.cc/NMrK0Vjw/stopwatch-10-minutes-icon-illustration-in-flat-style-timer-illustration-on-isolated-background-time.png",
                 "type": "HLS"
             },
-
-			{
-        "name": "LANUS VS FLUMINENSE 21:30 HS",
-        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.postimg.cc/wjSNKf5r/download-55.jpg",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "FireFox"
-        }
-      },
-
-
- 
-			{
-        "name": "LANUS VS FLUMINENSE 21:30 HS OPC 2",
-        "url": "http://weib-tv.com/EstoEsTv/98tnQmKnWJ/2366.ts",
-        "icono": "https://i.postimg.cc/wjSNKf5r/download-55.jpg",
-        "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      }
-
-			]
-    },
-    {
-        "name": "EVENTOS MLS(OJO SOLO EVENTOS)",
-        "samples": [
-            {
-                "name": "MLS EVENTOS OPC 1",
-                "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/305057.m3u8?tk=ODVlZjRiOWUzNThmYmQxNWRjMzNiNDRjOThlYzcwOGVhYWI0",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
-                "icono": "https://i.postimg.cc/9Xgzfs2z/download-56.jpg",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }
-			
-			
-			{
-                "name": "MLS EVENTOS OPC 2",
-                "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/305057.m3u8?tk=ODVlZjRiOWUzNThmYmQxNWRjMzNiNDRjOThlYzcwOGVhYWI0",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
-                "icono": "https://i.postimg.cc/9Xgzfs2z/download-56.jpg",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }
+		
 
 
 			]
@@ -941,8 +863,6 @@
 
 
 
-			
-
 
           ]
     },
@@ -1045,7 +965,7 @@
       
    
       
-     
+   
     
 
       
@@ -5559,7 +5479,7 @@
 	]
     },
     {
-        "name": "PACK PLUTO TV",
+        "name": "PLUTO TV (prueba)",
         "samples": [
             {
                 "name": "Pluto TV Cine Comedia",
@@ -5703,7 +5623,7 @@
 			]
     },
     {
-        "name": " PACK CANEL TV",
+        "name": "CANEL TV",
         "samples": [
             {
                 "name": "CANELA NARCO DRAMA",
@@ -5729,74 +5649,6 @@
                 "name": "CANELA TV",
                 "url": "https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/cb573f166573638b84c83c65cef24082847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7adb25a11893fa9e30141947b46fa83439fd401b388d15a834b8423a2139f9bf988d643878cb4599406f224364b36728b854686db51c4bef00b17bd2b422c7d51e8b7e19d245dd61d3c3692ead88075ed1ad88826981246d16f965a883cb57eb936b7f347b6acb8c6183153cccd5d6018b4fcb08f895159df48daf89eb71c789ce01d7b42f661d92c2c2d91face66e0a97793a579ebde0b143bb2f92ffdb493a1befdda10f74fa9cbf98c4f2624012a23dc31c8ff6ed439cd79daad79400c1709c7f951cd82ab185a264b83845b834b48e0968ad6890a769e644e59a5398f0351219d35357ee079ae9e3834dd2050fc5f57fa4825bf40e9b628f9a2a98e6c52b6dfc947f36ea1a11ce0f668d105bdf29fd1884e6a760e10e5e06f19357d8376f0d2dee4647b788695e3dfb09ebc9a5b6d3f2284f0f378dbafcd2c0f1fc2525c003e7045d06c5e0eae838cfb8a899ef18c70ecb685e4d6f29f9f17354d9bcda38884d78567bd76d0cefa3615f63809b21e0a3c67dfba8c16a8761b3e326a8901604caa141a6cded598b5d7d0358eab6da46e364f23dda6430849736373069ea76dd575eb8752ecc89d129fb9cd5a6ead088e2d5cdedcd567fdada6c24c049fe3173a6f85dc2ac03c7c93479a7bc6823e88f066071a3d52418ddb07a811ea89e8b241f01ba4410771fd6bfbcdb3c1b14862a7c01a7d6373167d197579230bb4dfaf142373feb32ae31dabab62a04c503c28549ce5245b95e363138c3f1d31f7f02bea3272feb6acacc2641a95c2782cfe6fa46ef64adf2b/120/1280x720_3849560/index.m3u8",
                 "icono": "https://i.postimg.cc/xd4GypL1/0-16x9-5.jpg",
-                "type": "HLS"
-            }
-
-			]
-    },
-    {
-        "name": "PACK RUNTIME",
-        "samples": [
-            {
-                "name": "RUN TIME LATINO",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154",
-                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
-                "type": "HLS"
-            },
-
-			   {
-                "name": "RUN TIME FILM",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153",
-                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
-                "type": "HLS"
-            },
-
-			{
-                "name": "RUN TIME ESPAÑOL",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649",
-                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
-                "type": "HLS"
-            },
-
-			{
-                "name": "RUN TIME FAMILIA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528",
-                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
-                "type": "HLS"
-            },
-
-			{
-                "name": "RUN TIME TERROR",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529",
-                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
-                "type": "HLS"
-            },
-
-			{
-                "name": "RUN TIME ACCION",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550",
-                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
-                "type": "HLS"
-            },
-
-			{
-                "name": "RUN TIME COMEDIA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551",
-                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
-                "type": "HLS"
-            },
-
-			{
-                "name": "RUN TIME CRIMEN",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533",
-                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
-                "type": "HLS"
-            },
-
-			{
-                "name": "RUN TIME ROMANCE",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532",
-                "icono": "https://i.postimg.cc/pVKBjHX0/unnamed.jpg",
                 "type": "HLS"
             }
 		
