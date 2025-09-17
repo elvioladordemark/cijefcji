@@ -744,6 +744,24 @@
         }
       }
 
+			]
+    },
+    {
+        "name": "EVENTOS MLS(OJO SOLO EVENTOS)",
+        "samples": [
+            {
+                "name": "MLS EVENTOS",
+                "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/305057.m3u8?tk=ODVlZjRiOWUzNThmYmQxNWRjMzNiNDRjOThlYzcwOGVhYWI0",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
+                "icono": "https://i.postimg.cc/9Xgzfs2z/download-56.jpg",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
 
 			]
     },
