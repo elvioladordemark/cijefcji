@@ -715,6 +715,19 @@
                     "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+
+			 {
+                "name": "EVENTOS FLOW MUSIC",
+                "url": "https://edge-live01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4MjU0NDAwIiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9GbG93X011c2ljX1hQL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxZjZhMzRhZjhkZmFkMjI4Iiwic2Vzc2lvbl9pZCI6IjgzNDQwNzEwLTE3NTgwODE1OTktNzMwIiwiY2xpZW50X2lkIjoiMTE1MTEzMjciLCJkZXZpY2VfaWQiOiI4MzQ0MDcxMCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjI1OCIsInNvdXJjZXMiOls3Nyw4NSwxNDQsODYsODhdfQ==.mDs5PYADdBhArmBB7Cvt9gqNpQzVt7bkzR3a4D1LwOjSXENlRCq0J4g_UAbptGQzTC755dBB2ZCByhgAkgio7Q==/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b2aae44a74144be8b2118e20d1412bab&key=8a7ae996d12d8d5d5637d1044f8e08b",
+                "icono": "https://i.postimg.cc/BvnsKc2N/images-2.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
 			
 			
