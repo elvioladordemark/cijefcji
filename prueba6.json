@@ -46,6 +46,72 @@
 		]
     },
     {
+        "name": "🟢EVENTOS LIBERTADORES HOY",
+        "samples": [
+        
+			
+			{
+                "name": "RIVER VS PALMEIRAS OPC 2",
+                "url": "http://weib-tv.com/EstoEsTv/98tnQmKnWJ/592000.ts",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
+                "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+			 {
+                "name": "EVENTO 12 •",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/",
+                "icono": "https://s.yimg.com/ny/api/res/1.2/sc.t7o332xJ1iNMCX0bbDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/comingsoon_net_477/f413111ab1897fb476bdba3207f0ea4a",
+                "type": "HLS"
+            },
+
+			{
+                "name": "🏆21:30PM River vs Palmeiras = Espn2MX",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/722254.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "🏆21:30PM River vs Palmeiras = Telefe",
+                "url": "http://74.91.28.186:8080//live/VIP-LATIN/290231/2373367.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "🏆21:30PM River vs Palmeiras = BeinSportsLatino",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/722255.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "🏆21:30PM River Plate vs Palmeiras  = FoxSports",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/324462.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "🏆21:30PM Independiente del Valle vs Once Caldas = Espn2",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/722256.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "🏆21:30PM Independiente del Valle vs Once Caldas = Espn",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/722257.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png?q=75&w=50",
+                "type": "HLS"
+            }
+
+			  
+
+		]
+    },
+    {
         "name": "⚽DEPORTES ESPN Y FOX SPORTS GLOBAL ​🇦🇷",
         "samples": [
             {
