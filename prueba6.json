@@ -172,6 +172,19 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
+
+			{
+                "name": "FOX SPORTS 1 OPC 2",
+                "url": "http://weib-tv.com/EstoEsTv/98tnQmKnWJ/592000.ts",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
+                "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
             {
                 "name": "FOX SPORTS 2",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4MzI2MTY1Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImJhNjZhMGU3NDhkNDNlMGIiLCJzZXNzaW9uX2lkIjoiODM0NDA3MTAtMTc1ODE1MzM2OC02NjAiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNDQwNzEwIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.ZaGXkDqSTDsLSl_8C7lXt2DVleOEIC47kONzsQpqrhg333ei4lA6_oQTveH4Xw-C12v6mR2J5WO_xX3tMg-G-w==//live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd",
