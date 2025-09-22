@@ -2674,6 +2674,65 @@
                     ],
                     "tmdb_id": 280888,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Black Rabbit",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "El dueño de un restaurante de moda se ve arrastrado al hampa neoyorquina cuando su hermano, un imán para los problemas, vuelve a la ciudad con unos usureros pisándole los talones.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/sXl3ppbr3J1eUdrq83KmAVBIBLw.png",
+                    "icono": "https://image.tmdb.org/t/p/original/yUd957QtHo2TVY7k17o3nZ6DmzM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ivq4eSwCk3XAPx64q1m9ueACFt0.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El ciclón",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CFFEBDA840064AECA3708E43F9BDD878_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Los Black Rabbits",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2A95DCC575CA48BFB0B4572033C73585_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Piel con piel",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/0A12D384F3054FDA899498CFA1E144A9_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Basta de mierdas",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/881B75A9F7A14A8C811A199A79762D3C_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Pionero o pirómano",
+                                    "url": "http://goovdme.967sd1f.homes/vod/31BA5EC399304E89A288714CDF98B1EA_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "¡Bien hecho, colega!",
+                                    "url": "http://goovdme.967sd1f.homes/vod/63EA1D4F5012421E967A4F9A8CA7B013_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Los chavales casi la cagan",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6B71BFEC4D2A44CC87A1D6E9C77C3F82_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Isla de la alegría",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0756AF8A0131490DAE9ADB5ACB1261BC_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 249039,
+                    "total_seasons": 1
                 }
             ]
         },
