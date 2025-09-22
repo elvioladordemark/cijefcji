@@ -18756,6 +18756,65 @@
                     ],
                     "tmdb_id": 227114,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Generación V",
+                    "genero": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+                    "descripcion": "En la única universidad para superhéroes de Estados Unidos, los estudiantes superdotados ponen a prueba sus límites morales, compitiendo por la clasificación más alta de la universidad y la oportunidad de unirse a Los Siete, el equipo de élite de superhéroes de Vought International. Cuando los oscuros secretos de la escuela salen a la luz, deben decidir en qué tipo de héroes quieren convertirse.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7d1c5ee35DSQniwxlnZq1cmq6Mm.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fLJzwWk28vRrNQIvIXUSU5YBdT5.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ScaVfT5IkwVC3Edhmxqyl0GbK0.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Uni God",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4E6EE7934BB342248992081BBCAB701E_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Primer día",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3BC8E2BB6DCB47498BCA961EE1A5EDB4_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "#PiensaEnBrink",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EE889D8C42AE4B8998D1482D2FB3E10F_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Toda la verdad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/625C3FC2B8F1455AB5C62BA125172C56_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Bienvenidos al club de los monstruos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FECB7A6AF3014767AAC5137A0F1C9188_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Jumanji",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DB5ECF1BF0804D3E952FC84530A55E47_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Enfermos",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/12280D1DB82D49FE9E08871075EC06F7_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Guardianes de Godolkin",
+                                    "url": "http://goovdme.967sd1f.homes/vod/123D974F41CA47AE8CE138C5AD51DDC8_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 205715,
+                    "total_seasons": 2
                 }
             ]
         },
