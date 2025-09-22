@@ -642,6 +642,65 @@
                     ],
                     "tmdb_id": 211684,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "El refugio atómico",
+                    "genero": "Sci-Fi & Fantasy, Drama",
+                    "descripcion": "Tras refugiarse en un búnker de lujo para millonarios, dos familias deben hacer frente a la herida que las separó mientras crece la amenaza de un conflicto global sin precedentes.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/oODsLHaSdJ7Pz45jzx580SY8pFi.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8Svzawg7u679VHxdKriCkm722w7.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/cyqKNRLFKCN9Y28ln38hLMESGEj.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Volver del infierno",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B114AB224F6D42169AAD4E40AF67C95D_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La gran estafa de la humanidad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B4C06340155C49A5977376F5CBA2C7E1_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Odio a los ricos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FB8ECF21D06D46AB8829B439E8C8E215_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La paradoja del millonario",
+                                    "url": "http://goovdme.967sd1f.homes/vod/52ADCA77793845C7B9FBD20A15237C6F_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La verdad está sobrevalorada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/13E10CC3B1954FAF8CFF2C7BD1370CC1_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La mujer de los días contados",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4DE13B9CBE9D4F148D8EE020B379B072_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Aprende a vivir sin mí",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1BB06C7CEDAE479B9CD93D919981461A_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Dos minutos sin Roxán",
+                                    "url": "http://goovdme.967sd1f.homes/vod/540E2FD6498A4F79A7402C0F06423CFB_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 245648,
+                    "total_seasons": 1
                 }
             ]
         },
