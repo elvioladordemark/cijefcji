@@ -43,6 +43,36 @@
         "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
       }
 
+			]
+    },
+    {
+        "name": "🟢COPA LIBERTADORE",
+        "samples": [
+          {
+                "name": "21:30pm Palmeiras vs River Plate = FoxSports",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724861.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "21:30pm Palmeiras vs River Plate = EspnCol",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724862.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "21:30pm Palmeiras vs River Plate = BeinSportsLatino",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724864.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "21:30pm Palmeiras vs River Plate = Espn2Mx",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724863.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "type": "HLS"
+            }
+
 
 		
 		]
@@ -57,8 +87,8 @@
                 "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
+                    "Origin": "https://web.app.flow.com.py",
+                    "Referer": "https://web.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
