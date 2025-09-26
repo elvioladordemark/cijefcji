@@ -8624,6 +8624,45 @@
                     ],
                     "tmdb_id": 250923,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "The Paper",
+                    "genero": "Comedia",
+                    "descripcion": "",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/urHZKooNBEDyGhK3cBmjxTAzYyE.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ms7LHYbtl7bH7UHX2SkWh6UQ7f3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/72DABFEDF2BB468EB8DB4C739BD62AC4_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6BA62BBCAAF54D0CAC5490A2CCBFF3E9_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/302F1850E22A40FA9B1C49CFA3973E57_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/AE986231D5AC47C181E608A1FFBD8DD3_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 253941,
+                    "total_seasons": 1
                 }
             ]
         },
