@@ -17180,6 +17180,65 @@
                     ],
                     "tmdb_id": 225634,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Incontrolables",
+                    "genero": "Misterio, Drama",
+                    "descripcion": "Un policía de un pequeño pueblo sospecha que la escuela local para adolescentes con problemas y su carismática —pero peligrosa— fundadora no son lo que aparentan.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/dMoj012x8SX7m2yBhoSzCwV7Ngo.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5aNad9yvHHzZnOt8aFKjv5VzQbP.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/znwchNfU5Vr2RNbxnI2iVIxVeMD.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Tall Pines",
+                                    "url": "http://goovdme.967sd1f.homes/vod/26A0348766A34ED6A9D60AF02979A77D_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Madriguera",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/23A89E0A1FC94152A180410DCA0529B5_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Salir",
+                                    "url": "http://goovdme.967sd1f.homes/vod/104492F7F63B4A329DE641339C885AB1_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Barro",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A85AA018B65443B2AE11F67E08823BDE_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Construir",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8625226BF0BB4C909ABC138D1EB2A189_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Espejo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6C6A77D974F9439E80E94B5F7EA05105_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Ascenso",
+                                    "url": "http://goovdme.967sd1f.homes/vod/22F8BBA3058F4CCE982F36FC15153114_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Salto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E89531050BA74931BA2343BB1C47E4F0_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 255859,
+                    "total_seasons": 1
                 }
             ]
         },
