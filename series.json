@@ -2792,6 +2792,40 @@
                     ],
                     "tmdb_id": 249039,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Fred y Rose West: Una historia británica de terror",
+                    "genero": "Documental, Crimen",
+                    "descripcion": "Grabaciones halladas recientemente por la policía y testimonios en primera persona narran la historia de Fred y Rose West, los dos asesinos más prolíficos del Reino Unido.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/bhwKhSJ5NXFAGhXdJEFJMa7hM06.png",
+                    "icono": "https://image.tmdb.org/t/p/original/dVaLmQxdSoH2MVHPuwDZvx0mha1.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kXf0oLGrdKiAhoRJaABAAJiD5hy.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Fred",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BF724B31FF034C96B1B5C9D272D59365_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Rose",
+                                    "url": "http://goovdme.967sd1f.homes/vod/76F9D795AD9746EE915FC817D163B317_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El juicio",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6AEDD5E0E4184E81BCC6A9459161530E_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 289123,
+                    "total_seasons": 1
                 }
             ]
         },
