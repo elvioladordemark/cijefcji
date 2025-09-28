@@ -45,30 +45,48 @@
   ]
     },
     {
-        "name": "COPA LIBERTADORE",
+        "name": "MUNDIAL SUB 20 CHILE",
         "samples": [
-          {
-                "name": "21:30pm Palmeiras vs River Plate = FoxSports",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724861.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+         {
+                "name": "17:00pm Italy U20 vs Australia U20 = DirectvSports",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/417198.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/52-fifa-u-20-world-cup.png?q=75&w=50",
                 "type": "HLS"
             },
             {
-                "name": "21:30pm Palmeiras vs River Plate = EspnCol",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724862.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "name": "17:00pm Morocco U20 vs Spain U20 =  FS1",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725407.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/52-fifa-u-20-world-cup.png?q=75&w=50",
                 "type": "HLS"
             },
             {
-                "name": "21:30pm Palmeiras vs River Plate = BeinSportsLatino",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724864.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "name": "20:00pm Brazil U20 vs Mexico U20 = Telemundo",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725406.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/52-fifa-u-20-world-cup.png?q=75&w=50",
                 "type": "HLS"
             },
             {
-                "name": "21:30pm Palmeiras vs River Plate = Espn2Mx",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724863.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "name": "20:00pm Brazil U20 vs Mexico U20 = TUDN MX",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/592016.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/52-fifa-u-20-world-cup.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "20:00pm Brazil U20 vs Mexico U20 = FS1",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725407.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/52-fifa-u-20-world-cup.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": " 20:00pm Cuba U20 vs Argentina U20 = Telefe",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/2083.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/52-fifa-u-20-world-cup.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "20:00pm Cuba U20 vs Argentina U20 = FS2",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725410.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/52-fifa-u-20-world-cup.png?q=75&w=50",
                 "type": "HLS"
             }
 
