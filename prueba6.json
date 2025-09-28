@@ -42,33 +42,69 @@
         "type": "HLS",
         "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
       }
-  ]
+ ]
     },
     {
-        "name": "COPA LIBERTADORE",
+        "name": "EVENTOS DEL DIA 2 ⚽",
         "samples": [
-          {
-                "name": "21:30pm Palmeiras vs River Plate = FoxSports",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724861.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+            {
+                "name": "11:00am Plaza Colonia vs River Plate = GolTv",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725375.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/42-primera-division.png?q=75&w=50",
                 "type": "HLS"
             },
             {
-                "name": "21:30pm Palmeiras vs River Plate = EspnCol",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724862.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "name": "15:15pm Racing Club vs Independiente - River vs Riestra =TycSports",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/167451.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50",
                 "type": "HLS"
             },
             {
-                "name": "21:30pm Palmeiras vs River Plate = BeinSportsLatino",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724864.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "name": "15:15pm Racing Club vs Independiente - River vs Riestra = EspnPremiun",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/591997.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50",
                 "type": "HLS"
             },
             {
-                "name": "21:30pm Palmeiras vs River Plate = Espn2Mx",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724863.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
+                "name": "16:00pm Juventud vs Nacional = GolTv",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725398.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/42-primera-division.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "16:00pm América de Cali vs Envigado = RCnNUestraTele",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725397.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "18:10pm Rionegro Águilas vs Deportivo Cali = RcnNuestraaTele",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725403.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "19:30pm Independiente Rivadavia vs Huracán = TNT Sports",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725404.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "20:00pm Cincinnati vs Orlando City SC = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725405.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "20:00pm Querétaro vs Tigres - Tijuana vs Cruz Azul = TUDN USA",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725411.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "20:30pm Corinthians vs Flamengo = Canal11",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725417.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/31-serie-a-brasileirao.png?q=75&=50",
                 "type": "HLS"
             }
 
