@@ -1,7 +1,7 @@
 
 [
   {
-    "name": "?TIGO SPORTS SOLO EVENTOS",
+    "name": "⚽TIGO SPORTS SOLO EVENTOS",
     "samples": [
       {
         "name": "EVENTOS1 TIGO FULL HD",
@@ -42,12 +42,12 @@
         "type": "HLS",
         "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
       }
- ]
+  ]
     },
     {
-        "name": "MUNDIAL SUB20 (CHILE 2025) ?????",
+        "name": "MUNDIAL SUB20 (CHILE 2025) 🇨🇱",
         "samples": [
-             {
+        {
                 "name": "17:00pm Italy U20 vs Australia U20 = DirectvSports",
                 "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/417198.ts",
                 "icono": "https://cdn.livesoccertv.com/tt/images/competitions/52-fifa-u-20-world-cup.png?q=75&w=50",
@@ -89,79 +89,11 @@
                 "icono": "https://cdn.livesoccertv.com/tt/images/competitions/52-fifa-u-20-world-cup.png?q=75&w=50",
                 "type": "HLS"
             }
-
-		
- ]
-    },
-    {
-        "name": "EVENTOS DEL DIA 2 ?",
-        "samples": [
-            {
-                "name": "11:00am Plaza Colonia vs River Plate = GolTv",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725375.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/42-primera-division.png?q=75&w=50",
-                "type": "HLS"
-            },
-            {
-                "name": "15:15pm Racing Club vs Independiente - River vs Riestra =TycSports",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/167451.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50",
-                "type": "HLS"
-            },
-            {
-                "name": "15:15pm Racing Club vs Independiente - River vs Riestra = EspnPremiun",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/591997.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50",
-                "type": "HLS"
-            },
-            {
-                "name": "16:00pm Juventud vs Nacional = GolTv",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725398.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/42-primera-division.png?q=75&w=50",
-                "type": "HLS"
-            },
-            {
-                "name": "16:00pm América de Cali vs Envigado = RCnNUestraTele",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725397.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50",
-                "type": "HLS"
-            },
-            {
-                "name": "18:10pm Rionegro Águilas vs Deportivo Cali = RcnNuestraaTele",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725403.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50",
-                "type": "HLS"
-            },
-            {
-                "name": "19:30pm Independiente Rivadavia vs Huracán = TNT Sports",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725404.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50",
-                "type": "HLS"
-            },
-            {
-                "name": "20:00pm Cincinnati vs Orlando City SC = MLS Pass",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725405.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
-                "type": "HLS"
-            },
-            {
-                "name": "20:00pm Querétaro vs Tigres - Tijuana vs Cruz Azul = TUDN USA",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725411.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50",
-                "type": "HLS"
-            },
-            {
-                "name": "20:30pm Corinthians vs Flamengo = Canal11",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/725417.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/31-serie-a-brasileirao.png?q=75&=50",
-                "type": "HLS"
-            }
-
 		
 		]
     },
     {
-        "name": "?DEPPORTES ARGENTINA ?????",
+        "name": "⚽DEPPORTES ARGENTINA ​🇦🇷",
         "samples": [
             {
                 "name": "ESPN PREMIUM",
@@ -206,7 +138,7 @@
 			]
     },
     {
-        "name": "?DEPORTES ESPN Y FOX SPORTS ?????",
+        "name": "⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷",
         "samples": [
             {
                 "name": "ESPN PREMIUM",
@@ -361,10 +293,10 @@
 		]
     },
     {
-        "name": "PARAGUAY GLOBAL ????",
+        "name": "PARAGUAY GLOBAL 🇵🇾",
         "samples": [
             {
-                "name": "PARAVISION ????",
+                "name": "PARAVISION 🇵🇾",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5MjY1NTc1Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA2YzZiNzY0NzFhMzI0OTkiLCJzZXNzaW9uX2lkIjoiODM3NjkxNzctMTc1OTA5Mjc3NS00MDEiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNzY5MTc3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.Q2Pe7ZyOm-1j6iX6KHhINZAJIEbiycEINkP7pQ32v3qclXceAEeY0QwmUSvhrX_anxG4Xa-nIsGNIwioh3QN9A==/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
@@ -376,7 +308,7 @@
                 }
             },
             {
-                "name": "PY | SNT ????",
+                "name": "PY | SNT 🇵🇾",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5MjY1NTc1Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA2YzZiNzY0NzFhMzI0OTkiLCJzZXNzaW9uX2lkIjoiODM3NjkxNzctMTc1OTA5Mjc3NS00MDEiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNzY5MTc3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.Q2Pe7ZyOm-1j6iX6KHhINZAJIEbiycEINkP7pQ32v3qclXceAEeY0QwmUSvhrX_anxG4Xa-nIsGNIwioh3QN9A==/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/nxn9adh2409ceum2vmhkx/snt.json?rlkey=t12dj6hptaqjneyq8clqcmymz&st=9mz7elpt&dl=0",
@@ -415,7 +347,7 @@
 
 			
             {
-                "name": "RPC ????",
+                "name": "RPC 🇵🇾",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5MjY1NTc1Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA2YzZiNzY0NzFhMzI0OTkiLCJzZXNzaW9uX2lkIjoiODM3NjkxNzctMTc1OTA5Mjc3NS00MDEiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNzY5MTc3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.Q2Pe7ZyOm-1j6iX6KHhINZAJIEbiycEINkP7pQ32v3qclXceAEeY0QwmUSvhrX_anxG4Xa-nIsGNIwioh3QN9A==/live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/wtweq3d3m1xib4lh1or3h/rpc.json?rlkey=xjk79wbidhrp8tfialjc2o5lr&st=cvlw27y2&dl=0",
@@ -580,7 +512,7 @@
                 "icono": "https://i.postimg.cc/K8yF76wm/images-2.jpg"
             },
             {
-                "name": "NOTICIAS_PY ????",
+                "name": "NOTICIAS_PY 🇵🇾",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5MjY1NTc1Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA2YzZiNzY0NzFhMzI0OTkiLCJzZXNzaW9uX2lkIjoiODM3NjkxNzctMTc1OTA5Mjc3NS00MDEiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNzY5MTc3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.Q2Pe7ZyOm-1j6iX6KHhINZAJIEbiycEINkP7pQ32v3qclXceAEeY0QwmUSvhrX_anxG4Xa-nIsGNIwioh3QN9A==/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_C/NOTICIAS_PY_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/ykf2erabrhqyh1hapbif2/npy.json?rlkey=as5ymuykbbwokye8tu5l7953c&st=7eqhtbim&dl=0",
@@ -592,7 +524,7 @@
                 }
             },
             {
-                "name": "C9N ????",
+                "name": "C9N 🇵🇾",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5MjY1NTc1Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA2YzZiNzY0NzFhMzI0OTkiLCJzZXNzaW9uX2lkIjoiODM3NjkxNzctMTc1OTA5Mjc3NS00MDEiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNzY5MTc3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.Q2Pe7ZyOm-1j6iX6KHhINZAJIEbiycEINkP7pQ32v3qclXceAEeY0QwmUSvhrX_anxG4Xa-nIsGNIwioh3QN9A==/live/c5eds/C9N_C4/SA_Live_dash_enc_C/C9N_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/v6wnubv76pbk9cwmuyfs4/c9n.json?rlkey=mhh8u51pgbe6uyx07u99zgxn5&st=pvjjji2o&dl=0",
@@ -604,7 +536,7 @@
                 }
             },
             {
-                "name": "GEN_TV ????",
+                "name": "GEN_TV 🇵🇾",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5MjY1NTc1Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA2YzZiNzY0NzFhMzI0OTkiLCJzZXNzaW9uX2lkIjoiODM3NjkxNzctMTc1OTA5Mjc3NS00MDEiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNzY5MTc3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.Q2Pe7ZyOm-1j6iX6KHhINZAJIEbiycEINkP7pQ32v3qclXceAEeY0QwmUSvhrX_anxG4Xa-nIsGNIwioh3QN9A==/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
@@ -616,7 +548,7 @@
                 }
             },
             {
-                "name": "LA_TELE ????",
+                "name": "LA_TELE 🇵🇾",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5MjY1NTc1Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA2YzZiNzY0NzFhMzI0OTkiLCJzZXNzaW9uX2lkIjoiODM3NjkxNzctMTc1OTA5Mjc3NS00MDEiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNzY5MTc3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.Q2Pe7ZyOm-1j6iX6KHhINZAJIEbiycEINkP7pQ32v3qclXceAEeY0QwmUSvhrX_anxG4Xa-nIsGNIwioh3QN9A==/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_C/LA_TELE_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/4re2kjcs0qf0ej7mi8wub/latele.json?rlkey=4sfqceya57qqonxz1t0xkjbh9&st=agb952f8&dl=0",
@@ -655,7 +587,7 @@
 			]
     },
     {
-        "name": "??EVENTOS DISNEY+",
+        "name": "🟢EVENTOS DISNEY+",
         "samples": [
             {
                 "name": "**SE ACTIVAN 10MIN ANTES**",
@@ -750,7 +682,7 @@
 ]
     },
     {
-        "name": "?DEPORTES ESPN SUR ????",
+        "name": "⚽DEPORTES ESPN SUR 🇦🇷",
         "samples": [
             {
                 "name": "ESPN SUR 2",
@@ -819,7 +751,7 @@
 			]
     },
     {
-        "name": "?DEPORTES ESPN Y FOX SPORTS SOLO PERSONAL",
+        "name": "⚽DEPORTES ESPN Y FOX SPORTS SOLO PERSONAL",
         "samples": [
             {
                 "name": "ESPN PREMIUM",
@@ -974,7 +906,7 @@
           ]
     },
     {
-        "name": "?DEPORTES ESPN MEXICO",
+        "name": "⚽DEPORTES ESPN MEXICO",
         "samples": [
             {
                 "name": "ESPN 1 MX",
@@ -1032,7 +964,7 @@
           ]
   },
   {
-    "name": "?DEPORTES FOX SPORTS MX",
+    "name": "⚽DEPORTES FOX SPORTS MX",
     "samples": [
   {
         "name": "FOX SPORTS 1 MX",
@@ -1090,7 +1022,7 @@
       
       
       {
-        "name": "PARAVISIÓN ???? opción 2",
+        "name": "PARAVISIÓN 🇵🇾 opción 2",
         "url": "https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
         "tipo": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
@@ -1102,7 +1034,7 @@
         }
     },
       {
-        "name": "PY | SNT ????",
+        "name": "PY | SNT 🇵🇾",
         "url": "https://cdn-py.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/nxn9adh2409ceum2vmhkx/snt.json?rlkey=t12dj6hptaqjneyq8clqcmymz&st=9mz7elpt&dl=0",
@@ -1114,7 +1046,7 @@
         }
       },
       {
-        "name": "PY | SNT ???? opción 2",
+        "name": "PY | SNT 🇵🇾 opción 2",
         "url": "https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/nxn9adh2409ceum2vmhkx/snt.json?rlkey=t12dj6hptaqjneyq8clqcmymz&st=9mz7elpt&dl=0",
@@ -1150,7 +1082,7 @@
         }
       },
       {
-        "name": "RPC ????",
+        "name": "RPC 🇵🇾",
         "url": "https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wtweq3d3m1xib4lh1or3h/rpc.json?rlkey=xjk79wbidhrp8tfialjc2o5lr&st=cvlw27y2&dl=0",
@@ -1162,7 +1094,7 @@
         }
       },
       {
-        "name": "RPC ???? opción 2",
+        "name": "RPC 🇵🇾 opción 2",
         "url": "https://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wtweq3d3m1xib4lh1or3h/rpc.json?rlkey=xjk79wbidhrp8tfialjc2o5lr&st=cvlw27y2&dl=0",
@@ -1448,7 +1380,7 @@
         }
       },
       {
-        "name": "NOTICIAS_PY ????",
+        "name": "NOTICIAS_PY 🇵🇾",
         "url": "https://cdn-py.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_C/NOTICIAS_PY_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/ykf2erabrhqyh1hapbif2/npy.json?rlkey=as5ymuykbbwokye8tu5l7953c&st=7eqhtbim&dl=0",
@@ -1460,7 +1392,7 @@
         }
       },
       {
-        "name": "NOTICIAS_PY ???? opción 2",
+        "name": "NOTICIAS_PY 🇵🇾 opción 2",
         "url": "https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_C/NOTICIAS_PY_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/ykf2erabrhqyh1hapbif2/npy.json?rlkey=as5ymuykbbwokye8tu5l7953c&st=7eqhtbim&dl=0",
@@ -1472,7 +1404,7 @@
         }
       },
       {
-        "name": "C9N ????",
+        "name": "C9N 🇵🇾",
         "url": "https://cdn-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_C/C9N_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/v6wnubv76pbk9cwmuyfs4/c9n.json?rlkey=mhh8u51pgbe6uyx07u99zgxn5&st=pvjjji2o&dl=0",
@@ -1484,7 +1416,7 @@
         }
       },
       {
-        "name": "C9N ???? opción 2",
+        "name": "C9N 🇵🇾 opción 2",
         "url": "https://chromecast.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_C/C9N_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/v6wnubv76pbk9cwmuyfs4/c9n.json?rlkey=mhh8u51pgbe6uyx07u99zgxn5&st=pvjjji2o&dl=0",
@@ -1496,7 +1428,7 @@
         }
       },
       {
-        "name": "GEN_TV ????",
+        "name": "GEN_TV 🇵🇾",
         "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
@@ -1508,7 +1440,7 @@
         }
       },
       {
-        "name": "GEN_TV ???? opción 2",
+        "name": "GEN_TV 🇵🇾 opción 2",
         "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/y66sigfrf2md3jc8yud6u/gentv.json?rlkey=017rpiwa48ehik6b5etaig3ee&st=4krm46c3&dl=0",
@@ -1520,7 +1452,7 @@
         }
       },
       {
-        "name": "LA_TELE ????",
+        "name": "LA_TELE 🇵🇾",
         "url": "https://cdn-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_C/LA_TELE_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/4re2kjcs0qf0ej7mi8wub/latele.json?rlkey=4sfqceya57qqonxz1t0xkjbh9&st=agb952f8&dl=0",
@@ -1532,7 +1464,7 @@
         }
       },
       {
-        "name": "LA_TELE ???? opción 2",
+        "name": "LA_TELE 🇵🇾 opción 2",
         "url": "https://chromecast.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_C/LA_TELE_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/4re2kjcs0qf0ej7mi8wub/latele.json?rlkey=4sfqceya57qqonxz1t0xkjbh9&st=agb952f8&dl=0",
@@ -1566,7 +1498,7 @@
 ]
     },
     {
-        "name": "INTERIOR PARAGUAY ????",
+        "name": "INTERIOR PARAGUAY 🇵🇾",
         "samples": [
             {
                 "name": "ALBERDI CANAL 5",
@@ -1654,7 +1586,7 @@
 ]
     },
     {
-        "name": "ARGENTINA ?????",
+        "name": "ARGENTINA ​🇦🇷",
         "samples": [
             {
                 "name": "America TV",
@@ -2243,7 +2175,7 @@
 ]
     },
     {
-        "name": "INTERIOR DE ARGENTINA ?????",
+        "name": "INTERIOR DE ARGENTINA ​🇦🇷",
         "samples": [
            
 			 {
@@ -2763,7 +2695,7 @@
 ]
   },
   {
-    "name": "????CANALES DE BRASIL",
+    "name": "🇧🇷CANALES DE BRASIL",
     "samples": [
       {
         "name": "SBT",
@@ -2816,7 +2748,7 @@
 ]
   },
   {
-    "name": "????CANALES DE PERÙ",
+    "name": "🇵🇪CANALES DE PERÙ",
     "samples": [
       {
         "name": "EXITOSA TV",
@@ -2940,7 +2872,7 @@
       ]
   },
   {
-    "name": "????CANALES DE CHILE",
+    "name": "🇨🇱CANALES DE CHILE",
     "samples": [
       {
         "name": "CHILEVISION",
@@ -3064,7 +2996,7 @@
     ]
   },
   {
-    "name": "????CANALES DE URUGUAY",
+    "name": "🇺🇾CANALES DE URUGUAY",
     "samples": [
       {
         "name": "CANAL 10",
@@ -3206,7 +3138,7 @@
       ]
   },
   {
-    "name": "????CANALES DE CHILE",
+    "name": "🇨🇱CANALES DE CHILE",
     "samples": [
       {
         "name": "CHILEVISION",
@@ -3330,7 +3262,7 @@
     ]
   },
   {
-    "name": "????CANALES DE URUGUAY",
+    "name": "🇺🇾CANALES DE URUGUAY",
     "samples": [
       {
         "name": "CANAL 10",
@@ -3462,7 +3394,7 @@
 ]
   },
   {
-    "name": "????CANALES DE ECUADOR",
+    "name": "🇪🇨CANALES DE ECUADOR",
     "samples": [
       {
         "name": "ECUADOR TV",
@@ -3528,7 +3460,7 @@
     ]
   },
   {
-    "name": "????CANALES DE BOLIVIA",
+    "name": "🇧🇴CANALES DE BOLIVIA",
     "samples": [
       {
         "name": "BOLIVIA TV",
@@ -3568,7 +3500,7 @@
     ]
   },
   {
-    "name": "????CANALES DE MEXICO",
+    "name": "🇲🇽CANALES DE MEXICO",
     "samples": [
       {
         "name": "DISTRITO COMEDIA",
@@ -3610,7 +3542,7 @@
     ]
   },
   {
-    "name": "? DEPORTES TYC Y TNT SPORTS",
+    "name": "⚽ DEPORTES TYC Y TNT SPORTS",
     "samples": [
       {
         "name": "TYC SPORTS",
@@ -3694,7 +3626,7 @@
     ]
   },
   {
-    "name": "? DEPORTES DIRECTV ARG",
+    "name": "⚽ DEPORTES DIRECTV ARG",
     "samples": [
         {
         "name": "DIRECTV SPORTS",
@@ -3727,7 +3659,7 @@
     ]
   },
   {
-    "name": "? DEPORTES BRASIL",
+    "name": "⚽ DEPORTES BRASIL",
     "samples": [
       {
         "name": "PREMIERE CLUBES",
@@ -3903,7 +3835,7 @@
     ]
   },
   {
-    "name": "? DEPORTES VARIADOS",
+    "name": "⚽ DEPORTES VARIADOS",
     "samples": [
       {
                 "name": "SKY SPORTS",
@@ -4155,7 +4087,7 @@
     ]
   },
   {
-    "name": "?DEPORTES DAZN",
+    "name": "⚽DEPORTES DAZN",
     "samples": [
       {
         "name": "DAZN LA LIGA ES",
@@ -4187,7 +4119,7 @@
       ]
     },
     {
-        "name": "CINE Y SERIES ??",
+        "name": "CINE Y SERIES 🎬",
         "samples": [
             {
                 "name": "GOLDEN",
@@ -4521,7 +4453,7 @@
           ]
     },
     {
-        "name": "PACK HBO Y UNIVERSAL ??",
+        "name": "PACK HBO Y UNIVERSAL 🎥",
         "samples": [
             {
                 "name": "HBO",
@@ -4707,7 +4639,7 @@
   ]
     },
     {
-        "name": "PACK HBO IZZIGO??",
+        "name": "PACK HBO IZZIGO🎥",
         "samples": [
             {
                 "name": "HBO",
@@ -4812,7 +4744,7 @@
           ]
     },
     {
-        "name": "CULTURA Y COCINA ??",
+        "name": "CULTURA Y COCINA 🐢",
         "samples": [
             {
                 "name": "ANIMAL PLANET",
@@ -5060,7 +4992,7 @@
     ]
   },
   {
-    "name": "??CANALES DE NOVELAS",
+    "name": "🎬CANALES DE NOVELAS",
     "samples": [
       {
         "name": "RCN +",
@@ -5135,7 +5067,7 @@
       ]
     },
     {
-        "name": "INFANTILES ??",
+        "name": "INFANTILES 👦",
         "samples": [
             {
                 "name": "PLIM PLIM",
@@ -5281,7 +5213,7 @@
     ]
   },
   {
-    "name": "??CANALES 24/7 CINES VIP",
+    "name": "🎬CANALES 24/7 CINES VIP",
     "samples": [
       {
         "name": "CINE ACCIÓN",
@@ -5468,7 +5400,7 @@
     ]
   },
   {
-    "name": "??CANALES 24/7 VIP",
+    "name": "🎬CANALES 24/7 VIP",
     "samples": [
       {
         "name": "CINE ACCIÓN",
@@ -5765,16 +5697,16 @@
    ]
     },
     {
-        "name": "RADIOS ??",
+        "name": "RADIOS 📻",
         "samples": [
             {
-                "name": "LA 100 (????)",
+                "name": "LA 100 (🇦🇷)",
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3",
                 "type": "HLS",
                 "icono": "https://cloudfront-arc.cienradios.com/la100/logo/logoog.png"
             },
             {
-                "name": "PUNTO DE ENCUENTRO PORTEÑA  (????)",
+                "name": "PUNTO DE ENCUENTRO PORTEÑA  (🇦🇷)",
                 "url": "https://radio16.servidorderadio.net:8662/stream",
                 "type": "HLS",
                 "icono": "https://static.mytuner.mobi/media/tvos_radios/810/radio-portena.25907c31.png"
@@ -5786,91 +5718,91 @@
                 "icono": "https://static-c4-1.s3.amazonaws.com/assets/img/logos/radiomitre-logo-500x353.png"
             },
             {
-                "name": "LA RED(????)",
+                "name": "LA RED(🇦🇷)",
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png"
             },
             {
-                "name": "RIVADAVIA (????)",
+                "name": "RIVADAVIA (🇦🇷)",
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac",
                 "type": "HLS",
                 "icono": "https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_rivadavia_630.jpg"
             },
             {
-                "name": "Blue FM 100.7(????)",
+                "name": "Blue FM 100.7(🇦🇷)",
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
                 "type": "HLS",
                 "icono": "https://myradioenvivo.ar/public/uploads/radio_img/blue-fm-100-7/play_250_250.webp"
             },
             {
-                "name": "Radio del Sur(????)",
+                "name": "Radio del Sur(🇦🇷)",
                 "url": "https://cnnsanjuan.com:9999/icecast/radiodelsuraudio/icecast.audio",
                 "type": "HLS",
                 "icono": "https://myradioenvivo.ar/public/uploads/radio_img/radio-del-sur/fb_cover.jpg"
             },
             {
-                "name": "Radio Disney (????)",
+                "name": "Radio Disney (🇦🇷)",
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
                 "type": "HLS",
                 "icono": "https://myradioenvivo.ar/public/uploads/radio_img/radio-disney/fb_cover.jpg"
             },
             {
-                "name": "FM Rock & Pop (????)",
+                "name": "FM Rock & Pop (🇦🇷)",
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png"
             },
             {
-                "name": "Pop Radio 101.5 (????)",
+                "name": "Pop Radio 101.5 (🇦🇷)",
                 "url": "https://popradio.stweb.tv/popradio/live/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static.mytuner.mobi/media/tvos_radios/836/pop-1015-fm.f58421ff.png"
             },
             {
-                "name": "Radio Mia (????)",
+                "name": "Radio Mia (🇦🇷)",
                 "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56AAC.aac",
                 "type": "HLS",
                 "icono": "https://myradioenvivo.ar/public/uploads/radio_img/mia-fm/fb_cover.jpg"
             },
             {
-                "name": "Cadena Tres (????)",
+                "name": "Cadena Tres (🇦🇷)",
                 "url": "https://liveradio.mediainbox.net/radio3.mp3",
                 "type": "HLS",
                 "icono": "https://www.cadena3.com/img/conductores-placas/generica.jpg"
             },
             {
-                "name": "Radio 10 (????)",
+                "name": "Radio 10 (🇦🇷)",
                 "url": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo-radio10.svg/1200px-Logo-radio10.svg.png"
             },
             {
-                "name": "Radio Nacional (????)",
+                "name": "Radio Nacional (🇦🇷)",
                 "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad1",
                 "type": "HLS",
                 "icono": "https://www.argentina.gob.ar/sites/default/files/2022/07/web-smycp_nacional01_3.png"
             },
             {
-                "name": "Vale 97.5 (????)",
+                "name": "Vale 97.5 (🇦🇷)",
                 "url": "https://vale.stweb.tv/vale/live/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static.mytuner.mobi/media/tvos_radios/840/radio-vale-975-fm.b167bdb2.png"
             },
             {
-                "name": "Radio Popular (????)",
+                "name": "Radio Popular (🇦🇷)",
                 "url": "https://liveradio.mediainbox.net/popular.mp3",
                 "type": "HLS",
                 "icono": "https://static.mytuner.mobi/media/tvos_radios/074/fm-popular-891.0ee1b784.png"
             },
             {
-                "name": "Radio con Vos (????)",
+                "name": "Radio con Vos (🇦🇷)",
                 "url": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg"
             },
             {
-                "name": "FM Cordoba (????)",
+                "name": "FM Cordoba (🇦🇷)",
                 "url": "https://liveradio.mediainbox.net/fmcordoba.mp3",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/4/42/FM_C%C3%B3rdoba_91.9.jpg"
@@ -5894,25 +5826,25 @@
                 "icono": "https://static-media.streema.com/media/cache/d5/ba/d5ba149726ecc1db33a41e1e9c802959.jpg"
             },
             {
-                "name": "Radio ÚNICA (????)",
+                "name": "Radio ÚNICA (🇦🇷)",
                 "url": "https://streaming2.mundoradio.com.ar/8504/stream",
                 "type": "HLS",
                 "icono": "https://web.whatsapp.com/cffdf920-2c5b-48cf-8159-6b7c7ed68952"
             },
             {
-                "name": "Radio Mas Tropical (????)",
+                "name": "Radio Mas Tropical (🇦🇷)",
                 "url": "https://streaming2.mundoradio.com.ar/8512/stream",
                 "type": "HLS",
                 "icono": "https://web.whatsapp.com/076404d1-ee06-4770-83da-a75cf80255e8"
             },
             {
-                "name": "RADIO 10 (????)",
+                "name": "RADIO 10 (🇦🇷)",
                 "url": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
             },
             {
-                "name": "EL DESTAPE (????) RADIO",
+                "name": "EL DESTAPE (🇦🇷) RADIO",
                 "url": "https://ipanel.instream.audio/8004/stream",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
@@ -6302,7 +6234,7 @@
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/d5JX5D451GhiELOp3no1zXubhW8.jpg",
                 "iconpng": "https://cinemadevoto.com.ar/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fcinexo-lastipas.appspot.com%2Fo%2FPeliculas%252F675%252F552%252Fprimario.png%3Falt%3Dmedia&w=640&q=75",
                 "type": "PELICULA",
-                "descripcion": "Marcos Tremmer es un exitoso publicista que vive en Madrid, locamente enamorado de su mujer, Luci´a. Un di´a, Marcos descubre que una enfermedad mortal acabara´ con su vida en pocos meses.",
+                "descripcion": "Marcos Tremmer es un exitoso publicista que vive en Madrid, locamente enamorado de su mujer, Lucía. Un día, Marcos descubre que una enfermedad mortal acabará con su vida en pocos meses.",
                 "anio": "2024",
                 "genero": "Drama, Romance",
                 "duracion": "112 min"
@@ -7183,7 +7115,7 @@
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/tDFvXn4tane9lUvFAFAUkMylwSr.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/keWw2kCmTVa2dvQIcGwyO2RvlK.png",
                 "type": "PELICULA",
-                "descripcion": "Verano de 1945. La aviación estadounidense somete las ciudades japonesas a continuos ataques aéreos. En uno de ellos, una incursión con bombas incendiarias convierte la ciudad de Kobe en un infierno humeante, para los dos protagonistas (Seita, de 14 años, y su hermanita Setsuko, de 5). El joven Seita y su pequeña hermana Setsuko son hijos de un oficial de la marina japonesa. Durante la Segunda Guerra Mundial, ambos viven con su madre, pero un día, tras un bombardeo, ellos se retrasan y no consiguen llegar al búnker donde ella los espera.",
+                "descripcion": "Verano de 1945. La aviación estadounidense somete las ciudades japonesas a continuos ataques aéreos. En uno de ellos, una incursión con bombas incendiarias convierte la ciudad de Kōbe en un infierno humeante, para los dos protagonistas (Seita, de 14 años, y su hermanita Setsuko, de 5). El joven Seita y su pequeña hermana Setsuko son hijos de un oficial de la marina japonesa. Durante la Segunda Guerra Mundial, ambos viven con su madre, pero un día, tras un bombardeo, ellos se retrasan y no consiguen llegar al búnker donde ella los espera.",
                 "anio": "1988",
                 "genero": "Animación, Drama, Bélica",
                 "duracion": "95 min"
@@ -8143,7 +8075,7 @@
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/vBV2nF3yqYrskq2y1bSSuAuGqcz.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/cbXzQoVt5GgyCUtlgbPPPoFBbAS.png",
                 "type": "PELICULA",
-                "descripcion": "G. I. Joe es el nombre en clave de una fuerza especial altamente entrenada cuya misio´n fundamental es defender la libertad humana y la paz mundial. Los valerosos Joes son hombres y mujeres de coraje, duen~os de una mezcla dina´mica de talentos especiales, personalidad e ingenuidad. Dotados de algunas de las armas ma´s sofisticadas que puedan concebirse, estos individuos constituyen la fuerza ma´s formidable de combate del mundo.",
+                "descripcion": "G. I. Joe es el nombre en clave de una fuerza especial altamente entrenada cuya misión fundamental es defender la libertad humana y la paz mundial. Los valerosos Joes son hombres y mujeres de coraje, dueños de una mezcla dinámica de talentos especiales, personalidad e ingenuidad. Dotados de algunas de las armas más sofisticadas que puedan concebirse, estos individuos constituyen la fuerza más formidable de combate del mundo.",
                 "anio": "2009",
                 "genero": "Aventura, Acción, Suspense, Ciencia ficción",
                 "duracion": "118 min"
@@ -8739,7 +8671,7 @@
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/pnEMDuaZeDXUQPPhhGTo9QMfMeA.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/rC9r7lYPO0MUsYKtVJA27CedV8A.png",
                 "type": "PELICULA",
-                "descripcion": "Mientras los eje´rcitos de Alemania y la Unio´n Sovie´tica luchan encarnizadamente y el mundo espera con ansiedad el desenlace de la batalla de Stalingrado, un francotirador ruso, Vassili Zaitsev, persevera en la empresa de eliminar a sus enemigos uno por uno. Modesto y reservado, Vassili es un hombre corriente que simplemente cumple con su deber con una destreza extraordinaria. Danilov -el oficial encargado de la propaganda sovie´tica- se da cuenta del enorme valor de este antiguo campesino, y convierte al sencillo pastor de los Urales en un he´roe nacional",
+                "descripcion": "Mientras los ejércitos de Alemania y la Unión Soviética luchan encarnizadamente y el mundo espera con ansiedad el desenlace de la batalla de Stalingrado, un francotirador ruso, Vassili Zaitsev, persevera en la empresa de eliminar a sus enemigos uno por uno. Modesto y reservado, Vassili es un hombre corriente que simplemente cumple con su deber con una destreza extraordinaria. Danilov -el oficial encargado de la propaganda soviética- se da cuenta del enorme valor de este antiguo campesino, y convierte al sencillo pastor de los Urales en un héroe nacional",
                 "anio": "2001",
                 "genero": "Drama, Bélica, Historia, Romance",
                 "duracion": "131 min"
@@ -8991,7 +8923,7 @@
     ]
   },
   {
-    "name": "????CANALES DE COLOMBIA",
+    "name": "🇨🇴CANALES DE COLOMBIA",
     "samples": [
       {
         "name": "CARACOL",
