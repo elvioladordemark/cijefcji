@@ -17432,6 +17432,75 @@
                     ],
                     "tmdb_id": 250988,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La huésped",
+                    "genero": "Drama",
+                    "descripcion": "La vida de una pareja que intenta salvar su matrimonio tras una infidelidad da un vuelco cuando una misteriosa mujer del pasado de ella aparece en su casa.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/pLS7YzsSGKF53imJ1wDEGTvhdV0.png",
+                    "icono": "https://image.tmdb.org/t/p/original/3mmN6KxbURjPbalFzWIop79SzPa.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wJBYXpzKHZNWnkfMuXhr40daPan.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CC4EB84BCC754077A2C8E5959AF4E395_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/4652EDF4A86546AD9D805111C94524D5_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/85F360580D724A9AAC5DBEC3BDDA8FAD_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/31E788C3D89041AAA91D2BC695BD1B24_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/774736C683064696BC1A3645E61E2B72_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3D06AE87A7364C4C90EAF16C42A43A9E_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2CB2E7539C284B4B89CD91218993A969_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8FCE0AED69D24BA19544BD2CBD6FBAF9_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/52DC2FBD62354EEE8BD112916908649B_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3F6584555E614CD19BC51A27A962F8A1_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 297464,
+                    "total_seasons": 1
                 }
             ]
         },
