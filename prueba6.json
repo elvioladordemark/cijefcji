@@ -4995,6 +4995,178 @@
                 }
             }
 
+			 ]
+    },
+    {
+        "name": "HBO Y UNIVERSAL OPC 2 🎥",
+        "samples": [
+            {
+                "name": "HBO",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HB0_BACKUP/sa_live_dash/HB0_BACKUP.mpd",
+                "icono": "https://i.postimg.cc/pLLWR4WV/hbo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=13b2c63340e84314ad2c44d6e4ecf686&key=1bae790e285fcedc3c8bc9597438bb0e",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "HBO 2",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_DOS/sa_live_dash/HBO_DOS.mpd",
+                "icono": "https://i.postimg.cc/nzBZ3tk2/hbo2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f5b494f39c60403ebe6280491690054a&key=69e6c53262b478f6f8a7d72f67a10b93",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "HBO Family",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_FAMILY/sa_live_dash/HBO_FAMILY.mpd",
+                "icono": "https://i.postimg.cc/nhrJ6m2C/hbofamily.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b748b7e967884690956dd5ec1609c661&key=c3666ed5f172f2f890a775361587b7e3",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "HBO Mundi",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_MUNDI_BACKUP/sa_live_dash/HBO_MUNDI_BACKUP.mpd",
+                "icono": "https://i.postimg.cc/jdC3ThV0/hbomundi.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc897c86ea684a799131d10ddd54976d&key=dba9e1e108ce048a530dfc86e445e47c",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "HBO Pop",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_POP_BACKUP/sa_live_dash/HBO_POP_BACKUP.mpd",
+                "icono": "https://i.postimg.cc/j22csRFQ/hbopop.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=80f5d4b6b8854de89942dcec02ddb327&key=aa7b2a2c4a18e5b8487ed343fcf4c9a9",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "HBO Plus",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_PLUS/sa_live_dash/HBO_PLUS.mpd",
+                "icono": "https://i.postimg.cc/RZKRCsX8/hbo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58ded572926940b19e275d4956deda3c&key=a8018610386328f46738aa830453a6e2",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "HBO Signature",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_SIGNATURE/sa_live_dash/HBO_SIGNATURE.mpd",
+                "icono": "https://i.postimg.cc/tChkpvrc/hbosignature.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=615dfe1b92f34ebd997209dfe8e74cb9&key=4ab6b3b7dd17d359d416647e8d88cdad",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "HBO Xtreme",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_XTR3M3/sa_live_dash/HBO_XTR3M3.mpd",
+                "icono": "https://i.postimg.cc/YSSzNrpc/hboxtreme.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=36efe3476d3c4cec9d0102ad8be27d77&key=f1b1d782434e4411b591f4b94918fe83",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            },
+            {
+                "name": "Universal TV",
+                "url": "https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd",
+                "icono": "https://i.postimg.cc/j5w69MwZ/universaltv.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7c6cc36b9c3f44f37b713ad40483e085&key=ceaecf70b99780967d97b9eaf6e2ad5f",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Universal Premiere",
+                "url": "https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd",
+                "icono": "https://i.postimg.cc/pVjYJ1td/universalpremiere.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4ca479ba8963f132c701eefaa0fb2b5a&key=bed235194da5e18108c12ef81b324a80",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Universal Cinema",
+                "url": "https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd",
+                "icono": "https://i.postimg.cc/m2RMNLwd/universalcinema.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6a65e77fb5f2838b2f97c778cc571ac2&key=bc1f28b1ec619ed7da22fc9a80d3a35d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Universal Comedy",
+                "url": "https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzA3NzE5Iiwic2lwIjoiMTg2LjE5LjEyMy45NCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjlkMWQ4NGUyMTZmNjFkNTAiLCJzZXNzaW9uX2lkIjoiODM2NTY2OTYtMTc1ODUzNDkxOS03NzciLCJjbGllbnRfaWQiOiI1ODkzMzg5IiwiZGV2aWNlX2lkIjoiODM2NTY2OTYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI4MSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.Eg_6iGwUzZ6BnASgsELg3Fo1Ku0pL8KDssEBlWwqY0D80at3xTzy3tC4ekvP8s-3wF5LwRvP4-DzrYYz5ONktg==/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
+                "icono": "https://i.postimg.cc/jSMzSpyM/universalcomedy.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=062c5d25105a3a935b67e36923c73f28&key=88c2d4cec420f18d2477152c66c7870d",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Universal Crime",
+                "url": "https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd",
+                "icono": "https://i.postimg.cc/Vs906y8X/universalcrime.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ad1cfe8edbc35b5bab1a66a5ce298b3&key=25794ae1df1e9908d43a102481e7d311",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Universal Reality",
+                "url": "https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd",
+                "icono": "https://i.postimg.cc/fRPJFDcQ/universalreality.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfbcbe656b34884d8f8dcc57d2dc51f8&key=d3e2c03003b443ccedd30d6442fbdd40",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Sony Movies",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/SONY_MOVIES/sa_live_dash/SONY_MOVIES.mpd",
+                "icono": "https://i.postimg.cc/gJWkFJrQ/Sony-Moviescae.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1caed3009f584a919c39623408697540&key=b978808cc8be700a40de8e7704a2cf8f",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            }
+
   ]
     },
     {
