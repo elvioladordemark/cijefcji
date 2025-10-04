@@ -42,6 +42,73 @@
         "type": "HLS",
         "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
       }
+ ]
+    },
+    {
+        "name": "🏆 MUNDIAL SUB 20 CHILE 2025 ⚽",
+        "samples": [
+            {
+                "name": "17:00hs 🏆 Panam U20 vs Corea Del Sur U20 = OP1",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727409.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
+                "type": "HLS"
+            },
+            {
+                "name": "17:00hs 🏆 Panam U20 vs Corea Del Sur U20 = OP2",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/328099.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
+                "type": "HLS"
+            },
+            {
+                "name": "17:00hs 🏆 Ucrania U20 vs Paraguay U20 = OP1",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727408.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
+                "type": "HLS"
+            },
+            {
+                "name": "17:00hs 🏆  Ucrania U20 vs Paraguay U20 = OP2",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/596557.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
+                "type": "HLS"
+            },
+            {
+                "name": "17:00hs 🏆 Ucrania U20 vs Paraguay U20 = OP3",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/596557.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
+                "type": "HLS"
+            },
+            {
+                "name": "20:00hs 🏆 Egypt U20 vs Chile U20 = OP1",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/596560.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
+                "type": "HLS"
+            },
+            {
+                "name": "20:00hs 🏆Egypt U20 vs Chile U20 = OP2",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727406.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
+                "type": "HLS"
+            },
+            {
+                "name": "20:00hs 🏆 Egypt U20 vs Chile U20 = OP3",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/328101.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
+                "type": "HLS"
+            },
+            {
+                "name": "20:00hs 🏆 Zealand U20 vs Japan U20 = OP1",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/328102.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
+                "type": "HLS"
+            },
+            {
+                "name": "20:00hs 🏆 Zealand U20 vs Japan U20 = OP2",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727407.ts",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
+                "type": "HLS"
+            }
+
+		
 
 		]
     },
@@ -178,47 +245,6 @@
                 "name": "22:00pm Pachuca vs LD Alajuelense = Espn2Mx",
                 "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/726884.ts",
                 "icono": "https://cdn.livesoccertv.com/tt/images/competitions/917-concacaf-w-champions-cup.png?q=75&w=50",
-                "type": "HLS"
-            }
- ]
-    },
-    {
-        "name": "🏆 MUNDIAL SUB 20 CHILE 2025 ⚽",
-        "samples": [
-            {
-                "name": "17:00hs 🏆 Spain U20 vs Mexico U20 = Telemundo",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/726870.ts",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
-                "type": "HLS"
-            },
-            {
-                "name": "17:00hs 🏆  Italy U20 vs Cuba U20 = FoxSoccer",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/595879.ts",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
-                "type": "HLS"
-            },
-            {
-                "name": "20:00hs 🏆 Brazil U20 vs Morocco U20 = TSN4",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/726876.ts",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
-                "type": "HLS"
-            },
-            {
-                "name": "20:00hs 🏆 Argentina U20 vs Australia U20 = Telefe",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/2083.ts",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
-                "type": "HLS"
-            },
-            {
-                "name": "20:00hs 🏆 Argentina U20 vs Australia U20 = TUDN MX",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/726878.ts",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
-                "type": "HLS"
-            },
-            {
-                "name": "20:00hs 🏆 Argentina U20 vs Australia U20 = Universo",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/726879.ts",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
                 "type": "HLS"
             }
 
