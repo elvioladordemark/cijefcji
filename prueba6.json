@@ -47,64 +47,196 @@
     {
         "name": "🏆 MUNDIAL SUB 20 CHILE 2025 ⚽",
         "samples": [
-            {
-                "name": "17:00hs 🏆 Panam U20 vs Corea Del Sur U20 = OP1",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727409.ts",
+           {
+                "name": "17:00hs 🏆 Spain U20 vs Brazil U20 = DirectvSports",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727926.ts",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
                 "type": "HLS"
             },
             {
-                "name": "17:00hs 🏆 Panam U20 vs Corea Del Sur U20 = OP2",
-                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/328099.ts",
+                "name": "17:00hs 🏆 Spain U20 vs Brazil U20 = Universo",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727927.ts",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
                 "type": "HLS"
             },
             {
-                "name": "17:00hs 🏆 Ucrania U20 vs Paraguay U20 = OP1",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727408.ts",
+                "name": "17:00hs 🏆 Spain U20 vs Brazil U20 = FoxSoccer",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727928.ts",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
                 "type": "HLS"
             },
             {
-                "name": "17:00hs 🏆  Ucrania U20 vs Paraguay U20 = OP2",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/596557.ts",
+                "name": "17:00hs 🏆 Mexico U20 vs Morocco U20 = Telemundo",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727929.ts",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
                 "type": "HLS"
             },
             {
-                "name": "17:00hs 🏆 Ucrania U20 vs Paraguay U20 = OP3",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/596557.ts",
+                "name": "17:00hs 🏆 Mexico U20 vs Morocco U20 = TudnMx",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727930.ts",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
                 "type": "HLS"
             },
             {
-                "name": "20:00hs 🏆 Egypt U20 vs Chile U20 = OP1",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/596560.ts",
+                "name": "20:00hs 🏆  Argentina U20 vs Italy U20 = Telefe",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/2083.ts",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
                 "type": "HLS"
             },
             {
-                "name": "20:00hs 🏆Egypt U20 vs Chile U20 = OP2",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727406.ts",
+                "name": "20:00hs 🏆 Argentina U20 vs Italy U20 = DirectvSports",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/417235.ts",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
                 "type": "HLS"
             },
             {
-                "name": "20:00hs 🏆 Egypt U20 vs Chile U20 = OP3",
-                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/328101.ts",
+                "name": "20:00hs 🏆 Argentina U20 vs Italy U20 = TudnMx",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/592017.ts",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
                 "type": "HLS"
             },
             {
-                "name": "20:00hs 🏆 Zealand U20 vs Japan U20 = OP1",
-                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/328102.ts",
+                "name": "20:00hs 🏆 Argentina U20 vs Italy U20 = TelemundoNY",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727946.ts",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
                 "type": "HLS"
             },
             {
-                "name": "20:00hs 🏆 Zealand U20 vs Japan U20 = OP2",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727407.ts",
+                "name": "20:00hs 🏆 Australia U20 vs Cuba U20 = FoxSoccer",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727948.ts",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJij8i0H6DpW2FIJP7N4bZTtQeh42_cz1O2e8ynyRmKJSyOjtOJF3EJ5N&s=10",
+                "type": "HLS"
+            }
+
+			  ]
+    },
+    {
+        "name": "⚽ MLS 🇺🇸",
+        "samples": [
+            {
+                "name": "20:30PM Inter Miami vs New England OP1",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727951.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "20:30PM Inter Miami vs New England OP2",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597003.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "20:30PM Inter Miami vs New England OP3",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/328218.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "20:30PM New York Red Bulls VS FC Cincinnati",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727952.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "20:30PM Orlando City SC vs Columbus Crew ",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727953.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "20:30PM Philadelphia Union vs New York City",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/727954.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "21:30PM Austin FC VS St. Louis City",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/328226.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "21:30PM Chicago Fire vs Toronto FC",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597008.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "21:30PM Houston Dynamo vs San Diego FC",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/328228.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "21:30PM Minnesota United VS Sporting Kansas City",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597010.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "22:30PM Real Salt Lake VS Colorado Rapids",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/328233.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            },
+            {
+                "name": "23:30PM Seattle Sounders FC vs Portland Timbers",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597012.ts",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50",
+                "type": "HLS"
+            }
+
+			 ]
+    },
+    {
+        "name": "EVENTOS UFC 🥊🥊",
+        "samples": [
+            {
+                "name": "UFC PRELIMS ",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597258.ts",
+                "icono": "https://espnpressroom.com/us/files/2025/10/UFC_320_LasVegas_KA_3840x2160-scaled.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "21:00PM UFC MAIN 320 | ANKALAEV VS PEREIRA ESPAÑOL",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597261.ts",
+                "icono": "https://espnpressroom.com/us/files/2025/10/UFC_320_LasVegas_KA_3840x2160-scaled.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "21:00PM UFC MAIN 320 | ANKALAEV VS PEREIRA",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597259.ts",
+                "icono": "https://espnpressroom.com/us/files/2025/10/UFC_320_LasVegas_KA_3840x2160-scaled.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "21:00PM UFC MAIN 320 | ANKALAEV VS. PEREIRA 2 BACKUP",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597260.ts",
+                "icono": "https://espnpressroom.com/us/files/2025/10/UFC_320_LasVegas_KA_3840x2160-scaled.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "21:00PM UFC 320: ANKALAEV VS PEREIRA ESPAÑOL",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/728067.ts",
+                "icono": "https://espnpressroom.com/us/files/2025/10/UFC_320_LasVegas_KA_3840x2160-scaled.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "21:00PM UFC 320: ANKALAEV VS PEREIRA ESPAÑOL",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/728069.ts",
+                "icono": "https://espnpressroom.com/us/files/2025/10/UFC_320_LasVegas_KA_3840x2160-scaled.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "21:00PM UFC 320: ANKALAEV VS PEREIRA 2 MainCard",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/728068.ts",
+                "icono": "https://espnpressroom.com/us/files/2025/10/UFC_320_LasVegas_KA_3840x2160-scaled.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "21:00PM UFC 320: ANKALAEV VS PEREIRA 2 MainCard",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/728070.ts",
+                "icono": "https://espnpressroom.com/us/files/2025/10/UFC_320_LasVegas_KA_3840x2160-scaled.jpg",
                 "type": "HLS"
             }
 
