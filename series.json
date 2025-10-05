@@ -4586,6 +4586,50 @@
                     ],
                     "tmdb_id": 156606,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Winx Club: Vuelve la magia",
+                    "genero": "Animación, Kids, Action & Adventure, Comedia, Sci-Fi & Fantasy",
+                    "descripcion": "Bloom deja atrás su vida humana y se traslada al Colegio Alfea para hadas tras un peligroso encuentro con un monstruo. Se une a sus nuevas amigas Stella, Flora, Aisha, Tecna y Musa para descubrir sus verdaderos poderes y derrotar a sus enemigos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/jdTQLHc01jlJXZrGMUtgfs66IX3.png",
+                    "icono": "https://image.tmdb.org/t/p/original/A9jCF5PripUrAu0CY7SEVfJInHm.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/5W4ST8DCqSUQh4itmwUJ6dVMeZs.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/03B21FFC473647A6B2875DD05DCE3F5B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B7A77428AD7D48E8B4431CA209BA1FAA_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0336471DC07E4BDEB625C1362341D0A8_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/430FFBFFFE234BD69B241164AD233C25_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5F3674CDF26E4AA88F28B01663591B13_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 286822,
+                    "total_seasons": 1
                 }
             ]
         },
