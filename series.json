@@ -9007,6 +9007,65 @@
                     ],
                     "tmdb_id": 253941,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Hombres de verdad",
+                    "genero": "Comedia",
+                    "descripcion": "Con la masculinidad en plena crisis, cuatro amigos cuarentones ven cómo pierden su trono, sus privilegios y su identidad. Hace años habrían sido los machos alfa al mando de sus relaciones, pero les ha tocado vivir en la era de la igualdad.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/46xicEVK8pe1jY1BJTakzcl9TeM.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hXJkOzDa7jK6nuC2AJ6PxUP0FuN.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/l1fYY1YpDHL0GsC5pz0IP9E6ivC.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D9D9551011F245898991494B0A9F7FA6_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/46D02C81A8154B529D49BED130141185_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/499D05C0213D4AC08C195217AE6CC3DB_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A3D13422F0354F488F54875CE3B74DBE_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A2C666E470AA476AB3C261BCDDB55FA6_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/85B09D33519946CE9B809DB53E342278_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F8234C1876114D4B9885FB2E168C7A56_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/10E8108EF20A448399944086A5DEF643_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 298699,
+                    "total_seasons": 1
                 }
             ]
         },
