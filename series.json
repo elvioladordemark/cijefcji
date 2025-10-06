@@ -782,6 +782,65 @@
                     ],
                     "tmdb_id": 250988,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Monstruo: La historia de Ed Gein",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "La impactante historia real de Ed Gein, el infame asesino y profanador de tumbas que sirvió de inspiración para numerosas películas emblemáticas de Hollywood sobre asesinos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/hRIEXmUxJ0b9tQOk0IInsvthLkE.png",
+                    "icono": "https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/cm2oUAPiTE1ERoYYOzzgloQw4YZ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "¡Madre!",
+                                    "url": "http://goovdme.967sd1f.homes/vod/275F810CA9CF439889E709B8C352BCD7_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Los secretos nos enferman",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D36EFD3EF3544D119A60EEDB63318E8B_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El niñero",
+                                    "url": "http://goovdme.967sd1f.homes/vod/ECD2B6EFC45F4F59902A98D00754A92A_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Verde",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/CD49F977820B4D8C8FE15E0EECC80A9D_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Hielo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6057A443E8C54FF583ACAA25189AADB3_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Una buena pechuga",
+                                    "url": "http://goovdme.967sd1f.homes/vod/480DD559ED8641CE974055A3F0D1F25B_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Radioaficionado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/45C22797E59642B89F2A1E90DFC7FC53_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El padrino",
+                                    "url": "http://goovdme.967sd1f.homes/vod/545644C758E741AF9286DE6C8E846D37_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 286801,
+                    "total_seasons": 1
                 }
             ]
         },
