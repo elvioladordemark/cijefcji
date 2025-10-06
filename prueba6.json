@@ -42,35 +42,7 @@
         "type": "HLS",
         "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
       }
-  ]
-    },
-    {
-        "name": "COPA LIBERTADORE",
-        "samples": [
-          {
-                "name": "21:30pm Palmeiras vs River Plate = FoxSports",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724861.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
-                "type": "HLS"
-            },
-            {
-                "name": "21:30pm Palmeiras vs River Plate = EspnCol",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724862.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
-                "type": "HLS"
-            },
-            {
-                "name": "21:30pm Palmeiras vs River Plate = BeinSportsLatino",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724864.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
-                "type": "HLS"
-            },
-            {
-                "name": "21:30pm Palmeiras vs River Plate = Espn2Mx",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/724863.ts",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=50",
-                "type": "HLS"
-            }
+ 
 
 		
 		]
