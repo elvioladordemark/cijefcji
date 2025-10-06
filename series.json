@@ -3144,6 +3144,70 @@
                     ],
                     "tmdb_id": 289123,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Tulsa King",
+                    "genero": "Crimen, Drama, Comedia",
+                    "descripcion": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gZ4nvRFjJZXswKlsD5zCFpHBXv4.png",
+                    "icono": "https://image.tmdb.org/t/p/original/yzRnj5GMZEjiW9xTGkz8cVNyzH9.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Vete al Oeste, viejo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4026EB61D8A145D5BADCEAB0C16AC120_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El centro del universo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/670300FF02F2476881089ED89DCC11E8_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Caprice",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/FD9C8A38456F4147984357F3D50D83BF_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Lugar de castigo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/909E215256194BC7B3F6E28591C3DE7C_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Joe Ficha",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5B79D37AB1CA4AB786A777B5FBBF0E9C_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Establo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B88D2C8D81C64B7E8AF2BE6FA7F5DEF5_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Warr Acres",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0C435BCCA0FF423782D436CFB783E133_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Adobe Walls",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/62DAD665045D472EAE8AD3E5BF3ABD64_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Buen viaje",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DDAECF29B4A6444292627671E59F6778_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 153312,
+                    "total_seasons": 3
                 }
             ]
         },
