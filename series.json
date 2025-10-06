@@ -3106,6 +3106,65 @@
                     ],
                     "tmdb_id": 289123,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La reina de la confianza",
+                    "genero": "Crimen, Comedia, Drama",
+                    "descripcion": "En un mundo lleno de villanos y víctimas, tres estafadores luchan contra la codicia. Solo roban a los malos sin buscar venganza. ¿Qué pasaría si el crimen se convirtiera en un juego y la justicia en un truco? Bienvenido al mundo de La reina de la confianza. Yi-rang es la líder. James, el profesional, y Gu-ho, el justo. Recuerda: no confíes en lo que ves y no caigas en la trampa de un estafador.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/janVFBGgsOADYFx16mKYGjtWGzE.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qdaRDDaFb1AhuETBM49A1FZiSdJ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ibT5W5lpedfG9TUmplkMldpDigJ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Marcación rápida 0",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EAF3D9BCFBC94BBCBFD1448F0593BCD4_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sin una base sólida",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5C6724D8F28A485D87152A0E0D6EF664_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Déjà Vu",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9384D73BAC2C4D5B98FC8C49D6DA82D0_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Castillo fantasma",
+                                    "url": "http://goovdme.967sd1f.homes/vod/94A31418214C49CE9D6AE44F25A861C2_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Atmos Black Noir",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0F0519AE81414296815D3D61EFA70AC1_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4F7889553CF5431CA16EB300126511F4_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CE5BAF346AC24B6F8F1DF9BF46449318_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B0B123A8609746EFB1C5DEAFA7A741DA_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 259710,
+                    "total_seasons": 1
                 }
             ]
         },
