@@ -841,6 +841,35 @@
                     ],
                     "tmdb_id": 286801,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Chad Powers",
+                    "genero": "Comedia",
+                    "descripcion": "Ocho años después de que un error imperdonable echara por tierra su prometedora carrera en el fútbol universitario, el quarterback de primera Russ Holliday busca revivir sus sueños disfrazándose de Chad Powers, un talentoso personaje que se une a unos South Georgia Catfish que luchan por subsistir.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/qRzTt6X1vjMZ3SUf2LrHdD2Zl4C.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qcrNUBwihKpIa8OiT9GnFVCvOi6.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lu4HO4kJx2aZzVgjoRcF9vYPaFI.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Primer tiempo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F78BA5322B5A45F5AD94E83AB1B51428_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Segundo tiempo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/3A70270921684A939FC889EC9F3C06D9_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 247168,
+                    "total_seasons": 1
                 }
             ]
         },
