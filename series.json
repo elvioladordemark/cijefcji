@@ -19746,6 +19746,60 @@
                     ],
                     "tmdb_id": 227114,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La lista final: Lobo negro",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "Antes de La lista final, el SEAL Ben Edwards se ve involucrado en una operación secreta de la CIA. Cuanto Ben más se adentre en situaciones donde no todo es blanco o negro, más difícil le resultará domar sus impulsos más oscuros. Todos tenemos dos lobos en nuestro interior, uno blanco y otro negro, que luchan por el control. ¿A cuál de los dos lobos alimentará Ben Edwards?",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/kyJ1wDAofmc9CQdT4ECUOSwWyEG.png",
+                    "icono": "https://image.tmdb.org/t/p/original/bhI1sO3zem6mt1YrxMGtbU5qbuX.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/zkjRqFzJhhaPK8qNFavYKeAdRcs.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Resolución inherente",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1B54C8D35005404D9FA71DA394FC1DCF_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Primer día",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A29B0DD482094C86A8BD557D95A9FF34_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El pasado es un prólogo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C6691F4A9D0E47C4A32CFC4183990EB1_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El sonido de las armas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C130347CAB3F42B7B8695D37CF96CDD1_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Rutas de evacuación",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FC537059A9A04093AC1B65A5A04CBCAB_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Peones y reyes",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6C615325A4A44423AC1DBE0AE026B82A_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El lobo que alimentas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0F9DEF087CFC46B8A14C410C2E9EE6D5_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 219760,
+                    "total_seasons": 1
                 }
             ]
         },
