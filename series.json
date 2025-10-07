@@ -4725,6 +4725,75 @@
                     ],
                     "tmdb_id": 286822,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Batwheels",
+                    "genero": "Kids, Animación, Comedia",
+                    "descripcion": "Cuando un tortuoso plan aleja a Batman, Robin y Batgirl de la Batcueva, Batordenador instala copias de su placa base en los Batvehículos para darles vida. A los recién llamados Batwheels se les asigna la tarea monumental de defender la Batcueva y enfrentarse a sus contrapartes malvadas, la Legión de Zoom, dirigida por el cobarde supervillano Badordenador, ¡todo sin la ayuda de Batman!387",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/x60f2gz8pA8DeZVFYF6Bfx9cvl6.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sgXhnZfbl21N6uGsBHaqPXoIfMI.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/d0NoaBcR9ErALrGDpeb5kFOZvbx.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8A625EB85D7246C1BAC98381604D5646_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2619FE2900C84682B7181168BB2A1E47_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3A5A439D82EA47F4958A23201280B8A5_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5246D30C585747EB87FFA8C2A5477B6F_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A00BABC341B743E1A918B042C2FAA1ED_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/88DF3B6EB837475EAFF5CD526C5C91CA_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/E28A1A75835F4BC686985FE1CC45614F_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DEC59F0BE916456EB2390806463080AF_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9DF3E3F9F8554314947BF21A7E5323FC_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0CB7C666E42A467A81502D693632B638_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 155780,
+                    "total_seasons": 2
                 }
             ]
         },
