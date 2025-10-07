@@ -9361,6 +9361,70 @@
                     ],
                     "tmdb_id": 230424,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Animal",
+                    "genero": "Comedia",
+                    "descripcion": "Animal cuenta la historia de Antón (Luis Zahera), un veterinario rural gallego que se ve obligado a trabajar en una tienda de mascotas dirigida por su sobrina Uxía (Lucía Caraballo), con quien tendrá que aprender a adaptarse y descubrir que, en la familia y en el trabajo, no todo es siempre blanco o negro.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/lg79HmqcKdTEtwbeiQxCpHyvoMr.png",
+                    "icono": "https://image.tmdb.org/t/p/original/vYczshDGYktciJdcdxWpWManGiD.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jeua3sqZS9JQkOIBToLm6rvNUn9.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Familia Kawanda",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9B5AFAB6764E4734B9E68B528D07E6EA_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sonrisa llama a sonrisa",
+                                    "url": "http://goovdme.967sd1f.homes/vod/963198EAD00F42BFB229E26D3A844DBA_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Frases de taza",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/85E93353DB2440F388490CCB1B2AC8E8_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Una ansiedad de cobaya",
+                                    "url": "http://goovdme.967sd1f.homes/vod/158A111CA1834EE48B188F857845EBC9_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Fundación Kawanda",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/30C3B85F19334D84AA98F279F034E11B_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El último paseo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5977DE6CA4BB43C1B0A8ED6EFD75AAEE_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La visita",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2C6DFACF7BB54899A1D2684E765B6E46_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Las cataratas del Niágara",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C38028297DD941D6895AA70E5305C655_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Un día de perros",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/ED5C4E74DE084AC5BB94BEC929B11B4A_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 243200,
+                    "total_seasons": 1
                 }
             ]
         },
