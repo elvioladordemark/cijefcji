@@ -18122,6 +18122,45 @@
                     ],
                     "tmdb_id": 286801,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La luz que no puedes ver",
+                    "genero": "Drama",
+                    "descripcion": "Al final de la II Guerra Mundial, las vidas de una chica francesa ciega y un soldado alemán se cruzan.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/eLQ9f1q6XfjJNZ6qXxTFVLMF8F.png",
+                    "icono": "https://image.tmdb.org/t/p/original/vZI4hwKtephwXmMiN9sspMLXjLX.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/zJ4MVqFge0XnrDnpjo6l6Mz7lmz.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FEF6B6747C504AB6B086A97DFC50F43E_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B2176E3761D94FC69849F4B676B1FCC3_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/43712FF4BAE1459793ED726113CA7EB0_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1C1BED216E434FED9F4AE76C8D9708AF_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 155421,
+                    "total_seasons": 1
                 }
             ]
         },
