@@ -18161,6 +18161,65 @@
                     ],
                     "tmdb_id": 155421,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "See",
+                    "genero": "Drama, Sci-Fi & Fantasy, Action & Adventure",
+                    "descripcion": "En un futuro lejano, la humanidad ha perdido el sentido de la vista. Jason Momoa, padre de gemelos que nacen con la mítica capacidad de ver, deberá proteger a su clan de una despiadada reina.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/e9mZOAjDppFuVmgs5JBpltD8A8w.png",
+                    "icono": "https://image.tmdb.org/t/p/original/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/u5N8tXgGDY6jS7R8Xn42LDeL0Dk.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La llama de Dios",
+                                    "url": "http://goovdme.967sd1f.homes/vod/32BF7D9CA283482CADFACACD3DC437E2_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mensaje en una botella",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B181F45B85274DEABFE5531E27755958_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Sangre fresca",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4EC3C4AE0F1C47B6A479BD3C23E7AE55_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El río",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1FE43B569D3343EC83D3E93254E0672A_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Plástico",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A17EA8C63EC44197B2D1AE031ACDFD79_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Seda",
+                                    "url": "http://goovdme.967sd1f.homes/vod/584DB8D332B74821B1830E659447B2B2_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La senda de Lavanda",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AAC60CFB39444C6F850AA8083A868A5D_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Casa de la Revelación",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/00CE45CD618B43198420CA101E823E93_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 80752,
+                    "total_seasons": 3
                 }
             ]
         },
