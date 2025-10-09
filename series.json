@@ -12059,6 +12059,75 @@
                     ],
                     "tmdb_id": 68507,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Silo",
+                    "genero": "Sci-Fi & Fantasy, Drama",
+                    "descripcion": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Día de la Libertad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BE57A122F2CC49A9BB9EE4D25D47B08C_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La elección de Holston",
+                                    "url": "http://goovdme.967sd1f.homes/vod/90783C03F6324346BD1029F7A4485BA5_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Máquinas",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/CA75069D5655405C8C3F5CBD12B27D87_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Verdad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F5F6607638E44501B908F5BA61EC4D84_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El hijo del conserje",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7EB93C8D8D834AC6A3DC3C0168756AD5_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La reliquia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7B803F70BF65413DB8DED2962C60B05F_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Los guardianes",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5806D309139542DD9E416E0A22ACF78B_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Hanna",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B9EA4D5AE4FE4B6BA45B25A6773D76F7_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La fuga",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8E054A7E2EBC492F8AEF711DC6E33422_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Fuera",
+                                    "url": "http://goovdme.967sd1f.homes/vod/41626CC8FE3E488B96FC1FE0D0CE81C5_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 125988,
+                    "total_seasons": 2
                 }
             ]
         },
