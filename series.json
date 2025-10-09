@@ -11864,6 +11864,55 @@
                     ],
                     "tmdb_id": 110492,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Dune: La profecía",
+                    "genero": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+                    "descripcion": "Ambientada 10.000 años antes de los acontecimientos de la novela Dune de 1965, la serie sigue a las hermanas Valya y Tula Harkonnen en su lucha contra las fuerzas que amenazan el futuro de la humanidad y en la creación de la legendaria secta conocida como las Bene Gesserit.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7caxaGZ9FbJZ7o4Co9UEHxwOqwM.png",
+                    "icono": "https://image.tmdb.org/t/p/original/lQBIoodUrRebulxMNYGIXfku5Of.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tWb81lXOBUQoyavNzXrp11ss6GS.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La mano oculta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D736288CCDCF47B5A238621A514FC0C2_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Dos lobos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/86ADC2BDBA8F4559AEF41D4FD7B90E70_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La Hermandad ante todo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2778EDFB7BB6408D9B453D02B00A3052_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Dos veces nacido",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DCE09DCE5A37481DA26E0028652C1861_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "En la sangre, la verdad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9C34539F5B6D4F4A8B579C8B76C7C96F_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El enemigo de la mano en alto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A4C0855DD087425B9B802476288D30B5_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 90228,
+                    "total_seasons": 1
                 }
             ]
         },
