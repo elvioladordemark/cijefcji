@@ -11913,6 +11913,65 @@
                     ],
                     "tmdb_id": 90228,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La materia oscura",
+                    "genero": "Sci-Fi & Fantasy, Drama",
+                    "descripcion": "Lyra es una huérfana que vive en un universo paralelo en el que la ciencia, la teología y la magia están entrelazadas. La búsqueda de Lyra de un amigo secuestrado descubre un siniestro complot que involucra a niños robados, y se convierte en una búsqueda para comprender un fenómeno misterioso llamado Dust. Más tarde, en su viaje, se une a Will, un niño que posee un cuchillo que puede cortar ventanas entre mundos. A medida que Lyra se entera de la verdad sobre sus padres y su destino profetizado, los dos jóvenes se ven envueltos en una guerra contra los poderes celestiales que se extiende a lo largo de muchos mundos.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/dFLerwA0lY5ha5rBpZq2weNg0Ft.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ycS00ZlYjXKaqn424J4oC0HI7QQ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/t8KjRqfOqNx14cHLwARjR08bjeb.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El Jordan de Lyra",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E44A032CE2F2414DB79E60F0D8450696_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La idea del norte",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7ECF1A57AC8F4B878651B1006C6A1B9E_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Espías",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F61790CDDC4C4566886C31D13999AB32_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Coraza",
+                                    "url": "http://goovdme.967sd1f.homes/vod/90BDDFC75FFA4BB6950B99C7BF15D931_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El niño perdido",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/DAFA752BBDF24BE7ACE07984710C16A0_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Las jaulas de daimonion",
+                                    "url": "http://goovdme.967sd1f.homes/vod/55A3AF3D932747ED99385C2D869CCB4D_meta.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Duelo a muerte",
+                                    "url": "http://goovdme.967sd1f.homes/vod/960ED3D5EEBD4C35B515854EE558DD32_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Traición",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6BF0E06AF2434DB9829FFB314384EEB3_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 68507,
+                    "total_seasons": 3
                 }
             ]
         },
