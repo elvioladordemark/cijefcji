@@ -29,18 +29,25 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       },
+
+		 {
+        "name": "TIGO 24/7",
+        "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/14061",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/vZDhCNGZ/download-26.png"
+      },
      
       {
-        "name": "TIGO COPA PY",
+        "name": "TIGO 2",
         "url": "https://live.enhdtv.com:8081/8148/index.m3u8",
         "type": "HLS",
-        "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
+        "icono": "https://i.postimg.cc/vZDhCNGZ/download-26.png"
       },
       {
-        "name": "TIGO INTERMEDIAS",
+        "name": "TIGO 3",
         "url": "https://live.enhdtv.com:8081/8222/index.m3u8",
         "type": "HLS",
-        "icono": "https://i.ibb.co/jLmvVQq/IMG-20220820-125835-259-x-154-p-xel.jpg"
+        "icono": "https://i.postimg.cc/vZDhCNGZ/download-26.png"
       }
 
 		]
