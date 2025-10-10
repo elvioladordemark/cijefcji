@@ -32,24 +32,12 @@
 
 		 {
         "name": "TIGO 24/7",
-        "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/14061",
-        "type": "HLS",
-        "icono": "https://i.postimg.cc/vZDhCNGZ/download-26.png"
-      },
-     
-      {
-        "name": "TIGO 2",
-        "url": "https://live.enhdtv.com:8081/8148/index.m3u8",
-        "type": "HLS",
-        "icono": "https://i.postimg.cc/vZDhCNGZ/download-26.png"
-      },
-      {
-        "name": "TIGO 3",
-        "url": "https://live.enhdtv.com:8081/8222/index.m3u8",
+        "url": "https://live.enhdtv.com:19360/8224/8224.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/vZDhCNGZ/download-26.png"
       }
-
+     
+   
 		]
     },
     {
