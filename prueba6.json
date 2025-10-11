@@ -2975,13 +2975,37 @@
     "name": "🇧🇷CANALES DE BRASIL",
     "samples": [
      {
-        "name": "AGRO BRASIL",
-        "url": "https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577_output_0.m3u8?session=W2QpeqMdmEJEPA6EMtmLDh",
+        "name": "TOP TV BR",
+        "url": "https://isaocorp.cloudecast.com/toptv/index.m3u8",
         "type": "HLS",
-        "icono": "https://i.postimg.cc/LXxFGN33/download-66.jpg",
+        "icono": "https://i.postimg.cc/tgCLHFv1/download-69.jpg",
         "headers": {
-          "Referer": "https://live.agrobrasiltv.com.br/ao-vivo.html/",
-          "Origin": "https://live.agrobrasiltv.com.br/ao-vivo.html",
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		  {
+        "name": "TV CLUBE WEB BR",
+        "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/Hx8vpzwm/tv-clube-web.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		 {
+        "name": "AWTV BR",
+        "url": "https://acesso.ecast.site:3070/live/awtvlive.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/QCrmj3xL/awtv.png",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
       },
@@ -3039,6 +3063,77 @@
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/GhCx32Wk/download-14.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		{
+        "name": "REDE MINAS BR",
+        "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w115990305_b2771072.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/85wczdN9/download-32.png",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		{
+        "name": "TV MAIS BR",
+        "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/tRwytvSP/download-70.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		{
+        "name": "TELE WEB BR",
+        "url": "https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/Hx6RxnRD/download-68.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+	{
+        "name": "REDE BRASIL",
+        "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/bJ0YFxZ8/download-31.png",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		{
+        "name": "REDE UNIVERSO",
+        "url": "https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/8CRV11NH/download-67.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+		
+		{
+        "name": "TV CULTURA BR",
+        "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/5tNmtgVx/download-30.png",
         "headers": {
           "Referer": "https://embedtv-2.icu/",
           "Origin": "https://embedtv-2.icu",
