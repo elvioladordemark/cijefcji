@@ -410,42 +410,6 @@
         }
       },
 
-		{
-                "name": "ESPN 1 BR",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/195674.ts",
-                "icono": "https://i.postimg.cc/MpRHvVvZ/ESPNBRASIL.png",
-                "type": "HLS"
-            },
-            {
-                "name": "ESPN 2 BR",
-                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/fdb5da57-7075-4ac8-95ae-65698c3bf6fd.ts",
-                "icono": "https://i.postimg.cc/MpRHvVvZ/ESPNBRASIL.png",
-                "type": "HLS"
-            },
-            {
-                "name": "ESPN 3 BR",
-                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/195680.ts",
-                "icono": "https://i.postimg.cc/MpRHvVvZ/ESPNBRASIL.png",
-                "type": "HLS"
-            },
-            {
-                "name": "ESPN 4 BR",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/195684.ts",
-                "icono": "https://i.postimg.cc/MpRHvVvZ/ESPNBRASIL.png",
-                "type": "HLS"
-            },
-            {
-                "name": "ESPN 5 BR",
-                "url": "http://weib-tv.com:80/EstoEsTv/98tnQmKnWJ/195496.ts",
-                "icono": "https://i.postimg.cc/MpRHvVvZ/ESPNBRASIL.png",
-                "type": "HLS"
-            },
-            {
-                "name": "ESPN 6 BR",
-                "url": "http://dnscine.top:80/432948585/844846214/48.ts",
-                "icono": "https://i.postimg.cc/MpRHvVvZ/ESPNBRASIL.png",
-                "type": "HLS"
-            },
 
 {
         "name": "ESPN BR",
@@ -521,6 +485,14 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://i.postimg.cc/0QP6WwKq/download-27.png"
             },
+
+			  {
+                "name": "ÑANDUTI TV",
+                "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist_w573748842.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/jjGRjwYk/download-29.png"
+            },
 			
 			{
                 "name": "SNT",
@@ -544,6 +516,14 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
+            },
+
+			{
+                "name": "NPY PY",
+                "url": "https://copacotf.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?admin=tvaccion",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/g0GvTJ7b/download-65.jpg"
             },
 
 			{
