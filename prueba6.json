@@ -48,6 +48,94 @@
         "type": "HLS",
         "icono": "https://i.postimg.cc/vZDhCNGZ/download-26.png"
       }
+		 ]
+    },
+    {
+        "name": "★MLS EVENTOS★",
+        "samples": [
+            {
+                "name": "20:30 Inter Miami CF vs Atlanta United OP1",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597001.ts",
+                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
+                "type": "HLS"
+            },
+            {
+                "name": "20:30 Inter Miami CF vs Atlanta United OP2",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/acd17287-ef76-4f6f-82dc-8268969eb404.ts",
+                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
+                "type": "HLS"
+            },
+            {
+                "name": "20:30 Inter Miami CF vs Atlanta United OP3",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597000.ts",
+                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
+                "type": "HLS"
+            },
+            {
+                "name": "20:30 Orlando City SC vs Vancouver OP1",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597002.ts",
+                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
+                "type": "HLS"
+            },
+            {
+                "name": "20:30 Orlando City SC vs Vancouver OP2",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/833f89c5-e390-4801-b5b9-7346226ee529.ts",
+                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
+                "type": "HLS"
+            },
+            {
+                "name": "22:30 Seattle Sounders FC vs Real Salt Lake OP1",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597003.ts",
+                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
+                "type": "HLS"
+            },
+            {
+                "name": "22:30 Seattle Sounders FC vs Real Salt Lake OP2",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/0e7ca4c8-0e60-4606-8e6c-1c2a356b82eb.ts",
+                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
+                "type": "HLS"
+            },
+            {
+                "name": "22:30 LA Galaxy vs Dallas OP1",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597004.ts",
+                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
+                "type": "HLS"
+            },
+            {
+                "name": "22:30 LA Galaxy vs Dallas OP2",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/41656a52-5ab4-493e-9433-b54f9668b634.ts",
+                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
+                "type": "HLS"
+            }
+        ]
+    },
+    {
+        "name": "🥊 UFC PREMIUM 🥊",
+        "samples": [
+            {
+                "name": "17:00 UFC Fight Night Peleas Preliminares op1",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/77c3da49-336c-4a71-96a7-351aefee59c3.ts",
+                "icono": "https://img.vavel.com/ufc-fight-night-oliveira-vs-gamrot-1760118883026.png",
+                "type": "HLS"
+            },
+            {
+                "name": "17:00 UFC Fight Night Peleas Preliminares op2",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/67c02010-1718-4ca7-87b7-fff2cbef25f7.ts",
+                "icono": "https://img.vavel.com/ufc-fight-night-oliveira-vs-gamrot-1760118883026.png",
+                "type": "HLS"
+            },
+            {
+                "name": "20:00 UFC Fight Night: Oliveira vs. Gamrot op1",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/b8a079f2-1c4e-4f95-96c0-634f93f45d59.ts",
+                "icono": "https://img.vavel.com/ufc-fight-night-oliveira-vs-gamrot-1760118883026.png",
+                "type": "HLS"
+            },
+            {
+                "name": "20:00 UFC Fight Night: Oliveira vs. Gamrot op2",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/9d4825db-5887-4584-b936-5b3592d86177.ts",
+                "icono": "https://img.vavel.com/ufc-fight-night-oliveira-vs-gamrot-1760118883026.png",
+                "type": "HLS"
+            }
    
 		]
     },
@@ -55,35 +143,30 @@
         "name": "🏆 MUNDIAL SUB 20 CHILE 2025 ⚽",
         "samples": [
          {
-                "name": "16:30hs 🏆 Ukraine U20 vs Spain U20 = TUDN",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/122515.ts",
+                "name": "17:00hs 🏆 Spain U20 vs Colombia U20",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/596563.ts",
                 "icono": "https://cdn.shopify.com/s/files/1/0830/8975/2367/files/Diseno_sin_titulo_70.png?v=1753113891",
                 "type": "HLS"
             },
             {
-                "name": "16:30hs 🏆 Ukraine U20 vs Spain U20 = DSPORTS +",
-                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/249514.ts",
+                "name": "17:00hs 🏆 Spain U20 vs Colombia U20",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/772445e7-ba39-4089-bc69-1808f113ad61.ts",
                 "icono": "https://cdn.shopify.com/s/files/1/0830/8975/2367/files/Diseno_sin_titulo_70.png?v=1753113891",
                 "type": "HLS"
             },
             {
-                "name": "20:00hs 🏆 Chile U20 vs Mexico U20",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/592036.ts",
+                "name": "20:00hs 🏆 Mexico U20 vs Argentina U20",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/596564.ts",
                 "icono": "https://cdn.shopify.com/s/files/1/0830/8975/2367/files/Diseno_sin_titulo_70.png?v=1753113891",
                 "type": "HLS"
             },
             {
-                "name": "20:00hs 🏆 Chile U20 vs Mexico U20",
-                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/730071.ts",
-                "icono": "https://cdn.shopify.com/s/files/1/0830/8975/2367/files/Diseno_sin_titulo_70.png?v=1753113891",
-                "type": "HLS"
-            },
-            {
-                "name": "20:00hs 🏆 Chile U20 vs Mexico U20",
-                "url": "http://redworld.pro:8880/Estoestv2252/gj769HUTHXqS/449700",
+                "name": "20:00hs 🏆 Mexico U20 vs Argentina U20",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/f808286c-39ec-4abc-ba44-ceacfff9f4ff.ts",
                 "icono": "https://cdn.shopify.com/s/files/1/0830/8975/2367/files/Diseno_sin_titulo_70.png?v=1753113891",
                 "type": "HLS"
             }
+
  
 
 		
