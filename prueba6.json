@@ -2975,13 +2975,13 @@
     "name": "🇧🇷CANALES DE BRASIL",
     "samples": [
      {
-        "name": "GLOBO AMAZONICA",
-        "url": "https://agropesca.live/live/globoam/index.m3u8",
+        "name": "AGRO BRASIL",
+        "url": "https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577_output_0.m3u8?session=W2QpeqMdmEJEPA6EMtmLDh",
         "type": "HLS",
-        "icono": "https://i.postimg.cc/NjxJvTL9/download-17.jpg",
+        "icono": "https://i.postimg.cc/LXxFGN33/download-66.jpg",
         "headers": {
-          "Referer": "https://rdcplayer.online/",
-          "Origin": "https://rdcplayer.online",
+          "Referer": "https://live.agrobrasiltv.com.br/ao-vivo.html/",
+          "Origin": "https://live.agrobrasiltv.com.br/ao-vivo.html",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
       },
@@ -3005,6 +3005,18 @@
         "headers": {
           "Referer": "https://embedtv-2.icu/",
           "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		{
+        "name": "GLOBO AMAZONICA",
+        "url": "https://agropesca.live/live/globoam/index.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/NjxJvTL9/download-17.jpg",
+        "headers": {
+          "Referer": "https://rdcplayer.online/",
+          "Origin": "https://rdcplayer.online",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
       },
