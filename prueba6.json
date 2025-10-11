@@ -121,6 +121,36 @@
                 }
             }
 
+			   ]
+    },
+    {
+        "name": "DEP ARGENTINA 🇦🇷 (OPC2)",
+        "samples": [
+           
+            {
+                "name": "ESPN Premium**",
+                "url": "https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd",
+                "icono": "https://i.postimg.cc/154dZV4d/ESPN-PREMIUM-2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f8943d114e25151c8ae4f612351d5a5f&key=7f34c9a70c836020cbc3273c427ff277",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            
+            {
+                "name": "TNT Sports",
+                "url": "https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd",
+                "icono": "https://i.postimg.cc/JzkdswNc/TNT-SPORTS-PREMIUM-2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c26371079e89206d63e1454893e881b6&key=adac3c3b3774e411d6e49724f7ea0ee3",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
+
 			]
     },
     {
