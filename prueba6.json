@@ -4262,6 +4262,31 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60c0d9b41475e01db4ffb91ed557fbcc&key=36ee40e58948ca15e3caba8d47b8f34b",
                 "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
             },
+
+		   {
+                "name": "TUDN MEXICO",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/120272.ts",
+                "icono": "https://i.postimg.cc/Wz9V2nkM/tudn.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TUDN USA",
+                "url": "http://myservicego.info:8080//live/VIP-LATIN/290231/1508620.ts",
+                "icono": "https://i.postimg.cc/Wz9V2nkM/tudn.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TUDN XTRA",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/1670",
+                "icono": "https://i.postimg.cc/cH0Gwj7R/tudnxtra.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TUDN XTRA 2",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/850c6dcd-8d22-49bc-8d3d-8d6c900325d9.ts",
+                "icono": "https://i.postimg.cc/cH0Gwj7R/tudnxtra.png",
+                "type": "HLS"
+            },
 		
 		
 		
