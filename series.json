@@ -18632,6 +18632,65 @@
                     ],
                     "tmdb_id": 80752,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "3%",
+                    "genero": "Drama, Sci-Fi & Fantasy",
+                    "descripcion": "La élite del futuro reside en una isla paradisíaca, lejos de las barriadas superpobladas. Sólo el 3% de los jóvenes llega a la isla: los que superan el Proceso.",
+                    "anio": "2016",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5PctsSIsJPUdLisWikrmEBQVtyg.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qexbQteX7G3065zAksoPOdz165C.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/13fAhlv2BCqHek8VrDNi7cZMuG3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Capítulo 01: Cubos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3DF23680C2424B5FA803832EC0FC2127_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Capítulo 02: Monedas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/39C956152FB3411D879DA7E766CDB57F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Capítulo 03: Corredor",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/778D08D65D484C768BBEF6DB73C649AA_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Capítulo 04: Puerta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B91DC6F0D22C4A46A55957ED15FCF6A6_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Capítulo 05: Agua",
+                                    "url": "http://goovdme.967sd1f.homes/vod/00D1C17B6EE84643AF9BCEBE057DF569_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Capítulo 06: Vidrio",
+                                    "url": "http://goovdme.967sd1f.homes/vod/082F1D7792044E2BAB10733756496717_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Capítulo 07: Cápsula",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/739E921B5636494CA937AF85C3C68C88_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Capítulo 08: Botón",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E1184447E37244B98F614A9D048CE665_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 68467,
+                    "total_seasons": 4
                 }
             ]
         },
