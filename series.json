@@ -12312,6 +12312,65 @@
                     ],
                     "tmdb_id": 228689,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "The Witcher",
+                    "genero": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+                    "descripcion": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/x3uBgefbFC8blsE4Sbdi0m2a71d.png",
+                    "icono": "https://image.tmdb.org/t/p/original/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/dQOphbONxlpPsKo30araFr0CYMO.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El principio del fin",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2D0560A47D014B29A30E4C7CD4D2356A_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Cuatro marcos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/99EA43E7F854492B8A563D782502EACC_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Luna traicionera",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/83321839977043EBBA573F3B5A06D4D4_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "De banquetes, bastardos y entierros",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BB5490F994B24F148858B099782A2583_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Deseos incontenibles",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/BD119428D6F24F369F561BDEE955A8D9_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Especies raras",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0D2DD38BCAA3436DAFD9362DC3F7381C_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Antes de una caída",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/082DE2EED8754473A7E85DAAC1BE6FAD_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Mucho más",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C6588B1C19724EDBA37C1094C59DEABA_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 71912,
+                    "total_seasons": 4
                 }
             ]
         },
