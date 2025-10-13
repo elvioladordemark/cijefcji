@@ -21044,6 +21044,70 @@
                     ],
                     "tmdb_id": 146176,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Vikingos",
+                    "genero": "Action & Adventure, Drama, War & Politics",
+                    "descripcion": "Sigue las aventuras de Ragnar Lothbrok, el héroe más grande de su época. La serie narra las sagas de la banda de hermanos vikingos de Ragnar y su familia, cuando él se levanta para convertirse en el rey de las tribus vikingas. Además de ser un guerrero valiente, Ragnar encarna las tradiciones nórdicas de la devoción a los dioses, la leyenda dice que él era un descendiente directo de Odín, el dios de la guerra y los guerreros.",
+                    "anio": "2013",
+                    "iconPng": "https://image.tmdb.org/t/p/original/cMakaU4nbybkKOYhq47O8bFNRw2.png",
+                    "icono": "https://image.tmdb.org/t/p/original/m8iQ4ZObxGbSu0cs8xTOVTeZ9QX.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Ritos iniciáticos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E10845C6B03449FC946426AFB7BDE91D_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La ira de los nórdicos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3C9568932E264593AFD4C301D1655E6F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Despojados",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EA9CA82DA09A4321A9A5B028DC7C4099_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Juicio",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/FBD3473B3AE54297B33F7FD7A04EFE16_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La batida",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6AD80783C8FA4BC19F9B5BB874B89770_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El funeral",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2D47F3B8BB844BAEA3A50DCD80A05C64_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El rescate de un rey",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B8DE9D4AEBA340B0B788DC432641A886_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Sacrificio",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3C91D52D054F48018DF92AC1E19F5D02_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Todo cambia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8C98CADE1114426A87D54DDE9CE57EDA_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 44217,
+                    "total_seasons": 6
                 }
             ]
         },
