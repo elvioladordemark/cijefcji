@@ -19151,6 +19151,45 @@
                     ],
                     "tmdb_id": 68467,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "Los trabajadores del ferrocarril: La historia no contada de Bhopal 1984",
+                    "genero": "Drama",
+                    "descripcion": "Tras una fuga de gas letal en una fábrica de Bhopal, unos valientes ferroviarios se juegan la vida para salvar a otros en plena catástrofe.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/x7Nuek9JXWtiMR5PIePThYqEs7W.png",
+                    "icono": "https://image.tmdb.org/t/p/original/kOYlMHtNSqnf1FgsoK1JJypfkrY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/s7dpEDsAan8mvC5cikvWidOupsO.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/25EE0CE314294487B0D9C8634B2C01A5_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E122AD1C1C7846D2A017F229BDB204A5_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C6950B4870B84D9E815844FA6610A564_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/873869464BD747F392718311EE510036_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 213895,
+                    "total_seasons": 1
                 }
             ]
         },
