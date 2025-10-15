@@ -402,7 +402,7 @@
 			 ]
   },
   {
-    "name": "⚽DEPORTES BRASIL🇧🇷",
+    "name": "DEPORTES BRASIL",
     "samples": [
       {
         "name": "PREMIERE CLUBES",
@@ -570,7 +570,7 @@
 	  	]
     },
     {
-        "name": "PARAGUAY SIN BLOQUEO SEÑAL SD🇵🇾",
+        "name": "PARAGUAY SIN BLOQUEO SEÑAL SD",
         "samples": [
              {
                 "name": "ABC TV",
@@ -3836,6 +3836,37 @@
         "name": "RED+",
         "icono": "https://i.ibb.co/4Rj6jjfd/kuqkTMC.png",
         "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
+      },
+      {
+        "name": "TELECAFE",
+        "icono": "https://i.ibb.co/kNQndsm/z18LRqM.png",
+        "url": "http://190.2.212.209:8050/play/a0ne"
+      },
+      {
+        "name": "CANAL CAPITAL",
+        "icono": "https://i.ibb.co/MDsNCv3D/2020-Canal-Capital-logo-svg.png",
+        "url": "https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8"
+      },
+      {
+        "name": "TELE MEDELLIN",
+        "icono": "https://i.ibb.co/hFq85CWJ/R-2.png",
+        "url": "http://190.60.33.245:4002/play/a0hb/index.m3u8"
+      },
+      {
+        "name": "EL TRECE",
+        "icono": "https://i.ibb.co/v6xyk8yY/1662578.png",
+        "url": "http://190.2.212.209:8050/play/a0nf"
+      },
+      {
+        "name": "win",
+        "url": "https://cdn9.vivozytv.com/hotflix/winplus/index.m3u8",
+        "type": "HLS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/2560px-Win_Sports_nuevo_logo.svg.png",
+        "headers": {
+          "Referer": "https://envivo1.com/",
+          "Origin": "https://envivo1.com",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+        }
       }
 	  
 
@@ -3968,22 +3999,11 @@
   {
     "name": "🇨🇱CANALES DE CHILE",
     "samples": [
-        {
+      {
         "name": "CHILEVISION",
-        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/155.m3u8",
         "icono": "https://i.ibb.co/B27gzhQd/R-3.png",
-        "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
+        "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTE5NDJiZTQ3NDUwLTNmOGEtODdkNC0yOTE5LWJjZTBhNmQ3/master.m3u8"
       },
-		
-		
-		
       {
         "name": "MEGA",
         "url": "http://magmaplayer.com/stream/m3u8/BGR3KmL1Zy8kBGRhZGH2YwD3YwZkKmR3AQZjBD/hls/652.m3u8",
@@ -4240,8 +4260,261 @@
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv_0rMgZ6OxQ2zGi_bJPpXaqLw7IdwJ25IA&s"
             }
 
- 
-    
+      ]
+  },
+  {
+    "name": "🇨🇱CANALES DE CHILE",
+    "samples": [
+      {
+        "name": "CHILEVISION",
+        "icono": "https://i.ibb.co/B27gzhQd/R-3.png",
+        "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTE5NDJiZTQ3NDUwLTNmOGEtODdkNC0yOTE5LWJjZTBhNmQ3/master.m3u8"
+      },
+      {
+        "name": "MEGA",
+        "url": "http://magmaplayer.com/stream/m3u8/BGR3KmL1Zy8kBGRhZGH2YwD3YwZkKmR3AQZjBD/hls/652.m3u8",
+        "icono": "https://i.ibb.co/kgdYmTbh/R-2.png",
+        "headers": {
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      {
+        "name": "EL TRECE",
+        "url": "http://magmaplayer.com/stream/m3u8/ZGHmKmZ2ZS8kBGRhZGH2YwD3YwZkKmR3AQZjBD/hls/360.m3u8",
+        "icono": "https://i.ibb.co/bgkRhzM9/canal-13-chile-2018-logo-8-FA6-D195-CE-seeklogo-com.png",
+        "headers": {
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      {
+        "name": "TV CHILE",
+        "url": "http://magmaplayer.com/stream/m3u8/AmxmKmx1BS8kBGRhZGH2YwD3YwZkKmR3AQZjBD/hls/958.m3u8",
+        "icono": "https://i.ibb.co/sJPckbgD/oYFto0V.png",
+        "headers": {
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      {
+        "name": "TVN",
+        "icono": "https://i.ibb.co/qnw8XDw/Logotipo-de-Televisi-n-Nacional-de-Chile.png",
+        "url": "https://marine2.miplay.cl:443/tvnchile/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "LA RED",
+        "icono": "https://i.ibb.co/3Yf8pJg/La-Red-Logo-2021.png",
+        "url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8"
+      },
+      {
+        "name": "ANTOFAGASTA TV",
+        "icono": "https://i.ibb.co/MxSnqF3D/Logos-canales-150x80-03-300x160.png",
+        "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8"
+      },
+      {
+        "name": "CNN CHILE",
+        "icono": "https://i.ibb.co/znyk1NW/cnn.png",
+        "url": "https://jireh-6-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8?dpssid=55d2a33681917e2f59e1c5892457ff6b&sid=ba5t1l1xb21675155147673ace6c9b300&ndvc=0"
+      },
+      {
+        "name": "BIO BIO TV",
+        "icono": "https://i.ibb.co/gZ5BbRN9/radio-biobio-logo-dark.png",
+        "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?did=b21378984870673ace8b76a45"
+      },
+      {
+        "name": "PORTAL TV",
+        "icono": "https://i.ibb.co/PvpSWFpC/R-4.png",
+        "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8"
+      },
+      {
+        "name": "STGO TV",
+        "icono": "https://i.ibb.co/G3ccB8xK/logo-Header.png",
+        "url": "https://stv4.janus.cl/playlist/stream.m3u8"
+      },
+      {
+        "name": "TELETRAK",
+        "icono": "https://i.ibb.co/WvX3zcC/teletrack.png",
+        "url": "https://teletraktv.janus.cl/playlist/stream.m3u8"
+      },
+      {
+        "name": "TV SENADO",
+        "icono": "https://i.ibb.co/SRbmPhb/channels4-profile.jpg",
+        "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8"
+      },
+      {
+        "name": "TVEX",
+        "icono": "https://i.ibb.co/MDdFmxd7/logo-tevex-nuevo-2.png",
+        "url": "https://v2.tustreaming.cl/tevex/index.m3u8"
+      },
+      {
+        "name": "UESTV",
+        "icono": "https://i.ibb.co/d0p2B9TG/logo-UESTV-1080x1055.png",
+        "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8"
+      },
+      {
+        "name": "TERROR TV",
+        "icono": "https://i.ibb.co/1b8hm69/OIP-11.jpg",
+        "url": "https://tv.streaming-chile.com:19360/8140/8140.m3u8"
+      },
+      {
+        "name": "TVR",
+        "icono": "https://i.ibb.co/mrpXfL9m/R.png",
+        "url": "https://redirector.dps.live/hls/tvr/playlist.m3u8"
+      },
+      {
+        "name": "NUEVO TIEMPO",
+        "icono": "https://i.ibb.co/TMGJfpqN/Novo-Tempo-Logo-Vector-svg.png",
+        "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8"
+      },
+      {
+        "name": "CLICKTV",
+        "icono": "https://i.ibb.co/gZqHJMrp/clicktv.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "🇺🇾CANALES DE URUGUAY",
+    "samples": [
+      {
+        "name": "CANAL 10",
+        "url": "http://magmaplayer.com/stream/m3u8/AQNmKmt2Ay8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/866.m3u8",
+        "icono": "https://i.ibb.co/zhDLbxd9/LowlfG2.png",
+        "headers": {
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      {
+        "name": "TV FLORIDA",
+        "icono": "https://i.ibb.co/5hT93gX5/ORjoLdw.png",
+        "url": "https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8"
+      },
+      {
+        "name": "VIVO TV",
+        "icono": "https://i.ibb.co/cSLGCS4T/Logo-white.png",
+        "url": "https://stream.vivotv.uy/hls/stream.m3u8"
+      },
+      {
+        "name": "UCL",
+        "icono": "https://i.ibb.co/c2ddPKW/ucl-24.jpg",
+        "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
+      },
+      {
+        "name": "GOL TV",
+        "icono": "https://i.ibb.co/WBs0G8p/Goltv.png",
+        "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MWM2MThkNjM2Njk0LTllMGEtZjMxNC0wYzhhLTIzOTM1NjE2/master.m3u8",
+        "drm_scheme": "HLS",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
+      },
+      {
+        "name": "VTV+",
+        "icono": "https://i.ibb.co/7HNRN1S/Logo-VTV-Plus-nuevo.png",
+        "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OWVhZDhiMDA4YmRkLTM0ODgtMWFhNC0zNzhiLWQ2NzI1ZDFi/master.m3u8",
+        "drm_scheme": "HLS",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
+      },
+ {
+                "name": "TV FLORIDA",
+                "icono": "https://i.ibb.co/5hT93gX5/ORjoLdw.png",
+                "url": "https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8"
+            },
+            {
+                "name": "VIVO TV",
+                "icono": "https://i.ibb.co/cSLGCS4T/Logo-white.png",
+                "url": "https://stream.vivotv.uy/hls/stream.m3u8"
+            },
+            {
+                "name": "UCL",
+                "icono": "https://i.ibb.co/c2ddPKW/ucl-24.jpg",
+                "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
+            },
+           
+		 {
+        "name": "VTV+ PLUS",
+        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/1072.m3u8",
+        "icono": "https://i.ibb.co/5XFLRVY41c193ad43d937ca0/TUDN-LOGO-COLOR.png",
+        "headers": {
+          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
+          "X-Did": "41c193ad43d937ca",
+          "X-Version": "8/4.0.7",
+          "User-Agent": "PLPro/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+		 {
+                "name": "VTV",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYwNjY3Mzk0Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2MzZWRzL0ZveFNwb3J0cy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTkwMGUxYjA1MThkMTk3ZiIsInNlc3Npb25faWQiOiI4Mzc2OTE3Ny0xNzYwNDk0NTk0LTY5MCIsImNsaWVudF9pZCI6IjExNTExMzI3IiwiZGV2aWNlX2lkIjoiODM3NjkxNzciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjEwNyIsInNvdXJjZXMiOls3Nyw4NSwxNDQsODYsODhdfQ==.OgbADv4Dn2QSehqNPEQqI-__MoINWP3o4hivhdfQEFpynJ5RaewUeA9z6_io1jZJPj-yo6u_Qfuj-tMfERBjsg==//live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd?",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+	
+            {
+                "name": "TV Ciudad Uruguay",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYwNjY3Mzk0Iiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2MzZWRzL0ZveFNwb3J0cy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTkwMGUxYjA1MThkMTk3ZiIsInNlc3Npb25faWQiOiI4Mzc2OTE3Ny0xNzYwNDk0NTk0LTY5MCIsImNsaWVudF9pZCI6IjExNTExMzI3IiwiZGV2aWNlX2lkIjoiODM3NjkxNzciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjEwNyIsInNvdXJjZXMiOls3Nyw4NSwxNDQsODYsODhdfQ==.OgbADv4Dn2QSehqNPEQqI-__MoINWP3o4hivhdfQEFpynJ5RaewUeA9z6_io1jZJPj-yo6u_Qfuj-tMfERBjsg==//live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b536cd1716647ee94c45fa4836d29d6&key=d691c88a95440666742d1d8183182347",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+           
+            {
+                "name": "Ve Plus",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ve_Plus_TV.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8236bef638490a63aacdc424df908658&key=6229f752364cd5e71cd31a9ef9757bf1",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Gol TV",
+                "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/10494.ts",
+                "type": "HLS",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv_0rMgZ6OxQ2zGi_bJPpXaqLw7IdwJ25IA&s"
+            },
+            {
+                "name": "AUF TV",
+                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181835",
+                "type": "HLS",
+                "icono": "https://pbs.twimg.com/profile_images/1389297875469877250/_Rgj0-YU_400x400.jpg"
+            },
+            {
+                "name": "Gol TV Lat",
+                "url": "http://tv-cool.com:25461/coolevents@/qtzjdnS9PA3hswww1223/281207",
+                "type": "HLS",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv_0rMgZ6OxQ2zGi_bJPpXaqLw7IdwJ25IA&s"
+            }
 
 ]
   },
@@ -4289,21 +4562,18 @@
         "icono": "https://i.ibb.co/Z1M5q5gQ/sEW6C5G.png",
         "url": "https://cp.panelchs.com:1936/8034/8034/playlist.m3u8"
       },
-{
-        "name": "ECDF",
-        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/1133.m3u8",
+      {
+        "name": "EL CANAL DEL FÚTBOL",
+        "url": "http://magmaplayer.com/stream/m3u8/ZmN4KmxmBS8kAwthZwDmYwR4AP4kAmMsZGp0ZmNm/hls/938.m3u8",
         "icono": "https://i.ibb.co/7pvyJMk/ecdf.webp",
         "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
-      },
-		
-
       },
       {
         "name": "GOL TV",
@@ -4370,16 +4640,15 @@
           "Connection": "Keep-Alive"
         }
       },
-
-		 {
-        "name": "CANAL 5 MX",
-        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/108.m3u8",
+      {
+        "name": "CANAL 5",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png",
+        "url": "http://magmaplayer.com/stream/m3u8/BGx5KmRjAy8kBQphZGD2YwxjYwR0Ay8kAmDmBQx/hls/106.m3u8",
         "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
+          "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "8/1.0.7",
+          "User-Agent": "Magma Player/8",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
