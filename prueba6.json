@@ -483,7 +483,7 @@
       },
       {
         "name": "SPORTV 2",
-        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/759.m3u8",
+        "url": "http://45.229.135.2:8555/live/stonetv_f/2ckLGChm12/796.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
@@ -494,7 +494,7 @@
       },
       {
         "name": "SPORTV 3",
-        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/760.m3u8",
+        "url": "http://45.229.135.2:8555/live/stonetv_f/2ckLGChm12/797.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
