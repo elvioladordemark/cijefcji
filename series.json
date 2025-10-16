@@ -12496,6 +12496,75 @@
                     ],
                     "tmdb_id": 124364,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "Locke & Key",
+                    "genero": "Sci-Fi & Fantasy, Drama, Misterio",
+                    "descripcion": "Tres hermanos se mudan con su madre a la mansión ancestral de su padre tras el asesinato de este. Allí encuentran unas llaves mágicas que esconden poderes... y secretos.",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/hg0zBtIBNb9vcAo4kE33QtmDXVr.png",
+                    "icono": "https://image.tmdb.org/t/p/original/OPL8TSMru7vqbxk8TwfBWCxByz.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/nYxqUQaYGUv3pgMfe9BQ2WtUMQu.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Bienvenidos a Matheson",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C8974B3737B24ECD82160BA55A42FE9D_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Cacería",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5748BF917D394CF6918BD95C1F765110_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Juegos mentales",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1EE5B1AFBF314940A0A6CF81F3B11685_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Los guardianes de las llaves",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DECAC64F8FCA44F3A3512F752A5CB9C2_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Árbol genealógico",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/92E9E7E5AA1C4673A17A445D23672EA8_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La puerta negra",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/13E5AE9DA6EE457494AF4D8BD55B0DD8_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Disección",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9B9A6BF19B094C8284C88810D0384301_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "P*to rayo de sol",
+                                    "url": "http://goovdme.967sd1f.homes/vod/371003A259F242628DAAC10D9DA56896_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Ecos",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/63337DE0121A4187AC85EA72D7E64070_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Corona de Sombras",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4A4F6BAD2A404AAAB40EE9C88597CE88_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 86423,
+                    "total_seasons": 3
                 }
             ]
         },
