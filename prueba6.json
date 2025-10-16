@@ -117,6 +117,26 @@
                 "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
                 "type": "HLS"
             }
+
+			 ]
+    },
+    {
+        "name": "TELEMUNDO📺",
+        "samples": [
+            {
+                "name": "TELEMUNDO 62",
+                "url": "https://prodamdtlmdtv.akamaized.net/out/v1/24372c3c10fa4c88977a87bab86c7887/5cc271e1002642baa6978559f28e3e5a/1248c8f441c14f869f1358e0d97d99bc/index.m3u8",
+                "icono": "https://i.postimg.cc/MpWW6Lnk/download-33.png",
+                "type": "HLS"
+            },
+
+			{
+                "name": "TELEMUNDO ATLANTA",
+                "url": "https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=af2c18fefa024282a47f91401fd0a55e",
+                "icono": "https://i.postimg.cc/MpWW6Lnk/download-33.png",
+                "type": "HLS"
+            }
+        
 			
 			    ]
     },
