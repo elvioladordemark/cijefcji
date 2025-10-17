@@ -124,18 +124,40 @@
         "name": "TELEMUNDO📺",
         "samples": [
             {
-                "name": "TELEMUNDO 62",
-                "url": "https://prodamdtlmdtv.akamaized.net/out/v1/24372c3c10fa4c88977a87bab86c7887/5cc271e1002642baa6978559f28e3e5a/1248c8f441c14f869f1358e0d97d99bc/index.m3u8",
+                "name": "TELEMUNDO 48",
+                "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889716/hls/playlist.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F141.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=https%253A%252F%252Fwww.telemundowashingtondc.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396657891&ads.caid=TelemundoNoticiasNoreste&ads.channelName=TelemundoNoticiasNoreste&ads.csid=tm_ots_alldevice_allos_web_wzdc_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA~BVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475405&ads.vcid=&ads.vip=181.94.232.2&ads.xumo_channelId=88889716&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_ifaType=&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.xumo_streamId=88889716&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD",
                 "icono": "https://i.postimg.cc/MpWW6Lnk/download-33.png",
                 "type": "HLS"
             },
-
-			{
-                "name": "TELEMUNDO ATLANTA",
-                "url": "https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=af2c18fefa024282a47f91401fd0a55e",
-                "icono": "https://i.postimg.cc/MpWW6Lnk/download-33.png",
-                "type": "HLS"
+			      {
+                "name": "TELEMUNDO INTERNACIONAL",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYwNzQ4NTMyIiwic2lwIjoiMzguMTY1LjIzMy43IiwicGF0aCI6Ii9saXZlL2MzZWRzL0ZveFNwb3J0cy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMzcxMTczNmQ5ZmI3OGZmYiIsInNlc3Npb25faWQiOiI4Mzc2OTE3Ny0xNzYwNTc1NzM2LTMyMyIsImNsaWVudF9pZCI6IjExNTExMzI3IiwiZGV2aWNlX2lkIjoiODM3NjkxNzciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDciLCJzb3VyY2VzIjpbNzcsODUsODYsODhdfQ==.-vhspduPV86gtSMz3h1P8rCtghq-HuY-HPtMMG4TiZGMep7nAQAGgtcmI94EE3Xbj-RWLgYX6p03Ogwl2Tgauw==/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                } 
+					   },
+					  
+					  {
+                "name": "UNIVERSO",
+                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3501bd323a6a35c28eb7654bf298b9aa&key=2db4c8089d627e1b2c480c57baa86a7b",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+           
             }
+
+			
+
         
 			
 			    ]
