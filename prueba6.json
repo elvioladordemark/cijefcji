@@ -141,9 +141,15 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 } 
 					   },
+			{
+                "name": "UNIVERSO 1",
+                "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+                "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
+                "type": "HLS"
+            },
 					  
 					  {
-                "name": "UNIVERSO",
+                "name": "UNIVERSO 2",
                 "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
