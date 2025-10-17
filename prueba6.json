@@ -462,9 +462,24 @@
   {
     "name": "DEPORTES BRASIL",
     "samples": [
-      {
-        "name": "PREMIERE CLUBES",
+       {
+        "name": "COMBATE BR",
+        "url": "https://latan.stonetv.com.br/combate/tracks-v1a1/mono.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3",
+        "icono": "https://i.postimg.cc/nLbDkJLm/download-34.png"
+      },
+		
+		{
+        "name": "PREMIERE CLUBES MPD",
         "url": "https://abgqhhbaaaaaaaamgyske232j4one.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3",
+        "icono": "https://embedtv.digital/assets/images/premiere.png"
+      },
+		    {
+        "name": "PREMIERE CLUBES HLS",
+        "url": "http://45.229.135.2:8555/live/stonetv_f/2ckLGChm12/790.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
