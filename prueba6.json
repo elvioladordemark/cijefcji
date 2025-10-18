@@ -59,57 +59,111 @@
         "name": "MLS EVENTOS",
         "samples": [
             {
-                "name": "20:30 Inter Miami CF vs Atlanta United OP1",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597001.ts",
-                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
-                "type": "HLS"
-            },
-            {
-                "name": "20:30 Inter Miami CF vs Atlanta United OP2",
-                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/acd17287-ef76-4f6f-82dc-8268969eb404.ts",
-                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
-                "type": "HLS"
-            },
-            {
-                "name": "20:30 Inter Miami CF vs Atlanta United OP3",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597000.ts",
-                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
-                "type": "HLS"
-            },
-            {
-                "name": "20:30 Orlando City SC vs Vancouver OP1",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597002.ts",
-                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
-                "type": "HLS"
-            },
-            {
-                "name": "20:30 Orlando City SC vs Vancouver OP2",
-                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/833f89c5-e390-4801-b5b9-7346226ee529.ts",
-                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
-                "type": "HLS"
-            },
-            {
-                "name": "22:30 Seattle Sounders FC vs Real Salt Lake OP1",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597003.ts",
-                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
-                "type": "HLS"
-            },
-            {
-                "name": "22:30 Seattle Sounders FC vs Real Salt Lake OP2",
-                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/0e7ca4c8-0e60-4606-8e6c-1c2a356b82eb.ts",
-                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
-                "type": "HLS"
-            },
-            {
-                "name": "22:30 LA Galaxy vs Dallas OP1",
+                "name": "19:00pm Nashville SC vs Inter Miami = MLS Pass",
                 "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597004.ts",
-                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
                 "type": "HLS"
             },
             {
-                "name": "22:30 LA Galaxy vs Dallas OP2",
-                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/41656a52-5ab4-493e-9433-b54f9668b634.ts",
-                "icono": "https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",
+                "name": "19:00pm Nashville SC vs Inter Miami = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733348.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "19:00pm Nashville SC vs Inter Miami = MLS Pass",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/330468.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "19:00pm Nashville SC vs Inter Miami = MLS Pass",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/b64a9b6e-59b2-4d05-8520-3b82a97c4dd2.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "19:00pm Atlanta United vs DC United = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733344.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "19:00pm Charlotte vs Philadelphia Union = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733345.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "19:00pm Cincinnati vs CF Montréal = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733346.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "19:00pm Columbus Crew vs New York RB = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733347.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "19:00pm New England vs Chicago Fire = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733349.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "19:00pm New York City vs Seattle Sounders FC = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733350.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "19:00pm Toronto FC vs Orlando City SC = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733351.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "22:00pm Colorado Rapids vs Los Angeles FC = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733366.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "22:00pm Sporting KC vs Houston Dynamo = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733367.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "22:00pm St. Louis City vs Real Salt Lake = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733368.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "22:00pm Vancouver Whitecaps vs Dallas = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733369.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "22:00pm LA Galaxy vs Minnesota United = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733370.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "22:00pm Portland Timbers vs San Diego = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733371.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "22:00pm San José Earthquakes VS Austin FC = MLS Pass",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/733372.ts",
+                "icono": "https://i.postimg.cc/8c9ZV5HJ/EVENTOMLS2.png",
                 "type": "HLS"
             }
 
