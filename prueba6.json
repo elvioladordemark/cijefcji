@@ -30,6 +30,18 @@
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       },
 	   {
+        "name": "CERRO VS OLIMPIA",
+        "url": "https://425vy9ra.s3.us-east-1.amazonaws.com/live/stream11/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+        "headers": {
+          "Origin": "https://elverruca.tech",
+          "Referer": "https://elverruca.tech/",
+          "User-Agent": "FireFox"
+        }
+		
+		{
         "name": "TIGO EN VIVO",
         "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/14061",
         "type": "HLS",
