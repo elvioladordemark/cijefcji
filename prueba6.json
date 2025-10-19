@@ -701,6 +701,144 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
       }
+
+		]
+    },
+    {
+        "name": "DEP ECUADOR M3 🇪🇨",
+        "samples": [
+            {
+                "name": "ZA⚽PPING (solo evento) • 01",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/267305.ts",
+                "icono": "https://i.postimg.cc/WbDkH3tY/ZAPPINGSPORTSECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ZA⚽PPING (solo evento) • 02",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/2373.ts",
+                "icono": "https://i.postimg.cc/WbDkH3tY/ZAPPINGSPORTSECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ZA⚽PPING (solo evento) • 03",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/b0cc1216-5d6a-46f4-921a-cea8180d3817.ts",
+                "icono": "https://i.postimg.cc/WbDkH3tY/ZAPPINGSPORTSECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ZA⚽PPING (solo evento) • 04",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/2dc1151c-798d-44bc-9bfe-664a63fd2610.ts",
+                "icono": "https://i.postimg.cc/WbDkH3tY/ZAPPINGSPORTSECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ZA⚽PPING (solo evento) • 05",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/a26ab695-6e40-4bb1-a409-e7e0427016f3.ts",
+                "icono": "https://i.postimg.cc/WbDkH3tY/ZAPPINGSPORTSECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ZA⚽PPING (solo evento) • 06",
+                "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/6a08e0c7-e1d4-46fb-87c2-809e1cfba444.ts",
+                "icono": "https://i.postimg.cc/WbDkH3tY/ZAPPINGSPORTSECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ECDF • 01 ⚽",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/2364.ts",
+                "icono": "https://i.postimg.cc/wTPhqNST/ECDFECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ECDF • 02 ⚽",
+                "url": "http://redworld.pro:8880/Estoestv2252/gj769HUTHXqS/104110",
+                "icono": "https://i.postimg.cc/wTPhqNST/ECDFECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ECDF • 03 ⚽",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/511536.ts",
+                "icono": "https://i.postimg.cc/wTPhqNST/ECDFECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ECDF • 04 ⚽",
+                "url": "http://myservicego.info:8080//live/VIP-LATIN/290231/797477.ts",
+                "icono": "https://i.postimg.cc/wTPhqNST/ECDFECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ECDF • 05 ⚽",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/267295.ts",
+                "icono": "https://i.postimg.cc/wTPhqNST/ECDFECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ECDF • 06 ⚽",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/706",
+                "icono": "https://i.postimg.cc/wTPhqNST/ECDFECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "1-⚽ ECDF ✅ 2 (solo eventos)",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/267306.ts",
+                "icono": "https://i.postimg.cc/x1wyRmRp/ECDF2-ECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "2-⚽ ECDF ✅ 2 (solo eventos)",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/267307.ts",
+                "icono": "https://i.postimg.cc/x1wyRmRp/ECDF2-ECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "3-⚽ ECDF ✅ 2 (solo eventos)",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/442613.ts",
+                "icono": "https://i.postimg.cc/x1wyRmRp/ECDF2-ECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "GOL TV • 01",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/2371.ts",
+                "icono": "https://i.postimg.cc/zB17Jhbs/GOLTVECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "GOL TV • 02",
+                "url": "http://nuevoiptv.ddns.net:8080/MultiDigitalTv/NFu9rKLWvQaB/6232",
+                "icono": "https://i.postimg.cc/zB17Jhbs/GOLTVECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "GOL TV • 03",
+                "url": "http://myservicego.info:8080//live/VIP-LATIN/290231/797472.ts",
+                "icono": "https://i.postimg.cc/zB17Jhbs/GOLTVECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DSPORTS ",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/2367.ts",
+                "icono": "https://i.postimg.cc/4xdFMpV0/DIRECTVSPORTSECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DSPORTS 2",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/592038.ts",
+                "icono": "https://i.postimg.cc/rmWHjcxM/DIRECTVSPORTS2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ESPN EXTRA (STAR+)",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/2379.ts",
+                "icono": "https://i.postimg.cc/1RGTNmyM/ESPNXTRALAGAPROECUADOR.png",
+                "type": "HLS"
+            },
+            {
+                "name": "CANELA TV",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/2381.ts",
+                "icono": "https://i.postimg.cc/X7WR2Zsz/CANELATVECUADOR.png",
+                "type": "HLS"
+            }
 	  
 	  	]
     },
