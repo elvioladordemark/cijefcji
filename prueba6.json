@@ -3915,6 +3915,30 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
       },
+
+		   {
+        "name": "CINEMAX",
+        "url": "https://dm2-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/token/5b6e5824150facbcd3c01ec0841ebe8e/cinemax.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/bvRkQcMG/download-35.png",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+
+		 {
+        "name": "SPACE",
+        "url": "https://dm2-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/token/5a4ab39565ab98267ea17577a957a30d/space.m3u8",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/500YLHLw/download-73.jpg",
+        "headers": {
+          "Referer": "https://embedtv-2.icu/",
+          "Origin": "https://embedtv-2.icu",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
 		
 		{
         "name": "TOP TV BR",
