@@ -29,18 +29,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3104af5254534d43a98319238dcb6f00&key=8f4af52cf6c144a6499244e542d92680",
         "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
       },
-	   {
-        "name": "CERRO VS OLIMPIA",
-        "url": "https://425vy9ra.s3.us-east-1.amazonaws.com/live/stream11/index.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-        "headers": {
-          "Origin": "https://elverruca.tech",
-          "Referer": "https://elverruca.tech/",
-          "User-Agent": "FireFox"
-         }
-      },
+
 		
 		{
         "name": "TIGO EN VIVO",
@@ -396,6 +385,19 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
+  {
+                "name": "ESPN",
+                "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYxMDkyODE0Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjAyMGQxODA0MTE0OGU0OWIiLCJzZXNzaW9uX2lkIjoiODM3NjkxNzctMTc2MDkyMDAxMy05MDEiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNzY5MTc3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.xXwiXaowhIKt9nv0-amYuzPT14MAtIs6JL0VE4rNM2fyZjscrPzItEhhzPz3IDTB4uXVkp925NGU-Boi05uJ5g==/live/c3eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+			
             {
                 "name": "ESPN 2",
                 "url": "https://edge-mix02-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYxMDkyODE0Iiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjAyMGQxODA0MTE0OGU0OWIiLCJzZXNzaW9uX2lkIjoiODM3NjkxNzctMTc2MDkyMDAxMy05MDEiLCJjbGllbnRfaWQiOiIxMTUxMTMyNyIsImRldmljZV9pZCI6IjgzNzY5MTc3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTA3Iiwic291cmNlcyI6Wzc3LDg1LDE0NCw4Niw4OF19.xXwiXaowhIKt9nv0-amYuzPT14MAtIs6JL0VE4rNM2fyZjscrPzItEhhzPz3IDTB4uXVkp925NGU-Boi05uJ5g==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd",
