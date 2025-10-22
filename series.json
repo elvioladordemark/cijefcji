@@ -19405,6 +19405,65 @@
                     ],
                     "tmdb_id": 246027,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Néro",
+                    "genero": "Drama, Action & Adventure",
+                    "descripcion": "En la Francia de 1504, un asesino despiadado se da a la fuga con su hija, a la que apenas conoce, para protegerla de enemigos letales y fuerzas malignas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5guntNLjQRpFhHfmOOAtG0CQ9LQ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/twNHmxeFkDEdGzYMeGTp9stoGUC.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lMdOqInVxIvEapJjxAvOoHc7tl5.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El asesino",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E5B3204E3AA645BE856F6F4C24ADAEBD_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La bruja",
+                                    "url": "http://goovdme.967sd1f.homes/vod/39BFF18D2C1C41C2B71952C0AD40D6E8_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La princesa",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1F676B1AAB09405880AE11F1DDE0875A_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El inquisidor",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FFEAA68225A24F28ADA7A1A59262CBC9_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El villano",
+                                    "url": "http://goovdme.967sd1f.homes/vod/85FBC3AC59FE427597A7F431447E7FE2_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El monje",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/49195059D612476AA2B74C145BF18B2E_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El arzobispo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/93FD8FAA3BD444168775F0B01F711CD2_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La niña",
+                                    "url": "http://goovdme.967sd1f.homes/vod/327BE178BD164E7B86665944D57FF0F0_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 249551,
+                    "total_seasons": 1
                 }
             ]
         },
