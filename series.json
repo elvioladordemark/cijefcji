@@ -19361,6 +19361,50 @@
                     ],
                     "tmdb_id": 213895,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Nadie nos vio partir",
+                    "genero": "Drama",
+                    "descripcion": "Una madre sufre el estigma y la pérdida de sus hijos cuando su marido se los lleva al extranjero, un hecho que cambiará su vida para siempre.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/tvahnnDgETYjpoPIP4SMGlbk9Ny.png",
+                    "icono": "https://image.tmdb.org/t/p/original/nOjhJqlWYDZHuskzGmZKdgoxlXN.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qLUqBpWFvags0yOPVBsH1pxt3SA.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Dónde están mis hijos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5434A7FEDF6A485981CAB82A60496CE5_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Los voy a encontrar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CA886D649C7D4D14ABA31B4CB3863DE0_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Papá nos mintió",
+                                    "url": "http://goovdme.967sd1f.homes/vod/80A66E03CFC148E19F544BB28E0438EB_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Cállate y baila",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/96297A66EAE44C2BA86F23140333384A_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Hola, Valeria",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3517F12C64E346D0AD35B3891CE46B2B_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 246027,
+                    "total_seasons": 1
                 }
             ]
         },
