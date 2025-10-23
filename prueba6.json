@@ -72,9 +72,35 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
+
+			{
+                "name": "21:30pm LIGA DE QUITO vs PALMEIRAS OPC 2",
+               "url": "http://190.3.108.42:8400/play/a05a/index.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
+                "icono": "https://i.postimg.cc/d3gZVp5R/download-74.jpg",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
     {
                 "name": "21:30pm LIGA DE QUITO vs PALMEIRAS",
                 "url": "https://edge-live02-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYxNDM1NTQ1Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2MzZWRzL0NhbmFsOS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNmE2MWEwZmI4MWJhZjIxNCIsInNlc3Npb25faWQiOiI4NDc4MzQ5NS0xNzYxMjYyNzUwLTgzNSIsImNsaWVudF9pZCI6IjExNTExMzI3IiwiZGV2aWNlX2lkIjoiODQ3ODM0OTUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIyOTciLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ti44d9pa7dvA6ZTv94fGXqwDZYkh8TpmFTh88U9_7EC3yHnRvREFxMFiIlHb1Pb32T4nwIcCkgSmrgFtVkJaGw===/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
+                "icono": "https://i.postimg.cc/d3gZVp5R/download-74.jpg",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+			{
+                "name": "21:30pm LIGA DE QUITO vs PALMEIRAS OP2",
+                "url": "http://190.3.108.42:8400/play/a0e1/index.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
                 "icono": "https://i.postimg.cc/d3gZVp5R/download-74.jpg",
