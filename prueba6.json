@@ -54,6 +54,50 @@
         "type": "HLS",
         "icono": "https://i.postimg.cc/vZDhCNGZ/download-26.png"
       }
+
+		 ]
+    },
+    {
+        "name": "LEBERTADORES Y SUDAMERICANA EVENTOS HOY",
+        "samples": [
+            {
+                "name": "21:30pm LIGA DE QUITO vs PALMEIRAS",
+               "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYxMzYwODc0Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FydGVhckhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhYTlmNTIyMDFhZWI1NDgwIiwic2Vzc2lvbl9pZCI6Ijg0NzgzNDk1LTE3NjExODgwNzMtNzU4IiwiY2xpZW50X2lkIjoiMTE1MTEzMjciLCJkZXZpY2VfaWQiOiI4NDc4MzQ5NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==._SylzjodJKm51ene4CNa2nAFaBwIGiICIU7y3YWUcnWd93c3seZ7oC76pp2i-p2INrNo0RYSy0n7SphA-FvSlg==/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
+                "icono": "https://i.postimg.cc/d3gZVp5R/download-74.jpg",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+    {
+                "name": "21:30pm LIGA DE QUITO vs PALMEIRAS",
+                "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYxMzYwODc0Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FydGVhckhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhYTlmNTIyMDFhZWI1NDgwIiwic2Vzc2lvbl9pZCI6Ijg0NzgzNDk1LTE3NjExODgwNzMtNzU4IiwiY2xpZW50X2lkIjoiMTE1MTEzMjciLCJkZXZpY2VfaWQiOiI4NDc4MzQ5NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==._SylzjodJKm51ene4CNa2nAFaBwIGiICIU7y3YWUcnWd93c3seZ7oC76pp2i-p2INrNo0RYSy0n7SphA-FvSlg==/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
+                "icono": "https://i.postimg.cc/d3gZVp5R/download-74.jpg",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+			
+            {
+                "name": "19:00pm U.CHILE vs LANUS",
+                
+              "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+        "icono": "https://i.postimg.cc/YqwmTKmG/download-76.jpg",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "FireFox"
+        }
+      },
 	  
 	   ]
     },
@@ -247,29 +291,7 @@
                 "type": "HLS"
             }
 			
-			]
-    },
-    {
-        "name": "MUNDIAL ELIMINATORIAS",
-        "samples": [
-                    {
-                "name": "20:00hs ?? Argentina U20 vs Puerto Rico",
-                "url": "https://belami.top/test/DEMO_/LA14/telefe.m3u8",
-                "icono": "https://cdn.shopify.com/s/files/1/0830/8975/2367/files/Diseno_sin_titulo_70.png?v=1753113891",
-                "type": "HLS"
-            },
-            {
-                "name": "20:00hs ?? Argentina U20 vs Puertyo Rico",
-                "url": "https://belami.top/test/DEMO_/LA14/tycsports.m3u8",
-                "icono": "https://cdn.shopify.com/s/files/1/0830/8975/2367/files/Diseno_sin_titulo_70.png?v=1753113891",
-                "type": "HLS"
-            },
-			 {
-                "name": "20:00hs ?? Canada U20 vs Colombia",
-                "url": "https://belami.top/test/DEMO_/LA14/caracol.m3u8",
-                "icono": "https://cdn.shopify.com/s/files/1/0830/8975/2367/files/Diseno_sin_titulo_70.png?v=1753113891",
-                "type": "HLS"
-            }
+	
 			
 		
 			
