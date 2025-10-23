@@ -6781,15 +6781,14 @@
     ]
   },
   {
-    "name": "🎬CANALES 24/7",
+    "name": "🎬CANALES 24/7 VIP",
     "samples": [
-     
-      },
+    
       {
         "name": "LOS SIMPSONS",
-        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/635.m3u8",
-        "icono": "https://m.media-amazon.com/images/S/pv-target-images/16af05e8c93d21a9e8999206d8371a929c3348d6509907b7b18b982732bb748e._SX1080_FMjpg_.jpg",
-         "headers": {
+      "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/635.m3u8",
+        "icono": "https://i.ibb.co/5XFLRVY41c193ad43d937ca0/TUDN-LOGO-COLOR.png",
+        "headers": {
           "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
           "X-Did": "41c193ad43d937ca",
           "X-Version": "8/4.0.7",
@@ -6800,79 +6799,85 @@
       },
       {
         "name": "DRAGON BALL SUPER",
-        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/155.m3u8",
+        "url": "http://magmaplayer.com/stream/m3u8/BGx0KmZjAI8lBQNmBwWuZQN6ZwNjAwcyZJRkBwL2ZGV6ZzEyMGczAwMyBzR5A2IsZGp0ZGD5/hls/305.m3u8",
         "icono": "http://imgfz.com/i/36uZ9fb.jpeg",
         "type": "HLS",
-          "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
+          "X-Did": "cddfe5e8c019cb3c",
+          "User-Agent": "Magma Player/10",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
       },
       {
         "name": "EL CHAPULIN COLORADO",
-        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/152.m3u8",
+        "url": "http://magmaplayer.com/stream/m3u8/AQL3KmR1Zy8lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/152.m3u8",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjR78mrOm9s_hg-PsixcSJ1Rcxa28xvUdiY7sa-AoIru7d6AM4",
-          "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
+          "X-Did": "cddfe5e8c019cb3c",
+          "User-Agent": "Magma Player/10",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
       },
       {
         "name": "EL CHAVO DEL 8",
-        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/344.m3u8",
+        "url": "http://magmaplayer.com/stream/m3u8/Zmt3KmZ0AS8lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/344.m3u8",
         "icono": "https://i.ibb.co/S48tv2qb/R-4.png",
-         "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
+          "X-Did": "cddfe5e8c019cb3c",
+          "User-Agent": "Magma Player/10",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
       },
       {
         "name": "CHESPIRITO",
-        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/153.m3u8",
+        "url": "http://magmaplayer.com/stream/m3u8/AGZjKmR1Z18lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/153.m3u8",
         "icono": "https://www.telegratishd.com/imge/chespirito.png",
-         "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
+          "X-Did": "cddfe5e8c019cb3c",
+          "User-Agent": "Magma Player/10",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
       },
       {
         "name": "NARUTO",
-        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/702.m3u8",
+        "url": "https://magmaplayer.com/stream/m3u8/AQR0KmpjZy8lBQNmBwWuZQN6ZwNjAwcyZJRkBwxjAQH6LmN2LwbmATLlBzWxAGSsZGp0ZGtk/hls/702.m3u8",
         "icono": "https://wallpapers.com/images/hd/naruto-profile-pictures-sa1tekghfajrr928.jpg",
-      "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
+          "X-Did": "cddfe5e8c019cb3c",
+          "User-Agent": "Magma Player/10",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
       },
       {
         "name": "ALF",
-        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/28.m3u8",
+        "url": "http://magmaplayer.com/stream/m3u8/AGp5KmV4KmV4ZQD6ZGExBzWuLmN6ATD1MQbkAGtlBwD0AQH6AwuuZwcxMzMwKmR3AQR2Zt/hls/28.m3u8",
         "icono": "https://i.ibb.co/xtbHtrr6/R-5.png",
-         "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
+          "X-Did": "cddfe5e8c019cb3c",
+          "User-Agent": "Magma Player/10",
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
