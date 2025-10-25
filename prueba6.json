@@ -7,9 +7,9 @@
         "name": "SOLO EVENTOS",
         "samples": [
            {
-                "name": "EVENTO DISNEY+ AUF ⚽",
-                "url": "https://mxphk291.s3.us-east-1.amazonaws.com/live/stream14/index.m3u8",
-                "icono": "https://m.media-amazon.com/images/I/719t3jd2NeL.png",
+                "name": "TIGRES VS TIJUANA⚽",
+                "url": "https://mxphk291.s3.us-east-1.amazonaws.com/live/stream17/index.m3u8",
+                "icono": "https://i.postimg.cc/Xv9fDsPX/47a340b2-5327-4bf8-81de-2f2eb18c3648.png",
                 "type": "HLS",
                 "headers": {
                     "Origin": "https://elverruca.tech",
@@ -18,9 +18,9 @@
                 }
             },
             {
-                "name": "LIGA PROFESIONAL SAUDI ⚽",
+                "name": "LEON VS PUMAS⚽",
                 "url": " https://mxphk291.s3.us-east-1.amazonaws.com/live/stream10/index.m3u8",
-                "icono": "https://www.pngplay.com/wp-content/uploads/10/Saudi-Arabia-Flag-Download-Free-PNG.png",
+                "icono": "https://i.postimg.cc/Xv9fDsPX/47a340b2-5327-4bf8-81de-2f2eb18c3648.png",
                 "type": "HLS",
                 "headers": {
                     "Origin": "https://elverruca.tech",
@@ -28,18 +28,28 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
                 }
             },
-            {
-                "name": "UFC 321 - ASPINALL VS GANE",
-                "url": "https://mxphk291.s3.us-east-1.amazonaws.com/live/stream11/index.m3u8",
-                "icono": "https://tvazteca.brightspotcdn.com/06/ab/c9698bc84501b55689449bd1c88b/ufc-321-aspinall-vs-gane-hora-en-mexico-cartelera-completa.jpg",
+			  {
+                "name": "CHIVAS VS ATLAS⚽",
+                "url": " https://mxphk291.s3.us-east-1.amazonaws.com/live/stream10/index.m3u8",
+                "icono": "https://i.postimg.cc/Xv9fDsPX/47a340b2-5327-4bf8-81de-2f2eb18c3648.png",
                 "type": "HLS",
                 "headers": {
-                    "Origin": "https://cdn.elverruca.tech",
-                    "Referer": "https://cdn.elverruca.tech/",
+                    "Origin": "https://elverruca.tech",
+                    "Referer": "https://elverruca.tech/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+                }
+            },
+	   {
+                "name": "CRUZ AZUL VS MONTERREY⚽",
+                "url": " https://mxphk291.s3.us-east-1.amazonaws.com/live/stream10/index.m3u8",
+                "icono": "https://i.postimg.cc/Xv9fDsPX/47a340b2-5327-4bf8-81de-2f2eb18c3648.png",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://elverruca.tech",
+                    "Referer": "https://elverruca.tech/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
                 }
             }
-	 
 
 			 ]
     },
