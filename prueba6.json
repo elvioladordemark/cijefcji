@@ -2,73 +2,37 @@
 [
   
     {
-        "name": "LEBERTADORES Y SUDAMERICANA EVENTOS HOY",
+        "name": "EVENTOS INTER DE MIAMI",
         "samples": [
+         {
+                "name": "EVENTOS INTER MIAMI 1 ⚽",
+                "url": "https://7iah3365.s3.eu-west-1.amazonaws.com/hls/0/stream.m3u8",
+                "icono": "https://i.postimg.cc/nLJMMdP7/download-78.jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://elverruca.tech",
+                    "Referer": "https://elverruca.tech/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
             {
-                "name": "21:30pm LIGA DE QUITO vs PALMEIRAS",
-               "url": "https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYxMzg4MTg1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTQ0IiwicGF0aCI6Ii9saXZlL2M1ZWRzL0M5Tl9DNC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI0NjExZjIwZGZlYWIwYThkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI5NiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.F3F7SoLoOq97EzZV3Pg8s4vX8GMMEIg66SGlSQ0NymVHMpDQ6IRp8UBx5EgJOpGGD-lqX-WCOtxKlhjSLOmCUQ==/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
-                "icono": "https://i.postimg.cc/d3gZVp5R/download-74.jpg",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                "name": "EVENTOS INTER MIAMI 2 ⚽",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/597001.ts",
+                "icono": "https://i.postimg.cc/nLJMMdP7/download-78.jpg",
+                "type": "HLS"
             },
-
-			{
-                "name": "21:30pm LIGA DE QUITO vs PALMEIRAS OPC 2",
-               "url": "http://190.3.108.42:8400/play/a05a/index.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
-                "icono": "https://i.postimg.cc/d3gZVp5R/download-74.jpg",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-    {
-                "name": "21:30pm LIGA DE QUITO vs PALMEIRAS",
-                "url": "https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYxMzg4MTg1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTQ0IiwicGF0aCI6Ii9saXZlL2M1ZWRzL0M5Tl9DNC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI0NjExZjIwZGZlYWIwYThkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI5NiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.F3F7SoLoOq97EzZV3Pg8s4vX8GMMEIg66SGlSQ0NymVHMpDQ6IRp8UBx5EgJOpGGD-lqX-WCOtxKlhjSLOmCUQ==/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
-                "icono": "https://i.postimg.cc/d3gZVp5R/download-74.jpg",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-
-			{
-                "name": "21:30pm LIGA DE QUITO vs PALMEIRAS OP2",
-                "url": "http://190.3.108.42:8400/play/a0e1/index.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
-                "icono": "https://i.postimg.cc/d3gZVp5R/download-74.jpg",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-			
             {
-                "name": "19:00pm U.CHILE vs LANUS",
-                
-              "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.postimg.cc/YqwmTKmG/download-76.jpg",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "FireFox"
-        }
-      }
-	  
+                "name": "EVENTOS INTER MIAMI 3 ⚽",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/697858.ts",
+                "icono": "https://i.postimg.cc/nLJMMdP7/download-78.jpg",
+                "type": "HLS"
+            },
+            {
+                "name": "EVENTOS INTER MIAMI 4 ⚽",
+                "url": "http://flx.lat:8080//live/Estoestv547/56547tvcambio/331413.ts",
+                "icono": "https://i.postimg.cc/nLJMMdP7/download-78.jpg",
+                "type": "HLS"
+            }
 	 
 
 			 ]
