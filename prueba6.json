@@ -4243,6 +4243,131 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
       }
+		]
+    },
+    {
+        "name": "CINE BRASIL M3 🇧🇷",
+        "samples": [
+            {
+                "name": "HBO",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533686.ts",
+                "icono": "https://i.postimg.cc/05Xp2CTn/HBOBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "HBO 2",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533688.ts",
+                "icono": "https://i.postimg.cc/nhb9CS0R/HBO2-BRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "HBO PLUS",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533730.ts",
+                "icono": "https://i.postimg.cc/vHHXBB2f/HBOPLUSBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "HBO POP",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533731.ts",
+                "icono": "https://i.postimg.cc/KjTLH60S/HBOPOP.png",
+                "type": "HLS"
+            },
+            {
+                "name": "HBO SIGNATURE",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533685.ts",
+                "icono": "https://i.postimg.cc/SNvLxGMY/HBOSIGNATUREBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "HBO EXTREME",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533696.ts",
+                "icono": "https://i.postimg.cc/9XsYYpLW/HBOXTREMEBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "A&E",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533675.ts",
+                "icono": "https://i.postimg.cc/1tFCSjtc/A-EBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "AMC",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533726.ts",
+                "icono": "https://i.postimg.cc/9Q1sgK4S/AMCBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "AXN",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533727.ts",
+                "icono": "https://i.postimg.cc/sD4L1qJp/AXNBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "CINE SKY 1",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533709.ts",
+                "icono": "https://i.postimg.cc/rmChzY6k/SKYCINEMABRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "CINE SKY 5",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533711.ts",
+                "icono": "https://i.postimg.cc/rmChzY6k/SKYCINEMABRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "CINEMAX",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533733.ts",
+                "icono": "https://i.postimg.cc/fLGwTyNV/CINEMAXBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "PARAMOUNT",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533691.ts",
+                "icono": "https://i.postimg.cc/rmSHxw44/PARAMOUNTBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "SONY HD",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533690.ts",
+                "icono": "https://i.postimg.cc/v87R637q/SONYTVBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "SPACE",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533689.ts",
+                "icono": "https://i.postimg.cc/9QQj2Z7D/SPACEBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "SYFY",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533692.ts",
+                "icono": "https://i.postimg.cc/Bb5k2QdP/SYFYBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TELECINE PREMIUM",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533684.ts",
+                "icono": "https://i.postimg.cc/jdskGKVb/TELECINEBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TNT ",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533693.ts",
+                "icono": "https://i.postimg.cc/J7JL1RdH/TNTBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "VIVA ",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533703.ts",
+                "icono": "https://i.postimg.cc/63JMzxLK/VIVABRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "WARNER CHANNEL",
+                "url": "http://icomplay.net:80/Rubian/JmabAMbHAYH/533728.ts",
+                "icono": "https://i.postimg.cc/tCC2B5PT/WARNERCHANNELBRASIL.png",
+                "type": "HLS"
+            }
 	  
 	   ]
   },
