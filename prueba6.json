@@ -6,7 +6,17 @@
     {
         "name": "SOLO EVENTOS",
         "samples": [
-          
+           {
+                "name": "SAO PABLO VS BAHIA EN VIVO⚽",
+                "url": "https://dwqejs.6522236688.shop:8443/hls/qyuasy56q.m3u8?s=2Df_7dBCqVBIgZcCnXZxOg&e=1761466796&__PROXY_IDENTIFIER__=true",
+                "icono": "https://i.postimg.cc/Xv9fDsPX/47a340b2-5327-4bf8-81de-2f2eb18c3648.png",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://sportzonline.live",
+                    "Referer": "https://sportzonline.live/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+                }
+            },
             {
                 "name": "LEON VS PUMAS 21:00 HS⚽",
                 "url": "https://mxphk291.s3.us-east-1.amazonaws.com/live/stream18/index.m3u8",
