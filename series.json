@@ -820,6 +820,30 @@
                     ],
                     "tmdb_id": 247756,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "It: Bienvenidos a Derry",
+                    "genero": "Misterio, Drama",
+                    "descripcion": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5NHDerXZVJSiGKfWT5o6a8EH2vE.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ckXiw9Ns4Bs32DGGtTCKdX41sau.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2746UvsbkZINd873Yd3o3TxOwCP.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9E51FEFFAF5F4E74A0C31543AA59B4BE_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 200875,
+                    "total_seasons": 1
                 }
             ]
         },
