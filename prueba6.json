@@ -4849,21 +4849,10 @@
     {
         "name": "CINE Y SERIES SIN BLOQUEOS 🎬",
         "samples": [
-            {
-                "name": "GOLDEN",
-                "url": "https://live.saohgdasregions.fun:9092/MTc5LjI3LjIwMC4zMA==/144_.m3u8?token=1r2scnSN7VRdgSVkJb-fcA&expires=1761542109&__PROXY_IDENTIFIER__=true",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3sl2jpy3i4fne1mgsc5p1/golden.json?rlkey=j9e7tmf7aonclrjdfv48783us&st=g2s9w5n6&dl=0",
-                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
+            
             {
                 "name": "WARNER CHANNEL",
-                "url": "https://cdn01.oplay.tv/warner/tracks-a1/mono.ts.m3u8",
+                "url": "http://190.3.108.42:8400/play/a05e/index.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/zrghz35i7e2cv3vr37gw0/warner.json?rlkey=dst9i6fqzjmhcldjif70mrcq1&st=i98ziw03&dl=0",
                 "icono": "https://i.ibb.co/jyK3gPh/0000-all-l-warner-logo-warner-2018-blanco-1.png",
@@ -4875,7 +4864,7 @@
             },
             {
                 "name": "UNIVERSAL CHANNEL",
-                "url": "https://live.saohgdasregions.fun:9092/MTc5LjI3LjIwMC4zMA==/79_.m3u8?token=6_YsZjKxFdRPiy_kxEEzOw&expires=1761542755",
+                "url": "http://190.3.108.42:8400/play/a05j/index.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/tg3zfnztkc0yu2k74smpe/universal.json?rlkey=8l2azm48jv1gxqgcp401o6o9e&st=r3e97znf&dl=0",
                 "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
@@ -4888,7 +4877,7 @@
             
             {
                 "name": "STUDIO UNIVERSAL",
-                "url": "https://live.saohgdasregions.fun:9092/MTgxLjk0LjIzMi4y/80_.m3u8?token=Z6O_GD2U3A6tTEYmYWa6BA&expires=1761543171",
+                "url": "http://190.3.108.42:8400/play/a022/index.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/vaags2sms02ehi6veyijo/studio.json?rlkey=q33llpgieu83rrph1uh0hoqzr&st=l704gomk&dl=0",
                 "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
@@ -4900,7 +4889,7 @@
             },
             {
                 "name": "CINECANAL",
-                "url": "https://cdn01.oplay.tv/cinecanal/tracks-a1/mono.ts.m3u8",
+                "url": "http://190.3.108.42:8400/play/a0e4/index.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/bogtd0zldfnw6ox7wedh4/cinecanal.json?rlkey=5cqicqe62p2j6scpkfe904j1p&st=8zghkreg&dl=0",
                 "icono": "https://i.ibb.co/cvghCHq/cinecanal.png",
@@ -4912,7 +4901,7 @@
             },
             {
                 "name": "TNT HD",
-                "url": "https://cdn01.oplay.tv/tnt/tracks-a1/mono.ts.m3u8",
+                "url": "http://190.3.108.42:8400/play/a0e6/index.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/6uatubavwbq3hb4smwem8/tnt.json?rlkey=6lyiihjb5htyx5fm46f3ghkht&st=y8zf9it0&dl=0",
                 "icono": "https://i.ibb.co/r2gYhQb/tnt-fundo-escuro.png",
