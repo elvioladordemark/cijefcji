@@ -4443,6 +4443,335 @@
                 "url": "https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1075469669.m3u8",
                 "icono": "https://i.postimg.cc/wBXbD2kG/TV-ROCK-BRASIL.png",
                 "type": "HLS"
+            },
+		 ]
+    },
+    {
+        "name": "🇧🇷BRASIL🇧🇷",
+        "samples": [
+            {
+                "name": "STUDIO UNIVERSAL",
+                "url": "https://0115-tbx.vrioott.com/studiouniversal/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/studiouniversal.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/STUDIO.UNIVERSAL.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "RECORD NEWS",
+                "url": "https://0168-tbx.vrioott.com/recordnews/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/RECORDNEWS.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/RECORD.NEWS.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "RECORD TV",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+                "icono": "https://i.postimg.cc/JnQ2LSWy/74315b1f4f1406a1ffc75f4a384a683d-removebg-preview.png",
+                "type": "HLS"
+            },
+            {
+                "name": "REDE TV",
+                "url": "https://0043-tbx.vrioott.com/redetv/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/REDE.TV.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/REDE.TV.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "MULTISHOW",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x7aaupxajb/out/v1/49d602c6294147a18d798ce6abbb6957/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+                "icono": "https://www.digital-myc.com/caelum/img/MULTISHOW.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/MULTISHOWW.BRASIL.json",
+                "headers": {
+                    "origin": "https://playertv.net",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TV PAI ETERNO",
+                "url": "https://0170-tbx.vrioott.com/tvpaieterno/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/TV.PAI.ETERNO.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/TV.PAI.ETERNO.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "UNIVERSAL TV",
+                "url": "https://0125-tbx.vrioott.com/universaltv/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/universalchannel.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/UNIVERSAL.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "MEGAPIX",
+                "url": "https://0105-tbx.vrioott.com/megapix/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/MEGAPIX.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/MEGA.PIX.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "LIFETIME",
+                "url": "https://0041-tbx.vrioott.com/lifetimebr/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/lifetime.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/LIFETIME.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "SONY MOVIES",
+                "url": "https://0136-tbx.vrioott.com/sonymoviesbr/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/sonymovies.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/SONY.MOVIES.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "PARAMOUNT",
+                "url": "https://0010-tbx.vrioott.com/paramount/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/paramount.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/PARAMOUNT.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CANAL OFF",
+                "url": "https://0067-tbx.vrioott.com/offbr/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/OFF.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/OFF.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "FUTURA TV",
+                "url": "https://0092-tbx.vrioott.com/futura/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/FUTURA.TV.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/FUTURA.TV.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "BIS",
+                "url": "https://0055-tbx.vrioott.com/bis/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/BIS.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/BIS.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CANAL DO BOI",
+                "url": "https://0171-tbx.vrioott.com/canalboi/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/DO.BOI.BRASIL.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/DO.BOI.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CANAL BRASIL",
+                "url": "https://0056-tbx.vrioott.com/canalbrasil/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/CANAL.BRASIL.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/CANAL.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "DISCOVERY ID",
+                "url": "https://0017-tbx.vrioott.com/idbr/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/discoveryid.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/DICOVERY.ID.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "DISCOVERY",
+                "url": "https://0015-tbx.vrioott.com/discoverychannel/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/discovery.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/DISCOVERY.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "referer": "https://www.skymais.com.br/",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "DISCOVERY TLC",
+                "url": "https://0025-tbx.vrioott.com/tlcbr/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/DISCOVERY_TLC.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/TLC.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "referer": "https://www.skymais.com.br/",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "COMEDY CENTRAL",
+                "url": "https://0020-tbx.vrioott.com/comedycentralbr/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/comedycentral.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/COMEDY.CENTRAL.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "referer": "https://www.skymais.com.br/",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "GLOBO NEWS",
+                "url": "https://a101aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/dsfrp5mjrb/out/v1/9fa07e663bc94e9f93c53726a558478a/cenc.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/GLOBO.NEWS.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/GLOBONEWS.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "referer": "https://www.skymais.com.br/",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "GLOOB",
+                "url": "https://0060-tbx.vrioott.com/gloob/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/GLOOB.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/GLOOB.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CARTOON NETWORK",
+                "url": "https://0013-tbx.vrioott.com/cartoonnetworkbr/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/cartoonnetwork.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/CARTOONNETWORK.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "NICK JR",
+                "url": "https://0036-tbx.vrioott.com/nickjr/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/nick_jr_2024.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/NICK.JR.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "GLOOBINHO",
+                "url": "https://0061-tbx.vrioott.com/gloobinho/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/GLOOBINHO.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/GLOOBIHNO.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "DISCOVERY KIDS",
+                "url": "https://0004-tbx.vrioott.com/discoverykidsbr/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/discoverykids.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/DISCOVERY.KIDS.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TNT NOVELAS",
+                "url": "https://0184-tbx.vrioott.com/tntnovelasbr/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/tntnovelas.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/TNTNOVELAS.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "referer": "https://www.skymais.com.br/",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TNT SERIES",
+                "url": "https://0022-tbx.vrioott.com/tntseries/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/tntseries.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/TNTSERIES.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
             }
 		
 	  
