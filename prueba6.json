@@ -312,6 +312,17 @@
                     "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            }.
+			  {
+                "name": "FOX DEPORTES",
+                "url": "https://nfvwmx.futebol12.nexus/foxdeportes/tracks-v1a1/mono.ts.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu",
+                "icono": "https://static.prisa.com/aside/resizer/resize/img/sports/football/lives/23_29.png?width=1200&height=675",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://streamvv11.lat",
+                    "Referer": "https://streamvv11.lat/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+                }
             }
 			
 			 ]
