@@ -5727,6 +5727,21 @@
                 }
             }
 
+			 ]
+      },
+  {
+    "name": "TERROR MOVIES",
+    "samples": [
+       {
+        "name": " MI MIEDO MOVIES",
+        "icono": "https://i.postimg.cc/28zVt46n/download-84.jpg",
+        "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-MI-MIEDO-CANAL-SPA/sofastplayout/bf03a5cc-e672-9612-ef64-5296cfdb_HLS/playlist.m3u8"
+      },
+ {
+        "name": " GRITOS MOVIES",
+        "icono": "https://i.postimg.cc/q7CRKwbr/download-83.jpg",
+        "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-TRINIAN-GRITOS-TV-SPA/vglive-sk-187404/playlist.m3u8"
+      }
 			
            ]
       },
@@ -5737,16 +5752,6 @@
         "name": " MYTIME ESPAÑA",
         "icono": "https://i.postimg.cc/htDPCg20/download-82.jpg",
         "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist720_p.m3u8"
-      },
-	   {
-        "name": "MYTIME LATAM",
-        "icono": "https://i.postimg.cc/htDPCg20/download-82.jpg",
-        "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist720_p.m3u8"
-      },
-  {
-        "name": "MYTIME BRASIL",
-        "icono": "https://i.postimg.cc/htDPCg20/download-82.jpg",
-        "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
       }
 			
 
