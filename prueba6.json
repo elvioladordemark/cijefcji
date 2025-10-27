@@ -8286,66 +8286,7 @@
         
     
      
-    ]
-  },
-  {
-    "name": "🇨🇴CANALES DE COLOMBIA",
-    "samples": [
-      {
-        "name": "CARACOL",
-        "url": "http://magmaplayer.com/stream/m3u8/ZwH4KmRlAy8kBGRhBGxhZmRhAmAsZGp0ZmNm/hls/126.m3u8",
-        "icono": "https://i.ibb.co/RTpXZ9RK/caracol-television-2017-logo.png",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw",
-          "X-Did": "cddfe5e8c019cb3c",
-          "User-Agent": "Magma Player/10",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "RCN CANAL",
-        "icono": "https://i.ibb.co/BVqjFvVp/Logo-RCN-Televisi-n.png",
-        "url": "http://190.2.212.209:8050/play/a0lt"
-      },
-      {
-        "name": "RED+",
-        "icono": "https://i.ibb.co/4Rj6jjfd/kuqkTMC.png",
-        "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
-      },
-      {
-        "name": "TELECAFE",
-        "icono": "https://i.ibb.co/kNQndsm/z18LRqM.png",
-        "url": "http://190.2.212.209:8050/play/a0ne"
-      },
-      {
-        "name": "CANAL CAPITAL",
-        "icono": "https://i.ibb.co/MDsNCv3D/2020-Canal-Capital-logo-svg.png",
-        "url": "https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8"
-      },
-      {
-        "name": "TELE MEDELLIN",
-        "icono": "https://i.ibb.co/hFq85CWJ/R-2.png",
-        "url": "http://190.60.33.245:4002/play/a0hb/index.m3u8"
-      },
-      {
-        "name": "EL TRECE",
-        "icono": "https://i.ibb.co/v6xyk8yY/1662578.png",
-        "url": "http://190.2.212.209:8050/play/a0nf"
-      },
-      {
-        "name": "win",
-        "url": "https://cdn9.vivozytv.com/hotflix/winplus/index.m3u8",
-        "type": "HLS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/2560px-Win_Sports_nuevo_logo.svg.png",
-        "headers": {
-          "Referer": "https://envivo1.com/",
-          "Origin": "https://envivo1.com",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-        }
-      }
+   
     ]
   }
 ]
