@@ -5730,6 +5730,59 @@
 			 ]
       },
   {
+    "name": "CINE RUMTIME",
+    "samples": [
+       {
+        "name": "RUMTIME PELIS LATAM",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUMTIME PELIS LATAM 2",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?&network_id=2218&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUMTIME ACCION LATAM",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUMTIME FAMILIA LATAM",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6118&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUMTIME COMEDIA LATAM",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6127&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUMTIME CINE ESPANTO LATAM",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126&avod=1&coppa=0&is_lat=0"
+      },
+		 
+		 {
+        "name": "RUMTIME CRIMEN LATAM",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUMTIME ROMANCE LATAM",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUMTIME PELIS ESPAÑOL",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152&avod=1&coppa=0&is_lat=0"
+      }
+
+
+			 ]
+      },
+  {
     "name": "TERROR MOVIES",
     "samples": [
        {
@@ -5741,6 +5794,11 @@
         "name": " GRITOS MOVIES",
         "icono": "https://i.postimg.cc/q7CRKwbr/download-83.jpg",
         "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-TRINIAN-GRITOS-TV-SPA/vglive-sk-187404/playlist.m3u8"
+      },
+		 {
+        "name": "HORROR MOVIES",
+        "icono": "https://i.postimg.cc/s2wrvhzb/unnamed-1.png",
+        "url": "https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8"
       }
 			
            ]
