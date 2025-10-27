@@ -319,7 +319,19 @@
   {
     "name": "DEPORTES BRASIL",
     "samples": [
-       {
+         {
+                "name": "CAZE TV",
+                "url": "https://abc3orwaaaaaaaampb5zelh6d3hy6.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+                "icono": "https://www.digital-myc.com/caelum/img/CAZETV.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/CAZE.TV.json",
+                "headers": {
+                    "origin": "https://playertv.net",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+                }
+            },
+		
+		{
         "name": "COMBATE BR",
         "url": "https://latan.stonetv.com.br/combate/tracks-v1a1/mono.m3u8",
         "type": "CLEARKEY",
@@ -499,7 +511,7 @@
  {
                 "name": "ESPN",
                 "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=rdc-espn",
-                "icono": "https://i.postimg.cc/Wbh6tCq1/ESPN.png",
+                "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
                 "type": "CLEARKEY",
                 "headers": {
                     "origin": "https://streamrdc.xyz",
