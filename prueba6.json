@@ -495,7 +495,76 @@
           "Origin": "https://embedtv-2.icu",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
-      }
+      },
+ {
+                "name": "ESPN",
+                "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=rdc-espn",
+                "icono": "https://i.postimg.cc/Wbh6tCq1/ESPN.png",
+                "type": "CLEARKEY",
+                "headers": {
+                    "origin": "https://streamrdc.xyz",
+                    "referer": "https://streamrdc.xyz/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 2",
+                "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=rdc-espn2",
+                "icono": "https://i.postimg.cc/zGhCFhjm/ESPN-2.png",
+                "type": "CLEARKEY",
+                "headers": {
+                    "origin": "https://streamrdc.xyz",
+                    "referer": "https://streamrdc.xyz/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 3",
+                "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=rdc-espn3",
+                "icono": "https://i.postimg.cc/sXT7g4VW/ESPN-3.png",
+                "type": "CLEARKEY",
+                "headers": {
+                    "origin": "https://streamrdc.xyz",
+                    "referer": "https://streamrdc.xyz/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 4",
+                "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=rdc-espn4",
+                "icono": "https://i.postimg.cc/KjVTnc3v/ESPN-4.png",
+                "type": "CLEARKEY",
+                "headers": {
+                    "origin": "https://streamrdc.xyz",
+                    "referer": "https://streamrdc.xyz/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 5",
+                "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=rdc-espn5",
+                "icono": "https://i.postimg.cc/sgd40MW7/ESPN-5.png",
+                "type": "CLEARKEY",
+                "headers": {
+                    "origin": "https://streamrdc.xyz",
+                    "referer": "https://streamrdc.xyz/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 6",
+                "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=rdc-espn6",
+                "icono": "https://i.postimg.cc/8zRm8Td3/ESPN-6.png",
+                "type": "CLEARKEY",
+                "headers": {
+                    "origin": "https://streamrdc.xyz",
+                    "referer": "https://streamrdc.xyz/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+                }
+            }
+
+		
+		
 		  ]
   },
   {
@@ -4242,7 +4311,127 @@
           "Origin": "https://embedtv-2.icu",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
-      }
+      },
+		{
+                "name": "TV BRASIL",
+                "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
+                "icono": "https://i.postimg.cc/65x9SxzP/TVBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "Canal TV Gazeta do Brasil",
+                "url": " https://live.eu-north-1b.cf.dmcdn.net/sec2(zXXSWYENk86ovtiWa01QgAC1Opm7xDMWX7C5Xt9rA56gfmMU_f9dl7E-TJ2_0uCnDCn_U1J1zGAtYZpFdcad0nNqL3wbVceMOM5McXdpVqaH5DJjQnh103BhBFGF-Iml)/dm/3/x8ttlxm/s/live-480.m3u8",
+                "icono": "https://logospng.org/download/gazeta/gazeta-2048.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV ARACATI BRASIL",
+                "url": "https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1212361398.m3u8",
+                "icono": "https://i.postimg.cc/j2gLHgYh/TVARACATI.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV Metrópole do Brasil ",
+                "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
+                "icono": "https://global-fibra.com/_nuxt/img/tv_metropole_logo.f79cdf8.png",
+                "type": "HLS"
+            },
+            {
+                "name": "PORTO ALEGRE 24HS BRASIL",
+                "url": "https://rtisoluctions.com.br/hls/test_src.m3u8",
+                "icono": "https://i.postimg.cc/ZqSwY3hR/TV-Pop-Tv-BRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "PLAY TV BRASIL",
+                "url": "https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8",
+                "icono": "https://i.postimg.cc/2SB6wbMr/PLAYTVBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "REDE MUNDO TV BRASIL",
+                "url": "https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist_w1356932459.m3u8",
+                "icono": "https://i.postimg.cc/T1qjhNjQ/REDEMUNDOTVBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "XTREME TV BRASIL",
+                "url": "https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w98427384.m3u8",
+                "icono": "https://i.postimg.cc/Fz2pJkwH/XTREME-TV-BRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ANIMAX BRASIL",
+                "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/W34c5xzJ/ANIMAXBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "RETRO CARTOON BRASIL",
+                "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w309233037.m3u8",
+                "icono": "https://i.postimg.cc/nrCZhNtF/RETROCARTOON.png",
+                "type": "HLS"
+            },
+            {
+                "name": "Sony One Cinema Brasil",
+                "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/T2yZhVDq/sony-one-BRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "CINEPIX",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
+                "icono": "https://i.postimg.cc/TwngHNsJ/CINEPIXBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 RUN:TIME TV E FILM BRASIL",
+                "url": "https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8",
+                "icono": "https://i.postimg.cc/26NBvF5r/RUNTIMETVEFILMEBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 RUN:TIME COMEDIA BRASIL",
+                "url": "https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8",
+                "icono": "https://i.postimg.cc/g08xYXH7/RUNTIMECOMEDIA.png",
+                "type": "HLS"
+            },
+            {
+                "name": "24/7 RUN:TIME FAMILIA BRASIL",
+                "url": "https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8",
+                "icono": "https://i.postimg.cc/7h6PTfSh/RUNTIMEFAMILIA.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV Cidade 10 BRASIL",
+                "url": "https://video10.logicahost.com.br/tvcidade10/tvcidade10/chunklist_w780374670.m3u8",
+                "icono": "https://i.postimg.cc/zDbG5RDk/TV-Cidade-10.png",
+                "type": "HLS"
+            },
+            {
+                "name": "RS SPORTS BRASIL",
+                "url": "https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8",
+                "icono": "https://i.postimg.cc/rsWnj91n/RSSPORTSBRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "RS News Sports 4 BRASIL",
+                "url": "https://video03.logicahost.com.br/rssports4/rssports4/playlist.m3u8",
+                "icono": "https://i.postimg.cc/T2mCZCb1/RSSPORTS4BRASIL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV SHOW DE BOLA BRASIL",
+                "url": "https://painel.sintonizar.tv.br:19360/tvsdbola/tvsdbola.m3u8",
+                "icono": "https://i.postimg.cc/13Zxk84D/TVSHOWDEBOLA.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TV ROCK BRASIL",
+                "url": "https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1075469669.m3u8",
+                "icono": "https://i.postimg.cc/wBXbD2kG/TV-ROCK-BRASIL.png",
+                "type": "HLS"
+            }
 		
 	  
 	   ]
