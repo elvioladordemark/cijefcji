@@ -6983,6 +6983,19 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
+ {
+                "name": "NAT GEO WILD",
+                "url": "http://ecuatvip.com/EstoEsTv/98tnQmKnWJ/414420.ts",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/rp3dm99v/download-39.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4be0c61ceddc62294cc9e23b627af53d&key=852c1935d11c3c53d0a1ceff3bb3bf16",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            },
+			
             {
                 "name": "National Geographic",
                 "url": "https://edge-mix02-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYxNzMxNjEzIiwic2lwIjoiMTQ5LjUwLjE1OS40MyIsInBhdGgiOiIvbGl2ZS9jNWVkcy9DOU5fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYmExZmE3MmJhMDFhM2Q2ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI5MSIsInNvdXJjZXMiOls2OSw4NSwxNDQsODYsODhdfQ==.bstlQd-Bq7xeVeU3ORVrbFK8mCExyT9yHuUhbhxY8zI_eKVxPHSsDHTScwwtad8UNNrvh9IO_Vl_UWW_kcAAuA==/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
