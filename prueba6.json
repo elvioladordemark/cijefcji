@@ -5950,6 +5950,11 @@
         "name": "🎃HORROR TV 27/7🎃",
         "icono": "https://i.postimg.cc/FsB5qcFk/download-87.jpg",
         "url": "https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8?hdnts=st=1761557896~exp=1761561496~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/*!yuppTVCom_5_-1_181b8e8f22fd430d_UY_179.27.200.30/payload/yuppTVCom_5_-1_181b8e8f22fd430d_UY_179.27.200.30/*~hmac=c15e71b0f2f9872e5136ffede3c7c2894792365643f3099ce6292a08732f949f&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=OTH&ads.channel=6607&ads.channel_name=HORRORTV&ads.network_name=yupptv&ads.user=0"
+      },
+		 {
+        "name": "CINE ESPANTO",
+        "icono": "https://i.postimg.cc/652RCxCP/download-89.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126&avod=1&coppa=0&is_lat=0"
       }
 			
            ]
@@ -5962,6 +5967,64 @@
         "icono": "https://i.postimg.cc/htDPCg20/download-82.jpg",
         "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist720_p.m3u8"
       }
+
+		
+           ]
+      },
+  {
+    "name": "🎬RUN:TIME",
+    "samples": [
+       {
+        "name": "RUNTIME PELIS 1",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&avod=1&coppa=0&is_lat=0"
+      },
+ {
+        "name": "RUNTIME PELIS 2",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?&network_id=2218&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUNTIME ACCION",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUNTIME FAMILIA",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6118&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUNTIME COMEDIA",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6127&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUNTIME ESPANTO",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUNTIME CRIMEN",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUNTIME ROMANCE",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUNTIME PELIS ES",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152&avod=1&coppa=0&is_lat=0"
+      },
+		 {
+        "name": "RUNTIME SERIES",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132&avod=1&coppa=0&is_lat=0"
+      }
+		
 		
            ]
       },
