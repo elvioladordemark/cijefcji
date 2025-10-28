@@ -5052,18 +5052,19 @@
     {
         "name": "CINE Y SERIES SIN BLOQUEOS 🎬",
         "samples": [
-             {
-                "name": "MULTIPREMIER",
-                "url": "https://live.saohgdasregions.fun:9092/NDUuMjI4LjY3LjI4/81_.m3u8?token=K7m2vE1j5eIzGRBBg0PLOQ&expires=1761639524",
+             	{
+                "name": "WARNER CHANNEL",
+                "url": "https://live.saohgdasregions.fun:9092/NDUuMjI4LjY3LjI4/58_.m3u8?token=lm2sCjaQvBxtANv509LFeA&expires=1761644976",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3sl2jpy3i4fne1mgsc5p1/golden.json?rlkey=j9e7tmf7aonclrjdfv48783us&st=g2s9w5n6&dl=0",
-                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/zrghz35i7e2cv3vr37gw0/warner.json?rlkey=dst9i6fqzjmhcldjif70mrcq1&st=i98ziw03&dl=0",
+                "icono": "https://i.ibb.co/jyK3gPh/0000-all-l-warner-logo-warner-2018-blanco-1.png",
                 "headers": {
-                    "Origin": "https://live.saohgdasregions.fun",
-                    "Referer": "https://live.saohgdasregions.fun/",
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
+               
             
 			{
                 "name": "WARNER CHANNEL",
