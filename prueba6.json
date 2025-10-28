@@ -5285,7 +5285,286 @@
                 }
             }
 
-      
+        ]
+    },
+    {
+        "name": "CINE Y SERIES SENSA📽️",
+        "samples": [
+            {
+                "name": "A&E",
+                "url": "https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=736bef197ba5c73203add79c8e8d279a&key=7f037dc5835305f22a7206d79d4d5db2",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "AMC",
+                "url": "https://cdn.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=68fc78cb6fe580c35d269da87a471eb0&key=2bd623220a247d95d6900cea612769df",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "AXN",
+                "url": "https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=828c473cb192caaba8e1d9fc63da4d75&key=cb600861e9822efeea5d2dbd0c157c45",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Cinecanal",
+                "url": "https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=acea34a4dadf7896a0280b08496d49d5&key=6eb61a3bf3411c64f89b594e57d487c6",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Cinemax",
+                "url": "https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b3d89f0e099f750bab4f8c2ebc4c7ec&key=114313f734e7a8e84b0ca6d16bd652cb",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Comedy Central",
+                "url": "https://cdn.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eed9a193b3c6167b823030d788d771a4&key=d21daeba7e513d9f3ba714deeddd0630",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "DHE",
+                "url": "https://cdn.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5453180074c0a8ecfe2a21e0cd5f2c1b&key=1150fd93492ba8609fb94d0a3087b3a5",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Eurochannel",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bf1324eab263b72f5d8373a9678e6774&key=1375cd3390772b03b5136dce1641ba84",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Europa Europa",
+                "url": "https://cdn.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=01c6295e3fc98352427941dc1015605a&key=bac9c97340df0b813a9f08c54880feb4",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "FX",
+                "url": "https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bbb8c81822a1628f4986c6379ca5406a&key=b661265baada5324eb826224a4f358bd",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Golden",
+                "url": "https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ecbd132de727224c161abd8065b0dfb&key=75faf1eca3cef7208e19de379d0a529d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Golden Edge",
+                "url": "https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=202c8579c94df506c1a1c54ef49a0c60&key=871f84901f3580cfa7273293482a66c5",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Kanal D Drama",
+                "url": "https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b9cab32316b3d8aae0452755cebdaadd&key=35e61869849168043a44045f2d7ff842",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Novelísima",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Paramount Network",
+                "url": "https://cdn.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89a868599af0fa0368a547da1611201e&key=d7be949b296decca8d6a2d535c057dc6",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Sony Channel",
+                "url": "https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=258b455eee76d6406f87dd02ddc735d9&key=dd8aad74c79fe839cc142d0ff6694473",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Space",
+                "url": "https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd7516e74eafbf6f9664a9465149f179&key=6aa2935d17fd4e1e8963ecbef4edb82b",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Star Channel",
+                "url": "https://cdn.sensa.com.ar/live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=78396693b172158176c33c28f2e7c0b8&key=1e251112819a34ed691bc3881c64ea4d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Studio Universal",
+                "url": "https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3a07b220f8f142a0ef8662ffa0adee4f&key=e88846d040cd157b28ffda1d44a5cf89",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "TCM",
+                "url": "https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=18cfe27adad2e444dc0f50a3238a1740&key=a0e25f18be94d6eb1c9733111135c047",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "TNT",
+                "url": "https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=902f1f857c30081b249ae358e12f9b82&key=fff8cb0d93b57845c1ccba458f51970d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "TNT Novelas",
+                "url": "https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8a026fc3d443454cf1aae486b688ca9a&key=7665c2f6e791d44f047e5ffa927382aa",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "TNT Series",
+                "url": "https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2d15f2d2f8f81fbacd82391f5889aa3a&key=97c7a5029500a81d37f2b70d6276fc9a",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "USA",
+                "url": "https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3a1e766119c3fb03b095c8e7f0e63139&key=03932364e1ff6ab68cdc2c1969aee6a5",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Warner",
+                "url": "https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd",
+                "icono": "https://i.postimg.cc/t4tg6941/download-90.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0cd16f9eade5bddab41fd3d59f804bcb&key=885dc93b0692e2efe37449a4a56173ef",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
       
       
 
