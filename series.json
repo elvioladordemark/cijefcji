@@ -645,6 +645,75 @@
                     ],
                     "tmdb_id": 250923,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Mayor of Kingstown",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Ambientada en una pequeña ciudad de Michigan donde la única industria que queda son las cárceles federales, estatales y privadas, la historia sigue a la familia McClusky, los intermediarios del poder entre la policía, los delincuentes, los presos, los guardias de prisiones y los políticos, en una ciudad completamente dependiente de las prisiones.  y los prisioneros que contienen.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/c1pK0uSOO4VMISsLd0kWXIQVA5f.png",
+                    "icono": "https://image.tmdb.org/t/p/original/g8KfcXxWStidrR8Kz16DsZqPnSM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El alcalde de Kingstown",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/74261E78D6474586A81D443C41AE3D16_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El final comienza",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A5AEEB4D3D4A4228B5C91B94E8342DE0_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Simplemente asesinato",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/11CAF959FADC4E2987AE371E97982FDD_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El precio",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F00380D607704E46A518B6BDA9F0503E_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Orión",
+                                    "url": "http://goovdme.967sd1f.homes/vod/18E745E0F12B4928A4F998C3C743AA33_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Todas las plumas",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/3EE0FCF227444141B5D07BAADD594279_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Llegó una araña",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/3317987EB35A49A8A80F9D6F06D4BA03_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El demonio somos nosotros",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D0872108E36947F0B5EF64F070D33AEF_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La mentira de la verdad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2CBF1D52EC9044D0B9680EBDD8780B54_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Esta parte de mi alma",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/41D99539682146279D11EAD992778350_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 97951,
+                    "total_seasons": 4
                 }
             ]
         },
