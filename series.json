@@ -4,65 +4,6 @@
             "nombre": "RECOMENDADOS",
             "series": [
                 {
-                    "nombre": "Alien: Planeta Tierra",
-                    "genero": "Sci-Fi & Fantasy, Drama",
-                    "descripcion": "Cuando una misteriosa nave se estrella contra la Tierra, una joven y un variopinto grupo de soldados tácticos hacen un fatídico hallazgo que los pone cara a cara con la mayor amenaza del planeta. El equipo de rescate busca supervivientes entre los restos de la colisión y se topa con una forma de vida depredadora que levanta más misterios y miedos de los que cabría imaginarse. Debido a esta nueva amenaza, el equipo deberá luchar por sobrevivir. Lo que decidan hacer con este descubrimiento podría cambiar el planeta Tierra tal y como lo conocen.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/jtm7uQb6FXl152OJZjsYsAquhvk.png",
-                    "icono": "https://image.tmdb.org/t/p/original/8IIPZe4V2xNYFWY7lBY6GpN2L8O.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/25g7mthXoJFcNZhAKz0evk17Bsx.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Nunca Jamás",
-                                    "url": "http://goovdme.967sd1f.homes/vod/1B5F2FA055FC4A76AEFC1921E5990D81_media.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Míster Octubre",
-                                    "url": "http://goovdme.967sd1f.homes/vod/94935EC9DB9B4BAF8D3AB5F7468707FB_media.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Metamorfosis",
-                                    "url": "http://goovdme.967sd1f.homes/vod/BFC4D5A2224B4DFD8A40C3CF550D9890_media.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Observación",
-                                    "url": "http://goovdme.967sd1f.homes/vod/DAD7015A97B5480DA94E53B1D2E774F2_media.ts"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "En el espacio, nadie...",
-                                    "url": "http://goovdme.967sd1f.homes/vod/3C12395B1A774BBCA299C4D77B3A6049_media.ts"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "La mosca",
-                                    "url": "http://goovdme.967sd1f.homes/vod/AA28397B64E740ACB996B1C81DFF3F91_media.ts"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Emergencia",
-                                    "url": "http://goovdme.967sd1f.homes/vod/4E3F566817754308A5D527AEB138E917_media.ts"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Los verdaderos monstruos",
-                                    "url": "http://goovdme.967sd1f.homes/vod/48956461CE6A4F8F8D3BB42A879DE07D_media.ts"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 157239,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "The Walking Dead: Daryl Dixon",
                     "genero": "Sci-Fi & Fantasy, Action & Adventure, Drama",
                     "descripcion": "Daryl (Reedus) desembarca en Francia y trata de averiguar cómo ha llegado hasta allí y por qué. La serie sigue su viaje a través de una Francia rota pero resiliente mientras espera encontrar el camino de vuelta a casa. Sin embargo, a medida que avanza en su viaje, las conexiones que establece por el camino complican su plan final.",
