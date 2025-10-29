@@ -908,6 +908,75 @@
                     ],
                     "tmdb_id": 262920,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Nadie quiere esto",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9zJieuSr4YS4K6toGmbHyBEeknO.png",
+                    "icono": "https://image.tmdb.org/t/p/original/nBTHgPc49OGwSf3GiYdQ9sileSn.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CDAB7216752F4BC7AC9F27CFC8FED50C_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Una shiksa entra en un templo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/639B4F04218542BF9EEB78B85D54E3F2_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Aura de tomar una decisión",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3F5EA2204ACF42B2AB2C627FD3609130_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El destructor",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F9DAB28C8B5B4373861EC9E9C125F214_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Mi amiga Joanne",
+                                    "url": "http://goovdme.967sd1f.homes/vod/404F537ADCF543D98C0F45F90EC6EC59_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Grimita",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/3BA6BC9EC9764CB3B7BD865DB7DBDFE8_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La novia de",
+                                    "url": "http://goovdme.967sd1f.homes/vod/ED370B560EB048B487EFBC83035D7541_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La caja de Rebecca",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D21013C031FF42BABC59D0C9297AF342_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Mi Bina",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/989FF5666AA14D5A954D7552D7009A39_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Infiltradas en el Bat Mitzvá",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CB91CE8F279D435E8CF73EFA0A088053_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 250923,
+                    "total_seasons": 2
                 }
             ]
         },
