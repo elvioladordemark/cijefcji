@@ -5888,12 +5888,13 @@
                 "url": "https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYxODIxMDQxIiwic2lwIjoiMTgxLjEyNC4xMjguMjkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI2YTY1ZWViYWFlMDJjZmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyOTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.dVxmKrlGStUjwpc1WYVbFaBoSpbdXq9XDvNRKINo30ike-i0WTxgvr3CRvWN--RELUpjP-G_m3t5RMSsCPFk-g==/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
+				 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                },
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962"
+                }
+               
             },
             {
                 "name": "Telemundo Internacional",
@@ -6215,21 +6216,21 @@
 			 ]
       },
   {
-    "name": "🎃🎃ESPECIAL HALLOWEN🎃🎃",
+    "name": "🎃ESPECIAL HALLOWEN",
     "samples": [
        {
-        "name": "🎃MIEDO TV 27/7🎃",
+        "name": "🎃MIEDO TV 27/7",
         "icono": "https://i.postimg.cc/28zVt46n/download-84.jpg",
         "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-MI-MIEDO-CANAL-SPA/sofastplayout/bf03a5cc-e672-9612-ef64-5296cfdb_HLS/playlist.m3u8"
       },
 
 		   {
-        "name": "🎃GRITOS TV 27/7🎃",
+        "name": "🎃GRITOS TV 27/7",
         "icono": "https://i.postimg.cc/q7CRKwbr/download-83.jpg",
         "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-TRINIAN-GRITOS-TV-SPA/vglive-sk-187404/playlist.m3u8"
       },
    {
-        "name": "🎃HORROR TV 27/7🎃",
+        "name": "🎃HORROR TV 27/7",
         "icono": "https://i.postimg.cc/FsB5qcFk/download-87.jpg",
         "url": "https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8?hdnts=st=1761557896~exp=1761561496~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/*!yuppTVCom_5_-1_181b8e8f22fd430d_UY_179.27.200.30/payload/yuppTVCom_5_-1_181b8e8f22fd430d_UY_179.27.200.30/*~hmac=c15e71b0f2f9872e5136ffede3c7c2894792365643f3099ce6292a08732f949f&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=OTH&ads.channel=6607&ads.channel_name=HORRORTV&ads.network_name=yupptv&ads.user=0"
       },
@@ -10153,7 +10154,7 @@
                 "genero": "Aventura, Comedia",
                 "duracion": "100 min",
                 "type": "PELICULA"
-            },
+            }
 
      
 
