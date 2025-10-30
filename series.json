@@ -3157,6 +3157,70 @@
                     ],
                     "tmdb_id": 247756,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Plan de resurrección",
+                    "genero": "Crimen, Drama, Misterio",
+                    "descripcion": "Para vengar a sus hijas que fueron víctimas de un fraude, dos madres idean un plan desesperado: resucitar al cabecilla de una red de ciberestafas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/vJspj72k64ggT0urnzhInudeCx8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/yq4TfasaovGloVDXTIdfO132v39.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hvSHnrbLlR829PqGdf1PXQZuDPb.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Día de la ejecución",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A58EF0CCD3B14BC9A269112056327592_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Día de la Resurrección",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5DF72A12EE8243A09629ACA4CD6DF0C6_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Día de la venganza",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EE9CB9E33CC343B49BF00EDC13FE46D8_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Día de la investigación",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/FB3AE68A5CDF480298AC6EB7B56CEC28_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Noche de investigación",
+                                    "url": "http://goovdme.967sd1f.homes/vod/011CAF77344147B48DA38859811A6C10_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Día del desorden",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/969350E62DEB4928B0341C2241ACEA24_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Día del Rapto",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/3CFE52322722446A9E5AA9362B728ED6_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Día del Juicio Final",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AD00FFB83D804D3FA85FA83627498648_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La noche del juicio",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/47B84A726FDB4647B62C3A3F2C98736C_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 252135,
+                    "total_seasons": 1
                 }
             ]
         },
