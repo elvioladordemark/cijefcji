@@ -20558,6 +20558,60 @@
                     ],
                     "tmdb_id": 230069,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Aguas prohibidas",
+                    "genero": "Drama",
+                    "descripcion": "Cuando una misteriosa enfermedad desciende sobre las islas Andaman y Nicobar, una lucha desesperada por la supervivencia choca con una carrera para encontrar una cura.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/xb1ovAcNrL74jcF5tgNHmDwqcjb.png",
+                    "icono": "https://image.tmdb.org/t/p/original/pPFB4numYpmSPFgxhBChiZXZMCA.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/nQPn9Thry633R9GRMgjlY1X3bMy.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3150CE4674F04A6CB42720293F16517F_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F83C5BB9864B4D7890A5F29ABB585EBD_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/09B46BF3695E4D73BEEA1137D8934A97_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2F44689AA789426D85260DA324466EE4_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D186443B9CDA49C1801BE7FC9E844EE6_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/690F757E58034C589AE8BE5BE607A73B_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/51051EDC5DF14AD6B3D6CEFD87467D2F_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 235356,
+                    "total_seasons": 1
                 }
             ]
         },
