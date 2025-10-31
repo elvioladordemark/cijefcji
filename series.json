@@ -967,6 +967,65 @@
                     ],
                     "tmdb_id": 71912,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "Los dueños del juego",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Un joven aspira a ascender en el turbio mundo del juego clandestino de Río, sin imaginar la red de traiciones, deseo y sangre que lo aguarda.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/vElaeMmdJTq8KhgAw4p3msxeyBR.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jwPI58JAidRzzbUI0j8uUu2rsyy.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1b2OYNA3Ikq9BBwk6If8As89bge.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Profeta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/20AB32B47B11429EB8C90938E1403E67_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "All in",
+                                    "url": "http://goovdme.967sd1f.homes/vod/532ED8E4F4C945818AA09830DE774E82_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El burro y el águila",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CAB1620CB27E461495BE6ED5C7B62986_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Estafa piramidal",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AFD8634BC4E2411D8EFE47AA5819E7A4_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El nido y la cárcel",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F2326BA84CE944F6A252C873D1934025_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Lucha territorial",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E1CB92F6A9264A1697189BDC3774A904_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Animal traicionero",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9E2F9937BD334E07A5233C41A023645E_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La Cúpula",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C7A98E65E7464DED8776C30BB8DDEF38_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 282440,
+                    "total_seasons": 1
                 }
             ]
         },
