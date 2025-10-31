@@ -20045,6 +20045,55 @@
                     ],
                     "tmdb_id": 221079,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Kingdom",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Un apocalipsis zombie en la era de la dinastía medieval Joseon. El Príncipe Heredero de Joseon investiga una misteriosa enfermedad epidémica y descubre una cruel verdad que amenaza al país.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/vTO91EtVCNXl2y0jE1UxQkkMwdv.png",
+                    "icono": "https://image.tmdb.org/t/p/original/zXfQcdTx0jxbH5Atpwjvb5z5VjE.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jRhJlV4inm8wAAqTeHUX5HpjZcc.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D8C04EE8DBD64194A539DB66458F72AF_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C6B5713F6CB146F498B32474AD6DA4CC_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A18BB74087E948DA8B219D2BB75B6AF2_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/BAE5652A0D6941A8A75A087CCC12436E_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/AE0B5498E01240FA87FC259104A943D4_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9CEA8F3B0197445BBC28D4A2F5643100_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 70593,
+                    "total_seasons": 2
                 }
             ]
         },
