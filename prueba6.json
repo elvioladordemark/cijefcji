@@ -4156,7 +4156,17 @@
   {
     "name": "🇧🇷CANALES DE BRASIL",
     "samples": [
-         
+         {
+        "name": "A&E PRUEBA",
+        "url": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-2097698193.download.vg/docs/aie/__index.m3u8?cc=y&sv=15&nu3zAQc9HC3GbwJq=1761904678-3nxkh8hX%2FB6viBM7%2BYkFFWqQLusuQvm%2BEOKQnfluiY0%3D",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/tgCLHFv1/download-69.jpg",
+        "headers": {
+          "Referer": "https://streamrdc.xyz/",
+          "Origin": "https://streamrdc.xyz",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
 		
 		{
         "name": "TOP TV BR",
