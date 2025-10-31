@@ -770,6 +770,203 @@
                     ],
                     "tmdb_id": 97951,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "The Witcher",
+                    "genero": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+                    "descripcion": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/x3uBgefbFC8blsE4Sbdi0m2a71d.png",
+                    "icono": "https://image.tmdb.org/t/p/original/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/dQOphbONxlpPsKo30araFr0CYMO.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El principio del fin",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2D0560A47D014B29A30E4C7CD4D2356A_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Cuatro marcos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/99EA43E7F854492B8A563D782502EACC_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Luna traicionera",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/83321839977043EBBA573F3B5A06D4D4_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "De banquetes, bastardos y entierros",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BB5490F994B24F148858B099782A2583_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Deseos incontenibles",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/BD119428D6F24F369F561BDEE955A8D9_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Especies raras",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0D2DD38BCAA3436DAFD9362DC3F7381C_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Antes de una caída",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/082DE2EED8754473A7E85DAAC1BE6FAD_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Mucho más",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C6588B1C19724EDBA37C1094C59DEABA_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La semilla de la verdad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3FEB1D8AEF7E4B4AAF1432FA4332DBA1_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Kaer Morhen",
+                                    "url": "http://goovdme.967sd1f.homes/vod/41712B0038FD46FEA8056C2FCC714E44_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Pérdidas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F02FE7AE198B4CAC9CBADE99BAAEE1AB_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Servicios secretos de Redania",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/62EED7B85C494E7898A50FD45AE4E0D6_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Decisiones",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8BA6FA2F13D548A8B6B846D3205B8EEA_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Querido amigo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6E87C55044614666BFCC0EF8864605E0_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Voleth Meir",
+                                    "url": "http://goovdme.967sd1f.homes/vod/762368EF78C34A218C64F370E1626FBB_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Familia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5C2A372CA5D1408C871953252AE002AB_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Shaerrawedd",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BC4F7EE4CEF04B7F8BDCA13E80BCD5BB_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Rumbos separados",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1A734650BD6E4D15A3D437B84C9A2326_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Reencuentros",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/33C109911B4740A9A7C4154FDDA9CACB_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La invitación",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5D4839A68C064FE8A51DA39353A51EDA_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El arte de la ilusión",
+                                    "url": "http://goovdme.967sd1f.homes/vod/41E45D8C88534EE0B1658F7B752B06D5_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Todos tenemos un plan hasta que te parten la cara",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8894081E2F6742428559C4A478F4863D_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Huir del fuego para caer en las brasas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4C24A268927B4AA6A12E3C1FD237ED73_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El precio del caos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A23C5402AF664A80B328DC17B8AED5FC_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 4",
+                            "numero_temporada": 4,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Lo que no te mata te hace más fuerte",
+                                    "url": "http://goovdme.967sd1f.homes/vod/182BA7A5B30245999F36F55EE2645584_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El sueño de un deseo cumplido",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2E6513B2D737491B81BD384148F86F1D_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Juicio por ordalía",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F05A94E81F3F4B41B518FFE96DFDED6F_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un sermón sobre la supervivencia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1B8D77B118664161BF78A5E912B9080E_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El placer de cocinar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B76F5B77AB97400F8B93BA4B8009913F_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El ocaso del Lobo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B2D8BFAB7B47418A84B98552B329C535_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Lo que amo no lo llevo conmigo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/69CE5B1479B9493AB5E16DE5DC174526_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Bautismo de fuego",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/D5ACD11122F24004BCB5BAA92AD19D94_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 71912,
+                    "total_seasons": 4
                 }
             ]
         },
