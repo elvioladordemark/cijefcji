@@ -5785,6 +5785,20 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
+{
+                "name": "AXN ES",
+                "url": "https://live.tvup.edge2befaster.io/axn-hd/axn-hd.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c0fc7ec7a47e504b852d5860eef575cc&key=eb4c01e07dc846b5184cd84f328a3172",
+                "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+			
             {
                 "name": "A&E",
                 "url": "https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzYyMDc2MTg2Iiwic2lwIjoiMTgxLjEyNC4xMzEuMTQxIiwicGF0aCI6Ii9saXZlL2M1ZWRzL0M5Tl9DNC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiJiMDdjNjllOTViMTE3NWMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjI5NiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.BJpaatITUNtbOUXoB_IORm5nCAEgtXaL3BKGqcPX8e3fCAyKZUEtaIESpOiV3A0JQ6o_bj7AhziTlG6WSMIYQg==/live/c7eds/AEHD/SA_Live_dash_enc_C/AEHD.mpd",
