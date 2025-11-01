@@ -23745,6 +23745,45 @@
                     ],
                     "tmdb_id": 273754,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Los asesinatos de la tienda de yogur",
+                    "genero": "Documental, Crimen",
+                    "descripcion": "Explora el trágico asesinato de 4 chicas adolescentes en una tienda de \"I Can't Believe It's Yogurt\" el 6 de diciembre de 1991 en Austin, TX. Relata el inmenso trauma que dejó el crimen y detalla el laberinto de la investigación.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3FQNfxrtOmWgcjN1k03o5gWv86e.png",
+                    "icono": "https://image.tmdb.org/t/p/original/1kwrF2Hd6FBHUjS9EgUg2jrkmRf.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uNGYFLFn4WQeXfJ6sXg2rcMceH6.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7257D0B275BF4396A93098F7F80635E0_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/02AE40814E244A25BAF3AA6044252E49_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/18F9EC9AA6034B8792D7B56FA627DEBE_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B4C43CC2117B4158879DCF46BB28BC98_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 277831,
+                    "total_seasons": 1
                 }
             ]
         },
