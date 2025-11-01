@@ -23784,6 +23784,65 @@
                     ],
                     "tmdb_id": 277831,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "ARA San Juan: El submarino que desapareció",
+                    "genero": "Documental",
+                    "descripcion": "En esta docuserie de investigación se entrevista a especialistas y familiares sobre la trágica desaparición en 2017 de un submarino militar que conmocionó al mundo.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/g8tUxNDoD1YEFMllsYc0GVKjQ4U.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xytXKYBrNW9z3kOfkxoRWqRwzkL.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1lcQDjk976x2mTJhPVCOAt1TV45.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El silencio",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7A6EBE43A42C4109AC0E3CEFF398682C_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La búsqueda",
+                                    "url": "http://goovdme.967sd1f.homes/vod/29A07702E10C42D1BBA4A8C482497B11_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La primera verdad",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/0BF801E2F9DC41BA891CC453FB0FFB28_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Tierra bajo la alfombra",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/FFC0FB00F3AB497FA813A999F6BBF290_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "No fue un accidente",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5985878F511B43C88113649C8B1C2B9B_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Aguas turbias",
+                                    "url": "http://goovdme.967sd1f.homes/vod/ABBBA6B18B004294A437B30A296F0ECA_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La última carta",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/9A8656B8D74942859CB84962428C01F2_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La caja negra",
+                                    "url": "http://goovdme.967sd1f.homes/vod/67716497EF214AFD920E4775913E798F_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 247096,
+                    "total_seasons": 1
                 }
             ]
         },
