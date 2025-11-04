@@ -24019,7 +24019,53 @@
                         {
                             "nombre": "Temporada 4",
                             "numero_temporada": 4,
-                            "capitulos": []
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El Club Fuego Infernal",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B3BD4E4CD935476F89699859BF8D0610_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La maldicion de Vecna",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E90FA6761A4B42A19D1C15ECCE7B070A_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El monstruo y la superheroína",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/54A8E28DE97B4EE8B7A88B646383319E_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Querido Billy",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7A1D39E295FE47968CF81DF4E35F92F6_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El proyecto Nina",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/8FFAF89DE09A4A2EAA888B24EA129BA8_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "En lo profundo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9328294A2D3841B0A3F33BF9D6F70221_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Masacre en el laboratorio Hawkins",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/BD354333053B48E0A5359E02F6C6D119_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Papá",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1967B3F6545A4B90904C7F6755EEA889_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El huésped",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/4D4854CEB7B4495E87D85CD7B47BFC3B_media.ts"
+                                }
+                            ]
                         }
                     ],
                     "tmdb_id": 0,
