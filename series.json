@@ -20673,6 +20673,30 @@
                     ],
                     "tmdb_id": 235356,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Todas las de la ley",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "Un grupo de abogadas especialistas en divorcios abandona un bufete dominado por hombres para abrir su propio y exitoso despacho. Brillantes, feroces y emocionalmente complejas, lidian con rupturas de alto riesgo, escándalos y lealtades cambiantes, tanto en los tribunales como en su círculo íntimo. En un mundo donde el dinero manda y el amor es un campo de batalla, estas mujeres no solo juegan, sino que cambian las reglas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rCoxt9B3ASkJbyHroL2bPPJ5TNL.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cknig3ABB0NMVRjAnFrX6LUjw9M.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/cfRdpQXWn7JDkXTkWJSf5dIUdla.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/71B48AEC68194659852F568E8ABA233E_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 258742,
+                    "total_seasons": 1
                 }
             ]
         },
