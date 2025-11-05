@@ -1103,6 +1103,30 @@
                     ],
                     "tmdb_id": 282440,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Encantado de no conocerte",
+                    "genero": "Comedia",
+                    "descripcion": "Wi Jeong-sin, una respetada periodista política, se ve obligada a cubrir el mundo del espectáculo. Allí conoce a Lim Hyeon-jun, un actor en decadencia. Entre el caos de los bastidores, los nuevos comienzos y las sorpresas, surge un romance improbable, divertido y lleno de química.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/fgAyZ4XjHhCNij3MSVbPn83GxZF.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rzBSOFKqayEEIUwZJyWcg3Fb1th.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fc4Shbli2S1BwUgoTjvP3BIM9VX.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/47D2C38B09E84D6CB2F7C981A455A147_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 285770,
+                    "total_seasons": 1
                 }
             ]
         },
