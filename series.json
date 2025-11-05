@@ -3554,6 +3554,65 @@
                     ],
                     "tmdb_id": 252135,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Dirty John",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Esta antología del verdadero crimen, basada en el podcast del mismo nombre, sigue la terroríficamente verdadera historia del romance del diseñador de interiores del Condado de Orange, Debra Newell, con John Meehan, un atractivo y romántico encantador que arrastra a Debra y la mete en su red de mentiras. .",
+                    "anio": "2018",
+                    "iconPng": "https://image.tmdb.org/t/p/original/yvNDI55e6ydmvYIIFizXe6WLgic.png",
+                    "icono": "https://image.tmdb.org/t/p/original/oF2YRRJyivaoPqYRdVNCnk8coCY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/gPtcFV2JFabTowK3gORwv4sUNbw.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Fantasías próximas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/ACD7B97B3C2C4D90AA0553F97CA23F56_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Señales de alarma",
+                                    "url": "http://goovdme.967sd1f.homes/vod/64DF344E7E5D4291B8881216A5AD08B5_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Recordarás que he sido yo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A6BC19111A1B41639BE88ABD78BFEF80_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Metralla",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A5A5079EBFF140D8A0C8657BE2CA0381_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El Sumo Verdugo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/919C379CC9414B8C9A053601F589F78C_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Un zapato",
+                                    "url": "http://goovdme.967sd1f.homes/vod/333AA789687B46F2A965759342A976C4_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Caballerosidad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CEA34705124E4EF28242D24C5F3BB147_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Una joven con garra",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C6E23F30C10749F19D894EB261E7E0D9_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 83251,
+                    "total_seasons": 2
                 }
             ]
         },
