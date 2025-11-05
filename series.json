@@ -3683,6 +3683,65 @@
                     ],
                     "tmdb_id": 83251,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "The Sinner",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Una madre, víctima de un inexplicable ataque de rabia, comete un sorprendente acto de violencia y horror en el que, para mayor desconcierto, no tiene ni idea de por qué. El investigador se encuentra obsesionado con descubrir el motivo oculta de la mujer. Juntos viajarán por un viaje desgarrador hacia las profundidades de su psique y los violentos secretos escondidos en su pasado.",
+                    "anio": "2017",
+                    "iconPng": "https://image.tmdb.org/t/p/original/xbOpER6gqANjw7GpQz3wfMzasRK.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rmibFGdqOe0kKKhPls0jVOdZCWw.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lVWku9LX2qdJTtAbRzaCDhhWeTK.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Parte I",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C1D215C75A1E4D2289703A1454BEA816_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Parte II",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B57966033AB443C2A16BEFD98C114C4E_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Parte III",
+                                    "url": "http://goovdme.967sd1f.homes/vod/39B95E041E7141AE9A6235DE1B1E6ACF_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Parte IV",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/22DA14B0ED794A839B86EAE58A8AAE3D_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Parte V",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A2368F4E94884285A9C53532CD3543C3_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Parte VI",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/9906976288FB4E5F8B1C5211FC5C6714_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Parte VII",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F5C25987799648A3A2442EA528FCC602_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Parte VIII",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/AC20DA6488EF41A086B9C4BAD2C57B2D_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 39852,
+                    "total_seasons": 4
                 }
             ]
         },
