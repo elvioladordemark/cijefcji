@@ -3801,6 +3801,45 @@
                     ],
                     "tmdb_id": 136308,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Desde dentro",
+                    "genero": "Drama, Crimen, Misterio",
+                    "descripcion": "Un estadounidense en el corredor de la muerte con un talento especial para resolver misterios ayuda a una joven periodista británica a buscar a su amiga desaparecida.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/24wrUavk64lnYzycMFlX5iaBvLE.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qNhJZTrOTn8ywpdWMyPlYakAGBl.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/bqopwxfw2Sd30gPDfUUFflCpjtK.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/07B7D20C5CED45F784C0F51B8F8EDFF1_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B4C40C6545B544D78D6F27FD7F522807_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/9CF693794F504B6893314296D84D7C1A_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8FF449DE0ABA4DD49C9BE9CBD815DDDA_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 121710,
+                    "total_seasons": 1
                 }
             ]
         },
