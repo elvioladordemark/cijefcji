@@ -3742,6 +3742,65 @@
                     ],
                     "tmdb_id": 39852,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "Quedate cerca",
+                    "genero": "Drama, Crimen, Misterio",
+                    "descripcion": "Tres personas parecen llevar una vida perfecta, pero ocultan oscuros secretos que ni siquiera sus más allegados sospecharían nunca. Megan es una madre trabajadora de tres hijos. Ray es un prometedor fotógrafo documental atrapado en un trabajo sin futuro. Y Broome, un detective que no puede dejar de lado un caso sin resolver de una persona desaparecida. Cuando llega una vieja amiga del pasado de Megan, llamada Lorraine, con una noticia bastante impactante, los tres protagonistas se ven afectados de una manera atroz, amenazando con arruinar sus vidas y la de quienes los rodean.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5KBthtdb89rW6aRAxGRSrj84BBa.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5ZzTnQ1ZzHBV8iZcd3Q5X8MczXs.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/aJuzMo6v3xB62BHWTB0c2YB7h8Z.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E613B4C40CEE40E99538FA359BD11029_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/D70E5D11A7CA4169A7C015C5CCFF1759_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CDE700B4BD0B41F4B1A13D2ADE915440_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8DF8C0EB34A748B7BEF78194FFC9C727_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/D9929AEA164A48EA9EAA42574606B4D6_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7FC90B088E4F4182A9E8E046021AF0CB_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/004191DFC2714987996F8CFCD08272FE_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7A96588F09554FA185593EDF0FF3E1B5_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 136308,
+                    "total_seasons": 1
                 }
             ]
         },
