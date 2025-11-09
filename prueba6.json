@@ -3134,7 +3134,200 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://mediosenparaguay.com/gallery_gen/cae134f3e8f4e494d2759fd7fc84854c_300x300_fill.jpg"
             }
-
+ ]
+    },
+    {
+        "name": "ARG SIN BLOQUEO",
+        "samples": [
+            {
+                "name": "CANAL 12 CBA",
+                "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd",
+                "icono": "https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/El_doce_tv_cba_logo.png/640px-El_doce_tv_cba_logo.png&w=640&q=50",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/12.CORDOBA.json",
+                "headers": {
+                    "Origin": "https://player.sensa.com.ar",
+                    "Referer": "https://player.sensa.com.ar/",
+                    "Webtoken": "1.0",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CANAL 10 CBA",
+                "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/10.CORDOBA.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/10.CORDOBA.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "TELEFE CBA",
+                "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/TELEFE.CORDOBA.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/TELEFE.CORDOBA.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "LOVE NATURE",
+                "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
+                "icono": "https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/LOVE.NATURE.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "TELEDIARIO TV",
+                "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/TELEDIARIO.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/TELEDIARIO.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "TV PUBLICA",
+                "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/TV.PUBLICA.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/TV.PUBLICA.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "AMERICA TV",
+                "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/AMERICA.TV.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/AMERICA.TV.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "EL TRECE",
+                "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/EL.TRECE.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/EL.TRECE.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "EL NUEVE",
+                "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/EL.NUEVE.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/EL.NUEVE.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "TELEFE",
+                "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/TELEFE.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/TELEFE.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "TN",
+                "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/TN.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/TN.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "C5N",
+                "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/C5N.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/C5N.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "CANAL 26",
+                "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/26.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/26.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "CRONICA TV",
+                "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/CRONICA.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/CRONICA.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "NETTV",
+                "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/NETTV.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/NETTV.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "A24",
+                "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/A24.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/A24.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "MULTIVISION",
+                "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/Multivision/default/index.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img_sensa/MULTIVISION.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_sensa/MULTIVISION.json",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
       
       
 
