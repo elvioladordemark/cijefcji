@@ -25582,6 +25582,60 @@
                     ],
                     "tmdb_id": 97400,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Cometierra",
+                    "genero": "Misterio, Drama",
+                    "descripcion": "Serie de TV (2025-). 7 episodios. Aylín es una adolescente de un barrio popular de México que descubre sus habilidades sobrenaturales cuando, durante un acto de bullying, la hacen comer tierra y tiene visiones de su maestra desaparecida. Este superpoder la ayudará a buscar a personas desaparecidas junto con su hermano y sus amigos, mientras se sumerge en una lucha por dominar este nuevo poder. Conforme sus habilidades se fortalecen, se transforma en una heroína que se planta contra la violencia y la injusticia que azotan su barrio.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5SbNJhbZAaKnwaEhvYctvIb0rpo.png",
+                    "icono": "https://image.tmdb.org/t/p/original/d8LYs7rSj5kmHDKBMgiqE1ACCoq.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/dnB98op1crXpolR1PXg61jW4ej3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/55A81C90446A400B86898DF014D074EE_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/CFA18479C99147819152A1BC1A6FC48B_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/716792AEF19F4EEC95FFBBF6F0837935_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/33B4EC1432EC4FF29428390A3D9D048B_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/56F033BB08E141F3BCEF51EB2ACE5442_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F13905FA2E344ECCB504B07514C1B289_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0A14AED40D324DEB8B179AEE284FB019_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 296243,
+                    "total_seasons": 1
                 }
             ]
         }
