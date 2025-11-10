@@ -1195,6 +1195,45 @@
                     ],
                     "tmdb_id": 272418,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Muerte por un rayo",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "La historia de James Garfield, quien se alzó de entre las sombras para convertirse en el 20.º presidente estadounidense... y Charles Guiteau, el hombre que lo asesinó.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/kw3YicXbYQ5rJFQ4rX4KpIItOgM.png",
+                    "icono": "https://image.tmdb.org/t/p/original/YJzH2fGt96ExpRNcIp1yyTqB3n.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/l89mjyc8tGfhEalwDIeGqmXLR1N.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El hombre de Ohio",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2B3FEC41A7424AF3843FBC31D3685B6E_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Fiel al partido",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/01B02252F84B4EBD903EF2D31F0B27AE_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Motivo de guerra",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E271840104FC4683A0476EB093382711_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El destino de la república",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D56FEE9EB6C74DD99ED2CA289857BDE2_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 245219,
+                    "total_seasons": 1
                 }
             ]
         },
