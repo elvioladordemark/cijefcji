@@ -224,45 +224,6 @@
                     "total_seasons": 3
                 },
                 {
-                    "nombre": "El Monstruo de Florencia",
-                    "genero": "Crimen, Misterio, Drama",
-                    "descripcion": "Mientras un asesino en serie que ataca a parejas siembra el terror en Italia, las autoridades indagan un caso de 1968 que podría ser la clave para dar con el Monstruo de Florencia.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/aktYRlUGrGmQ5hpMCFlm8OwaHZj.png",
-                    "icono": "https://image.tmdb.org/t/p/original/6rUEuEfaFAyhR4PJV5FRxcGzkrS.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/zXAJWl0oubQ5eUdEFUm6z5gPLAY.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://goovdme.967sd1f.homes/vod/724A66F79C4846CA9C23D31CFD20A823_media.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://goovdme.967sd1f.homes/vod/CA1AB81CD2A142A1AAB85505396EA6B8_media.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://goovdme.967sd1f.homes/vod/D33847C267F94029A42A01B3ABB7D215_media.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://goovdme.967sd1f.homes/vod/39AB899F4B364DC180855C0B84724692_media.ts"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 247756,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "It: Bienvenidos a Derry",
                     "genero": "Misterio, Drama",
                     "descripcion": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
