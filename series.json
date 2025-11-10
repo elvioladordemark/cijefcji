@@ -5620,6 +5620,65 @@
                     ],
                     "tmdb_id": 299778,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Splinter Cell: Deathwatch",
+                    "genero": "Animación, Action & Adventure",
+                    "descripcion": "En el sombrío mundo del espionaje, Sam Fisher es a la vez un rumor y una leyenda, y vuelve a la acción para ayudar a una nueva recluta a destapar una conspiración mundial.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/2G7X0hekNktSr4nZneKN6MK8Tgt.png",
+                    "icono": "https://image.tmdb.org/t/p/original/tgKYnJlze79IUKkPmtsW2nSUeeB.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hyohgWwzIF7zrHdSS05evx4mqyU.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Regreso de la tumba",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9EF0AD7EC10E47FAB36CB5FC3914B62F_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Primero la cena, después hablamos",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/357A2D4E753D4C05BA0DD18A6BE3305C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Bienvenidos a 4E",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/80D57666E50D4FF38A82D036052B9846_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Recuerdos de Bagram",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2AC8B7DF11EA4887B875EFABC7B518EB_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Así de fácil",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/9E9410B7E5514FEE98052493EA23F2F9_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La misión es siempre humana",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B860FE54C94F4D3988FAA4E9727222B0_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Teoría del caos (1)",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B65972DA8DD44F049D993CE9901528C1_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Teoría del caos (2)",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EF4FEA22F0844448A7C5813E27209417_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 127366,
+                    "total_seasons": 1
                 }
             ]
         },
