@@ -5679,6 +5679,65 @@
                     ],
                     "tmdb_id": 127366,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Hazbin Hotel",
+                    "genero": "Animación, Comedia, Drama, Sci-Fi & Fantasy",
+                    "descripcion": "Charlie Lucero del Alba, la princesa del Infierno, intenta convencer a los demonios y a los ángeles de que toda alma es redimible. Una comedia musical para adultos sobre las segundas oportunidades repleta de canciones y tacos.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/95ZdSGxOnY2D8aemDNKBoFdDgkj.png",
+                    "icono": "https://image.tmdb.org/t/p/original/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tuCU2yVRM2iZxFkpqlPUyvd6tSu.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Obertura",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B642C2E85C24408FBE4FEE8F9ABE8930_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La radio mató a la estrella de la imagen",
+                                    "url": "http://goovdme.967sd1f.homes/vod/09562F1E4FF34ACFA5065FD509D27FC5_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Huevos revueltos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A1FEA86F5D2E4354BCB97092CD202560_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Mascarada",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5774F3F9A6BD4898BF0C996D4762AA6F_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Padre contra padre",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C91A0534E322497DABA4DCCC7B5E6B1D_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Bienvenidas al Cielo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/3FD56BE186E84EFD8595B5AE558C292B_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "¡Hola, Rosie!",
+                                    "url": "http://goovdme.967sd1f.homes/vod/13B36C3FCE8445B7BB92C970ABB54C27_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El espectáculo debe continuar",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/200D43F5D7414090AF30AD055B9C1190_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 94954,
+                    "total_seasons": 2
                 }
             ]
         },
