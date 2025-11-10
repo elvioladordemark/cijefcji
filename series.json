@@ -21043,6 +21043,55 @@
                     ],
                     "tmdb_id": 262920,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Maxton Hall: Un mundo entre nosotros",
+                    "genero": "Drama",
+                    "descripcion": "Ruby Bell, una estudiante becada, se convierte en testigo de un secreto explosivo en la escuela privada de Maxton Hall. Este inconveniente hará que James Beaufort, un heredero millonario tremendamente arrogante, se vea obligado a lidiar con ella. Y es que para bien o para mal, James está decidido a silenciarla, pero su enfrentamiento enciende una chispa inesperada entre ambos.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/nTevaZDpqiV5PGjdD781MgmxVeA.png",
+                    "icono": "https://image.tmdb.org/t/p/original/mHmuHBEKJ8muABCzhAUd8g3WHVK.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/n3ekogAscgyzyZ66gvEu61conDW.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La desconocida",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2EDB737B3E6E4DAA834B298382F22831_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Noblesse Oblige",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F57EF805E7B546BEB090C2E04B379EE3_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Expuesta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C8E6DD81D36A40C086F8E5E22D2ED571_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El momento de la verdad",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/FD4B1C7BD5114A42B0D1009781414CB7_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "En el ojo del huracán",
+                                    "url": "http://goovdme.967sd1f.homes/vod/139590ABC79646B88C44910B7D738399_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Un rayo de felicidad",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/D0806FCA77E74A1EBFA6D05490B864A2_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 250670,
+                    "total_seasons": 3
                 }
             ]
         },
