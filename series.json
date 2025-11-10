@@ -10041,6 +10041,75 @@
                     ],
                     "tmdb_id": 247168,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Simplemente Alicia",
+                    "genero": "Drama, Comedia, Soap",
+                    "descripcion": "Alicia se caso con el hombre que la ama, pero cuando se reencuentra con un cabo suelto de su pasado, deberá escoger entre una vida estable y un torrido romance",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/a51TNQgDQjlEXnUilTAcrWqd8uT.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xV0dzVfaYgqWBnKVNWWyZk2YdrE.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xHo8DmcIoYSc27O7CL4Z7Ysp5Tz.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6EC18FDCDD83403B84415D154B5F23A6_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/20ACA7F9B02742F8930E6E7DA41B9D28_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/AE69E9273BB04CC29B3BB4065BD90BBB_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/9861F50C8D81464D82453F19C816C294_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/392C0BB7618740D2AF7D1857A5CE0E9D_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3A04F181FC9A4EAFAFC4F05BFC75D623_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D5DE54B0AA064D0689D8C9E8212A5167_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6BE50A6BAD30450097AB8AD05D52C943_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/21239238E8C247C09ABC254B4201C838_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F544903EB49E4AF9BEC72317E2BED7AF_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 302723,
+                    "total_seasons": 1
                 }
             ]
         },
