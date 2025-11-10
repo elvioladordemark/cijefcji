@@ -20962,6 +20962,55 @@
                     ],
                     "tmdb_id": 258742,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La agente encubierta",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Una joven agente se infiltra para hacerse amiga de la mujer de un narcotraficante. Pero cuanto más se acerca a su objetivo, más complicada se vuelve su misión.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/tSK4wtPfR9cuxciHW9CccOxzjR6.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5frjq2ZQ6UysQGCZY4Fh36dmAUd.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/n9YnfHabjCNwCHUXfT6DPxzFa3e.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Nace una leyenda",
+                                    "url": "http://goovdme.967sd1f.homes/vod/636EAA7C7C514C6794F83D054A360CA7_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Vuelta de Dubái",
+                                    "url": "http://goovdme.967sd1f.homes/vod/76E24B63065C47758E26CF3D011FCA25_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Sangre y globos",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C66215F82C934BEBADB296DB066E3C4C_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Sin salida",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5A2857FFE8E34A0592A38D9FB9B74739_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "En las profundidades",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/040122A0346E4763A80098FA7618B067_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "¿Cómo has dicho que te llamas?",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/06EC65B92293430AAF47765159EFF8B5_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 262920,
+                    "total_seasons": 1
                 }
             ]
         },
