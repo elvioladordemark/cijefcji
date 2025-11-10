@@ -2458,7 +2458,7 @@
         "samples": [
             {
                 "name": "ESPN 1 MX",
-                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPNHD/dash/default.mpd",
+                "url": "http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/218463.ts",
                 "type": "CLEARKEY",
                 "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bb43112b7b72e9c287da0ecdec8606a7&key=29e3d2678107f0ab0b35b6537c734f2a",
@@ -2471,7 +2471,7 @@
 
           {
                 "name": "ESPN 2 MX",
-                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN2HD/default.mpd",
+                "url": "http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/218465.ts",
                 "type": "CLEARKEY",
                 "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90e2e491c850a49a5ab21bb6fa6b4d24&key=4d7e33da19b971cef49e35eccdb9de0b",
@@ -2484,7 +2484,7 @@
 
            {
                 "name": "ESPN 3 MX",
-                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN3HD/dash/default.mpd",
+                "url": "http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/218468.ts",
                 "type": "CLEARKEY",
                 "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0355f64277082b903022985035c498ca&key=7a8ed20a4958398677e2c9ccd5a53a00",
