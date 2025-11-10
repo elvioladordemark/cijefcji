@@ -7138,7 +7138,198 @@
       }  
 			
 
-
+ ]
+    },
+    {
+        "name": "CULTURALES SENSA 🐦‍⬛",
+        "samples": [
+            {
+                "name": "Animal Planet",
+                "url": "https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd",
+                "icono": "https://i.postimg.cc/RZTHkgHw/ANIMALPLANET2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dbea5682978c5593d7f9f32ba3fbd000&key=992754095f050d53163c059ff4e81571",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Discovery Channel",
+                "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd",
+                "icono": "https://i.postimg.cc/vZ1NZ6Qy/DISCOVERYCHANNEL2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=74ec986b3388c62f5fa7c551e225d0b8&key=9327821de5eace5508cf573778c8c3c3",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Discovery Home And Health",
+                "url": "https://cdn.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd",
+                "icono": "https://i.postimg.cc/fyWQkTbc/h-hdiscovery.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=73f141744a7aa50a45f9819f0e5bce8b&key=594eff3d094876954e699d548874c58f",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Discovery ID",
+                "url": "https://cdn.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd",
+                "icono": "https://i.postimg.cc/901RqMY9/IDDISCOVERY2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f413ca6b4955bab7d89a3d24bbf8c98b&key=58168613434035ceb98e18815f97436c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Discovery Science",
+                "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd",
+                "icono": "https://i.postimg.cc/2yw1s6qy/Discovery-Science2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Discovery Theather",
+                "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd",
+                "icono": "https://i.postimg.cc/6qbKSjJr/Discovery-Theather2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a753ba6e6b313f129bd6591364680f07&key=f3f8e1a7633b262ca37ae8c35f3cd1e2",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Discovery TLC",
+                "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd",
+                "icono": "https://i.postimg.cc/SKcysf8C/Discovery-TLC.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bed07c7fbbc6a3024baa8a44c052dd59&key=a632dead698156b3f2083076aa192b57",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Discovery Turbo",
+                "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd",
+                "icono": "https://i.postimg.cc/K8wz4YWF/Discovery-Turbo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6902d50ec036d30146b12b927f4363d4&key=d40dc5eb6e0f8fbd58ab7dd6b91143b5",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Discovery World",
+                "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd",
+                "icono": "https://i.postimg.cc/tJp7ymMn/Discovery-World2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b94901c6926870683c5baebc63496653&key=f04da24cd7eba6dfdd0d66ea2a2feb24",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "E-Entertaiment",
+                "url": "https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd",
+                "icono": "https://i.postimg.cc/mgDztJg4/E-Entertaiment2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0839729159fd400250f90532f41b65f3&key=992972a1b89982c359c4b4a5f8034eed",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "El Gourmet",
+                "url": "https://cdn.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd",
+                "icono": "https://i.postimg.cc/brhSrvss/El-Gourmet2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0853b1d2af7d6ee5f7a8a571637ee6b7&key=f173ff83e8a50d7d0c363cde0c261dc6",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "HGTV",
+                "url": "https://cdn.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd",
+                "icono": "https://i.postimg.cc/4xLcPZFW/HGTV2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ebc8294c36bb50fd4cc6cd89e34604bd&key=5d550080c8349e878fcd86821b91f74b",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "History",
+                "url": "https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd",
+                "icono": "https://i.postimg.cc/Z5TPjwYn/History2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3729d075c1a22d06bd6978c941ff0d13&key=c106c6d1dd58f4f14b6ebe6c8672fd0b",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "History 2",
+                "url": "https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd",
+                "icono": "https://i.postimg.cc/pdSDWxf3/History22.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=454a4c570f8b662076ce4f1a931d3b06&key=2e7233e228d7d8a203e07e2b08584019",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Lifetime",
+                "url": "https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd",
+                "icono": "https://i.postimg.cc/gcZK0wBx/lifetime2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6f85d8282bb6fe2db8f34299d5742f02&key=28d49f409d718ecad8f82f477d3beb77",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "Love Nature",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
+                "icono": "https://i.postimg.cc/d0VBQ4zD/lovenature2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ea6437084f6c055c7c856f86361e86fa&key=9791c0e6f72b4a5eacf8bddfa5290209",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "National Geographic",
+                "url": "https://cdn.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd",
+                "icono": "https://i.postimg.cc/8kJZrXsV/National-Geographic2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e44c7a4a62dc2bea573f5b21ea78342b&key=bf1996a534ea01086d0b8e284f0f4e7b",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
 
 			
 
