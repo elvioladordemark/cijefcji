@@ -507,7 +507,17 @@
         "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
       },
-		
+		 {
+                "name": "SPORTV 2 OPC 2",
+                "url": "https://belami.top/test/DEMO080825/FUTBOLLIBREONLINE/sportv2.m3u8",
+                "icono": "https://i.postimg.cc/FFLHP0Vd/SOPRTV2.png",
+                "type": "HLS",
+                "headers": {
+                    "Referer": "https://embedcanaistv.com/",
+                    "Origin": "https://embedcanaistv.com",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
       {
         "name": "SPORTV 1",
         "url": "http://189.76.71.35:8555/live/stone_modular/stone_modular/277.m3u8",
