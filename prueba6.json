@@ -409,63 +409,6 @@
                     "webtoken": "1.0"
                 }
             }
-
-			  ]
-    },
-    {
-        "name": "⚽DEPORTES ESPN MEXICO",
-        "samples": [
-            {
-                "name": "ESPN 1 MX",
-                "url": "https://nog-live1-ott.izzigo.tv/1/out/u/dash/ESPNHD/dash/default.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bb43112b7b72e9c287da0ecdec8606a7&key=29e3d2678107f0ab0b35b6537c734f2a",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-
-          {
-                "name": "ESPN 2 MX",
-                "url": "https://nog-live1-ott.izzigo.tv/1/out/u/dash/ESPN2HD/default.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90e2e491c850a49a5ab21bb6fa6b4d24&key=4d7e33da19b971cef49e35eccdb9de0b",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-
-           {
-                "name": "ESPN 3 MX",
-                "url": "https://nog-live1-ott.izzigo.tv/1/out/u/dash/ESPN3HD/dash/default.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0355f64277082b903022985035c498ca&key=7a8ed20a4958398677e2c9ccd5a53a00",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-
-          {
-                "name": "ESPN 4 MX",
-                "url": "https://nog-live1-ott.izzigo.tv/1/out/u/dash/ESPN4HD/default.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b087348dcaa1bd66a86a4fc7150abc9&key=13fb668260b5c982f0c756aeb1ea072d",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }
 			
 			 ]
   },
@@ -865,35 +808,35 @@
     "samples": [
         {
                 "name": "SKY SPORTS",
-                "url": "https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd",
+                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/439454.ts",
                 "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=335511dfdf0d03bc06f1fdead5870b5a&key=1a022fb33ad3de4d4579b04966551488"
             },
             {
                 "name": "SKY SPORTS 2",
-                "url": "https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd",
                 "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d"
             },
             {
                 "name": "SKY EVENTO 1",
-                "url": "https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd",
+                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd",
                 "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a3636a51227fa338cdddf5892d8a621c&key=1444ee3c4d08bf39454b914f797968eb"
             },
             {
                 "name": "SKY LA LIGA",
-                "url": "https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd",
+                "url": "http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/592041.ts",
                 "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c88dc6c668cac3b468d4a4c7e176ff3d&key=1aeb739de2c14ed0ad658ca8043208d8"
             },
             {
                 "name": "SKY BUNDESLIGA",
-                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd",
+                "url": "http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/592040.",
                 "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19"
@@ -2520,7 +2463,62 @@
             }
 
 
-        
+          ]
+    },
+    {
+        "name": "⚽DEPORTES ESPN MEXICO",
+        "samples": [
+            {
+                "name": "ESPN 1 MX",
+                "url": "http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/218463.ts",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bb43112b7b72e9c287da0ecdec8606a7&key=29e3d2678107f0ab0b35b6537c734f2a",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+          {
+                "name": "ESPN 2 MX",
+                "url": "http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/218465.ts",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90e2e491c850a49a5ab21bb6fa6b4d24&key=4d7e33da19b971cef49e35eccdb9de0b",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+           {
+                "name": "ESPN 3 MX",
+                "url": "http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/218468.ts",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0355f64277082b903022985035c498ca&key=7a8ed20a4958398677e2c9ccd5a53a00",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+
+          {
+                "name": "ESPN 4 MX",
+                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN4HD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b087348dcaa1bd66a86a4fc7150abc9&key=13fb668260b5c982f0c756aeb1ea072d",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
 
 
           ]
