@@ -24072,6 +24072,65 @@
                     ],
                     "tmdb_id": 205715,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Jack Ryan de Tom Clancy",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "Cuando el analista de la CIA, Jack Ryan, se tropieza con una serie de transferencias bancarias sospechosas, su búsqueda de respuestas lo saca de la seguridad de su escritorio y lo catapulta hacia un juego mortal del gato y el ratón por toda Europa y Oriente Medio, donde se encuentra a un terrorista que prepara un ataque masivo contra Estados Unidos y sus aliados.",
+                    "anio": "2018",
+                    "iconPng": "https://image.tmdb.org/t/p/original/l9NZaPheK4fRFN91jNaqQXDpFqz.png",
+                    "icono": "https://image.tmdb.org/t/p/original/1Wz730VjE6Yee9ywb5ReXXe1GBZ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2y2TbzeKZHYqTN5gb4nBv9dKk1f.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E7439B251B134FBC993626DCB2AF0476_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Conexión francesa",
+                                    "url": "http://goovdme.967sd1f.homes/vod/96483EB7790D45E887C0DCDA9D19BF8A_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "22 Negro",
+                                    "url": "http://goovdme.967sd1f.homes/vod/10DC640388A24FEAB12F496FC6F3D3EA_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El Lobo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2CDC103CFA644FDD8A28F756D476758E_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El fin del honor",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/7DE96DDB897E4AD78FE76484641CB777_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Fuentes y métodos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2ACB9B1EAB764B1587E21427A9D2D9FA_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El muchacho",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C1E1F7FCAE1E47B087E468BE96B27A90_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Si Dios quiere",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F8D18EC19A534BC88D77BE3CB6D357FA_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 73375,
+                    "total_seasons": 4
                 }
             ]
         },
