@@ -362,7 +362,7 @@
 						]
     },
     {
-        "name": "⚽DEPORTES ESPN SENSA",
+        "name": "⚽DEPORTES ESPN SENSA SIN BLOQUEO",
         "samples": [
          
 			 {
@@ -808,35 +808,35 @@
     "samples": [
         {
                 "name": "SKY SPORTS",
-                "url": "http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/439454.ts",
+                "url": "https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd",
                 "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=335511dfdf0d03bc06f1fdead5870b5a&key=1a022fb33ad3de4d4579b04966551488"
             },
             {
                 "name": "SKY SPORTS 2",
-                "url": "https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd",
+                "url": "https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd",
                 "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d"
             },
             {
                 "name": "SKY EVENTO 1",
-                "url": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd",
+                "url": "https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd",
                 "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a3636a51227fa338cdddf5892d8a621c&key=1444ee3c4d08bf39454b914f797968eb"
             },
             {
                 "name": "SKY LA LIGA",
-                "url": "http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/592041.ts",
+                "url": "https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd",
                 "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c88dc6c668cac3b468d4a4c7e176ff3d&key=1aeb739de2c14ed0ad658ca8043208d8"
             },
             {
                 "name": "SKY BUNDESLIGA",
-                "url": "http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/592040.",
+                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd",
                 "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19"
