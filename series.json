@@ -21390,6 +21390,65 @@
                     ],
                     "tmdb_id": 250670,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "True Detective",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "True Detective es una serie de televisión estadounidense dramática de género policíaco, protagonizada en su primera temporada por los actores estadounidenses Matthew McConaughey y Woody Harrelson; la serie se estrenó en Estados Unidos y América Latina el 12 de enero de 2014 por HBO. La serie sigue un formato de antología, así queen cada temporada contará una historia diferente con un elenco de personajes distintos.",
+                    "anio": "2014",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xZSuQm2KQQKoVKf31HgUWkjAVga.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/bPLRjO2pcBx0WL73WUPzuNzQ3YN.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La larga y clara oscuridad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C0489BC92864460E9F2F5840E7B963E0_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Visiones",
+                                    "url": "http://goovdme.967sd1f.homes/vod/570B70F3FF7B4FD4A8026C13BB7CAA47_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La habitación cerrada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/783A09446292490CA51D35CD2E2ED983_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "¿Quién anda ahí?",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5888F64E285B4C958D02D28B51BEDC05_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El sino secreto de toda vida",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F1A3A88DC93C460D8DF14C91FAB3E630_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Casas encantadas",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/334DDA12A0AA41B1A0A4B142D6895246_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Después de irte",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1B80FDBE48B04DEDB9D5E648AD850DA3_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Forma y vacío",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B6B49B90E3CC4D348BD3C2518C5409F1_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 46648,
+                    "total_seasons": 4
                 }
             ]
         },
