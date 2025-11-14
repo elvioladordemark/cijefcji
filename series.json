@@ -668,6 +668,65 @@
                     ],
                     "tmdb_id": 245219,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Tu siempre estuviste ahí",
+                    "genero": "Crimen, Drama, Misterio",
+                    "descripcion": "Cuando dos mujeres planean acabar con un matrimonio abusivo mediante un asesinato, la llegada de un visitante inesperado amenaza con destruirlo todo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/umTZujrxxp7B6qcRD7l4CItFiBE.png",
+                    "icono": "https://image.tmdb.org/t/p/original/1mCAo5XkkaW67xeF2aAW26HaPFh.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/pB4UcD3QoQQTCiZw5HEpcv9o1iC.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Eun-su",
+                                    "url": "http://goovdme.967sd1f.homes/vod/10C8289050D3445EA35D6D865B9DEC55_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Hui-su",
+                                    "url": "http://goovdme.967sd1f.homes/vod/16AE5F7F60E147948A233FA6B2A2045F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Eun-su, Hui-su y Jin-pyo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/318BE058624940578F17801467B34883_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Eun-su y Hui-su",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A97B7A89CF69498DA4A4036300346A7B_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Eun-su, Hui-su y Jin So-baek",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A655C3918C0B416CA136482029C6A73D_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Eun-su, Hui-su y Jang Kang",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B903672643E340B8AF0580F5E22995FF_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Eun-su, Hui-su y Jin-young",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7CD9A98C91134315B4E6138A9D24D88D_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Eun-su, Hui-su y nosotras",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7DAC157359DD42CDA2F0A52F962F618C_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 271885,
+                    "total_seasons": 1
                 }
             ]
         },
