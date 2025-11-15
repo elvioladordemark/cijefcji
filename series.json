@@ -21577,6 +21577,55 @@
                     ],
                     "tmdb_id": 46648,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "El cuco de cristal",
+                    "genero": "Drama",
+                    "descripcion": "Con la esperanza de descubrir quién era su donante de corazón, una joven doctora se sumerge en un pequeño pueblo asolado por décadas de misteriosas tragedias.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/xbuc7bjNqb8E0dIJkC5Gwfkg76m.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ac9e5FC2DlJZZcgBtQ5Jr2973uz.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kuvIwh28N9iGsJak8Q8fx3ABKer.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/76B8E4BDECDB4A0280459108D112B872_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FB48C7D64C164067A2557D64ED52181F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CE5EE09495E64EA18A1F0042579CB8AB_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1B0C328C93034235AF2D0671D4990A02_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DA507FB93C2545DFA599DB26AC48EBA0_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episode 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1777EF92BC09462C884DB0A9993BF147_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 274979,
+                    "total_seasons": 1
                 }
             ]
         },
