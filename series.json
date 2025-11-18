@@ -24845,6 +24845,65 @@
                     ],
                     "tmdb_id": 73375,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "The Last Kingdom",
+                    "genero": "Action & Adventure, Drama, War & Politics",
+                    "descripcion": "La serie está ambientada en el siglo IX donde lo que hoy se conoce como Inglaterra eran varios reinos independientes. Las tierras anglosajonas son atacadas y en muchos casos gobernadas por fuerzas vikingas. El reino de Wessex se ha dejado solo bajo el mando del Rey Alfred el Grande. Uhtred, hijo huérfano de un noble sajón, es secuestrado por los normandos y criado como uno de ellos. Así, es obligado a elegir entre un reino que comparte sus ancestros y la gente a la que es leal.",
+                    "anio": "2015",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rE7f5t0naWuCP404p2D9o01CzqX.png",
+                    "icono": "https://image.tmdb.org/t/p/original/pnM3U7NMJeFNpzhpYP10zBdIuPM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ifZYdmNuMWimFCUGGcYAs9bHNlv.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/99F1130C999440EEABA1A0C4135D5ECA_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E151A3843952404AAA1E1CC24137DE76_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/AB9074F6C28B4990969449D7D76D042F_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/21F83AA75AA14B79928D074A73EB6A91_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0B663B1485B4496583560493D74704BE_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/BEA9436E3FBB4C959096519B5765A4C5_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4C4FE39C5CD74F2FBE73D0924F4EAF6B_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/8761D77A73E044E68C6E28A5CEC86CF5_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 63333,
+                    "total_seasons": 5
                 }
             ]
         },
