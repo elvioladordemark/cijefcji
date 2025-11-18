@@ -26218,6 +26218,45 @@
                     ],
                     "tmdb_id": 296243,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La bestia en mí",
+                    "genero": "Misterio, Drama",
+                    "descripcion": "Una escritora famosa se ve arrastrada a un juego psicológico con su rico y poderoso vecino nuevo... que podría ser un asesino.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4ImhKGIHQWoImfkxZrVSlvlfGKX.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fr57huR86UiVWJr6C7S8wRaghZw.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xkwaooD0omvM922ddc9P9U9HcLF.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Perro loco",
+                                    "url": "http://goovdme.967sd1f.homes/vod/59CD6FC51D1042B69E0F6A0B33AA7245_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "No quiero estar solo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2D981696ADA54F3E88EC62E89FDDED74_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Secreto a voces",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/FA508A7D9DDD4B73AF723B8175D8018E_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Thanatos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0404EF36335D4A34AA45A0385C63D28B_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 250504,
+                    "total_seasons": 1
                 }
             ]
         }
