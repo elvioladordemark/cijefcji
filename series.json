@@ -24996,6 +24996,85 @@
                     ],
                     "tmdb_id": 63333,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "Roma",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "Cuatro siglos después de la fundación de la República (509 a.C.), Roma es la ciudad más poderosa del mundo, una metrópoli cosmopolita de un millón de personas, el epicentro de un imperio en expansión. La República se basó en la separación de poderes y creó los mecanismos necesarios para evitar que un solo hombre acumulara demasiado poder. Sin embargo, con el paso del tiempo, la corrupción, el lujo y los excesos fueron carcomiendo esos principios.\r\n\r\nLa serie es una historia sobre la vida tanto de romanos ilustres como ordinarios, situada en los últimos días de la República Romana.",
+                    "anio": "2005",
+                    "iconPng": "https://image.tmdb.org/t/p/original/tjoOEClbGpAHnlXnQLSh64HIpHl.png",
+                    "icono": "https://image.tmdb.org/t/p/original/2eqyFY5rjtMiEQEj6IG9J8z9AGz.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hj8oLmZB4qhePUvzZxTtlt7lCce.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El águila robada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/60A62F8701FC4E0FA16187643912723B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Cómo Tito Pullo derribó la República",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C02DC8B3334540328F6B04D91FE5588F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Una lechuza en un arbusto espinoso",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DB46DDD8D5B44F868D76EF7A92E03F20_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Robando a Saturno",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/8BD20AEE9A4949DA92408E5869C57E70_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El ariete ha tocado muro",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2A5B3393EE82462392383EB0759455A2_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Egeria",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8817E05998D749F49F5E662A6E95EEB3_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Farsalia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3EAB184BFC2048C0B3C4AB537906C188_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Cesarión",
+                                    "url": "http://goovdme.967sd1f.homes/vod/912C22CBDBC14D5AA5D03B2717BECD23_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Útica",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/29C2A1B9CC7B48E1A9086D635CF6A6E1_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Victoria",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D778FDDADDD74BACB907421A06FFBB8B_media.ts"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "El botín",
+                                    "url": "http://goovdme.967sd1f.homes/vod/40CF3E7BEB2F40BFB2BBEDEFEB176969_media.ts"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Calendas de febrero",
+                                    "url": "http://goovdme.967sd1f.homes/vod/06D6B389DA9B431E936894021E680783_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 1891,
+                    "total_seasons": 2
                 }
             ]
         },
