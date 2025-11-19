@@ -767,6 +767,40 @@
                     ],
                     "tmdb_id": 271885,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "50 segundos: El caso Fernando Báez Sosa",
+                    "genero": "Documental, Crimen",
+                    "descripcion": "Esta serie documental explora el caso de Fernando Báez Sosa, cuyo asesinato a golpes por parte de un grupo de jóvenes quedó grabado en video, hecho que conmocionó a la Argentina.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/voMljae3BXWo63qnM9QikVJpUK.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/AiH3pDVAxt485WzCaBjRQHcP599.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/ABBECADFA872419EBD0B93965BF6BB92_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CBD27145241B4F90847A06F257568257_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5A42AC99159E4592BE06176DAE993A56_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 304849,
+                    "total_seasons": 1
                 }
             ]
         },
