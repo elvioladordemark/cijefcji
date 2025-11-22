@@ -7097,7 +7097,58 @@
                         {
                             "nombre": "Temporada 3",
                             "numero_temporada": 3,
-                            "capitulos": []
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Plantar la bandera",
+                                    "url": "http://goovdme.967sd1f.homes/vod/636FF77D33F64242B96F7227B1819703_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Si no es mucha molestia pedirlo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6494C8106C5649A5974AAAA4567374D1_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Robococo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/7A4C49F077CF4FFABBB5461564438517_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Una vaca vieja",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4CC674842E384E60BF30EA146B1DF0FB_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Libertad, igualdad, embriaguez",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0CC0ACE3E7164B8A8E7A2C30843B174B_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "De niña a niña",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/DE0DD1F9E6DB41B6B29173AD4D6F3784_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Pájaro gracioso",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C20073DD6D00405098A1ADC7D9BF0278_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Mala madre",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/20B636F5D0854FB690130C6507133C3F_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Con descuento",
+                                    "url": "http://goovdme.967sd1f.homes/vod/966C3018365F42AEA55FED57645B6BAC_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Los dos cuadros",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B0F6ECAF05A54FF682AAECE51DE7C81F_media.ts"
+                                }
+                            ]
                         }
                     ],
                     "tmdb_id": 261615,
