@@ -25946,6 +25946,45 @@
                     ],
                     "tmdb_id": 304849,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "MARINES",
+                    "genero": "Documental",
+                    "descripcion": "Sigue a la 31.ª Unidad Expedicionaria de Marines mientras realizan ejercicios de combate de alto riesgo en el Pacífico.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/uPjY7QK3VxGospbokGkB1VNzvZO.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rpXGvTyNT6Crsu5ZzCy1h1SgRep.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kCf0Ydkeue3vnRljYxMRhigU2nx.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BDAD659583A4455D91207F6A9C4CB57E_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/4125E5754DAB45B39AEE3147B2817258_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1B33E6B34A464EBA9F93A54ED0BBFE2B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/547CBF361E04486B83A8693E1C9BBFE8_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 303173,
+                    "total_seasons": 1
                 }
             ]
         },
