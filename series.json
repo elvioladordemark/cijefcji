@@ -21999,6 +21999,60 @@
                     ],
                     "tmdb_id": 217528,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Sra Playmen",
+                    "genero": "Drama",
+                    "descripcion": "Traicionada por su marido, una mujer debe dirigir una revista erótica que en la Roma de los 70 se convierte en un símbolo de empoderamiento. Inspirada en hechos reales.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gqAJM7BfP4tQOXmBbJvXMVame8C.png",
+                    "icono": "https://image.tmdb.org/t/p/original/uxI6kVyiS6nThUZwV80nhygzU6E.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rk93UkcE9kw6cHiaYFcWQvNUuuq.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DE2F3F9707804906953492B46356A70D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/44A96ED642F84629BA7A19F9DB4D99DB_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/84BA60995AC64C19930404C02C060708_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/BE7E29518A0C4EBE97BA32F303942BEE_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B4A8CCF83461433FAD1B2353D44198B1_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/648CD44B51D14DA0B44787C5AD66DB5C_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BCE59A0E8CB9418B81C824629A31E36B_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 301001,
+                    "total_seasons": 1
                 }
             ]
         },
