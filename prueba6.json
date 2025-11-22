@@ -1332,8 +1332,35 @@
           "Connection": "Keep-Alive"
         }
       },
+ {
+                "name": "WIN SPORTS",
+                "url": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINSPORTS_HD)/manifest.mpd",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2747488564e7e1f8e0f8bb25d349e3ba&key=edbcebc4f3b9ac228eed0cc29739bc0c",
+                "headers": {
+                    "Origin": "https://latamvosliveclarovideo.akamaized.net",
+                    "Referer": "https://latamvosliveclarovideo.akamaized.net/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/114.0.21452.134 Safari/537.36"
+                }
+            },
+            {
+                "name": "WIN SPORTS +",
+                "url": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
+                "icono": "https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f6b30a661c69b70039e4eb51247c4d10&key=243493e4a7fac9577326e15f0169f938",
+                "headers": {
+                    "Origin": "https://latamvosliveclarovideo.akamaized.net",
+                    "Referer": "https://latamvosliveclarovideo.akamaized.net/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/114.0.21452.134 Safari/537.36"
+                }
+            },
+
+
+		
       {
-        "name": "WIN SPORTS",
+        "name": "WIN SPORTS OPC 2",
         "url": "http://magmaplayer.com/stream/m3u8/ZGRjKmRjAQEsZwtjAwbkZQIyBwVmBwV3MQp6AGRkZQbkZzWyBzZjMGL6BTH1My8kAmDmZwx/hls/1044.m3u8",
         "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
         "headers": {
@@ -1347,7 +1374,7 @@
         }
       },
       {
-        "name": "WIN SPORTS +",
+        "name": "WIN SPORTS + OPC 2",
         "url": "http://magmaplayer.com/stream/m3u8/ZwV1KmRjAQWsZwtjAwbkZQIyBwVmBwV3MQp6AGRkZQbkZzWyBzZjMGL6BTH1My8kAmDmZwx/hls/1042.m3u8",
         "icono": "https://i.ibb.co/8g3XZ6v/logo-win.png",
         "headers": {
@@ -1661,7 +1688,73 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa",
         "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-      }
+      },
+		{
+                "name": "DAZN  OP1",
+                "url": "https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd",
+                "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec"
+            },
+            {
+                "name": "DAZN OP2",
+                "url": "https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-582/stream.mpd",
+                "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec"
+            },
+            {
+                "name": "DAZN OP3",
+                "url": "https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd",
+                "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec"
+            },
+            {
+                "name": "DAZN RISE (INGLES)",
+                "url": "http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd",
+                "icono": "https://i.ibb.co/dppb0t6/dazn-rise.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769"
+            },
+            {
+                "name": "DAZN FAST + (INGLES)",
+                "url": "http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd",
+                "icono": "https://i.ibb.co/PNvwdCR/dazn-fast-plus.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769"
+            },
+            {
+                "name": "DAZN COMBAT (INGLES)",
+                "url": "http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd",
+                "icono": "https://i.ibb.co/0tB57qV/dazn-combat.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769"
+            },
+            {
+                "name": "DAZN DARTS (PLUTO)",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus",
+                "icono": "https://i.ibb.co/djqRSWR/dazn-darts.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DAZN HANDBALL (PLUTO)",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6683f7fe36a2f9000804940c/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus",
+                "icono": "https://i.ibb.co/71SnB1f/dazn-handball.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DAZN HELDINNEN (PLUTO)",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64afe50c5dc16600087f3227/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus",
+                "icono": "https://i.ibb.co/vvRcFzj/dazn-heldinnen.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DAZN RINGSIDE (PLUTO)",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/649b6898f2ec0000081a9460/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus",
+                "icono": "https://i.ibb.co/DtKnxcK/dazn-ringside.png",
+                "type": "HLS"
+            }
 
 
 	  
