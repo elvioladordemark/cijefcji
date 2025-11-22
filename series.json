@@ -21955,6 +21955,50 @@
                     ],
                     "tmdb_id": 274979,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Heweliusz",
+                    "genero": "Drama",
+                    "descripcion": "Después del catastrófico naufragio de un ferry, el segundo oficial al mando busca respuestas y justicia para quienes perdieron la vida... y quienes quedaron atrás.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/uz8xeDph9jD5JD3kGiktOcRwAI3.jpg",
+                    "icono": "https://image.tmdb.org/t/p/original/uz8xeDph9jD5JD3kGiktOcRwAI3.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uanBIz4myibV0ytiPgzCVDz1kNg.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0E86A8EACAF24569802DB77CCECD2C96_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6B48FA4410784D65A78E560EE09DAFF8_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6543F6AC6AC944BBA02C50A8E519B171_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B83F752A59A04B298E67516BC4277C0D_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D56C0510080B4982B4FCD74C5A3EECF5_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 217528,
+                    "total_seasons": 1
                 }
             ]
         },
