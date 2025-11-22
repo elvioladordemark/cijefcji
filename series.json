@@ -25239,6 +25239,55 @@
                     ],
                     "tmdb_id": 1891,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "El último samurái en pie",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "A principios de la era Meiji, Shujiro, en su día un samurái invicto, decide participar en un juego letal de supervivencia para salvar a su familia y a su pueblo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/2Yl69BViKaakDVlcMEqaNyr5GF1.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qEm5qyanHN1VUN3hMwh3Zg2Qnqz.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vcU8hIHXuADItJSzEmt2F8IMq5l.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Kodoku",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A7B1E4A204534B6B853AA3247C3C94C4_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El despertar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C4C63F5A6EC942CABF4460CAE5B4743C_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El destino",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B8D90EB0E61A46B4A0136689D4DA9558_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El cerebro",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/7A48F3BA4D134BDC95270D2834E0FC2A_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Los espectros",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F732A081D4704EF4B165061DA3659BA7_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Duelo mortal",
+                                    "url": "http://goovdme.967sd1f.homes/vod/81626F89A908481884FC6C34C85A9CE2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 252193,
+                    "total_seasons": 1
                 }
             ]
         },
