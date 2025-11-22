@@ -1093,55 +1093,150 @@
   {
     "name": "⚽ DEPORTES VARIADOS",
     "samples": [
-        {
-                "name": "SKY SPORTS",
+      {
+                "name": "SKY Sports",
                 "url": "https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd",
-                "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
+                "icono": "https://i.postimg.cc/Y2y78pjd/SKYSPORTS.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=335511dfdf0d03bc06f1fdead5870b5a&key=1a022fb33ad3de4d4579b04966551488"
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=335511dfdf0d03bc06f1fdead5870b5a&key=1a022fb33ad3de4d4579b04966551488",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
             },
             {
-                "name": "SKY SPORTS 2",
+                "name": "SKY Sports 2",
                 "url": "https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd",
-                "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
+                "icono": "https://i.postimg.cc/ZKGStV8F/SKYSPORTS2.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d"
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
             },
             {
-                "name": "SKY EVENTO 1",
-                "url": "https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd",
-                "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a3636a51227fa338cdddf5892d8a621c&key=1444ee3c4d08bf39454b914f797968eb"
-            },
-            {
-                "name": "SKY LA LIGA",
+                "name": "SKY LaLiga",
                 "url": "https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd",
-                "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
+                "icono": "https://i.postimg.cc/QMksq1Wp/SKYSPORTSLALIGA.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c88dc6c668cac3b468d4a4c7e176ff3d&key=1aeb739de2c14ed0ad658ca8043208d8"
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c88dc6c668cac3b468d4a4c7e176ff3d&key=1aeb739de2c14ed0ad658ca8043208d8",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
             },
             {
-                "name": "SKY BUNDESLIGA",
+                "name": "SKY Bundesliga",
                 "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd",
-                "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
+                "icono": "https://i.postimg.cc/sx1ryLH0/SKYSPORTSBUNDESLIGA.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19"
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
             },
             {
-                "name": "SKY PRIMERA LIGA",
-                "url": "http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/205622.ts",
-                "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
+                "name": "SKY Sports F1",
+                "url": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1HDH265/default.mpd",
+                "icono": "https://i.postimg.cc/FRHtgqvR/SKYSPORTSF1-2.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=002046c9a49b9ab1cdb6616bec5d26c3&key=d2f92f6b7edc9a1a05d393ba0c20ef9e"
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ae7f16191e2adfaacd9b536ed58a298a&key=3319b3ca5cd6f0af2f3d4bd9a7630a8b",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
             },
             {
-                "name": "SKY FORMULA 1",
-                "url": "http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7342/index.m3u8",
-                "icono": "https://i.postimg.cc/FR3Dxvhc/SKYSPORTS.png",
+                "name": "SKY Evento 1",
+                "url": "https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd",
+                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=002046c9a49b9ab1cdb6616bec5d26c3&key=d2f92f6b7edc9a1a05d393ba0c20ef9e"
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a3636a51227fa338cdddf5892d8a621c&key=1444ee3c4d08bf39454b914f797968eb",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
             },
+            {
+                "name": "SKY Evento 2",
+                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT2HD/default.mpd",
+                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7239a58fb7388b222a834d549bf18d8f&key=8b04a883e88dbdebc43673d998ea1cb2",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "SKY Evento 3",
+                "url": "https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT3HD/default.mpd",
+                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=561a21ad50f806b77d328dedbe59f93e&key=edf3e70cc9de81a73e2a00fe9c0611a8",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "SKY Evento 4",
+                "url": "https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT4HD/default.mpd",
+                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a931b2e953695ffb0cfd38573e97ba33&key=4ddd99cc4fb168d7f0e20be8a3287100",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "SKY Evento 5",
+                "url": "https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd",
+                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c89e84c52eae0428b7d2c8e887a48ec&key=758a1484f920a0f1aa73e95d5f2be225",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "SKY Evento 6",
+                "url": "https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT6HD/default.mpd",
+                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ec7229067cde06e0bedaa0d71ec0c974&key=da03b65d333e74aaae446211a83c7595",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "SKY Evento 7",
+                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd",
+                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d9e3024854648dd01714f781c1492c4c&key=9404541975d298f6787c591d2cc871b1",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "SKY Evento 8",
+                "url": "https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd",
+                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53781c79161716b27ddfa70a8671cb9a&key=ec747fe222e238a6511202ce89a03df1",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+           
 
  {
                 "name": "TNT ES",
