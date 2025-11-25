@@ -1032,6 +1032,65 @@
                     ],
                     "tmdb_id": 261615,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Un hombre infiltrado",
+                    "genero": "Comedia, Crimen",
+                    "descripcion": "Un exprofesor especializado en fisgonear recibe una nueva oportunidad en la vida cuando una detective privada lo contrata para infiltrarse y resolver un caso.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5oPsWjIhXcJhrR1EIMt4Qg9YteC.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xRT8o1Tj7EdstCH7f2Ham4ugCFI.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/6EObfIe4akZGvCLXwXLJw3kPitQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El viejo topo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BB0AECF4E5894DE2AAE8D56F3D64138A_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El hombre que sabía demasiado sobre puentes",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A4B73D386F794135A2FE957C28051590_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Emily siempre llama dos veces",
+                                    "url": "http://goovdme.967sd1f.homes/vod/17C2D5127B59486DAD32F7DCF603E295_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El curioso incidente del perro en la clase de pintura",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/93506F831482465589DB1315C9D3199E_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Regalo inminente",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/AAAC6FE7122C46ADBEFD323130CFE828_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Nuestro hombre en Sacramento",
+                                    "url": "http://goovdme.967sd1f.homes/vod/53D49DF91028431CAD9257630A8E2905_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Desde Russian Hill con amor",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A2CBE90C41A64F18B88BA602B6C38F26_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El espía que surgió del frío",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/415CF6569A454379AECFAB3BCDF47090_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 245312,
+                    "total_seasons": 2
                 }
             ]
         },
