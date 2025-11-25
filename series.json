@@ -11074,6 +11074,60 @@
                     ],
                     "tmdb_id": 283392,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Encantado de no conocerte",
+                    "genero": "Comedia",
+                    "descripcion": "Wi Jeong-sin, una respetada periodista política, se ve obligada a cubrir el mundo del espectáculo. Allí conoce a Lim Hyeon-jun, un actor en decadencia. Entre el caos de los bastidores, los nuevos comienzos y las sorpresas, surge un romance improbable, divertido y lleno de química.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/fgAyZ4XjHhCNij3MSVbPn83GxZF.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rzBSOFKqayEEIUwZJyWcg3Fb1th.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fc4Shbli2S1BwUgoTjvP3BIM9VX.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/47D2C38B09E84D6CB2F7C981A455A147_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2FDD367CB384489B906017E6489BD355_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F7E811FE31A64239BEF93354ED25F369_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/98844BB52EF94775B266A7432854007C_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2E0F7759B814466F9E94DC91EE1B818A_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/56E48197CCF34AF3AFAE0177CF57CB15_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/23C21F714AF44DCAA95B72542512621A_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 285770,
+                    "total_seasons": 1
                 }
             ]
         },
