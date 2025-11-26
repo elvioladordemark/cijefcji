@@ -6218,6 +6218,40 @@
                     ],
                     "tmdb_id": 94954,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "The Mighty Nein",
+                    "genero": "Animación, Sci-Fi & Fantasy",
+                    "descripcion": "Un grupo de marginados, criminales e inadaptados se ven abocados a salvar el continente cuando una reliquia arcana capaz de remodelar la realidad cae en manos equivocadas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/tJI9NWgiai2tKK9u8izipif4gBc.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/cF28H7rYYz88y6ZspNIrU1wlvZH.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Una pizca de posibilidad",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C163EEA58B834E3B9DD18491A5F5910E_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¿Quién vas a ser?",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/46DA6A8D7876444BA360168FB6AB2F92_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El festival ambulante de curiosidades de Fletching y Moondrop",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F8A2ACCB4BDA46B7B73CCAA54A32D595_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 219080,
+                    "total_seasons": 1
                 }
             ]
         },
