@@ -7060,6 +7060,20 @@
             },
             {
                 "name": "STAR CHANNEL",
+                "url": "https://cdnlb.gigared.com.ar/live/eds/Star_Channel/sa_live_dash/Star_Channel.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ba8e3594a2280a1f0b749d66dccfab99&key=efa66c01f0e96775398994f1754be46b",
+                "icono": "https://i.ibb.co/McNjFxY/bb50999fb2860f8760ef4b22ef8bf09e.jpg",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+			
+			
+			{
+                "name": "STAR CHANNEL",
                 "url": "https://edge-live02-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY0MjQ5NzUyIiwic2lwIjoiMTg2LjE1OC4yMDAuMjM5IiwicGF0aCI6Ii9saXZlL2M1ZWRzL0M5Tl9DNC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI5YzRmODM5YWI1YmZiZDRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjk3Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.JMGU6KsHnQsx2vTGgC7GjWO4K4QCbU4Itpv20WH8bCGHfW2CUEplQ8yIMnc2lSqgnTrrRrX7X1GHaDflI-r3EA==/live/c3eds/FOXHD/SA_Live_dash_enc_C/FOXHD.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/vkno7tzenuiuubs0lwh3d/starchannel.json?rlkey=po1pr47pohyql2ntjdforl6rl&st=m2le4iqd&dl=0",
