@@ -7060,7 +7060,7 @@
             },
             {
                 "name": "STAR CHANNEL",
-                "url": "https://cdnlb.gigared.com.ar/live/eds/Star_Channel/sa_live_dash/Star_Channel.mpd",
+                "url": "https://cdn03.gigared.com.ar/live/eds/Star_Channel/sa_live_dash/Star_Channel.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ba8e3594a2280a1f0b749d66dccfab99&key=efa66c01f0e96775398994f1754be46b",
                 "icono": "https://i.ibb.co/McNjFxY/bb50999fb2860f8760ef4b22ef8bf09e.jpg",
