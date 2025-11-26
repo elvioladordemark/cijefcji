@@ -22440,6 +22440,65 @@
                     ],
                     "tmdb_id": 245219,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Cromanon: La noche del incendio",
+                    "genero": "Drama",
+                    "descripcion": "Corre el año 2008. Una noticia conecta a Malena, de 22 años, con su traumático pasado. En 2004, asistió a un concierto de rock en el local República de Cromañón, donde se produjo un incendio y murieron 194 jóvenes. Ahora, cuatro años después, un nuevo suceso la vinculará con amores y amistades pasadas, ayudándola a superar la culpa que siente por estar viva.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/wtXOuppX3yCOFTJeeJpUmfw4rFa.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sHwGSijlzGtv8dM2FIlxG41XG8b.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ppAfmqEsQ9jiNAQvBuIvHwX3Ktd.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1A47CFB42DD746C3922B62615A01CEF4_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/030695E720E04A2AB0F99CF63C7E4E3D_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4C9254ACB6474D86B0150BF7A1E5BD85_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A5663D232DA0430FAAABD12A29D53DBD_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/760734C470E04D38A923E06BF620D485_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/FAE34B8AFE674DCC833BDE9AB7C31A11_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/52593E21587B47CEA8EACE1FE75FEBB7_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F857F51F03624E1D8555249D39964D93_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 275677,
+                    "total_seasons": 1
                 }
             ]
         },
