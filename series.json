@@ -22926,6 +22926,45 @@
                     ],
                     "tmdb_id": 98201,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "La chica de antes",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Jane tiene la oportunidad de mudarse a una preciosa casa minimalista diseñada por un enigmático arquitecto, pero con una condición: debe cumplir la exigente lista de normas de su dueño.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4X33UtgCZk3yhUi6IpYjiEVuas8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/11FAvHhce6xrMqgumguAVZWmvSI.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tvXebdBI5LTQ52brqkF15teS4W5.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/83C9AA88CF3E49E5B98673181D86CE3B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8FDB3076113D4CA1B099E76FE9BB6D6C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/9EF7B6415CEA4180A5BA8CEFEAEB5587_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BB4DCDD10FDD41F2B988C0AD42CF9C21_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 152365,
+                    "total_seasons": 1
                 }
             ]
         },
