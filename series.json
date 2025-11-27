@@ -22965,6 +22965,65 @@
                     ],
                     "tmdb_id": 152365,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Clickbait",
+                    "genero": "Drama, Crimen, Misterio",
+                    "descripcion": "Ocho puntos de vista diferentes aportan pistas sobre el responsable de un brutal crimen alimentado por las redes sociales.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4FdGaXGE25JrTwA5xsSE89MkWhl.png",
+                    "icono": "https://image.tmdb.org/t/p/original/igILG72fleSQEQscnF985ndkVNi.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2CIpC7glUacb1urK8Rdr6O2rZnc.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La hermana",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8F679CBB31B54ECCBC7720F4F3215153_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El inspector",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1347892860A14590AFE9D539C5B60F78_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La esposa",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/973E84B9E1F143B39E549794DE108D72_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La amante",
+                                    "url": "http://goovdme.967sd1f.homes/vod/09ADCA019C9B4AEAAC7F3CABD81CA86C_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El periodista",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B79C1DFA79EE403A8AE9F333B8563A42_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El hermano",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6E083F96CB9A4989A39A9D624292FA16_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El hijo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5843D69C65674725809DA372378F275F_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La respuesta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/44330EE626654B068B73ADE6E863A550_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 129495,
+                    "total_seasons": 1
                 }
             ]
         },
