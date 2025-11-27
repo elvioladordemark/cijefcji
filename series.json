@@ -4443,6 +4443,50 @@
                     ],
                     "tmdb_id": 158155,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Los crimenes de Åre",
+                    "genero": "Drama, Crimen, Misterio",
+                    "descripcion": "Una policía de Estocolmo sometida a una investigación interna se va a una estación de esquí para desconectar, pero la desaparición de una chica la obliga a volver al trabajo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/k5Z7K2XCSWDtcbHQauomI5rdWK8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/lMmD68IHT4XnWMXEmoC4hrbzMfN.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/mQqJNXIBDCWXgTmwvJV7kEgnDpW.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Oculto en la nieve: parte 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EB5D8C5E00A24B36BFDE7B702E3A297E_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Oculto en la nieve: parte 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/16CA2F0CD7194E788A9AA7F0F552FE5C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Oculto en la nieve: parte 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FC3A33DCC5304054A29A653B929F5DA8_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Oculto en las sombras: parte 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A889716D7D0E4BCC98957B4B918CD54A_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Oculto en las sombras: parte 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E3F20849028D465592D12E5DEF599F20_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 224021,
+                    "total_seasons": 1
                 }
             ]
         },
