@@ -18,7 +18,20 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
                 }
             },
-					 
+					  
+			
+			{
+                "name": "M.LA LIGA EVENTOS⚽",
+                "url": "https://s3.dualstack.us-east-2.amazonaws.com/cam.edu//hls/1080p/playlist.m3u8?token=xs61bcufevk",
+                "icono": "https://i.postimg.cc/Hs6Q5q2z/download-(93).jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://epicplayplay.cfd",
+                    "Referer": "https://epicplayplay.cfd/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+                }
+            },
+				
 
 			 ]
     },
