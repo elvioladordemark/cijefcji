@@ -7476,100 +7476,92 @@
     {
         "name": "PACK HBO IZZIGO🎥",
         "samples": [
-            {
+ {
                 "name": "HBO",
-                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOHD/default.mpd",
+                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOHD/default.mpd",
+                "icono": "https://i.postimg.cc/y8yWnQpk/HBO.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=df18f6a05bab28d89e5dc01d88f4deb8&key=baceb525467c0db22ba83090616c1ad0",
-                "icono": "https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Chrome/61.0.3163.100"
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
                 }
             },
             {
                 "name": "HBO 2",
-                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2HD/default.mpd",
+                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBO2HD/default.mpd",
+                "icono": "https://i.postimg.cc/QxLtDGR7/HBO2.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=09e84fc7ecb71def143cd7e2771f3b35&key=1a91f2d315fb0593321ba60aa783ec2c",
-                "icono": "https://logowik.com/content/uploads/images/hbo-2-hd-nl3042.logowik.com.webp",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
                 }
             },
             {
-                "name": "HBO XTREME",
-                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc8d4369fcff86db765db82356b4797c&key=8a7e801dbc275e3f4e1f43cba648906a",
-                "icono": "https://static.wikia.nocookie.net/newlogosfake/images/a/ad/HBOXtremeLA2020.png/revision/latest/scale-to-width-down/284?cb=20200116151733",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "HBO FAMILY",
-                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOFAMILYHD/default.mpd",
+                "name": "HBO Family",
+                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOFAMILYHD/default.mpd",
+                "icono": "https://i.postimg.cc/7hJychHD/HBOFAMILY.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b15c86e64344e8802b06b806957c5&key=114983add26911b589595d931b505ca5",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/2/22/HBO_Family.svg/revision/latest/scale-to-width-down/250?cb=20231013193315",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
                 }
             },
             {
-                "name": "HBO SIGNATURE",
-                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOSIGNATUREHD/default.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5782156290f035ef28ae66cca252eedd&key=10d8bb6d9f9852747298487ab3c4afa3",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "HBO MUNDI",
-                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOMUNDIHD/default.mpd",
+                "name": "HBO Mundi",
+                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOMUNDIHD/default.mpd",
+                "icono": "https://i.postimg.cc/dQfsBPsJ/HBOMUNDI.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ba4052ca5eb6f8ff6b98d47d098b2dec&key=bb3e4bfa1821d2bdc25c9a0970e4e3b8",
-                "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
                 }
             },
             {
-                "name": "HBO POP",
-                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOPOPHD/default.mpd",
+                "name": "HBO Plus",
+                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOPLUSHD/default.mpd",
+                "icono": "https://i.postimg.cc/d3fVkg1s/HBOPLUS.png",
                 "type": "CLEARKEY",
-                "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bcf36f412fa3d735cea04f7443fbf77c&key=6ff29fb2d6b7d825eb06004650a0a4ea",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "HBO PLUS",
-                "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOPLUSHD/default.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=861ab989089891d84ad0da296954437c&key=3bdf94f9fc1888529f8d27d070d38566",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "HBO Pop",
+                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOPOPHD/default.mpd",
+                "icono": "https://i.postimg.cc/g282jSP2/HBOPOP.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bcf36f412fa3d735cea04f7443fbf77c&key=6ff29fb2d6b7d825eb06004650a0a4ea",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "HBO Signature",
+                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOSIGNATUREHD/default.mpd",
+                "icono": "https://i.postimg.cc/N0R2hG0L/HBOSIGNATURE.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5782156290f035ef28ae66cca252eedd&key=10d8bb6d9f9852747298487ab3c4afa3",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "HBO Xtreme",
+                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd",
+                "icono": "https://i.postimg.cc/bvfdRXRc/HBOXTREME.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc8d4369fcff86db765db82356b4797c&key=8a7e801dbc275e3f4e1f43cba648906a",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
                 }
             }
 
