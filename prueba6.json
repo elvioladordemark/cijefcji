@@ -167,6 +167,16 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
+			{
+                "name": "ESPN Premium PRUEBA",
+                "url": "https://broker.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd",
+                "icono": "https://weiss.mc.rocstar.tv/sb/image/49911746",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://tv.onpower.com.ar",
+                    "Referer": "https://tv.onpower.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+                },
            {
                 "name": "ESPN M3U8 OPCION",
                 "url": "http://45.5.151.251:8000/play/a00g/index.m3u8",
