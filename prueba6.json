@@ -32,13 +32,13 @@
                 }
             },
 			{
-                "name": "ATL. MADRID VS BARCELONA",
-                "url": "https://4we2grma8pz.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlViGXOH0GCxlAEP6lDWq9_r52clAFnHkdtkPQLwSYSMFnxgB256AwU9E-NK16PSep8Mrblxmvn9bcPYJDu1GhbNdkOwf138ZHzmqlmRdd3iiwc-FOIoANvjzP8nzj4F-A4yip3NHmR8dEImgG4_mrdLuhjLERRFPwy8od7qO3ujwFIog7Q8gqhwC4V10/s1600/Barcelona%20X%20Atletico%20Madrid%202.png=w801-h443-p-k-no-nu",
+                "name": "São Paulo VS Internacional",
+                "url": "https://d1muf25xa12so8hp04.s27-usa-cloudfront-net.online/token/5cf71265609d9b721bbca349ae89e222/premiere2.m3u8",
+                "icono": "https://i.postimg.cc/FsBcZWHM/download-(96).jpg",
                 "type": "HLS",
                 "headers": {
-                    "Origin": "https://mk9rgamb2fq.s3.us-east-1.amazonaws.com",
-                    "Referer": "https://mk9rgamb2fq.s3.us-east-1.amazonaws.com/",
+                    "Origin": "https://embed.futemax.giving",
+                    "Referer": "https://embed.futemax.giving/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
             }
