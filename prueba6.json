@@ -41,6 +41,18 @@
                     "Referer": "https://embed.futemax.giving/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
+            },
+
+			{
+                "name": "Atlético-MG VS Palmeiras",
+                "url": "https://d1muf25xa12so8hp04.s27-usa-cloudfront-net.online/token/fe476a1e2b0d9b0e44cd0b9a1493c5b0/premiere4.m3u8",
+                "icono": "https://i.postimg.cc/x1XVBRSQ/download-(97).jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://embed.futemax.giving",
+                    "Referer": "https://embed.futemax.giving/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
             }
 				
 
