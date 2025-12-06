@@ -28,67 +28,6 @@
                     "Referer": "https://elverruca.tech/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
                 }
-            },
-
-			  {
-                "name": "Cruzeiro x Botafogo⚽",
-                "url": "https://d1muf25xa12so8hp05.s27-usa-cloudfront-net.online/token/a836284a3aa88e17e99e3d74ba9adc19/premiere.m3u8",
-                "icono": "https://i.postimg.cc/MHcMtNKz/download-(98).jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://wageslime.net",
-                    "Referer": "https://wageslime.net/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
-                }
-            },
-				
-					  
-			
-			{
-                "name": "Mirassol X Flamengo ⚽",
-                "url": "https://d1muf25xa12so8hp07.s27-usa-cloudfront-net.online/token/d526b042453734ae56931f2297a12965/primevideo.m3u8",
-                "icono": "https://i.postimg.cc/C1nfY5YN/download-(100).jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://embed.futemax.giving",
-                    "Referer": "https://embed.futemax.giving/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
-			{
-                "name": "São Paulo VS Internacional",
-                "url": "https://d1muf25xa12so8hp04.s27-usa-cloudfront-net.online/token/5cf71265609d9b721bbca349ae89e222/premiere2.m3u8",
-                "icono": "https://i.postimg.cc/FsBcZWHM/download-(96).jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://embed.futemax.giving",
-                    "Referer": "https://embed.futemax.giving/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
-
-			{
-                "name": "Atlético-MG VS Palmeiras",
-                "url": "https://d1muf25xa12so8hp04.s27-usa-cloudfront-net.online/token/fe476a1e2b0d9b0e44cd0b9a1493c5b0/premiere4.m3u8",
-                "icono": "https://i.postimg.cc/x1XVBRSQ/download-(97).jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://embed.futemax.giving",
-                    "Referer": "https://embed.futemax.giving/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
-
-			{
-                "name": "Atlético-MG VS Palmeiras",
-                "url": "https://s3.dualstack.us-east-2.amazonaws.com/cam.edu//hls/1080p/playlist.m3u8?token=mk69kassnx",
-                "icono": "https://i.postimg.cc/x1XVBRSQ/download-(97).jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://epicplayplay.cfd",
-                    "Referer": "https://epicplayplay.cfd/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
             }
 				
 
