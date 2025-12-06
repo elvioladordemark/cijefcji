@@ -8,13 +8,13 @@
         "samples": [
         
 			  {
-                "name": "Cruzeiro x Botafogo⚽",
-                "url": "https://d1muf25xa12so8hp05.s27-usa-cloudfront-net.online/token/a836284a3aa88e17e99e3d74ba9adc19/premiere.m3u8",
-                "icono": "https://i.postimg.cc/MHcMtNKz/download-(98).jpg",
+                "name": "Inter Miami vs Whitecaps⚽",
+                "url": "https://w5g72ckg9.s3.us-east-1.amazonaws.com/live/stream13/index.m3u8",
+                "icono": "https://i.postimg.cc/NFhKFFn3/download-(99).jpg",
                 "type": "HLS",
                 "headers": {
-                    "Origin": "https://embed.futemax.giving",
-                    "Referer": "https://embed.futemax.giving/",
+                    "Origin": "https://elverruca.tech",
+                    "Referer": "https://elverruca.tech/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
                 }
             },
