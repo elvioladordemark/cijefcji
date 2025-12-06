@@ -7,6 +7,17 @@
         "name": "SOLO EVENTOS",
         "samples": [
         
+			{
+                "name": "Mirassol X Flamengo ⚽",
+                "url": "https://d1muf25xa12so8hp07.s27-usa-cloudfront-net.online/token/d526b042453734ae56931f2297a12965/primevideo.m3u8",
+                "icono": "https://i.postimg.cc/C1nfY5YN/download-(100).jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://embed.futemax.giving",
+                    "Referer": "https://embed.futemax.giving/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
+            },
 			  {
                 "name": "Inter Miami vs Whitecaps⚽",
                 "url": "https://w5g72ckg9.s3.us-east-1.amazonaws.com/live/stream13/index.m3u8",
@@ -34,9 +45,9 @@
 					  
 			
 			{
-                "name": "Juventude VS Santos⚽",
-                "url": "https://d1muf25xa12so8hp04.s27-usa-cloudfront-net.online/token/f1d6a74e7f40c4820fabd26dd574e958/primevideo.m3u8",
-                "icono": "https://i.postimg.cc/0QWbcj04/Crt-KMf-F.png",
+                "name": "Mirassol X Flamengo ⚽",
+                "url": "https://d1muf25xa12so8hp07.s27-usa-cloudfront-net.online/token/d526b042453734ae56931f2297a12965/primevideo.m3u8",
+                "icono": "https://i.postimg.cc/C1nfY5YN/download-(100).jpg",
                 "type": "HLS",
                 "headers": {
                     "Origin": "https://embed.futemax.giving",
