@@ -9,7 +9,7 @@
         
 			{
                 "name": "CEARA VS PALMEIRAS 16:00 HS ⚽",
-                "url": "https://d1muf25xa12so8hp07.s27-usa-cloudfront-net.online/token/d526b042453734ae56931f2297a12965/primevideo.m3u8",
+                "url": "https://d1muf25xa12so8hp08.s27-usa-cloudfront-net.online/token/9cae97e63640528d099e23f19637e1e0/record.m3u8",
                 "icono": "https://i.postimg.cc/t4qh2t6Z/download-2025-12-07T140339-020.jpg",
                 "type": "HLS",
                 "headers": {
@@ -20,8 +20,20 @@
             },
 	{
                 "name": "BOTAFOGO VS FORTALEZA 16:00 HS ⚽",
-                "url": "https://d1muf25xa12so8hp07.s27-usa-cloudfront-net.online/token/d526b042453734ae56931f2297a12965/primevideo.m3u8",
+                "url": "https://d1muf25xa12so8hp08.s27-usa-cloudfront-net.online/token/187e6dbf5f008f09ca2b22f97299d4e8/globorj.m3u8",
                 "icono": "https://i.postimg.cc/brRZtW3H/images-(12).jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://embed.futemax.giving",
+                    "Referer": "https://embed.futemax.giving/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
+            },
+
+				{
+                "name": "SANTOS VS CRUZEIRO 16:00 HS ⚽",
+                "url": "https://d1muf25xa12so8hp08.s27-usa-cloudfront-net.online/token/c32cec575338f03bb0039d8d80b19425/premiere6.m3u8",
+                "icono": "https://i.postimg.cc/dtSKQvYd/download-2025-12-07T144658-707.jpg",
                 "type": "HLS",
                 "headers": {
                     "Origin": "https://embed.futemax.giving",
