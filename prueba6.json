@@ -4946,17 +4946,7 @@
   {
     "name": "🇧🇷CANALES DE BRASIL",
     "samples": [
-         {
-        "name": "A&E PRUEBA",
-        "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=rdc-space",
-        "type": "HLS",
-        "icono": "https://i.postimg.cc/tgCLHFv1/download-69.jpg",
-        "headers": {
-          "Referer": "https://streamrdc.xyz/",
-          "Origin": "https://streamrdc.xyz",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
-      },
+        
 		
 		{
         "name": "TOP TV BR",
@@ -5032,7 +5022,7 @@
 		
       {
         "name": "GLOBO SP",
-        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/286.m3u8",
+        "url": "http://weib-tv-play.xyz:80/EstoEsTv/98tnQmKnWJ/195322.ts",
         "type": "HLS",
         "icono": "https://i.postimg.cc/NjxJvTL9/download-17.jpg",
         "headers": {
