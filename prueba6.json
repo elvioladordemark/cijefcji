@@ -4971,7 +4971,18 @@
     "name": "🇧🇷CANALES DE BRASIL",
     "samples": [
         
-		
+		 {
+                "name": "STUDIO UNIVERSAL",
+                "url": "https://0115-tbx.vrioott.com/studiouniversal/manifest.mpd",
+                "icono": "https://www.digital-myc.com/caelum/img/studiouniversal.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/STUDIO.UNIVERSAL.BRASIL.json",
+                "headers": {
+                    "origin": "https://www.skymais.com.br",
+                    "agente": "okhttp/4.12.0",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+                }
+            },
 		{
         "name": "TOP TV BR",
         "url": "https://isaocorp.cloudecast.com/toptv/index.m3u8",
