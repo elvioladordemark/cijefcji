@@ -1115,6 +1115,75 @@
                     ],
                     "tmdb_id": 0,
                     "total_seasons": 0
+                },
+                {
+                    "nombre": "Landman: Un negocio crudo",
+                    "genero": "Drama",
+                    "descripcion": "Ambientada en las proverbiales ciudades en auge del oeste de Texas, se trata de un drama sobre la búsqueda de la fortuna en el mundo de las plataformas petrolíferas basada en el podcast 'Boomtown', una historia de clases, con matones y multimillonarios salvajes que impulsan un boom tan grande que está cambiando nuestro clima, nuestra economía y nuestra geopolítica.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/wx0mQPv5C41Vo35Nw7Br8gUgi3N.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hGbYOuUVoxfXa96pmNLFJ9a7U5T.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/q71au2YjcwXBMZKNzNgjK7RZ3Hs.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Landman: Un negocio crudo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/71DD8C5A7BD24D239ACCCB8E17580BC5_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Soñadores y perdedores",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AA49FEF1A3E04341A03076A01696E803_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Un jardín en el infierno",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6FF8697C69694CF0B89D5EBCEF9F6956_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El aguijón de las segundas oportunidades",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/37BF81DBFA4F41FEB240BA59059660AE_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Donde está el hogar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9AC4059AE91142D8910E1FFD23736B37_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Cuidado con el segundo golpe",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/91BEE29356DB4A298A31B8C0BBB6DCCB_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Todos los caminos conducen a un hoyo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/10130FF78DA54C2EBEFC341172989422_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Complicada, esta vida",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F3D2B41418B64853A6003009BC288A46_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Wolfcamp",
+                                    "url": "http://goovdme.967sd1f.homes/vod/77783CDF36524CD1A9C0055C257CEA30_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Las migajas de la esperanza",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A110C11629E34B06B3B311FB9A7D966D_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 157741,
+                    "total_seasons": 2
                 }
             ]
         },
