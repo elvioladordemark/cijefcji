@@ -23182,6 +23182,65 @@
                     ],
                     "tmdb_id": 129495,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Estado de fuga 1986",
+                    "genero": "Drama",
+                    "descripcion": "La amistad entre León y Jeremías, unida por la literatura, se rompe cuando uno de ellos comete un acto de violencia imperdonable en Bogotá.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/kYPxotZDEP4zzQIP1MtB0A4I1mD.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qSMv90pF9WbWyQAfKTjr0qUc1rq.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fjBULwisk7UjLkQYMDNdemCEYM6.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5468CEACAD6747EFAF6F8CD50E9B0B25_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/560627AF633F4173956BC8D1FAEB915F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/246D5B7D26534B229732BED21551D382_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/432A797470DB4D4A9289692891379ADF_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/117AFBCFCC0F4E81A8F00799C45DA653_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/68F8037B830849D291DFC3C31D8AEFE5_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1D8120068DD14EC681DF7589D2F11101_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/12424AE81DD74CC7838191F41AC6BC1E_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 297492,
+                    "total_seasons": 1
                 }
             ]
         },
