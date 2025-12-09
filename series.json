@@ -7229,6 +7229,55 @@
                     ],
                     "tmdb_id": 83685,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "28 Días Paranormales",
+                    "genero": "Reality",
+                    "descripcion": "Tres equipos pasan 28 días cada uno en algunos de los lugares más embrujados de EE. UU. para un experimento paranormal basado en las teorías de Ed y Lorraine Warren.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3wzPQxLMtQBMs7YIDCJP6yW7jjf.png",
+                    "icono": "https://image.tmdb.org/t/p/original/AqcHMbvN4lkYUXKNalOxOFe025K.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/6ESvUtiCv3XqJRTU9d32I4R0Ckq.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Día uno",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AE729723665B48AFB6A2B4F29C6ECBF2_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¡Sal!",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/327BF44191B149EA997CADE066CE2DBD_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Me voy",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B930A020769A46A8A8FB0EE4F8240D5C_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El despertar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D7FE96C8538844F5B84F3827E3D6BF67_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Los problemas pueden causar...",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C82C33ECFB6D4DAFA88C6EB84934249A_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Traspasar el mundo espiritual",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8F4924FD59BD4170B10DD334A544DA9B_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 210922,
+                    "total_seasons": 1
                 }
             ]
         },
