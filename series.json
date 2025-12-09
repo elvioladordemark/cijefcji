@@ -11456,6 +11456,35 @@
                     ],
                     "tmdb_id": 285770,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Pro bono",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Un juez insigne cuya vida cambia de la noche a la mañana se suma al equipo de asistencia jurídica gratuita en un selecto bufete. Allí, la esperanza aflora en lugares insospechados.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ftAa3JyDmB2PEkg4YweyFcDaP41.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sNGKN7Nvdi85gj75pnSvqzMF3MC.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/491FC32DAF1645E1AA3186FF96C15048_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7C9B0B3B0C544A5E84A588DC0E17A1C8_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 284744,
+                    "total_seasons": 1
                 }
             ]
         },
