@@ -7160,6 +7160,75 @@
                     ],
                     "tmdb_id": 54671,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Penny Dreadful: City of Angels",
+                    "genero": "Sci-Fi & Fantasy, Drama, Crimen, Misterio",
+                    "descripcion": "Enraizada en el conflicto entre los personajes relacionados con la deidad Santa Muerte y otros aliados con el Diablo, esta nueva saga explora una mezcla emocionante de la realidad sobrenatural y combustible de Los Ángeles de 1938, un tiempo y lugar profundamente infundido con el folklore mexicano-estadounidense y tensión social.",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/aPEl7PGgqMz30xyY8wNKNG1hYPW.png",
+                    "icono": "https://image.tmdb.org/t/p/original/w8lrENZZBMHTUpXNUlxt81Ks7G2.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/43z4F6CFzzn99yYESg7O9lI3TEi.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Santa Muerte",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/D289C87E984649D7B90247EA16AC2359_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Yacen los muertos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/66BEEA5813CE431FBA4F7C118EF3CDDA_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Malvado viejo mundo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A7E48CFFCE8A420BBAD806D0D144EE14_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Josefina y el Espíritu Santo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3B411A86D17841B18121CE0EEEE5204D_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Hijos del gran sol",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3E0CA0CA2293458F97967760FB877FAF_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Cosas de hermanos",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/8931B3620D4B4B22AE2B0109D0881A19_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "María y la bestia",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/64E8B37833E64C0EBFDB813E54DF6A2C_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Escondite",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/95D29920E93A448DAC589201B1792368_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Canta, canta, canta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/14750491732E4761BA9AB4A4E04FB3BC_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Día de los muertos",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/4DED0E8251D4482B9815317C0D4225AA_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 83685,
+                    "total_seasons": 1
                 }
             ]
         },
