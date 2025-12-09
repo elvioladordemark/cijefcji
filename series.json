@@ -23302,6 +23302,60 @@
                     ],
                     "tmdb_id": 297492,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Los abandonados",
+                    "genero": "Western, Drama",
+                    "descripcion": "En los Estados Unidos de 1850, dos familias de distinta clase social encabezadas por sus valerosas matriarcas luchan por la supremacía en una tierra sin ley.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gQ1FVl4oN3t6Dfcy8qLahenayLe.png",
+                    "icono": "https://image.tmdb.org/t/p/original/wZScARSgDCrGuqXTqHQvKBgz2Lt.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/Amaws3yNGpjl8lD2KfhaJHYKrZ2.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Huérfanos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1A9090E7F7644AE086B53C17457A5698_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La cacería",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8F53C455BF804B43A634788E99082D35_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Triaje",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5D0EF024A4DB41C499EFCFB173FA94E7_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El papel de una madre",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/3178292EE55C4AADAEABADB91040C17F_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Los Joaquines",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/D673498DDFE048669EBCF23FA41AD6EB_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Devoción y rabia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1480F1F11DF14B0EA2DB770DF31CE71D_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Esto me iba a traer paz",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F97284322F06423F9D70D5AA1832700B_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 223300,
+                    "total_seasons": 1
                 }
             ]
         },
