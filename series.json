@@ -6994,6 +6994,65 @@
                     ],
                     "tmdb_id": 258306,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Penny Dreadful",
+                    "genero": "Sci-Fi & Fantasy, Drama, Misterio, Action & Adventure",
+                    "descripcion": "Penny Dreadful es una serie de televisión estadounidense de horror y suspense, creada y escrita por John Logan junto con Sam Mendes para el canal Showtime. La serie entrelaza los orígenes de famosos personajes literarios de terror, como el Dr. Frankestein, Dorian Gray, Jack el Destripador o Drácula, que atacan con su monstruosa alienación en el Londres de la época victoriana.",
+                    "anio": "2014",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4tp4K58Fv5MczJ8affiBhhcHhJq.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hQSdrXBYTbLGHYDIseHkBOPXTgL.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/YaEysC5AozSW00zBt4NWrR4nOb.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Novelitas de terror",
+                                    "url": "http://goovdme.967sd1f.homes/vod/056AA9990A074C16BD6099E326427364_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sesión espiritista",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/223E6D7FFBFE453F8E15B062FA986355_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Resurrección",
+                                    "url": "http://goovdme.967sd1f.homes/vod/25B3E0EC848645C8ACDA92853C5F17AA_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Los marginales",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2B5C08EB4EE642DE8B271003BF382B04_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Más que hermanas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/ED5070AC829741F3956E7F9ADAA201A3_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Lo que la muerte puede juntar",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/8D7728E605DE42E387010DE1472B57E6_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Posesión",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/E2B50A98F00B4DD7AF5304A62D6B2F5E_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El gran guiñol",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E2795F3F32BD47569FBE7CC53B0674E7_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 54671,
+                    "total_seasons": 3
                 }
             ]
         },
