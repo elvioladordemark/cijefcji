@@ -24110,6 +24110,65 @@
                     ],
                     "tmdb_id": 259730,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Regreso al pueblo",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Dos hermanos separados y un amigo encuentran una fortuna robada, lo que desencadena un arriesgado juego en el que la lealtad y la supervivencia chocan mientras persiguen sueños que cambian sus vidas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/wkuXE2qAppgk1lTnMqEQKNZejGb.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xQDhcWhq0fl89oyo0Jve6hJjOe2.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/gYSE4tc6Cl9eZ3p8md2y9j2NI2w.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D50B2727FE7C45298152CB7D20F48A0B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1296A4A3FAF046198E94125682D58B1C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/60807399793B4DCD83EFD2274F6ABABD_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/9804E9108F3C4DE08084C3998BF1C56A_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6B6C39FC139541C083DDC78C8E61D331_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5C834FA307074E81B3129711C2B22F7F_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/8410A593250B445F8A9FA3E01D043D96_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5510E0C3C21C4474B5E738B696AB3502_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 278100,
+                    "total_seasons": 1
                 }
             ]
         },
