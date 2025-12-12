@@ -773,6 +773,45 @@
                     ],
                     "tmdb_id": 244571,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "El hombre contra el bebe",
+                    "genero": "Comedia, Familia",
+                    "descripcion": "¡Hacer de padre no es su fuerte! A pocos días de Navidad, el cuidador de un lujoso ático de Londres se topa con un gran contratiempo... lidiar también con un bebé abandonado.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/d4K5KERwxrAtBEc8FWe8X40Ak4i.png",
+                    "icono": "https://image.tmdb.org/t/p/original/dkG5u99wOpZDQuzs5MA29mi9o9N.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Capítulo 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F2E19F2E2876427C988509856C8CDB64_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Capítulo 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AB18411971D949A98D7F04DC3402AE36_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Capítulo 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/25A5313983414242BC4FF386E1396EDA_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Capítulo 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B1BA3B1B3260485196A17AB9B220C00A_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 279601,
+                    "total_seasons": 1
                 }
             ]
         },
