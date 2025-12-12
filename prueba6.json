@@ -18,6 +18,18 @@
                 }
             },
 
+			{
+                "name": "Union Berlin X RB Leipzig EN VIVO⚽",
+                "url": "https://bhzqcb.6670391863.store:8443/hls/a31q9.m3u8?s=eoQl7r-SnkkCieoF8dvyBA&e=1765600060",
+                "icono": "https://i.postimg.cc/bwH1jvYh/images-(13).jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://storytrench.net",
+                    "Referer": "https://storytrench.net/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
+            },
+
 			
 			{
                 "name": "Liverpool VS  Brighton: SABADO 12:00 HS  ⚽",
