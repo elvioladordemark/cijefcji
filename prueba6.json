@@ -6,7 +6,19 @@
     {
         "name": "SOLO EVENTOS",
         "samples": [
-        
+{
+                "name": "Union Berlin X RB Leipzig EN VIVO⚽",
+                "url": "https://bhzqcb.6670391863.store:8443/hls/qyuasy56q-2356454340.m3u8",
+                "icono": "https://i.postimg.cc/bwH1jvYh/images-(13).jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://runginfect.net",
+                    "Referer": "https://runginfect.net/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
+            },
+
+			
 			{
                 "name": "Liverpool VS  Brighton: SABADO 12:00 HS  ⚽",
                 "url": "https://d1muf25xa12so8hp08.s27-usa-cloudfront-net.online/token/9cae97e63640528d099e23f19637e1e0/record.m3u8",
@@ -18,17 +30,7 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
             },
-	{
-                "name": "BOTAFOGO VS FORTALEZA 16:00 HS ⚽",
-                "url": "https://d1muf25xa12so8hp08.s27-usa-cloudfront-net.online/token/187e6dbf5f008f09ca2b22f97299d4e8/globorj.m3u8",
-                "icono": "https://i.postimg.cc/brRZtW3H/images-(12).jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://embed.futemax.giving",
-                    "Referer": "https://embed.futemax.giving/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
+	
 
 				{
                 "name": "SANTOS VS CRUZEIRO 16:00 HS ⚽",
