@@ -7334,6 +7334,65 @@
                     ],
                     "tmdb_id": 210922,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Archivo 81",
+                    "genero": "Drama, Misterio, Sci-Fi & Fantasy",
+                    "descripcion": "Mientras restaura unas cintas de vídeo dañadas, un archivista se ve envuelto en una misteriosa trama relacionada con la directora desaparecida y una secta demoniaca.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/awABHD9cVzne1ET22kc4F94ai3G.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rLgOasUfugmhshlhURKKULDEdrB.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7TYMho2TM6ZcqSv6YaEjlNIyhXn.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Señales misteriosas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7B1BA7156DDF4F7ABC8BFAA6B23E801E_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Wellspring",
+                                    "url": "http://goovdme.967sd1f.homes/vod/519FB8DA6E1A4CD8A949287A36904EAB_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Terror en los pasillos",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/BA5178C0F3B0480497B518532D275768_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Receptores de espíritus",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AE8F36CB82174AD88ACAA1FC1377E97B_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "A través del espejo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B56CB0DD8C0D467EBA5ADB52E1F3EC2E_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El círculo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0C8EEDB3988E47F98097CDAA2AD25EC0_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El barquero",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/0FAE4273502C4E38BB40AE629802B9F4_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Bajo la superficie",
+                                    "url": "http://goovdme.967sd1f.homes/vod/843F51C489B54A98B4FFC060E348B006_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 112314,
+                    "total_seasons": 1
                 }
             ]
         },
