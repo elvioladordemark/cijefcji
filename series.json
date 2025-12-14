@@ -29458,6 +29458,65 @@
                     ],
                     "tmdb_id": 250504,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Nuevo sabor a cereza",
+                    "genero": "Drama, Misterio, Sci-Fi & Fantasy",
+                    "descripcion": "Una directora de cine en ciernes en el soleado pero sórdido mundo de Los Ángeles en 1990 se embarca en un desconcertante viaje de venganza sobrenatural.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/y2o9HZ2Tsybpaar0jM2AMPvcB3A.svg",
+                    "icono": "https://image.tmdb.org/t/p/original/d69HZ4Aujl2oYKzt03DtWZOOi9T.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/mdPiSmQgydmdgZtFwAI4lr60yQY.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Yo existo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8CBA4DCBA21841F2A914A7AAA419A350_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Pelo de perro",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/881EFBC16FAA4B06A4A69A79061AA61C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Candela romana",
+                                    "url": "http://goovdme.967sd1f.homes/vod/713BEFAB019C41F8A77B4F7268DA8F70_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Zumo de renacuajo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A50F086AA85B4F84BDF8B9FBFD0A77CC_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Jennifer",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DA11809E90F24A4B802DC7D54DB900B4_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Baño de leche",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/3866573F5F314F30BCE5DB8252982A98_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Huevo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/9055135323E7424AB2F332934F70A174_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Cuerpos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/936F9A7A72804517B6C8C5550B3E5051_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 129418,
+                    "total_seasons": 1
                 }
             ]
         }
