@@ -6845,6 +6845,45 @@
                     ],
                     "tmdb_id": 117830,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "El Asombroso Circo Digital",
+                    "genero": "Animación, Comedia, Misterio, Sci-Fi & Fantasy",
+                    "descripcion": "Una mujer de 25 años queda atrapada en un loco mundo virtual junto a otros cinco humanos y ahora están sujetos a los caprichos de una alocada IA y a sus propios traumas personales.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/e8ImCnWhbBgczUyUgCchafr2tme.png",
+                    "icono": "https://image.tmdb.org/t/p/original/uJ1nT3Ez5te1zStsj7DFYFLx8gY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ua8kTmShsKesjHX4fhdDKCNl88G.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BD714AEAB5FE4EF2834B1BB9D814A34C_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¡Caos, Camiones y Caramelos!",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3F0C0E40CC1D45278B92A42686C3CF4E_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El misterio de la mansión Mildenhall",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/AD8DC8E0FCAF4D04B00B10347B85DE41_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Mascarada en Spudsy's",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1CF70B4AC0B24378B6FB4DAEE15D9DC3_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 261145,
+                    "total_seasons": 1
                 }
             ]
         },
