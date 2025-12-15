@@ -6740,6 +6740,65 @@
                     ],
                     "tmdb_id": 219080,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Tomb Raider: La leyenda de Lara Croft",
+                    "genero": "Action & Adventure, Animación",
+                    "descripcion": "Embarcada en una persecución de alto riesgo por todo el mundo, la intrépida Lara Croft se enfrenta a su traumático pasado mientras descifra un antiguo misterio.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5df9Z4Q7wMvIFOucCvjVrqCcs4Q.png",
+                    "icono": "https://image.tmdb.org/t/p/original/7cfQQrk3t0vdqhF2EZk4PSEhekY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/zbaUXbBBLmGmHARAVurvUJbIEWt.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un solo paso",
+                                    "url": "http://goovdme.967sd1f.homes/vod/18B0674811724B4DBEECF084477C68F4_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Un conjunto de mentiras pactadas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/71042DA319B940C482FA49DCC86FA61B_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Una pesadilla",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2F1AD4BF239C4AFCA10D2C1B78183E80_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Grandes mentiras, pequeños secretos",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6A567C74FA104785AD59C9CA8D9966BF_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Whanaungatanga",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AC694F3C6E06460990E3751B07CD045E_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El camino espiritual",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/D2491FFA884D47EC942EFEFCE100A192_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Yinyang",
+                                    "url": "http://goovdme.967sd1f.homes/vod/265A44BCD0A94BD186461057413D137F_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Un viaje de mil leguas",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/E6D82E79F3134C4B840E61AEF47CFE6A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 117830,
+                    "total_seasons": 2
                 }
             ]
         },
