@@ -4639,6 +4639,55 @@
                     ],
                     "tmdb_id": 239385,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Ciudad de sombras",
+                    "genero": "Crimen, Misterio",
+                    "descripcion": "Un macabro crimen ha ocurrido en La Pedrera – Casa Milà: un cuerpo quemado ha aparecido en la fachada del emblemático edificio de Gaudí. El inspector Milo Malart, hasta ahora suspendido por indisciplina en los Mossos, regresa a la actividad en la ciudad condal para, de la mano de la subinspectora Rebeca Garrido, tratar de dar con el autor del crimen.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/l2i7AoPOeClyMg08UnUnrstHz1w.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xVhLLJjnLbqtbJJuiq3ujrCFE0C.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jKyYbESbbsDuEF0G2a9Kg5zuttG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Casa Milà - La Pedrera",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8BDE62FFF5CC4B3BAE0742D15526EF59_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Palau Güell",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2941AEC7C99B4D818EADD9A1A86E59B7_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Cripta de la Colònia Güell",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/464CB65FF0F6409FB44025E63CE83389_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Parc Güell",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7024E9D181F849BA936FFBD72D558E72_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Pabellones Güell",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2EDD0BFD92EA48BBB5B5417EC9B54F0F_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Sagrada Familia",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/73301AB06D854CCAB1C96606D69B3A44_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 277752,
+                    "total_seasons": 1
                 }
             ]
         },
