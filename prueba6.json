@@ -7,9 +7,9 @@
         "name": "SOLO EVENTOS",
         "samples": [
 {
-                "name": "Flamengo X Pyramids EN VIVO⚽",
-                "url": "https://d1muf25xa12so8hp14.s27-usa-cloudfront-net.online/token/ba075665578273a3dee96d1171234fa2/sportv.m3u8",
-                "icono": "https://i.postimg.cc/wvTnrVK8/download-2025-12-13T141837-172.jpg",
+                "name": "PSG VS FLAMENGO EN VIVO⚽",
+                "url": "http://weib-tv-play.xyz:80/EstoEsTv/98tnQmKnWJ/195322.ts",
+                "icono": "https://i.postimg.cc/SNz81pMr/download-2025-12-17T124652-327.jpg",
                 "type": "HLS",
                 "headers": {
                     "Origin": "https://www1.embedtv.best",
@@ -17,56 +17,19 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
             },
-
 			{
-                "name": "Union Berlin X RB Leipzig EN VIVO⚽",
-                "url": "https://bhzqcb.6670391863.store:8443/hls/a31q9.m3u8?s=eoQl7r-SnkkCieoF8dvyBA&e=1765600060",
-                "icono": "https://i.postimg.cc/bwH1jvYh/images-(13).jpg",
-                "type": "HLS",
+                "name": "PSG VS FLAMENGO EN VIVO⚽",
+                "url": "https://nog-live1-ott.izzigo.tv/3/out/u/dash/TVGLOBOSD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/SNz81pMr/download-2025-12-17T124652-327.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=29852829d373dfb35df80c5fa1d9bff0&key=ceb31ec6a6d90090f490b54f524a27b4",
                 "headers": {
-                    "Origin": "https://storytrench.net",
-                    "Referer": "https://storytrench.net/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                } 
+					   }
 
-			
-			{
-                "name": "Liverpool VS  Brighton: SABADO 12:00 HS  ⚽",
-                "url": "https://d1muf25xa12so8hp08.s27-usa-cloudfront-net.online/token/9cae97e63640528d099e23f19637e1e0/record.m3u8",
-                "icono": "https://i.postimg.cc/8cyHRP3m/download-(40).png",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://embed.futemax.giving",
-                    "Referer": "https://embed.futemax.giving/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
-	
-
-				{
-                "name": "SANTOS VS CRUZEIRO 16:00 HS ⚽",
-                "url": "https://d1muf25xa12so8hp08.s27-usa-cloudfront-net.online/token/c32cec575338f03bb0039d8d80b19425/premiere6.m3u8",
-                "icono": "https://i.postimg.cc/dtSKQvYd/download-2025-12-07T144658-707.jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://embed.futemax.giving",
-                    "Referer": "https://embed.futemax.giving/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
-			
-			  {
-                "name": "Inter Miami vs Whitecaps⚽",
-                "url": "https://w5g72ckg9.s3.us-east-1.amazonaws.com/live/stream13/index.m3u8",
-                "icono": "https://i.postimg.cc/NFhKFFn3/download-(99).jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://elverruca.tech",
-                    "Referer": "https://elverruca.tech/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
-                }
-            }
 				
 
 			 ]
