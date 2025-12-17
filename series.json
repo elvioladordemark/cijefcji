@@ -872,6 +872,60 @@
                     ],
                     "tmdb_id": 106379,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Pluribus",
+                    "genero": "Drama, Sci-Fi & Fantasy",
+                    "descripcion": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
+                    "icono": "https://image.tmdb.org/t/p/original/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vNCNUxNHHgP0WsA19hxztUsG3yG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Nosotros es nosotros",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DD800F4EDEA44870BAA8104D42AC5F15_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La pirata",
+                                    "url": "http://goovdme.967sd1f.homes/vod/56F5DFA009E640AAA57F24A48EECA8A0_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La granada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/12B2EAAB11FD453D9C15755400D18F4D_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Por favor, Carol",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CA57414F416546E3837D952DAD98A7BB_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La leche",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A5090D5A7DF141C5AD707AE2070841E9_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "HDP",
+                                    "url": "http://goovdme.967sd1f.homes/vod/93E67849EE494CBEB42AE1D877085075_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El intervalo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/11DA72241315416EAA65B351CBFD72EA_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 225171,
+                    "total_seasons": 1
                 }
             ]
         },
