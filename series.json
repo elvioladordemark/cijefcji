@@ -1036,6 +1036,65 @@
                     ],
                     "tmdb_id": 103540,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Fallout",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "Basado en una de las sagas de videojuegos más importantes de todos los tiempos, Fallout es la historia de los que tienen y de los que no tienen en un mundo en el que prácticamente no queda nada para tener. 200 años después del apocalipsis, los apacibles habitantes de los refugios de lujo se ven obligados a regresar al infierno irradiado que dejaron sus antepasados - y se sorprenden al descubrir que les espera un universo increíblemente complejo, alegremente extraño y muy violento. De los productores ejecutivos Jonathan Nolan y Lisa Joy, los creadores de Westworld, protagonizada por Ella Purnell, Aaron Moten, Walton Goggins y más.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/kyhbjHomRagzpNEeyKSssbkPWan.png",
+                    "icono": "https://image.tmdb.org/t/p/original/uNctKf62RRL8RKPTrdyFrcttwT2.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/cIgHBLTMbcIkS0yvIrUUVVKLdOz.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El fin",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6CFC8C07C938432E8B59FFCC5E4A7AF5_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El objetivo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/35C0B4B3F71C4E349E1E37B04194039C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La cabeza",
+                                    "url": "http://goovdme.967sd1f.homes/vod/728C6F468B3A4199841F9E0A7FDCF3B9_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Los necrófagos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A8BFC709B4F240CABF7C6850D7DE6E81_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El pasado",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F64F2E04A52C491A88A14E067A560CA9_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La trampa",
+                                    "url": "http://goovdme.967sd1f.homes/vod/29300AFF0D6940A989C4C9B36D211FE0_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La radio",
+                                    "url": "http://goovdme.967sd1f.homes/vod/43B962910FCD49DC91483EDA31F303B1_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El comienzo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1FD9301C8F43484AB5AA49DF24BE6667_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 106379,
+                    "total_seasons": 2
                 }
             ]
         },
