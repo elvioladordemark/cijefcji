@@ -24546,6 +24546,65 @@
                     ],
                     "tmdb_id": 244571,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Creedme",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Narra la verdadera historia de Marie, una adolescente que fue acusada de denunciar falsamente haber sido violada, y las dos detectives que siguieron un camino sinuoso para llegar a la verdad. Basada en el artículo ganador del Premio Pulitzer \"An Unbelievable Story of Rape\".",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/zLFCDCy1yp3rB4aDwCocgCu20Sk.png",
+                    "icono": "https://image.tmdb.org/t/p/original/oO4RZc5TMZI5kmB1Lm8x0Mt3qPT.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/AhFEqj8PFvvNDQ3Ouv39kNfTraI.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/33AC3928624C40339A3F4760CE4E9822_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2DD9F3A3DA304514BD2F51D5A60A5709_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1C909A42B1794D2187F6DDEC4486959C_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B7E58AE1723F4432AAB38773CF2AE9A2_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/18CA34D71D8A40F2B055479CC2BFC0B1_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E358DBFF12F5474394705A6E63521D01_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/61BD6F03963B44EFB023F7E0D2CEF998_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6CB2499BF3E94CBFB44694CBE0B84560_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 91275,
+                    "total_seasons": 1
                 }
             ]
         },
