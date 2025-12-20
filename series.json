@@ -24605,6 +24605,45 @@
                     ],
                     "tmdb_id": 91275,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Así nos ven",
+                    "genero": "Drama",
+                    "descripcion": "Cinco adolescentes de Harlem se ven atrapados en una pesadilla cuando se les acusa injustamente de un ataque brutal en Central Park.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/w4kyxaoQWiqHuSA0vTvX8v0Pquv.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8shLGVN1w4DiYuEc5i0X39dn6RA.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/5IIg0PhE764qVuKICgmSAE0Jotx.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "1.ª parte",
+                                    "url": "http://goovdme.967sd1f.homes/vod/04C47754B24546F098300604643A5C6C_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "2.ª parte",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/499E7F58F5DD44ADAC04CD528D9D8CE2_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "3.ª parte",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A1AD9ADE01CD4FD6AE1FA8D8F1ACFB01_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "4.ª parte",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/CA96ACEB13F84CA0808DEDE948925B9E_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 81355,
+                    "total_seasons": 1
                 }
             ]
         },
