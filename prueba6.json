@@ -710,7 +710,7 @@
 
 {
         "name": "ESPN BR",
-        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/287.m3u8",
+        "url": "http://45.235.0.78/ESPN/playlist.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
         "headers": {
