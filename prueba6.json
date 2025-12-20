@@ -6456,15 +6456,14 @@
         "name": "CINE Y SERIES SIN BLOQUEOS 🎬",
         "samples": [
              	{
-                "name": "WARNER CHANNEL",
-                "url": "https://live.saohgdasregions.fun:9092/NDUuMjI4LjY3LjI4/58_.m3u8?token=lm2sCjaQvBxtANv509LFeA&expires=1761644976",
+                "name": "STARS CHANNEL",
+                "url": "https://362a33c2a385d7d1e52d89d16d6db901a224f189.cdn.broadpeak.io/bcdn_token=EWX1FlEmo8mzwZrjXKI2ifcYA_OMEPydFg6fGnHyWus&token_path=%2Fstarchannel%2F&expires=1765933759/starchannel/manifest.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/zrghz35i7e2cv3vr37gw0/warner.json?rlkey=dst9i6fqzjmhcldjif70mrcq1&st=i98ziw03&dl=0",
-                "icono": "https://i.ibb.co/jyK3gPh/0000-all-l-warner-logo-warner-2018-blanco-1.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da9399d522ed513d865c478824a1ca13&key=f47a3b62535066f80278ed31d855aed9",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "Origin": "https://app.mio.tv",
+                    "Referer": "https://app.mio.tv/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
             },
                
