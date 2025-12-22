@@ -24808,6 +24808,55 @@
                     ],
                     "tmdb_id": 119988,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Bosque adentro",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "La evidencia encontrada en el cadáver de una víctima de homicidio le da esperanzas a un fiscal de que su hermana, desaparecida desde hace 25 años, podría estar viva.",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/uxpgOkaP88NZjFxjYsf1bneRQfg.jpg",
+                    "icono": "https://image.tmdb.org/t/p/original/uxpgOkaP88NZjFxjYsf1bneRQfg.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/939fj4JSFqd1OOXEpBD18h7USKy.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El fin de la inocencia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8BF61AAB8D4C47508F52CE512C00CE9D_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mentiras",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3EB218F2DBA146CEAB095B15017DE446_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "No tienes ni idea",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A12DE760BA464A009CE497E0F61FCEA6_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Bajo la superficie",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/458F193FCD6048E8BC3C3A42C3B59BFF_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Tu hermana está muerta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/85E7EC321B244D83BF96B9ECD0ECA126_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Un largo camino a casa",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2A164400027F4836B5058726A91825B8_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 103425,
+                    "total_seasons": 1
                 }
             ]
         },
