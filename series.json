@@ -30200,6 +30200,65 @@
                     ],
                     "tmdb_id": 129418,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Refugio",
+                    "genero": "Drama, Misterio, Crimen",
+                    "descripcion": "Refugio cuenta la historia de Mickey Bolitar, que tras la muerte de su padre comienza una nueva vida en las afueras de Nueva Jersey. Cuando otra alumna nueva desaparece, Mickey se ve metido en una red de secretos. Con la ayuda de dos nuevos amigos, el Cuchara y Ema, descubren una galería oculta que podría albergar la respuesta a años de desapariciones.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/d5Spv8qonKk01pZn5UYytsXca3o.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jMnxa2zC0BFjKKG1RpaAgTz3KN7.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/eDzhof8GnNXIErfkfHsAMmSd4W0.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4994C09BB39E45638B4C991267B37F26_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Atrápame si puedes",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C9EBD220D0A04774AEBA2D7A16552E1D_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La taquilla basura",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6B91798915284E6CAD52586058827C07_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El hilo fantasma",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A6AE2497D2114F99A94E0307B93DE102_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Mírame, siénteme, tócame, cúrame",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A98ED40F186A441C8E81BACE5EBA2C7A_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La habitación de Candy",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5F93C496743040149BF5DE764326E57D_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Que tengas dulces sueños",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D91E9AF70D7C4116B893EDF47FCE8E2F_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Descubierto",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5553D0D6F9F14CD7BF3DBE84767691AB_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 210787,
+                    "total_seasons": 1
                 }
             ]
         }
