@@ -24644,6 +24644,65 @@
                     ],
                     "tmdb_id": 81355,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La casa de David",
+                    "genero": "Drama",
+                    "descripcion": "Narra el desarollo del personaje bíblico David, que acaba convirtiéndose en el rey más célebre de Israel. El una vez poderoso rey Saúl cae víctima de su propio orgullo. Por orden de Dios, el profeta Samuel unge a un adolescente marginado como nuevo rey. Cuando un líder cae, otro debe surgir.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/aUw8oUFjud8YgYfC2XVskJvChb6.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5s6OHwM0Z3VTquTaEmpCBd4G3X4.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ccCyFb0eUGCWn73unCrIpk5dgrm.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un pastor y un rey",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CC06FCD8F0B7419A8D86BCEF0B115BED_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Una sima llama a otra sima",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AFC65D731A884DEB95CFEB1C560B4308_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La unción",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4403F3D0F3E14999B91108795B325784_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El cántico de Moisés",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9C0C06C7266540EA8CC228D05DF88F66_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El lobo y el león",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C0AB4B19FB2A4BF7B3C51B30AD313D91_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El despertar de los gigantes",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DC2504F631C746A3B2A4B46496A825F0_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "David y Goliat - Parte 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/29EB6DDB83AE443F8C546D674D2A19C9_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "David y Goliat - Parte 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A3DDD8B84F3C4F86ABF50BC9DFF90625_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 243881,
+                    "total_seasons": 2
                 }
             ]
         },
