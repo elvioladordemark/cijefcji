@@ -12206,6 +12206,75 @@
                     ],
                     "tmdb_id": 279601,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El niñero",
+                    "genero": "Comedia",
+                    "descripcion": "En un momento de pánico, una ejecutiva ocupada contrata a un ranchero para que cuide a sus hijos. Lo que no sabe ella es que él desafiará sus puntos de vista sobre los roles de género y sobre el amor.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/6aLhgIWbUUimrwCXRKEuOwdWcmy.png",
+                    "icono": "https://image.tmdb.org/t/p/original/eo1SXZdCSwhtIKFahwYYgtEcyKw.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qk0zapTWO59HnFRZjduVRZcl8PQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7CAD30F20A2045279D34D8DA2BFCBC1E_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/94DED7F732FB4B7F8644CC0341D353C5_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/33E7A4295D654A0B9E71DD8D9BA50248_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/FA5800E211AB4DEEB515E480922CE9D0_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B9DA79E96D9849768825F4E940F67A1F_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/3FF80E32D6724A5080D5E3463502668E_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6DBD8975894A4F2F8FBC98E16C271AC2_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D72A4B0496004DDC929E003F2ACAC046_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7F8F4A2E78B64EEBAE8A9CC60AFDC35D_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/E1931B1D72204BE994F38B8D6AE6D5F8_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 241373,
+                    "total_seasons": 3
                 }
             ]
         },
