@@ -28560,6 +28560,65 @@
                     ],
                     "tmdb_id": 240459,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "The Copenhagen Test",
+                    "genero": "Action & Adventure, Sci-Fi & Fantasy, Misterio",
+                    "descripcion": "Cuando un analista descubre que le han hackeado los ojos y los oídos, se ve arrastrado a un mundo controlado diseñado por su agencia para atraer a sus enemigos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/sNcCOlYuxaapL5Sr9qeJsSYzABV.png",
+                    "icono": "https://image.tmdb.org/t/p/original/9NjLaKL5pa2m4whf4cHAgfhyIzc.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hmNihHmvYZjCcb6c8RRKDXSx8EW.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DB59EE6A37424C478DC677D1DC1A5C76_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/59B1234CEE7040379E5C165A9A3B5060_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0492B656CC7F46C1881C9BBB9574E7BE_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CA72A53426E94ED4BF4B83DEE3329FF9_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/01365154EEA04C749B52337EDD0DCB94_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/60CAE5D8DD3E4612851632B947FD2F1A_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EBFBD1AC1C064B0DA748DE345A037BA8_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DBE65622CDF94F0597CD16407BF1D83E_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 246412,
+                    "total_seasons": 1
                 }
             ]
         },
