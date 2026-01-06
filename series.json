@@ -25175,6 +25175,60 @@
                     ],
                     "tmdb_id": 223438,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Anne with an E",
+                    "genero": "Drama, Familia",
+                    "descripcion": "Anne Shirley es una niña huérfana que vive en un pequeño pueblo llamado Avonlea que pertenece a la Isla del Príncipe Eduardo, en el año 1890. Después de una infancia difícil, donde fue pasando de orfanato a hogares de acogida, es enviada por error a vivir con una solterona y su hermano. Cuando cumple 13 años, Anne va a conseguir transformar su vida y el pequeño pueblo donde vive gracias a su fuerte personalidad, intelecto e imaginación.",
+                    "anio": "2017",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gtqNjjM2wXmTnbTvMP3xYAXaLrU.png",
+                    "icono": "https://image.tmdb.org/t/p/original/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Tu voluntad decidirá tu futuro",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6662F8AB58664FF2830B1CD59AA9D226_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "No soy ningún pájaro, ni estoy atrapada en ninguna red",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/CB6535E3D90E4CEABCD729FE93794EF9_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¿Qué hay tan terco como la juventud?",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E20670FF083140EDB99B78F4E73D44D4_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un tesoro interior nacido conmigo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F0B3E71E964F4C1EA2DAC0DEEA456D8C_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Estrechamente enlazada a otra cuerda igual",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E3D423A77EEF4DCC89DD6A6E5C544986_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El remordimiento es el veneno de la vida",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1B137F5519CA49C19EBB3206FC5F4854_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Donde estés tú está mi hogar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CF2561C7C69E4D778AE19EA28950CD60_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 70785,
+                    "total_seasons": 3
                 }
             ]
         },
