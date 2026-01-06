@@ -25103,6 +25103,11 @@
                         {
                             "nombre": "Temporada 1",
                             "numero_temporada": 1,
+                            "capitulos": []
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
                             "capitulos": [
                                 {
                                     "numero": 1,
