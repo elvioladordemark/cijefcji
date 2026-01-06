@@ -12399,6 +12399,55 @@
                     ],
                     "tmdb_id": 290231,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El tiempo de las moscas",
+                    "genero": "Drama, Comedia, Crimen",
+                    "descripcion": "Recién salidas de la cárcel, dos mujeres con opciones limitadas dirigen una empresa de fumigación. Hasta que una clienta muy turbia les hace una oferta que no pueden rechazar.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ylCeSb7Etm2Ap43NQs8Ec2pHIrY.png",
+                    "icono": "https://image.tmdb.org/t/p/original/9n2HM0guy6Wn95EshDj7Uw6XWd2.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qUrVqmzdoRbFQpfbPnYXQQP2Zzl.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Hoy empiezo de nuevo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8CEE9FB6799A4FB1ADE8561CCE3B08FC_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Pena por envenenamiento",
+                                    "url": "http://goovdme.967sd1f.homes/vod/006136F287074870ABB64AB5D14CD5CD_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Tu vida no termina acá",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4679E257AAC740A193235EBC1E9B9B37_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "No se investiga más",
+                                    "url": "http://goovdme.967sd1f.homes/vod/83026E02DCD042C0B44F96F1BA1E1247_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Esto ya está robado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/78897A85BAAA4E3AA49AF2113D8292FD_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El tiempo de las moscas",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/4858136FAC1B4319814D54AAAD80BB42_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 285636,
+                    "total_seasons": 1
                 }
             ]
         },
