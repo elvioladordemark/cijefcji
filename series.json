@@ -12340,6 +12340,65 @@
                     ],
                     "tmdb_id": 241373,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Amor De Oficina",
+                    "genero": "Comedia",
+                    "descripcion": "Una dedicada empleada y el atractivo hijo del jefe compiten por el puesto de CEO de una gran empresa de ropa interior... pero el romance amenaza con sabotear sus planes.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/aHuzvOtvd7U8hedqJeTm8Sb7y0e.png",
+                    "icono": "https://image.tmdb.org/t/p/original/drpeMcOyFlaoSP2R5ZkWgbqLfDK.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qYnIUgr4zUECcpT9MZGNcdgS5bu.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B8A8453B882F448F81185BB5B2371B38_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E9AAC8A84B004ACE8DE5672422823F0D_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6AA03D4225C24D3F92D03430D8C82E19_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2BE5DDA7B5DE4E65A2508B5E744EC6CB_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A100522D4FFD4AC3A26029E2867CEE89_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2ED869BE756F4B8782F42A9F359CB2C5_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BEE3892CCD0B4542B3D18C5BC636B695_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/065ADFEC2B7D4151B8A86885B1FB7A9B_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 290231,
+                    "total_seasons": 1
                 }
             ]
         },
