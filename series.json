@@ -25103,7 +25103,38 @@
                         {
                             "nombre": "Temporada 1",
                             "numero_temporada": 1,
-                            "capitulos": []
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D6C1676D9774483BAF88E80BE00D11FC_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F0C0C4503357458385DA77A4464177AC_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/E8C5B6ACDE814552A10208267A5423A3_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/E85114B098464CCA9FC048295F8AAC78_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D5F74E47270F403CAF232736C6CC4F13_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/34DB392C5DE142EB85EA5B74D84F5B1A_media.ts"
+                                }
+                            ]
                         },
                         {
                             "nombre": "Temporada 2",
