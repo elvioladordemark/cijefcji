@@ -25090,6 +25090,55 @@
                     ],
                     "tmdb_id": 244244,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La pareja de al lado",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Evie y Pete se mudan a un barrio exclusivo y se encuentran nerviosos y ansiosos. Se hacen amigos de la pareja de al lado, Danny y su Becka. Danny comparte una noche apasionada con Evie, su bella pero problemática vecina.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4yl0je1cDCiy9KO85S6PgJzFhkK.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hBNFSeTZXANnOrNfvvIqXORBrxV.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xmEOwghlHa4prNGjyg6jab0nXRC.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FA30F27373B544F0A0E984E0F55FEA50_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7D8E59620C864965B695ABD440938AEE_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E7349E2875BE41558F2DCB6631D00ABC_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B06D4ACBC7C54C3EB2448F327F673F45_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0F8650BE498B470986BE8721C695AE20_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/0A3C92A6DC8A4EC39806C097241D6632_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 223438,
+                    "total_seasons": 2
                 }
             ]
         },
