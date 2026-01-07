@@ -971,6 +971,65 @@
                     ],
                     "tmdb_id": 225171,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "En fuga",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Un padre desesperado que busca a su hija fugitiva se ve envuelto en un caso de asesinato y descubre secretos capaces de destruir a su familia para siempre.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/nzE1DKS0DpOXpz310HJcTMKcLb4.png",
+                    "icono": "https://image.tmdb.org/t/p/original/auBp8c189r2G5rd34wbwQ18YwHa.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La gente se cree lo que ve",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AD89D06388434DCCB1C999AFA5998102_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Tatus mientras esperas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/32470CCBF32A4D258929A6F77D20D18F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Hasta aquí",
+                                    "url": "http://goovdme.967sd1f.homes/vod/351CAF063BE54F7DB06B9A8689D91D07_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Otros tiempos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/25D35145FA11428EB8586309CA1C915D_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Gloria a la Verdad Radiante",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5FA2A77A9CA9473ABA5F4F3284EDA160_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El hombre que conocía",
+                                    "url": "http://goovdme.967sd1f.homes/vod/09379B880EF4496C8D5C08DEE4BCDCAC_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Dos vidas en un instante",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E0029EC9E30C4661B78A98A70D447568_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Entre nosotros",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4D0FD398E02F4DB595C440B12643B73C_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 244244,
+                    "total_seasons": 1
                 }
             ]
         },
