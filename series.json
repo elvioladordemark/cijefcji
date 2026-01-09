@@ -4702,6 +4702,55 @@
                     ],
                     "tmdb_id": 277752,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Arenas movedizas",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Después de que una tragedia en un centro escolar conmocione a un barrio rico de Estocolmo, una adolescente aparentemente equilibrada acaba acusada de asesinato.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5WrJeUZlMwmEmUUtgMuuIaUbpH8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/g3oQDyCRvLPdsXbqBr8a0jrc7No.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hommfvABPU02k99lihPyxjDjBNK.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Maja",
+                                    "url": "http://goovdme.967sd1f.homes/vod/77FC00A4FC344B17B88C45F1AD612BED_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Bajo Custodia",
+                                    "url": "http://goovdme.967sd1f.homes/vod/67EE91DD387D46E2BC7BB04855ADC8BD_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El funeral",
+                                    "url": "http://goovdme.967sd1f.homes/vod/95B868E7C7254174934912A79FC06959_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La reconstrucción",
+                                    "url": "http://goovdme.967sd1f.homes/vod/81976FCC2FC9408E98765E7D58CF4F16_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El juicio",
+                                    "url": "http://goovdme.967sd1f.homes/vod/934CD109DC124454BC97961CD3967A6D_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Los testigos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2027485CD80C41CBBAB87557AF52047F_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 86621,
+                    "total_seasons": 1
                 }
             ]
         },
