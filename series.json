@@ -25452,6 +25452,55 @@
                     ],
                     "tmdb_id": 70785,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "El y ella",
+                    "genero": "Drama, Misterio, Crimen",
+                    "descripcion": "Un matrimonio formado por un inspector de policía y una periodista compite para resolver un caso de asesinato en el que ambos ven al otro como el principal sospechoso.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1YGM6ZGUtrIuPigPqDOioZZVaOZ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ftShkii3dOgj52aaT8el2owqlFC.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7C1354A956E24645967CEF5162A65689_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/88ACEC5C9CDB47D48A2FF2FF0F0295E1_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C5DEC202EA59466A9AEEACFFAFCFBF5D_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8E2C0D2D454645DEA131337BB60049EE_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2218721B10BA451FADE830B41BD1FDF4_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/762B7212DF2D42C8BAA324D6AAF94FCE_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 259731,
+                    "total_seasons": 1
                 }
             ]
         },
