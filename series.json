@@ -25501,6 +25501,55 @@
                     ],
                     "tmdb_id": 259731,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Pequenos desastres",
+                    "genero": "Drama",
+                    "descripcion": "Un grupo de amigas madres primerizas se desgarra cuando una de ellas es acusada de herir a su bebé, lo que rompe sus lazos y casi destruye sus familias.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/whOCwqxI1ShzwFmn4rOE0EInEXJ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fuPTZ6jBAAHM0TKUUMQliHICnrt.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/9cIMsEoiNic2111jGxS0dNUpWMb.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La madre perfecta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/246DC7512F1B41E6911D5DE094D9B9E0_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Crees que conoces a alguien",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/7A850E9704214ADEBB9E235ED58990CB_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Uno de ellos miente",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F2D230952F81453180956B1F4FABD4C7_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "No hay lugar seguro",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/D6A17032591C4E2588B39863F5C42294_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Revelación",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A40A25ACE8A24C4AA9E26463F2724FF8_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "¿Qué has hecho?",
+                                    "url": "http://goovdme.967sd1f.homes/vod/372552599F0E41F89C6C7E0ADFDAAF4C_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 256585,
+                    "total_seasons": 1
                 }
             ]
         },
