@@ -25599,6 +25599,65 @@
                     ],
                     "tmdb_id": 256585,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Su peor pesadilla",
+                    "genero": "Drama, Misterio, Crimen",
+                    "descripcion": "Marissa Irvine llega para recoger a su pequeño hijo Milo de su primera cita de juegos, pero la mujer que le abre la puerta no es una madre que ella reconozca. No tiene a Milo y nunca ha oído hablar de él... A medida que la peor pesadilla de todo padre comienza a revelarse, nuevas preguntas conducen a profundos secretos, revelando grietas en el mundo aparentemente perfecto de Irvine hasta que todo queda hecho añicos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/pWiDfstQFGw3V8SVJV2lzGtnwLB.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rXimJTvyUsXRhPI3SD2B0sltUUX.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7061BAF8447343D7AED7D39DE170241C_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6F8B5D0C57AE4595B2E9339EEB7C54C2_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/576DCC2AD8984AB680E25D1B26B083E1_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F1FEB44455BF4966A8705396B6707905_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/68D060A9E63649C7972737F000B75E50_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9BEDAD3C9511448DBCD4C6791D1D265D_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/76BA678438B64BD7A2EFD4E8C63F3650_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E98DDBC95D3A485BA7435D99624A6EBA_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 246386,
+                    "total_seasons": 1
                 }
             ]
         },
