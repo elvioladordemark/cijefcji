@@ -82,6 +82,19 @@
                 } 
 					   }
 
+			]
+    },
+    {
+        "name": "⚽EVENTOS FLOW LO MEJEOR⚽",
+        "samples": [
+             {
+                "name": "EVENTOS FLOW",
+                "url": "http://138.121.114.86:8000/play/a0dg/index.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/2ykynGdJ/download-(41).png"
+            }
+
 				
 	  	]
     },
@@ -8822,6 +8835,137 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            }
+
+		  ]
+    },
+    {
+        "name": "TV INFANTILES 📺",
+        "samples": [
+            {
+                "name": "DISNEY CHANEL",
+                "url": "http://201.217.246.177:8000/play/a02r/index.m3u8",
+                "icono": "https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DISNEY JUNIORS",
+                "url": "https://nog-live1-ott.izzigo.tv/5/out/u/dash/DISNEYJRHD/default.mpd",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d41d2ae9b0d875ba12e97c5a3f3eec82&key=3a443892e1ad1158c6fd2bf9c9146eb6",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "DISCOVERY KIDS",
+                "url": "http://rogsworld.uk:80/GusDemoWhtt122/H6WGEDktft/1286962.m3u8",
+                "icono": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7333e7ec-e20c-4d58-9d73-ba93e55e3321/dg85e48-5ec169b7-9163-44d0-b246-1b13a7a44b01.png/v1/fill/w_584,h_608/logo_de_discovery_kids__2021___act___by_alonsitodk_dg85e48-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjA4IiwicGF0aCI6IlwvZlwvNzMzM2U3ZWMtZTIwYy00ZDU4LTlkNzMtYmE5M2U1NWUzMzIxXC9kZzg1ZTQ4LTVlYzE2OWI3LTkxNjMtNDRkMC1iMjQ2LTFiMTNhN2E0NGIwMS5wbmciLCJ3aWR0aCI6Ijw9NTg0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.84204_zJRSyeHT1g6VeFTRumARIoPIeVrWntAbOXX2g",
+                "type": "HLS"
+            },
+            {
+                "name": "NICK JR",
+                "url": "http://181.13.252.102:8000/play/a06u/index.m3u8",
+                "icono": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd3c7e70-c2ee-4a06-b574-afb2523d6b19/de72s5e-787ef279-68fd-437e-baa1-2a3e5383c9d5.png/v1/fill/w_960,h_833,strp/nick_jr_logo__classic_version__by_carsyncunningham_de72s5e-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc2NCIsInBhdGgiOiJcL2ZcL2NkM2M3ZTcwLWMyZWUtNGEwNi1iNTc0LWFmYjI1MjNkNmIxOVwvZGU3MnM1ZS03ODdlZjI3OS02OGZkLTQzN2UtYmFhMS0yYTNlNTM4M2M5ZDUucG5nIiwid2lkdGgiOiI8PTIwMzMifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.aWNNOF-nekl7tsqhREXQN9dLZAfGELSpUE48DhjBTZs",
+                "type": "HLS"
+            },
+            {
+                "name": "TEEN NICK",
+                "url": "https://nog-live1-ott.izzigo.tv/4/out/u/dash/TEENNICKHD/default.mpd",
+                "icono": "https://i.postimg.cc/ZqHkBP66/teennick.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=57588399a2a939927418a588126e316d&key=6566f7996a957773701e2de8741ce176",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "NICKELODEON",
+                "url": "http://181.13.252.102:8000/play/a04z/index.m3u8",
+                "icono": "https://i.postimg.cc/nz94vhLG/Nickelodeon.png",
+                "type": "HLS"
+            },
+            {
+                "name": "PAKAPAKA",
+                "url": "http://181.13.252.102:8000/play/a01n/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pakapaka_canal_logo.svg/300px-Pakapaka_canal_logo.svg.png",
+                "type": "HLS"
+            },
+            {
+                "name": "CARTOON NETWORK",
+                "url": "https://nog-live1-ott.izzigo.tv/4/out/u/dash/CARTOONNETWORKHD/default.mpd",
+                "icono": "https://logospng.org/download/cartoon-network/logo-cartoon-network-1024.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=85d06ba283f3b18bb14f9f8d59b8fb82&key=6659fed472544289adee986c1d33fa79",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "CARTOONITO",
+                "url": "http://rogsworld.uk:80/GusDemoWhtt122/H6WGEDktft/1286960.m3u8",
+                "icono": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/dftmwp8-8a21a25c-5d5b-4f2a-a12a-8b51584fed4e.png/v1/fill/w_1280,h_417/new_cartoonito_logo_by_abfan21_dftmwp8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDE3IiwicGF0aCI6IlwvZlwvMTUwODFlYmUtYTg2YS00ZDZiLTlmYzktMjNkOWQ3OTliMWExXC9kZnRtd3A4LThhMjFhMjVjLTVkNWItNGYyYS1hMTJhLThiNTE1ODRmZWQ0ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RA8ZK18Zamsl3uyYcqwYJkT-H-ptwwY1_JdaFOeK7K4",
+                "type": "HLS"
+            },
+            {
+                "name": "BABY TV",
+                "url": "https://nog-live1-ott.izzigo.tv/4/out/u/dash/BABYTVSD/default.mpd",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/160/160/0/0/2335855007695.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e5e06331cab5a18d87cfd61c024c6ed5&key=97bef40343b1eb8b57dcb2fde7191e49",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "BABY FIRTS",
+                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd",
+                "icono": "https://logos-world.net/wp-content/uploads/2023/04/BabyFirstTV-Logo-2006.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=320e1cb23cf15aa8f41a9edd52baa655&key=63c5e57ae2a2bc7dab3c67cac1a6c956",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "DOG TV",
+                "url": "https://nog-live1-ott.izzigo.tv/4/out/u/dash/DOGTVSD/default.mpd",
+                "icono": "https://i.ibb.co/qMmvWvZ/dogtv.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3d2063b495202a5a78a2b7df6ba1d6d1&key=9b0e8c590f387c6b45ffef5827d9d90b",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "DREAMWORKS",
+                "url": "https://nog-live1-ott.izzigo.tv/2/out/u/dash/DREAMWORKSHD/default.mpd",
+                "icono": "https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a255e1384db3e9ce7e0349e8aa9b9f77&key=404cc4fb45f82c9a7dffd3d2496cca20",
+                "headers": {
+                    "origin": "https://www.izzigo.tv",
+                    "Referer": "https://www.izzigo.tv/"
+                }
+            },
+            {
+                "name": "SEMILLITAS",
+                "url": "http://rogsworld.uk:80/GusDemoWhtt122/H6WGEDktft/1286976.m3u8",
+                "icono": "https://i.postimg.cc/MGBPwwkX/Semillitas.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TOONCAST",
+                "url": "http://rogsworld.uk:80/GusDemoWhtt122/H6WGEDktft/1606355.m3u8",
+                "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png",
+                "type": "HLS"
             }
 
       ]
