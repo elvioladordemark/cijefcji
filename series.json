@@ -25703,6 +25703,27 @@
                                     "url": "http://goovdme.967sd1f.homes/vod/D1A26671D44C41E8A4661529C668254A_media.ts"
                                 }
                             ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E370D0DB465C4869ACCD151C5A7A275B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EC5DDF9EF5674F56BE1DE0290B7A2F1F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A30E5EC33D984C7B8D4CF99EEA54F65D_media.ts"
+                                }
+                            ]
                         }
                     ],
                     "tmdb_id": 61859,
