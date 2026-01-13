@@ -83,46 +83,108 @@
 					   }
 
 				
-
-			 ]
+	  	]
     },
     {
-        "name": "TELEMUNDO📺",
+        "name": "PARAGUAY SIN BLOQUEO SEÑAL SD",
         "samples": [
-          
-			      {
-                "name": "TELEMUNDO INTERNACIONAL",
-                "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY3NzE3MTIwIiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DYW5hbDcvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImZlZWM4M2Y2ZDI4YjdiZGMiLCJzZXNzaW9uX2lkIjoiODU3MDcxOTUtMTc2NzU0NDMyMC0yNzgiLCJjbGllbnRfaWQiOiI5OTk5MDAwMDEzNTM3MjItLTExNTExMzI3IiwiZGV2aWNlX2lkIjoiODU3MDcxOTUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.Oaz_p1qjzXitlGpfZDuvLUeJPnJ1VszfmbUs8oNZxquEiTVxRAx5U0-8Ps30ganhufijWBa_U7WZYp_cl5KIEg==/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
+             {
+                "name": "ABC TV",
+                "url": "https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/aide2636/live.isml/.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                } 
-					   },
-			{
-                "name": "UNIVERSO 1",
-                "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
-                "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
-                "type": "HLS"
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/0QP6WwKq/download-27.png"
             },
-					  
-					  {
-                "name": "UNIVERSO 2",
-                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3501bd323a6a35c28eb7654bf298b9aa&key=2db4c8089d627e1b2c480c57baa86a7b",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-           
-            }
 
+			  {
+                "name": "ÑANDUTI TV",
+                "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist_w573748842.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/jjGRjwYk/download-29.png"
+            },
+			
+			{
+                "name": "SNT",
+                "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png"
+            },
+
+			{
+                "name": "SNT OPC 2",
+                "url": "https://latan.stonetv.com.br/snt/tracks-v1a1/mono.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png"
+            },
+
+			 {
+                "name": "C9N",
+                "url": "https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/RZxvLznK/download-60.jpg"
+            },
+
+			{
+                "name": "C9N OPC 2",
+                "url": "https://latan.stonetv.com.br/C9N/tracks-v1a1/mono.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/RZxvLznK/download-60.jpg"
+            },
+
+			  {
+                "name": "TELEFUTURO",
+                "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1646247867.m3u8?admin=tvaccion",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
+            },
+
+			{
+                "name": "NPY PY",
+                "url": "https://copacotf.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?admin=tvaccion",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/g0GvTJ7b/download-65.jpg"
+            },
+
+			{
+                "name": "GEN PY",
+                "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/index.m3u8?admin=nacion",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/766s2fHs/download-59.jpg"
+            },
+
+				{
+                "name": "POPU TV PY",
+                "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/index.m3u8?admin=nacion",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/qvZqcF4t/download-61.jpg"
+            },
+{
+                "name": "UNICANAL PY",
+                "url": "https://www.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=YwDOS-OTR1uMDYcWoMVs61ckCubguOQRSmqnXJ3lFZYT3WFSMWLCn6x28f7iPGoL6ADWP81loTt4yT7tPE0EZi4He-3aAmobLZLBAv8dI2Tzl9yHPl38PsM4R6pZho_C&dmTs=148613&dmV1st=25f9afde-3def-46b5-9b76-55986b297c4e",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/5t2xrS9D/download-64.jpg"
+            },
+
+			
+
+			 {
+                "name": "LA TELE",
+                "url": "https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/9Xx2K7wd/download-58.jpg"
+            }
+		
 			
 
         
@@ -131,10 +193,126 @@
 			
 	
 			
-		
+		 ]
+    },
+    {
+        "name": "⚽DEPORTES SIN BLOQUEOS 📺",
+        "samples": [
+            {
+                "name": "ESPN Premium HD 🇦🇷",
+                "url": "http://181.13.252.102:8000/play/a078/index.m3u8",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TNT Sports HD 🇦🇷",
+                "url": "http://181.13.252.102:8000/play/a0bc/index.m3u8",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ESPN HD 🇦🇷",
+                "url": "http://181.13.252.102:8000/play/a05a/index.m3u8",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ESPN 2 HD 🇦🇷",
+                "url": "http://181.13.252.102:8000/play/a059/index.m3u8",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ESPN 3 HD 🇦🇷",
+                "url": "http://181.13.252.102:8000/play/a05b/index.m3u8",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png",
+                "type": "HLS"
+            },
+            {
+                "name": "ESPN 4 HD 🇦🇷",
+                "url": "http://181.13.252.102:8000/play/a076/index.m3u8",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png",
+                "type": "HLS"
+            },
+            {
+                "name": "Fox Sports HD 🇦🇷",
+                "url": "http://181.13.252.102:8000/play/a07j/index.m3u8",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png",
+                "type": "HLS"
+            },
+            {
+                "name": "Fox Sports 2 HD 🇦🇷",
+                "url": "http://181.13.252.102:8000/play/a05c/index.m3u8",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png",
+                "type": "HLS"
+            },
+            {
+                "name": "Fox Sports 3 HD 🇦🇷",
+                "url": "http://181.13.252.102:8000/play/a02t/index.m3u8",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png",
+                "type": "HLS"
+            },
+            {
+                "name": "TyC Sports HD 🇦🇷",
+                "url": "http://181.13.252.102:8000/play/a02s/index.m3u8",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png",
+                "type": "HLS"
+            }
+			
+				
 			
 			
-     
+			
+     					]
+    },
+    {
+        "name": "⚽DEPORTES ESPN SENSA SIN BLOQUEO",
+        "samples": [
+         
+			 {
+                "name": "ESPN",
+                "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
+                "icono": "https://i.postimg.cc/5tqCWhhm/ESPN.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d243ebd7a57bea4b4b052ae13f4c051&key=5c1925879de873d43b7c25925902539b",
+                "headers": {
+                    "Referer": "referer=https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "ESPN 2",
+                "url": "https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
+                "icono": "https://i.postimg.cc/FKZ7BjSG/ESPN2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6a8bd6496d2444301c9d4d0feca9d75b&key=3fd1967701ba2897729187b60094c158",
+                "headers": {
+                    "Referer": "referer=https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "ESPN 3",
+                "url": "https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
+                "icono": "https://i.postimg.cc/jqWyLFPq/ESPN3.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8836252059b793a79173838dc1186ff1&key=aa16f90e51ce5652dab93834e434caa8",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "ESPN 4",
+                "url": "https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
+                "icono": "https://i.postimg.cc/sDYQWdXC/ESPN4.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=034653d3413f23e87249d1fb7e68359a&key=a0d6b849f17c430e9cc02d07739a4e4a",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
       
   
 
@@ -195,9 +373,9 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             }
+
 			
-				
-			]
+			
     },
     {
         "name": "⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷",
@@ -215,18 +393,7 @@
                 }
             },
 			
-           {
-                "name": "ESPN M3U8 OPCION",
-                "url": "http://45.5.151.251:8000/play/a00g/index.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
+         
            
             {
                 "name": "ESPN",
@@ -443,122 +610,8 @@
                 }
             }
 
-			 ]
-    },
-    {
-        "name": "DEPORTES PRUEBAS SIN BLOQUEOS 📺",
-        "samples": [
-            {
-                "name": "ESPN Premium HD 🇦🇷",
-                "url": "http://181.13.252.102:8000/play/a078/index.m3u8",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",
-                "type": "HLS"
-            },
-            {
-                "name": "TNT Sports HD 🇦🇷",
-                "url": "http://181.13.252.102:8000/play/a0bc/index.m3u8",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png",
-                "type": "HLS"
-            },
-            {
-                "name": "ESPN HD 🇦🇷",
-                "url": "http://181.13.252.102:8000/play/a05a/index.m3u8",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-                "type": "HLS"
-            },
-            {
-                "name": "ESPN 2 HD 🇦🇷",
-                "url": "http://181.13.252.102:8000/play/a059/index.m3u8",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-                "type": "HLS"
-            },
-            {
-                "name": "ESPN 3 HD 🇦🇷",
-                "url": "http://181.13.252.102:8000/play/a05b/index.m3u8",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png",
-                "type": "HLS"
-            },
-            {
-                "name": "ESPN 4 HD 🇦🇷",
-                "url": "http://181.13.252.102:8000/play/a076/index.m3u8",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png",
-                "type": "HLS"
-            },
-            {
-                "name": "Fox Sports HD 🇦🇷",
-                "url": "http://181.13.252.102:8000/play/a07j/index.m3u8",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png",
-                "type": "HLS"
-            },
-            {
-                "name": "Fox Sports 2 HD 🇦🇷",
-                "url": "http://181.13.252.102:8000/play/a05c/index.m3u8",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png",
-                "type": "HLS"
-            },
-            {
-                "name": "Fox Sports 3 HD 🇦🇷",
-                "url": "http://181.13.252.102:8000/play/a02t/index.m3u8",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png",
-                "type": "HLS"
-            },
-            {
-                "name": "TyC Sports HD 🇦🇷",
-                "url": "http://181.13.252.102:8000/play/a02s/index.m3u8",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png",
-                "type": "HLS"
-            }
 
-						]
-    },
-    {
-        "name": "⚽DEPORTES ESPN SENSA SIN BLOQUEO",
-        "samples": [
-         
-			 {
-                "name": "ESPN",
-                "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
-                "icono": "https://i.postimg.cc/5tqCWhhm/ESPN.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d243ebd7a57bea4b4b052ae13f4c051&key=5c1925879de873d43b7c25925902539b",
-                "headers": {
-                    "Referer": "referer=https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "ESPN 2",
-                "url": "https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
-                "icono": "https://i.postimg.cc/FKZ7BjSG/ESPN2.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6a8bd6496d2444301c9d4d0feca9d75b&key=3fd1967701ba2897729187b60094c158",
-                "headers": {
-                    "Referer": "referer=https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "ESPN 3",
-                "url": "https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
-                "icono": "https://i.postimg.cc/jqWyLFPq/ESPN3.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8836252059b793a79173838dc1186ff1&key=aa16f90e51ce5652dab93834e434caa8",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "ESPN 4",
-                "url": "https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
-                "icono": "https://i.postimg.cc/sDYQWdXC/ESPN4.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=034653d3413f23e87249d1fb7e68359a&key=a0d6b849f17c430e9cc02d07739a4e4a",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            }
+	
 			
 			 ]
   },
@@ -1875,109 +1928,47 @@
                 "type": "HLS"
             }
 
-
-	  
-	  	]
+	 ]
     },
     {
-        "name": "PARAGUAY SIN BLOQUEO SEÑAL SD",
+        "name": "TELEMUNDO📺",
         "samples": [
-             {
-                "name": "ABC TV",
-                "url": "https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/aide2636/live.isml/.mpd",
+          
+			      {
+                "name": "TELEMUNDO INTERNACIONAL",
+                "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY3NzE3MTIwIiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DYW5hbDcvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImZlZWM4M2Y2ZDI4YjdiZGMiLCJzZXNzaW9uX2lkIjoiODU3MDcxOTUtMTc2NzU0NDMyMC0yNzgiLCJjbGllbnRfaWQiOiI5OTk5MDAwMDEzNTM3MjItLTExNTExMzI3IiwiZGV2aWNlX2lkIjoiODU3MDcxOTUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.Oaz_p1qjzXitlGpfZDuvLUeJPnJ1VszfmbUs8oNZxquEiTVxRAx5U0-8Ps30ganhufijWBa_U7WZYp_cl5KIEg==/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.postimg.cc/0QP6WwKq/download-27.png"
-            },
-
-			  {
-                "name": "ÑANDUTI TV",
-                "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist_w573748842.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.postimg.cc/jjGRjwYk/download-29.png"
-            },
-			
+                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                } 
+					   },
 			{
-                "name": "SNT",
-                "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png"
+                "name": "UNIVERSO 1",
+                "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+                "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
+                "type": "HLS"
             },
-
-			{
-                "name": "SNT OPC 2",
-                "url": "https://latan.stonetv.com.br/snt/tracks-v1a1/mono.m3u8",
+					  
+					  {
+                "name": "UNIVERSO 2",
+                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png"
-            },
-
-			 {
-                "name": "C9N",
-                "url": "https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.postimg.cc/RZxvLznK/download-60.jpg"
-            },
-
-			{
-                "name": "C9N OPC 2",
-                "url": "https://latan.stonetv.com.br/C9N/tracks-v1a1/mono.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.postimg.cc/RZxvLznK/download-60.jpg"
-            },
-
-			  {
-                "name": "TELEFUTURO",
-                "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1646247867.m3u8?admin=tvaccion",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
-            },
-
-			{
-                "name": "NPY PY",
-                "url": "https://copacotf.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?admin=tvaccion",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.postimg.cc/g0GvTJ7b/download-65.jpg"
-            },
-
-			{
-                "name": "GEN PY",
-                "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/index.m3u8?admin=nacion",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.postimg.cc/766s2fHs/download-59.jpg"
-            },
-
-				{
-                "name": "POPU TV PY",
-                "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/index.m3u8?admin=nacion",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.postimg.cc/qvZqcF4t/download-61.jpg"
-            },
-{
-                "name": "UNICANAL PY",
-                "url": "https://www.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=YwDOS-OTR1uMDYcWoMVs61ckCubguOQRSmqnXJ3lFZYT3WFSMWLCn6x28f7iPGoL6ADWP81loTt4yT7tPE0EZi4He-3aAmobLZLBAv8dI2Tzl9yHPl38PsM4R6pZho_C&dmTs=148613&dmV1st=25f9afde-3def-46b5-9b76-55986b297c4e",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.postimg.cc/5t2xrS9D/download-64.jpg"
-            },
-
-			
-
-			 {
-                "name": "LA TELE",
-                "url": "https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.postimg.cc/9Xx2K7wd/download-58.jpg"
+                "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3501bd323a6a35c28eb7654bf298b9aa&key=2db4c8089d627e1b2c480c57baa86a7b",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+           
             }
+
+	  
+
 		
 		
 		]
