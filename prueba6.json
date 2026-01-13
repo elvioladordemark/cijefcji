@@ -198,7 +198,48 @@
                 "icono": "https://i.postimg.cc/9Xx2K7wd/download-58.jpg"
             }
 		
+			 ]
+    },
+    {
+        "name": "TV DEPORTES 📺",
+        "samples": [
+             {
+                "name": "Win Sports 🇨🇴",
+                "url": "http://217.26.190.76:8888/play/a06a/index.m3u8",
+                "icono": "https://files.winsports.co/assets/public/logo_winsports_032023_0.png",
+                "type": "HLS"
+            },
+            {
+                "name": "MOVISTAR DEPORTES 🇨🇴",
+                "url": "http://209.45.81.84:8000/play/a03q/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png",
+                "type": "HLS"
+            },
 			
+			{
+                "name": "GOL PERU 🇵🇪",
+                "url": "http://209.45.81.84:8000/play/a03r/index.m3u8",
+                "icono": "https://tiendagolperu.com/wp-content/uploads/2020/01/GOLPERU-LOGO.png",
+                "type": "HLS"
+            },
+            {
+                "name": "LIGA 1 MAX 🇵🇪",
+                "url": "http://209.45.81.84:8000/play/a00c/index.m3u8",
+                "icono": "https://next-liga1.fanatiz.com/liga1/strapi/production/what_is_l1max_309897af0d.png",
+                "type": "HLS"
+            },
+            {
+                "name": "CDN Deportes 🇩🇴",
+                "url": "http://200.125.170.122:8000/play/a03j/index.m3u8",
+                "icono": "https://i.imgur.com/yU5LqTL.png",
+                "type": "HLS"
+            },
+            {
+                "name": "FUTBOL CANAL 🇧🇴",
+                "url": "http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/98493",
+                "icono": "https://i.postimg.cc/brDLmRwS/liga-de-bolivia.png",
+                "type": "HLS"
+            }
 
         
 			
@@ -1045,7 +1086,21 @@
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
-      }
+      },
+
+		{
+        "name": "DIRECTV SPORTS +",
+        "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
+        "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
+        "headers": {
+          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
+          "X-Did": "41c193ad43d937ca",
+          "X-Version": "8/4.0.7",
+          "User-Agent": "PLPro/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
 ]
     },
     {
@@ -1441,41 +1496,7 @@
                 "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
             },
 		
-            {
-                "name": "TNT UK 1",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ae26845bd33038a9c0774a0981007294&key=63ac662dde310cfb4cc6f9b43b34196d",
-                "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
-            },
-            {
-                "name": "TNT UK 2",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d1708b185c6c4d7b37600520c7cc93c&key=1aace05f58d8edef9697fd52cb09f441",
-                "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
-            },
-            {
-                "name": "TNT UK 3",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4e993aa8c1f295f8b94e8e9e6f6d0bfe&key=86a1ed6e96caab8eb1009fe530d2cf4f",
-                "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
-            },
-            {
-                "name": "TNT UK 4",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e31a5a81caff5d07ea2411a571fc2e59&key=96c5ef69479732ae734f962748c19729",
-                "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
-            },
-            {
-                "name": "TNT UK 5",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60c0d9b41475e01db4ffb91ed557fbcc&key=36ee40e58948ca15e3caba8d47b8f34b",
-                "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
-            },
+         
 		{
         "name": "BEIN SPORTS Ñ OPC1",
         "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/83c961c6-09ea-4c60-ab78-243c2b72006c.m3u8",
