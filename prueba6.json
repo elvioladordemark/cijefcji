@@ -8,6 +8,19 @@
         "samples": [
 {
                 "name": "HURACAN VS CERRO PORTEÑO⚽",
+                "url": "https://bhzqcb.6670391863.store:8443/hls/eka6jtsowcqgv6.m3u8?s=p90gPkEYCmIbZtZgIv4d6A&e=1768364722",
+                "icono": "https://i.postimg.cc/cCkZS24y/download-2026-01-13T174710-200.jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://marshlitigation.net",
+                    "Referer": "https://marshlitigation.net/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
+            },
+			
+			
+			{
+                "name": "HURACAN VS CERRO PORTEÑO⚽",
                 "url": "http://181.13.252.102:8000/play/a078/index.m3u8",
                 "icono": "https://i.postimg.cc/cCkZS24y/download-2026-01-13T174710-200.jpg",
                 "type": "HLS",
