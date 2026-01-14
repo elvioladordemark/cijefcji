@@ -807,6 +807,65 @@
                     ],
                     "tmdb_id": 281005,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Teherán",
+                    "genero": "Drama",
+                    "descripcion": "Tamar es una hacker del Mosad que se infiltra en Teherán bajo una identidad falsa para ayudar a destruir el reactor nuclear de Irán. Pero, tras fracasar en su misión, Tamar deberá trazar un plan que pondrá en riesgo a todos sus seres queridos.",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4b0YCutnlRq92TynHGMRsqhK4Mv.png",
+                    "icono": "https://image.tmdb.org/t/p/original/daeA95EXBB7AZP3JJWKpmMUAP1X.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/bgt0Qd2AfEq6tdwOHXKWiQb8Z0N.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Aterrizaje de emergencia en Teherán",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AD10AF59605C49D08E78AF9C04229FF9_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sangre en las manos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B17F064B10BA4A0E9AC7B226E8F11B55_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La hija de Yasamin",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/8EFA544DDF274538AB193BD8324D2462_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Shakira y el chico enfermizo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/25EB9BED937D49EEAE1016707629F1D9_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El otro Irán",
+                                    "url": "http://goovdme.967sd1f.homes/vod/66AB5D8315514353A5F46E17D859716D_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El ingeniero",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/E199439C688B4BC3ABB25EA700891248_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El padre de Tamar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C698AD46307740F483F5629361B5EA00_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Cinco horas para el bombardeo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0D94A6B8432E47B4A68C218A9D14167D_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 103913,
+                    "total_seasons": 4
                 }
             ]
         },
