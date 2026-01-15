@@ -25680,6 +25680,40 @@
                     ],
                     "tmdb_id": 61859,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Agatha Christie: Las Siete Esferas",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Inglaterra, 1925. En una lujosa fiesta en una casa de campo, una broma parece haber salido terriblemente —y mortalmente— mal. La tarea de resolver el misterio recaerá en la menos esperada de las detectives: la vivaz e inquisitiva Lady Eileen 'Bundle' Brent, quien deberá desentrañar una escalofriante conspiración que cambiará su vida y pondrá al descubierto los secretos más oscuros de la alta sociedad inglesa.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/40PO3iHK6ri8JFggKiA3JeraQvZ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/aG0jRHUoyZ2bwsnjfoyXx6mpHoB.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/eVEbRtSOrczWlYnVmwM195AnX86.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0A039BEBDB6F4BD08CDA4137CE29BD8E_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/AE80D85B9A164B779DDE177B7D69E069_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/DD0D818A67004A4B8F03704721946AF6_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 250505,
+                    "total_seasons": 1
                 }
             ]
         },
