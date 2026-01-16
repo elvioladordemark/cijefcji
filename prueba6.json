@@ -16,6 +16,17 @@
                     "Referer": "https://marshlitigation.net/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
+            },
+			{
+                "name": "PRUEBA⚽",
+                "url": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-2978498127.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/docs/rdc-bandsports/__index.m3u8?cc=y&sv=192&nu3zAQc9HC3GbwJq=1768590730-Idk0WbpXn27Wquk%2BlrQIz0%2FsNUSDOFBWBuVV%2FvOA0HU%3D",
+                "icono": "https://i.postimg.cc/VL3thTPg/download-2026-01-16T153826-548.jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://streamrdc.xyz",
+                    "Referer": "https://streamrdc.xyz/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
             }
 
 			]
