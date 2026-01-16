@@ -31415,6 +31415,55 @@
                     ],
                     "tmdb_id": 200875,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Rumbo al infierno",
+                    "genero": "Drama, Misterio, Sci-Fi & Fantasy",
+                    "descripcion": "Mientras unos seres sobrenaturales se aparecen por todo el mundo para condenar a los humanos al infierno, un grupo religioso propaga la idea de la justicia divina.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/urPTnD5pJzfZ0HAb8LTbf4exUBf.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5veiuXxIy3NFsm7LMqLGs4A2vgt.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ikN8ABD9pXHuW4JFqTEHr3ae8rd.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CBF53ED9CF394070A3ACCC1EC5EEF804_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/BD4D58C92BD64CE083543B2437BB6B80_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/81E0F9A5EE7B4BB88D8A824F9BDBF83B_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6CEEC777FFB146E4AE4FE49DA7DFAB13_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2C23A5910FD24D0087DEB8F662CBD9F4_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/76B13034D82D484CAB306041FFED8680_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 106651,
+                    "total_seasons": 2
                 }
             ]
         }
