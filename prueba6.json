@@ -7,119 +7,16 @@
         "name": "EVENTOS",
         "samples": [
 {
-                "name": "HURACAN VS CERRO PORTEÑO⚽",
-                "url": "https://bhzqcb.6670391863.store:8443/hls/eka6jtsowcqgv6.m3u8?s=p90gPkEYCmIbZtZgIv4d6A&e=1768364722",
-                "icono": "https://i.postimg.cc/cCkZS24y/download-2026-01-13T174710-200.jpg",
+                "name": "monaco vs lorient⚽",
+                "url": "https://bhzqcb.6670391863.store:8443/hls/a31q9.m3u8?s=QwCYioGXtfjCVTmD0gf6qQ&e=1768610184",
+                "icono": "https://i.postimg.cc/VL3thTPg/download-2026-01-16T153826-548.jpg",
                 "type": "HLS",
                 "headers": {
                     "Origin": "https://marshlitigation.net",
                     "Referer": "https://marshlitigation.net/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
-            },
-			
-			
-			{
-                "name": "HURACAN VS CERRO PORTEÑO⚽",
-                "url": "http://181.13.252.102:8000/play/a078/index.m3u8",
-                "icono": "https://i.postimg.cc/cCkZS24y/download-2026-01-13T174710-200.jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://storytrench.net",
-                    "Referer": "https://storytrench.net/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
-{
-                "name": "HURACAN VS CERRO PORTEÑO⚽",
-                "url": "https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4NTEwMjMxIiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UZWxlZmVIRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMjA1NmJkZjI4NDgzM2YzZiIsInNlc3Npb25faWQiOiI4NTcwNzE5NS0xNzY4MzM3NDMxLTc4MCIsImNsaWVudF9pZCI6Ijk5OTkwMDAwMTM1MzcyMi0tMTE1MTEzMjciLCJkZXZpY2VfaWQiOiI4NTcwNzE5NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjI5NiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.uFl6_0bEJ703aBvfa4od3ymA-3RqDalLPBCx8II5176gejEWBRTFcjkZa7CG6K9QotSuLY4waJ8mM15QcB9gMA==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/cCkZS24y/download-2026-01-13T174710-200.jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-			
-			
-			
-			{
-                "name": "VfB Stuttgart vs Eintracht Frankfurt⚽",
-                "url": "http://190.108.89.228:8000/play/a05w/index.m3u8",
-                "icono": "https://i.postimg.cc/4dp6wXK1/download-2026-01-13T084844-064.jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://storytrench.net",
-                    "Referer": "https://storytrench.net/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
-
-			{
-                "name": "corinthians vs vasco da gama EN VIVO⚽",
-                "url": "https://bhzqcb.6670391863.store:8443/hls/6349ts7.m3u8?s=MV1BTUrxuzF59CQIi8euww&e=1766039443",
-                "icono": "https://i.postimg.cc/cH0588mr/download-2025-12-17T211526-925.jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://begslant.net",
-                    "Referer": "https://begslant.net/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
-			
-			
-			
-			{
-                "name": "PSG VS FLAMENGO EN VIVO⚽",
-                "url": "http://190.108.89.228:8000/play/a05w/index.m3u8",
-                "icono": "https://i.postimg.cc/SNz81pMr/download-2025-12-17T124652-327.jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://www1.embedtv.best",
-                    "Referer": "https://www1.embedtv.best/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
-			
-			{
-                "name": "PSG VS FLAMENGO EN VIVO⚽",
-                "url": "http://weib-tv-play.xyz:80/EstoEsTv/98tnQmKnWJ/195322.ts",
-                "icono": "https://i.postimg.cc/SNz81pMr/download-2025-12-17T124652-327.jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://www1.embedtv.best",
-                    "Referer": "https://www1.embedtv.best/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
-{
-                "name": "PSG VS FLAMENGO EN VIVO⚽",
-                "url": "https://bhzqcb.6670391863.store:8443/hls/4jva7tj642f9b.m3u8?s=Fhrc8BfnzbVtq6SEJf3DXg&e=1766018533",
-                "icono": "https://i.postimg.cc/SNz81pMr/download-2025-12-17T124652-327.jpg",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://storytrench.net",
-                    "Referer": "https://storytrench.net/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            },
-
-
-			
-			{
-                "name": "Alajuelense vs Saprissa EN VIVO⚽",
-                "url": "https://eg2925v6e.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/SNz81pMr/download-2025-12-17T124652-327.jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=29852829d373dfb35df80c5fa1d9bff0&key=ceb31ec6a6d90090f490b54f524a27b4",
-                "headers": {
-                    "Origin": "https://elverruca.tech",
-                    "Referer": "https://elverruca.tech/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                } 
-					   }
+            }
 
 			]
     },
