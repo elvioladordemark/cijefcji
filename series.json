@@ -29510,6 +29510,40 @@
                     ],
                     "tmdb_id": 246412,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Pelayo: Más allá del límite",
+                    "genero": "Documental, Crimen",
+                    "descripcion": "Tras 'G.E.O.: Más allá del límite', el Inspector Pelayo vuelve a poner a prueba los límites de su resistencia, esta vez en Colombia, donde se une a unidades de élite del ejército y se embarca en operaciones reales en selvas, ríos y montañas.\r\n\r\nDurante más de dos décadas, Pelayo ha combatido el narcotráfico como policía de operaciones especiales. Ahora, su misión da un giro radical: decide seguir el rastro de la droga y adentrarse en los territorios donde el crimen manda y la violencia impone sus reglas. Desde los barrios de Buenaventura, hasta los ríos del Pacífico y las montañas del Valle del Cauca, Pelayo acompaña a unidades de élite del ejército colombiano en su guerra diaria contra el crimen organizado.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/uSkyRsQonNbPoRIC8kILNeLPR0Z.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fNxvkDtJKUXIPZaVHVSNacktBRV.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2VCSUWfJSE5nrMpSBquiZtpHUUP.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un monstruo de siete cabezas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/32CCC4DC2C6A4B02A29E620AA656F473_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mi diablo es más fuerte que tu Dios",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BAEFC7DC1899417CB6882B57AA8504E4_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La cola de la rata",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B971C0DAE2B04C248F3EA74373413E4A_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 308606,
+                    "total_seasons": 1
                 }
             ]
         },
