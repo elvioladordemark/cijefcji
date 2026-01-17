@@ -4603,6 +4603,55 @@
                     ],
                     "tmdb_id": 86621,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Reykjavík Fusion",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Jónas (Ólafur Darri Ólafsson) es un chef de gran talento que sale de prisión tras ser acusado de incendiar su antiguo restaurante. Decidido a reconstruir su vida, lucha por recuperar la custodia de sus hijos y el respeto de su ex mujer, a quien aún ama. Pero el mundo exterior no se lo pone fácil: rechazado por la sociedad y sin oportunidades laborales, se ve obligado a aceptar dinero ilícito de un antiguo compañero de celda para abrir un nuevo restaurante.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/kaHFhjKhNlp030AgwtN9Qi2M8m0.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sC8iJtw14sEcwEgJJtX8htBvRgb.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/zHh0ieGLKlR0bUk7gVpJ72CwHeS.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Sólo uno",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DF041E47C2A9415291A1E39C9EBFB49E_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Fundamento",
+                                    "url": "http://goovdme.967sd1f.homes/vod/02144D7119EC4EF082170F3BB5DB1234_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Grosellas frescas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EF70FC7B8F964BEF9F13F722370632B9_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Santa Marý Gran Reserva",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/621C3377D2354E3E8AFB1301CD37182B_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Padre",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/ECD619B5188040C7A097BC2AF0A9B8B0_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Contrachapado de abedul duro",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C05A01FD1C4D451AAC70E9FB4F28DE9A_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 304510,
+                    "total_seasons": 1
                 }
             ]
         },
