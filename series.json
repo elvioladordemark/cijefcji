@@ -16407,6 +16407,55 @@
                     ],
                     "tmdb_id": 103540,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Viaje sangriento",
+                    "genero": "Sci-Fi & Fantasy, Misterio, Action & Adventure",
+                    "descripcion": "Los pasajeros condenados a bordo del autobús fantasmal viajan a un destino desconocido y siniestro en esta deliciosa y macabra serie antológica de terror.",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/wUD1w54ZTuJvrjpYS9rcIjsKpb7.png",
+                    "icono": "https://image.tmdb.org/t/p/original/btDK2OQBdj6ExvBbziOJullTKjL.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/eOsj7XH8aY1HHUSMhhpyiTAHHxU.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El sacrificio definitivo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/02FE4CFDE4CE45C6914E968770A22411_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Tres hermanos zumbados",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DBDD501297734D50AA99CC9FDD3D35A5_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El escritor malvado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7932A03B51154372A3A881040458B292_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Ratas de laboratorio",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B2A91FD79F3B46AD8B5DB5BC2D310F19_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La vieja escuela",
+                                    "url": "http://goovdme.967sd1f.homes/vod/91101819D95843B6B1492894C7692470_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Secreto a voces",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/92739DB47BBC424789A9856D030FD09F_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 100043,
+                    "total_seasons": 1
                 }
             ]
         },
