@@ -892,6 +892,30 @@
                     ],
                     "tmdb_id": 262793,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El caballero de los Siete Reinos",
+                    "genero": "Drama, Sci-Fi & Fantasy",
+                    "descripcion": "Un siglo antes de los acontecimientos de \"Juego de Tronos\", dos héroes improbables vagaban por Poniente: un joven e ingenuo, pero valiente caballero, Ser Duncan el Alto (Claffey), y su pequeño escudero, Egg (Ansell). Ambientada en una época en la que el linaje Targaryen aún ostenta el Trono de Hierro y el recuerdo del último dragón aún no ha desaparecido de la memoria viva, grandes destinos, poderosos enemigos y peligrosas hazañas aguardan a estos improbables e incomparables amigos.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/lERtu05zRB5pvIe41IilnF9mzrA.png",
+                    "icono": "https://image.tmdb.org/t/p/original/uB0v0sqbOGjj7MZZ9sb2vYnUVP3.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/44CFF8E6BA104E50A071B683499F6FDB_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 224372,
+                    "total_seasons": 1
                 }
             ]
         },
