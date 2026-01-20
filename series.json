@@ -12555,6 +12555,45 @@
                     ],
                     "tmdb_id": 229891,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Fiebre de primavera (temp.1 - 4)",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Yun Bom, después de sufrir un desengaño sentimental en Seúl, se traslada a la pequeña ciudad de Sinsu para empezar de nuevo como profesora. Aunque al principio se muestra distante y fría, poco a poco vuelve a descubrir la alegría tras conocer a Sun Jae-gyu.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rJhX84hAR3srvSucEvesJJNqZic.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jTJgfbSQ4UczxMOgscHPsoVuL5X.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tQLTOGJfWRehgkWuQcxI3Egs8iM.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "¿Tu tío es... ese?",
+                                    "url": "http://goovdme.967sd1f.homes/vod/408D3C325C594D12946554A48199552E_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¿Tu tío... trabaja?",
+                                    "url": "http://goovdme.967sd1f.homes/vod/99179C245ADE4A849B7B1A76131B6251_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¿Tu tío es... padre?",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DB2B01B00B0F4211962862C425B01BFB_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "¿Tu tío es... un heredero?",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6ECD41365957431B8B53B5A6A3B7D065_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 280948,
+                    "total_seasons": 1
                 }
             ]
         },
