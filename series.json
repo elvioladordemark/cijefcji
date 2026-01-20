@@ -29681,6 +29681,65 @@
                     ],
                     "tmdb_id": 308606,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Sandokan",
+                    "genero": "Action & Adventure, Drama, War & Politics",
+                    "descripcion": "Sandokán es un pirata malayo que, junto con su amigo Yáñez y su tripulación, ataca a las fuerzas británicas desde su isla de Mompracem. Durante sus aventuras, se enamora de Lady Marianna Guillonk, una aristócrata italo-inglesa.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/xtcJuQJmNCX2xR1RT62ByQrgAgw.png",
+                    "icono": "https://image.tmdb.org/t/p/original/6P5WCgqB4D5jL8FDx0ZlNyUu5X5.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uLWjc4c9k2pXoSmvZ5RdFIMYvdq.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F9F4419CABF040678CB06CC11076D4CA_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/185C5D4450894CD3806FC591A2DAA9B2_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/63E5D0A6F74F403B97616A23ADBA8B5B_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DD93E2BF51DB4DA690EE5269DABE7BFB_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/217E982A04664963987818C5FCD1015C_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/0AA6896740494F2B94033655EC8B3DA7_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/BFF9EF8004F44ED6BB582A32FF30322A_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F8FE869BFFD64C06A6372F95211E9C97_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 271855,
+                    "total_seasons": 1
                 }
             ]
         },
