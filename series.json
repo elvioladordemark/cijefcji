@@ -29902,6 +29902,65 @@
                     ],
                     "tmdb_id": 271855,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El nuevo empleado",
+                    "genero": "Drama, Crimen, Action & Adventure",
+                    "descripcion": "Un joven y temerario abogado es reclutado por la CIA al salir de la facultad de Derecho y se adentra sin preparación en el peligroso mundo del espionaje internacional.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/qGXm5SnKs3bOO3kB0m4rZjUS1lo.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sgCe7wVP5AxU2aNofxLhRn1XfwD.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rey2eh6752C2UbGYRileKk1PVTo.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "N.S.E.S.A.",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1538C8110EFB4B89BDFFE4CDE48697C3_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "N.L.D.V.A.E.C.",
+                                    "url": "http://goovdme.967sd1f.homes/vod/41A613CC101B40CBBA785CD5E6AA862C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "N.S.S.L.Q.H.",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/7C2B0FB92B9449CCAD1BB847107D0DF4_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "S.L.H.C.A.C.",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EF011B4CFDCB472683BEF0EEB43F950E_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "P.Q.T.U.P.",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9E96ABE5BD184E6AB57A33FB0C93FDB7_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "L.E.A.N.L.E.A.",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C05AC155361643A594177EBDAA971942_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "E.L.P.V.Q.M.E.C.S.",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/CAC1CCCA68FE45448AB06FBFDCEE6473_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Q.C.E.O.H",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5A12568E61774F3BBABE0F3DB26BAB81_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 210916,
+                    "total_seasons": 2
                 }
             ]
         },
