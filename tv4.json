@@ -1,20 +1,5 @@
 [
-    {
-        "name": "SERIE RIO DE LA PLATA",
-        "samples": [
-            {
-                "name": "BOCA JUNIORS vs OLIMPIA",
-                "url": "https://5i9kv5aur.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-                "type": "HLS",
-                "icono": "https://www.ole.com.ar/images/2026/01/17/Taw9j34dG_400x400__1.jpg",
-                "headers": {
-                    "Referer": "https://elverruca.tech/",
-                    "Origin": "https://elverruca.tech",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            }
-        ]
-    },
+  
     {
         "name": "⚽TIGO SPORTS SOLO EVENTOS",
         "samples": [
