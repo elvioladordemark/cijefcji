@@ -26077,6 +26077,65 @@
                     ],
                     "tmdb_id": 281401,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Amar, perder",
+                    "genero": "Drama",
+                    "descripcion": "Una historia de amor imposible sella el destino de dos familias cuando una mujer que intenta salvar el restaurante familiar se enamora del arisco heredero de un cobrador de deudas.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/oYMNRZGcWr3h6Rpnn2GpfMboJhR.png",
+                    "icono": "https://image.tmdb.org/t/p/original/9R5DrduOSlsPlqd6L6r7almXLpX.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/3I7VZG3xrEaSxvn48LvStuwRInQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/40A56DC51C27412A858FBF441C194F13_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9CD387B357BA4F3EB828F749E68A131C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5D19172A0AB54C1094889CB9D8420174_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1028E2C9C9D64ED2AC899EFB84B2903C_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7B4C10495C8645A0A1C5AA2ED45952E1_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A806301ADBD442C8B56535A2D4F79633_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3D34EA678F16451F8D81FD7173E652BA_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/921A7455EA394CE7969A6A08B7B835DA_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 310045,
+                    "total_seasons": 1
                 }
             ]
         },
