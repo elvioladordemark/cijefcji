@@ -26018,6 +26018,65 @@
                     ],
                     "tmdb_id": 250505,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Bailando sobre hielo",
+                    "genero": "Drama",
+                    "descripcion": "Una exbailarina sobre hielo vuelve a la pista con un nuevo y emocionante compañero mientras aún siente algo por su antigua pareja: su primer amor.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ohoPwJsSxmbotGEfkLo8CuBcs4N.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rundKWddXHke82ee8Sv9KJmuGhn.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/3aeYYriPQN7886in9bIGKnbC5eQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Tomando impulso",
+                                    "url": "http://goovdme.967sd1f.homes/vod/76517553E7994A139A560B342481D1C0_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "A ras del hielo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/BE6D4A53675645188D9CBC4AA03DE9BB_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El borde interior",
+                                    "url": "http://goovdme.967sd1f.homes/vod/770A657DBA5D471989C5F0367B4F83CD_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Besos y lágrimas",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B7973B22D23E4FE68B3977B9A1329A4D_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "En espiral",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8BCB818775F348AC8527840F05D59B97_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Cruces",
+                                    "url": "http://goovdme.967sd1f.homes/vod/435934A753EB49939BC4B634CDDFC1FB_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Espiral mortal",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AE0D35A405ED4B8A9B11189BFDC52CDE_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "A por la medalla",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/0A602856D1E2461EB69CEFAECCF88DC6_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 281401,
+                    "total_seasons": 1
                 }
             ]
         },
