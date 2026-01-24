@@ -100,7 +100,7 @@
         "name": "LANC TV",
         "samples": [
           {
-        "name": "LANCE1",
+        "name": "LANC 1",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
@@ -119,7 +119,7 @@
         }
       },
       {
-        "name": "LANCE 3",
+        "name": "LANC 3",
         "url": "https://sam-py-edge01.tigo.com.py/ccur-session/e319b1151f2d4f6682d5ccbb56be311417486357322181b65a320aeed11ebae01d90082191a3cTfPoq7bcpzIioW1uMA4mxQSR/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3104af5254534d43a98319238dcb6f00&key=8f4af52cf6c144a6499244e542d92680",
@@ -1989,7 +1989,7 @@
 	 ]
     },
     {
-        "name": "TELEMUNDO📺",
+        "name": "⚽TELEMUNDO Y UNIVERSO📺",
         "samples": [
           
 			      {
@@ -2005,18 +2005,18 @@
                 } 
 					   },
 			{
-                "name": "UNIVERSO 1",
+                "name": "⚽DEPORTES UNIVERSO M3U8 FULL",
                 "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
                 "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
                 "type": "HLS"
             },
 					  
 					  {
-                "name": "UNIVERSO 2",
-                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
+                "name": "⚽DEPORTES UNIVERSO MPD FULL",
+                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3501bd323a6a35c28eb7654bf298b9aa&key=2db4c8089d627e1b2c480c57baa86a7b",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a17518cbf52f3478930511cea7ed1e3a&key=82b1aaf767958581f82ef9701474162c",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar/",
