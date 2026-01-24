@@ -80,6 +80,20 @@
                 "icono": "https://i.postimg.cc/2ykynGdJ/download-(41).png"
             }
 
+			]
+    },
+    {
+        "name": "⚽EVENTOS UNIVERSO OESTE⚽",
+        "samples": [
+             {
+                "name": "EVENTOS FLOW",
+                "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/B6rWGbtv/download-2026-01-24T145153-313.jpg"
+            }
+
+
 					]
     },
     {
