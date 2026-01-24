@@ -7,9 +7,9 @@
         "name": "EVENTOS",
         "samples": [
 {
-                "name": "monaco vs lorient⚽",
-                "url": "https://bhzqcb.6670391863.store:8443/hls/a31q9.m3u8?s=QwCYioGXtfjCVTmD0gf6qQ&e=1768610184",
-                "icono": "https://i.postimg.cc/VL3thTPg/download-2026-01-16T153826-548.jpg",
+                "name": "11:30 Bayer Leverkusen vs Werder Bremen⚽",
+                "url": "https://saa1.vdcast.live/Nj1YB5uhDd7o2E9hVPupzw/1769294774/323830333a326130303a323030363a653330333a393432373a3633313a646537383a32326261/ff957/playlist.m3u8?b=1",
+                "icono": "https://i.postimg.cc/YCQp4qrW/download-(43).png",
                 "type": "HLS",
                 "headers": {
                     "Origin": "https://marshlitigation.net",
@@ -17,6 +17,44 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
             },
+{
+                "name": "11:30 Bayer Leverkusen vs Werder Bremen OPC2⚽",
+                "url": "https://saa1.vdcast.live/tvEnM31DBjbyjnarXquJtw/1769294889/323830333a326130303a323030363a653330333a393432373a3633313a646537383a32326261/ff955/playlist.m3u8?b=1",
+                "icono": "https://i.postimg.cc/YCQp4qrW/download-(43).png",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://marshlitigation.net",
+                    "Referer": "https://marshlitigation.net/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
+            },
+
+			{
+                "name": "🏴12:00 Fulham vs Brighton⚽",
+                "url": "https://saa1.vdcast.live/tvEnM31DBjbyjnarXquJtw/1769294889/323830333a326130303a323030363a653330333a393432373a3633313a646537383a32326261/ff955/playlist.m3u8?b=1",
+                "icono": "https://i.postimg.cc/t4rHnZ0C/download-2026-01-24T115239-845.jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://marshlitigation.net",
+                    "Referer": "https://marshlitigation.net/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
+            },
+
+			{
+                "name": "🏴12:00 Fulham vs Brighton OPC2⚽",
+                "url": "https://saa1.vdcast.live/tvEnM31DBjbyjnarXquJtw/1769294889/323830333a326130303a323030363a653330333a393432373a3633313a646537383a32326261/ff955/playlist.m3u8?b=1",
+                "icono": "https://i.postimg.cc/t4rHnZ0C/download-2026-01-24T115239-845.jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://marshlitigation.net",
+                    "Referer": "https://marshlitigation.net/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
+            },
+
+
+			
 			{
                 "name": "PRUEBA⚽",
                 "url": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-2978498127.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/docs/rdc-bandsports/__index.m3u8?cc=y&sv=192&nu3zAQc9HC3GbwJq=1768590730-Idk0WbpXn27Wquk%2BlrQIz0%2FsNUSDOFBWBuVV%2FvOA0HU%3D",
