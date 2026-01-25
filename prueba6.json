@@ -18,7 +18,7 @@
                 }
             },
 			{
-                "name": "🏴Crystal Palace X Chelsea⚽",
+                "name": "🏴⚽",
                 "url": "https://y514nfann.s3.us-east-1.amazonaws.com/live/stream4/index.m3u8",
                 "icono": "https://i.postimg.cc/YqddC7FV/download-2026-01-25T105931-725.jpg",
                 "type": "HLS",
@@ -27,7 +27,7 @@
                     "Referer": "https://cdn.elverruca.tech/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
-            },
+            }
 
 			]
     },
