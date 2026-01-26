@@ -12594,6 +12594,65 @@
                     ],
                     "tmdb_id": 280948,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Me alegro por ti",
+                    "genero": "Comedia",
+                    "descripcion": "I Love That For You es una serie comedia basada en hechos reales. La historia sigue a la superviviente de leucemia infantil Joanna Gold mientras intenta perseguir el sueño de su vida: convertirse en presentadora de un canal de compras desde el hogar.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gR3Off47d5dFZwXgf6tOCCeJDFy.png",
+                    "icono": "https://image.tmdb.org/t/p/original/AhNp9oNhHcRJRwwYN6ZOVZu9Y5A.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/mnahqfJAkgMWlmg8A1bKNBa9z2i.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C280B321C10B48A1AC88D017F30D9FA5_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/DAEA0F9DA22A4B11806E75C5AE83AAA0_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E8A3B1DFCEC44A628DC9C08D66F54279_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/20AFE63608C748B095C32A8AA2FC3DB6_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/680C491E46234D99943EE4108A35D511_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/ADDB3F1A95DC4D96A974DA196B319CE3_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5102E2C1A306493ABA4A5A9817BB56B2_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1550FFD2EF2C48E8B33AEC871EDED6AA_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 195815,
+                    "total_seasons": 1
                 }
             ]
         },
