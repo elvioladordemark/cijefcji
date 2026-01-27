@@ -919,7 +919,7 @@
                     "total_seasons": 1
                 },
                 {
-                    "nombre": "El caballero de los Siete Reinos",
+                    "nombre": "El caballero de los Siete Reinos (Temp 1 - 2)",
                     "genero": "Drama, Sci-Fi & Fantasy",
                     "descripcion": "Un siglo antes de los acontecimientos de \"Juego de Tronos\", dos héroes improbables vagaban por Poniente: un joven e ingenuo, pero valiente caballero, Ser Duncan el Alto (Claffey), y su pequeño escudero, Egg (Ansell). Ambientada en una época en la que el linaje Targaryen aún ostenta el Trono de Hierro y el recuerdo del último dragón aún no ha desaparecido de la memoria viva, grandes destinos, poderosos enemigos y peligrosas hazañas aguardan a estos improbables e incomparables amigos.",
                     "anio": "2026",
@@ -935,6 +935,11 @@
                                     "numero": 1,
                                     "titulo": "Episodio 1",
                                     "url": "http://goovdme.967sd1f.homes/vod/44CFF8E6BA104E50A071B683499F6FDB_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Carne salada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E7DEC5EB5F974604BA62615EEEFDE7BA_media.ts"
                                 }
                             ]
                         }
