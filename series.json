@@ -921,6 +921,55 @@
                     ],
                     "tmdb_id": 224372,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El robo",
+                    "genero": "Drama, Crimen, Misterio",
+                    "descripcion": "Un día normal en Lochmill Capital se ve alterado cuando unos ladrones irrumpen y obligan a punta de pistola a Zara y a su mejor amigo Luke a cumplir sus exigencias. El detective Rhys se enfrenta a una carrera contrarreloj para descubrir quién ha robado los 4000 millones de libras y por qué.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/s8VraiD5rQYNT51Dv4suqnA67Hi.png",
+                    "icono": "https://image.tmdb.org/t/p/original/txcrTTjG5hCo7oYl4J8hsIyBFxu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Ejecutar o eliminar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EDD66A2B9F5344D194C0AA34CB633B0C_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Valor nominal",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C4F0B941E8C94425AEF2CA8B0C2C9BA6_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "A corto plazo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6768C3A735ED47F0A1219C07659F9F36_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Alto riesgo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2C0819F289E1493C86079259A6F2B1A1_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Ahorra para el futuro",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4016D9217B3042D0A846D055903E2824_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Rebote del gato muerto",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/40064632883B48208988105023C81352_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 254071,
+                    "total_seasons": 1
                 }
             ]
         },
