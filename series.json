@@ -4814,6 +4814,55 @@
                     ],
                     "tmdb_id": 254071,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La noche más larga",
+                    "genero": "Crimen",
+                    "descripcion": "La noche más larga es la noche del 24 de diciembre: un grupo de hombres armados rodean la prisión Monte Baruca y cortan las comunicaciones con el exterior. Su objetivo: capturar a Simón Lago (Luis Callejo), un peligroso asesino en serie. Si los guardias lo entregan, el asalto acabará en cuestión de minutos. Pero Hugo (Alberto Ammann), el director de la prisión, se niega a obedecer y se prepara para resistir el ataque.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3dMd1lDbjIYidJjjoLsAjBJmfJn.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cLmVfEZur8wWs4LQkOGCbXfkyc4.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fRKSA6N88lywGYUKkOAmyXhnpdB.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5C343ED83D0548B899C8921AFAA343E3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D6234EA07FA24D719FA8F3E87B3B275F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1ED74A6A186D4FCBBD22561DEB88D870_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2A45B05AE91043D8968D1CE66DD35933_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/7D32C205158E466389318DF6FDE14B2E_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3310315FA8BA4595B6B97A1497B52490_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 201331,
+                    "total_seasons": 1
                 }
             ]
         },
