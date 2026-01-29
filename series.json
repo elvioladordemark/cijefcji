@@ -26367,6 +26367,45 @@
                     ],
                     "tmdb_id": 310045,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Obsesion",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "La aventura de un respetado cirujano londinense con la prometida de su hijo se convierte en un enamoramiento erótico que amenaza con cambiar sus vidas para siempre.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7cLSa58Pr508G6x9efQQ9WWgSFC.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hmtzSO25Bo0FqeYJly9VFkibTnj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/dpaaxgmIe0cCId6CVIAOfNqkYm4.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A9C5DD0AC29840EC90C05A944A4E6BB4_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2485C6814E5A4615B3F56FC7F1766DC9_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2FAE600ED06B4452882DB80B4962BCD0_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/636F48F96A52407CBE73F71557094ED8_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 223313,
+                    "total_seasons": 1
                 }
             ]
         },
