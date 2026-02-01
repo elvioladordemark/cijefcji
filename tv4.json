@@ -1399,10 +1399,17 @@
             },
             {
                 "name": "DIRECTV SPORTS 2",
-                "url": "http://live.detodotvplay.com:8080/Risario8/Pineda13/75988",
+                "url": "http://magmaplayer.com/stream/secure/AGL4KmRjAmysZwtjZmblLGNjBwWwZGZ6MGN5AGb2LmIyBzR3Amt6LzZlLGbkMJDjKmR3Awx5BQVmBQqsL2ExMzH1MGuwZQR5L2VmL18j.m3u8",
                 "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "Magma Player/10",
+                    "X-App": "ps",
+                  "X-Did": "cddfe5e8c019cb3c",
+                    "X-Version": "10/1.0.9",
+                    "X-Hash": "1SIWfjfvnzrNasFp4XYx7My1ACJT2QwWXOufxe8ztbJ36nHWX2zWoHrHnb7cKq2GdmCtRFe_FIrWT5MAPbFZXObmgaGSRPPCGuju5IglHiZ6R0V1bT2VDS2E0lNy5CTXvvWDrCVRhwp46q15pZ0Pj5Wqn4WmTfb25EKXB7rDi2OxCAqZRgGAtch9PcxsXPuZg9Tq1-mVb8NLsItyqFlV3bT8g_9cy91sWO57YDgn_0nYsEn9UEQD7pFrxuAEmc32WmY8Xt7-S7M-X3pFuhj2-De8ZdV2cB29pUUf7QO43N7-q4-g7t4M9__bz-xYXTqXD1UAlW5oJ0Tfz_0KmzuBmpdpoKdPJW6pMqV5N07o5v-JuGyttTY5L8UZyciUnzIvdW8kGZz9Q6Z4wFIbt399l3zYfjSWJZ4fBdFaqv7tiSBiLVS84eEgZaoWvhUNgDNfttLGsHSD9V4K7rb9SYWE1Icg_Kw4xDtPejflhgrV6muFZo1W9Ac7E9YmhODceQVKUSFJUN4Ej8pc27eQDTg9j5PV499HM45Zo6SbEl3qzr-SVINRtTkxLELlh_DeK67D0cdZQ--skuoDMZH0_yRBcmo_fzZtj81IWrGRp28wYR4IHjw9tGe8A5UxTzoRuBDM"
+                }
             },
             {
                 "name": "DIRECTV SPORTS PLUS",
