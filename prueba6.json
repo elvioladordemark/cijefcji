@@ -465,9 +465,9 @@
 			
             {
                 "name": "ESPN 2",
-                "url": "https://edge-live03-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwNDg1MDU5Iiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UZWxlZmVIRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGVkYzViOWExZTRiNDA4NiIsInNlc3Npb25faWQiOiI4NTcwNzE5NS0xNzcwMzEyMjU5LTkyOCIsImNsaWVudF9pZCI6Ijk5OTkwMDAwMTM1MzcyMi0tMTE1MTEzMjciLCJkZXZpY2VfaWQiOiI4NTcwNzE5NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI5OCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.Nw2st4Xz48G48V7JP-jwU_SRBLE80ZhCOAt38EP3LZNm_f5tHOP8hUC2GTQM4t_7XQptCkPl6SrzYolm8Srrgw==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd",
+                "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwNjU5MjkyIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjRiYzkyYjRiMDdlN2RkN2EiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjk5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.Wo50kjzmn8IHnDY2PPK13esp1lc0oh3fmxATgzQDSTOXjxUovEXy9xrOKmYGHJiNh6fCj0i-TbvZHwmnsU2bpQ==/live/c4eds/ESPN_PY/SA_Live_dash_enc/ESPN_PY.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/jlj8zk8t60yp9c2d5d23w/clearkey_espn2.json?rlkey=3j04qbx7qneo5p0rsyzx0501h&st=01agngs8&dl=0",
+                "drm_license_uri": "https://raw.githubusercontent.com/elvioladordemark/clearkey/refs/heads/main/clearkey3.JSON",
                 "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
