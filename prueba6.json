@@ -325,7 +325,7 @@
                 "headers": {
                  "Origin": "https://pracanespeeeedaaass.github.io",
 					"Referer": "https://pracanespeeeedaaass.github.io/",
-                    "webtoken": "0"
+                    "webtoken": "1.0"
                 }
             },
             {
@@ -387,17 +387,7 @@
                 }
             },
 
-			{
-                "name": "ESPN Premium PRUEBA",
-                "url": "https://broker.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd",
-                "icono": "https://weiss.mc.rocstar.tv/sb/image/49911746",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://tv.onpower.com.ar",
-                    "Referer": "https://tv.onpower.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
-                }
-            },
+		
 
 {
                 "name": "TNT SPORTS PREMIUM",
@@ -477,7 +467,7 @@
                 "name": "ESPN 2",
                 "url": "https://edge-live03-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwNDg1MDU5Iiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UZWxlZmVIRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGVkYzViOWExZTRiNDA4NiIsInNlc3Npb25faWQiOiI4NTcwNzE5NS0xNzcwMzEyMjU5LTkyOCIsImNsaWVudF9pZCI6Ijk5OTkwMDAwMTM1MzcyMi0tMTE1MTEzMjciLCJkZXZpY2VfaWQiOiI4NTcwNzE5NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI5OCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.Nw2st4Xz48G48V7JP-jwU_SRBLE80ZhCOAt38EP3LZNm_f5tHOP8hUC2GTQM4t_7XQptCkPl6SrzYolm8Srrgw==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/jlj8zk8t60yp9c2d5d23w/clearkey_espn2.json?rlkey=3j04qbx7qneo5p0rsyzx0501h&st=01agngs8&dl=0",
                 "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
