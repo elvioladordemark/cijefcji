@@ -3516,16 +3516,8 @@
             },
             {
                 "name": "EL TRECE",
-                "url": "http://magmaplayer.com/stream/m3u8/ZGHmKmZ2ZS8kBGRhZGH2YwD3YwZkKmR3AQZjBD/hls/360.m3u8",
-                "icono": "https://i.ibb.co/bgkRhzM9/canal-13-chile-2018-logo-8-FA6-D195-CE-seeklogo-com.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "url": "http://179.57.171.184:8000/play/a00m",
+                "icono": "https://i.ibb.co/bgkRhzM9/canal-13-chile-2018-logo-8-FA6-D195-CE-seeklogo-com.png"
             },
             {
                 "name": "TV CHILE",
