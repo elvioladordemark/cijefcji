@@ -63,11 +63,10 @@
             },
           {
                 "name": "AMERICA TV PY",
-                "url": "http://160.238.185.164:8000/play/a0bm/index.m3u8?hls",
+                "url": "http://160.238.185.164:8000/play/a0bm/index.m3u8",
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/nqLSGRzs/R.png",
-          }
-                },
+          },
             {
                 "name": "PY | SNT  ",
                 "url": "https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd",
