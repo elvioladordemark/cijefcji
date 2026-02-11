@@ -3511,16 +3511,8 @@
             },
             {
                 "name": "MEGA",
-                "url": "http://magmaplayer.com/stream/m3u8/BGR3KmL1Zy8kBGRhZGH2YwD3YwZkKmR3AQZjBD/hls/652.m3u8",
-                "icono": "https://i.ibb.co/kgdYmTbh/R-2.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "url": "http://181.119.93.57:8000/play/a0v0/index.m3u8",
+                "icono": "https://i.ibb.co/kgdYmTbh/R-2.png"
             },
             {
                 "name": "EL TRECE",
