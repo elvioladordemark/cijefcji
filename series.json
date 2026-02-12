@@ -32573,6 +32573,60 @@
                     ],
                     "tmdb_id": 0,
                     "total_seasons": 0
+                },
+                {
+                    "nombre": "Secuestro aereo",
+                    "genero": "Drama",
+                    "descripcion": "El negociador Sam Nelson va a vivir el viaje de su vida cuando un grupo de secuestradores toma el control. Sam agotará sus tácticas, pero la situación es límite.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/fsiRe9lERP1GbkhuEZdVUKFHyxf.png",
+                    "icono": "https://image.tmdb.org/t/p/original/vAo3QL02oOI9Xz90FILQN5vxMsQ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/t5OhMJHdgzXxiwZ8iNXMMLSglUK.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Última llamada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/52727AEA9EF3434491D4D13C152DE900_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "3 grados",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FC5E360188674C2A8DF1B921B9226ADF_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "En blanco",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/9F04711FF77F4E7F860443ED095C6496_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "No responde",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6C9B09BC414D49288E4EA89750095A94_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Menos de una hora",
+                                    "url": "http://goovdme.967sd1f.homes/vod/44A001CBC77846049A000BD1924EEC22_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Obedece lentamente",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A95ACA00EA5242CC8C066C7A6FC31042_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Apoyo, apoyo, apoyo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/54FA000B4C9A4D01A4920106333D0560_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 198102,
+                    "total_seasons": 2
                 }
             ]
         }
