@@ -26168,6 +26168,65 @@
                     ],
                     "tmdb_id": 223313,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Los Bridgerton",
+                    "genero": "Drama",
+                    "descripcion": "Ambientada en la alta sociedad londinense de principios del siglo XIX, la historia se centra en la familia Bridgerton, formada por varios hermanos y hermanas que se debaten entre el amor, el deber y la vocación. Cada temporada refleja la vida amorosa de un hermano Bridgerton, empezando por Daphne y siguiendo por Anthony, Colin y Benedict.",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ze8iaJtOzkaLc8X7KCy6S1lPv8B.png",
+                    "icono": "https://image.tmdb.org/t/p/original/4MQf8yWM47OVjjtxRdhc1SzoZVE.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/6umsRLI7t0ydFwCl0JNEIO0q2LH.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un diamante de primera",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0B2B81A365C84B91B00597E37FA60B3F_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Asombro y agrado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0153726260BD491898DE7ED15036FD46_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El arte del desvanecimiento",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8676EED2E29048DB82946E9C77742D50_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un asunto de honor",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2C470E5AD3ED46C685E1529C4022AE2F_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El duque y yo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9F84DB0385D64631B1565038D5A986C7_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Frufrú",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1FD7EA7DD85641D9A663EEBD1AE33811_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Un abismo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DF98F99912D3494D8CDAF38D5BFB1A4E_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Después de la tormenta",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C2742C4BD2304166A71FEFFFD1B95609_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 91239,
+                    "total_seasons": 4
                 }
             ]
         },
