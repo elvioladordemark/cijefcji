@@ -1019,6 +1019,76 @@
                     ],
                     "tmdb_id": 198102,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "En el barro",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Cinco presas forjan un vínculo único tras un accidente mortal, pero la corrupción y las luchas de poder de la cárcel amenazan con separarlas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/kSNKCviNfWcSkQQp1G18P2NzCgr.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/bxPELhUZNgbFUN31EZTBC99wOHD.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A8C69CC0AF284DCE9E02D02CE0B83855_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CF1B9CE6AA934E0A8ECE27FF10105693_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F1C16AB43F084A82AF3B5B6871E05404_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B7E5B7F5C60A4C278D44CCCFA8735437_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/178BDDFCCD6D4C2F949C466A7EADBA72_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/864480CCDBE64ACFA033F5BE7E5117FC_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D0F2FA815FC9479EAFB39A380DF7D00A_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BD6E05E0EE4846F8B815C58074FEB229_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/27FCDEEEFBDB47A98E478CD053DA0F50_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 258462,
+                    "total_seasons": 1
                 }
             ]
         },
