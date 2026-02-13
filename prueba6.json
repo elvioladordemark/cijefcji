@@ -7,13 +7,13 @@
         "name": "EVENTOS",
         "samples": [
 {
-                "name": "🏴1Crystal Palace X Chelsea⚽",
-                "url": "https://n5fpthkmd.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+                "name": "🏴CAZÉ TV⚽",
+                "url": "https://abgqhhbaaaaaaaampb5zelh6d3hy6.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
                 "icono": "https://i.postimg.cc/YqddC7FV/download-2026-01-25T105931-725.jpg",
                 "type": "HLS",
                 "headers": {
-                    "Origin": "https://cdn.elverruca.tech",
-                    "Referer": "https://cdn.elverruca.tech/",
+                    "Origin": "https://rdcplayer.online",
+                    "Referer": "https://rdcplayer.online/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
             },
