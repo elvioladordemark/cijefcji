@@ -216,7 +216,7 @@
             },
             {
                 "name": "HEI TV",
-                "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDIyMDQ5Iiwic2lwIjoiMTgxLjEyNC4xMzUuMTg2IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDU3ODEzOWNlYTRlZjAxYSIsInNlc3Npb25faWQiOiI4ODAyNTcxNC0xNzcwODQ5MjQ5LTEwNiIsImNsaWVudF9pZCI6Ijk5OTkwMDAwMjQ1ODI4My0tMTMxNjA4ODEiLCJkZXZpY2VfaWQiOiI4ODAyNTcxNCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjkzIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.CfqR5E2IqkjQUrCMCCbGs6KjM4pvk1D_lowrMjwX3A2Zf5q-G1eSSxSAdMSRXUULHYByMQCj5t6pbD5troeKCw==/live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
                 "icono": "https://i.postimg.cc/QMQDq5RL/HEI.png",
@@ -228,7 +228,7 @@
             },
             {
                 "name": "HEI TV  opcion 2",
-                "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDIyMDQ5Iiwic2lwIjoiMTgxLjEyNC4xMzUuMTg2IiwicGF0aCI6Ii9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDU3ODEzOWNlYTRlZjAxYSIsInNlc3Npb25faWQiOiI4ODAyNTcxNC0xNzcwODQ5MjQ5LTEwNiIsImNsaWVudF9pZCI6Ijk5OTkwMDAwMjQ1ODI4My0tMTMxNjA4ODEiLCJkZXZpY2VfaWQiOiI4ODAyNTcxNCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjkzIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.CfqR5E2IqkjQUrCMCCbGs6KjM4pvk1D_lowrMjwX3A2Zf5q-G1eSSxSAdMSRXUULHYByMQCj5t6pbD5troeKCw==/live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
                 "icono": "https://i.postimg.cc/QMQDq5RL/HEI.png",
