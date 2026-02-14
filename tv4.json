@@ -1492,31 +1492,31 @@
             },
             {
                 "name": "ESPN BR",
-                "url": "http://168.205.55.2:8000/play/a07p/index.m3u8?hls",
+                "url": "https://02.arlivre.online/espn/index.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"
             },
             {
                 "name": "ESPN 2",
-                "url": "http://168.205.55.2:8000/play/a07f/index.m3u8?hls",
+                "url": "https://02.arlivre.online/espn2/index.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png"
             },
             {
                 "name": "ESPN 3",
-                "url": "http://168.205.55.2:8000/play/a07g/index.m3u8?hls",
+                "url": "https://02.arlivre.online/espn3/index.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png"
             },
             {
                 "name": "ESPN 4",
-                "url": "http://168.205.55.2:8000/play/a070/index.m3u8?hls",
+                "url": "https://02.arlivre.online/espn4/index.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
             },
             {
                 "name": "ESPN 5",
-                "url": "http://168.205.55.2:8000/play/a077/index.m3u8?hls",
+                "url": "https://02.arlivre.online/espn5/index.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png"
             }
