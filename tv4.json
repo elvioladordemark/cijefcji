@@ -1428,47 +1428,47 @@
         "samples": [
             {
                 "name": "PREMIERE 1",
-                "url": "http://168.205.55.2:8000/play/a093/index.m3u8?hls",
+                "url": "https://02.arlivre.online/pre1/index.m3u8",
                 "type": "CLEARKEY",
                 "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327",
                 "drm_license_uri": ""
             },
             {
                 "name": "PREMIERE 2",
-                "url": "http://168.205.55.2:8000/play/a07d/index.m3u8?hls",
+                "url": "https://02.arlivre.online/pre2/index.m3u8",
                 "type": "CLEARKEY",
                 "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327",
                 "drm_license_uri": ""
             },
             {
                 "name": "PREMIERE 3",
-                "url": "http://168.205.55.2:8000/play/a08g/index.m3u8?hls",
+                "url": "https://02.arlivre.online/pre3/index.m3u8",
                 "type": "HLS",
                 "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327"
             },
             {
                 "name": "PREMIERE 4",
-                "url": "http://168.205.55.2:8000/play/a09b/index.m3u8?hls",
+                "url": "https://02.arlivre.online/pre4/index.m3u8",
                 "type": "CLEARKEY",
                 "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327",
                 "drm_license_uri": ""
             },
             {
                 "name": "PREMIERE 5",
-                "url": "http://168.205.55.2:8000/play/a08h/index.m3u8?hls",
+                "url": "https://02.arlivre.online/pre5/index.m3u8",
                 "type": "CLEARKEY",
                 "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327",
                 "drm_license_uri": ""
             },
             {
                 "name": "PREMIERE 6",
-                "url": "http://168.205.55.2:8000/play/a06u/index.m3u8?hls",
+                "url": "https://02.arlivre.online/pre6/index.m3u8",
                 "type": "HLS",
                 "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327"
             },
             {
                 "name": "PREMIERE 7",
-                "url": "http://168.205.55.2:8000/play/a09c/index.m3u8?hls",
+                "url": "https://02.arlivre.online/pre7/index.m3u8",
                 "type": "HLS",
                 "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327"
             },
