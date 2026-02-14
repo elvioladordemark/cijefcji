@@ -3425,16 +3425,8 @@
             },
             {
                 "name": "PANAMERICANA",
-                "url": "http://magmaplayer.com/stream/m3u8/AQtlKmRjAwEsZGt2YwR3AF4lAQVhZGR4KmR3AQZjAj/hls/1064.m3u8",
-                "icono": "https://i.ibb.co/4w2KGQWD/911851312-Panamericana-TVlogoficticio-png-ea6b8edf9f059b192b1a6ce64a4a3e43.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "url": "http://190.237.169.85:8000/play/panamericanahd/index.m3u8?hls",
+                "icono": "https://i.ibb.co/4w2KGQWD/911851312-Panamericana-TVlogoficticio-png-ea6b8edf9f059b192b1a6ce64a4a3e43.png"
             },
             {
                 "name": "CANAL N",
