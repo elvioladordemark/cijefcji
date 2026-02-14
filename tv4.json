@@ -1474,19 +1474,19 @@
             },
             {
                 "name": "SPORTV 1",
-                "url": "http://168.205.55.2:8000/play/a07o/index.m3u8?hls",
+                "url": "https://02.arlivre.online/sportv/index.m3u8",
                 "type": "HLS",
                 "icono": "https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-5-1.png"
             },
             {
                 "name": "SPORTV 2",
-                "url": "http://168.205.55.2:8000/play/a097/index.m3u8?hls",
+                "url": "https://02.arlivre.online/sportv2/index.m3u8",
                 "type": "HLS",
                 "icono": "https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-5-1.png"
             },
             {
                 "name": "SPORTV 3",
-                "url": "http://168.205.55.2:8000/play/a096/index.m3u8?hls",
+                "url": "https://02.arlivre.online/sportv3/index.m3u8",
                 "type": "HLS",
                 "icono": "https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-5-1.png"
             },
