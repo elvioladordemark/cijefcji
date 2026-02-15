@@ -111,7 +111,13 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3104af5254534d43a98319238dcb6f00&key=8f4af52cf6c144a6499244e542d92680",
         "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png"
-      }
+      },
+			{
+                "name": "LANC EN VIVO SD",
+                "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+          }
 
 				
 	  	]
@@ -682,7 +688,7 @@
 
 {
         "name": "ESPN BR",
-        "url": "http://45.235.0.78/ESPN/playlist.m3u8",
+        "url": "https://02.arlivre.online/espn/index.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
         "headers": {
@@ -694,7 +700,7 @@
 
       {
         "name": "ESPN 2 BR",
-        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/662.m3u8",
+        "url": "https://02.arlivre.online/espn2/index.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
         "headers": {
@@ -707,7 +713,7 @@
 
       {
         "name": "ESPN 3 BR",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/a480cfa2febd14ff6ad9febdf1eaccc5.m3u8",
+        "url": "https://02.arlivre.online/espn3/index.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
         "headers": {
@@ -720,7 +726,7 @@
 
       {
         "name": "ESPN 4 BR",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/43009e461b69c05e0e495f77d655ddff.m3u8",
+        "url": "https://02.arlivre.online/espn4/index.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
         "headers": {
@@ -4995,7 +5001,62 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
         }
       },
-		
+		    {
+                "name": "SBT",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7012-1071_import.png",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TV BAND",
+                "url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BAND SPORTS",
+                "url": "https://02.arlivre.online/bandsport/index.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png"
+            },
+            {
+                "name": "GLOBO NEWS",
+                "url": "http://168.205.55.2:8000/play/a08v/index.m3u8?hls",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/960px-Logotipo_da_GloboNews.png"
+            },
+            {
+                "name": "CNN BRASIL",
+                "url": "http://168.205.55.2:8000/play/a07q/index.m3u8?hls",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png"
+            },
+            {
+                "name": "AMC",
+                "url": "http://168.205.55.2:8000/play/a07v/index.m3u8?hls",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/960px-AMC_logo_2016.svg.png"
+            },
+            {
+                "name": "AXN",
+                "url": "http://168.205.55.2:8000/play/a08l/index.m3u8?hls",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png"
+            },
+            {
+                "name": "ANIMAL PLANET",
+                "url": "http://168.205.55.2:8000/play/a07s/index.m3u8?hls",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png"
+            },
+            {
+                "name": "A&E BR",
+                "url": "http://168.205.55.2:8000/play/a08s/index.m3u8?hls",
+                "type": "HLS",
+                "icono": "https://prod-s.cdn-cf.philo.com/images/channel_logos/AESTR/large.png?auto=webp&auto=webp&ver=1&ver=1"
+            },
 		{
         "name": "SBT",
         "url": "http://45.184.109.10:80/live/69393EAE6ADBC65A68F942022362A202/78.m3u8",
@@ -5034,7 +5095,7 @@
 		
       {
         "name": "GLOBO SP",
-        "url": "http://weib-tv-play.xyz:80/EstoEsTv/98tnQmKnWJ/195322.ts",
+        "url": "https://02.arlivre.online/globosp/index.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/NjxJvTL9/download-17.jpg",
         "headers": {
