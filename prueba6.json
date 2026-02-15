@@ -8846,39 +8846,7 @@
                     "Referer": "https://www.izzigo.tv/"
                 }
             },
-            {
-                "name": "BABY FIRTS",
-                "url": "https://zap-live2-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd",
-                "icono": "https://logos-world.net/wp-content/uploads/2023/04/BabyFirstTV-Logo-2006.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=320e1cb23cf15aa8f41a9edd52baa655&key=63c5e57ae2a2bc7dab3c67cac1a6c956",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "DOG TV",
-                "url": "https://zap-live2-ott.izzigo.tv/4/out/u/dash/DOGTVSD/default.mpd",
-                "icono": "https://i.ibb.co/qMmvWvZ/dogtv.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3d2063b495202a5a78a2b7df6ba1d6d1&key=9b0e8c590f387c6b45ffef5827d9d90b",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "DREAMWORKS",
-                "url": "https://zap-live2-ott.izzigo.tv/2/out/u/dash/DREAMWORKSHD/default.mpd",
-                "icono": "https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a255e1384db3e9ce7e0349e8aa9b9f77&key=404cc4fb45f82c9a7dffd3d2496cca20",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
+        
             {
                 "name": "SEMILLITAS",
                 "url": "http://rogsworld.uk:80/GusDemoWhtt122/H6WGEDktft/1286976.m3u8",
