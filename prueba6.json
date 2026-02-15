@@ -8,12 +8,12 @@
         "samples": [
 {
                 "name": "🏴BOTAFOGO VS FLAMENGO⚽ 17:30 HS",
-                "url": "https://xn---22--11--33--88--75---------b25zjfpkmbt1n9g9zza94e.xn----------------g34l3fkcn6n2hmd3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/docs/espn/__index.m3u8?cc=y&sv=14&nu3zAQc9HC3GbwJq=1771174885-B9PP1ezwWyYKqUX4ry5Vvw%2BGwZvhxPX%2F%2B13BiIkSACU%3D",
+                "url": "https://y44kn4nu.83870203.net:8443/hls/mxpjkbo9xahma.m3u8?s=f7Pdu4JHQsyRBAfFPYmbSg&e=1771203479",
                 "icono": "https://i.postimg.cc/CLJrxDCF/CVAhm-ZO.png",
                 "type": "HLS",
                 "headers": {
-                    "Origin": "https://streamrdc.xyz",
-                    "Referer": "https://streamrdc.xyz/",
+                    "Origin": "https://p2qpdy63sr6pg8.dynamicsafari.net",
+                    "Referer": "https://p2qpdy63sr6pg8.dynamicsafari.net/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
             },
@@ -577,7 +577,7 @@
       },
 		    {
         "name": "PREMIERE CLUBES HLS",
-        "url": "http://45.229.135.2:8555/live/stonetv_f/2ckLGChm12/790.m3u8",
+        "url": "http://200.115.112.44:4848/play/a0cc",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
@@ -586,53 +586,47 @@
       
       {
         "name": "Premier 2",
-        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/808.m3u8",
+        "url": "http://200.115.112.44:4848/play/a0ap",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
       {
         "name": "Premier 3",
-        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/809.m3u8",
+        "url": "http://200.115.112.44:4848/play/a0bi",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
       {
         "name": "Premier 4",
-        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/762.m3u8",
+        "url": "http://200.115.112.44:4848/play/a0cx",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
       {
         "name": "Premier 5",
-        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/763.m3u8",
+        "url": "http://200.115.112.44:4848/play/a0bj",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
       {
         "name": "Premier 6",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/0f75ab0ab7a2ba7eebbc6bf68a608a25.m3u8",
+        "url": "http://200.115.112.44:4848/play/a0c1",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=05cedc366ce4ec735ee4b33fcefbf01f&key=475d6dd40eaba6896e02b26a6cf34d95",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
       {
         "name": "Premier 7",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/441ceabd62b6b4ed806017a46abbe8b0.m3u8",
+        "url": "http://200.115.112.44:4848/play/a0d0",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ce96e01eee54fb77e5cc4e7b753d6b0&key=184f94303d3357b9a7381ccdeee9b611",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
-      {
-        "name": "Premier 8",
-        "url": "https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/374bb108eaaf55ab9d4e6495f71aab35.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ba384f9d983c731ab1e3702c16e2faf&key=f28adca4375e8a041fd22aef26440009",
-        "icono": "https://embedtv.digital/assets/images/premiere.png"
-      },
+      
  {
         "name": "SPORTV 1 MPD",
         "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
@@ -640,20 +634,10 @@
         "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
       },
-		 {
-                "name": "SPORTV 2 OPC 2",
-                "url": "https://belami.top/test/DEMO080825/FUTBOLLIBREONLINE/sportv2.m3u8",
-                "icono": "https://i.postimg.cc/FFLHP0Vd/SOPRTV2.png",
-                "type": "HLS",
-                "headers": {
-                    "Referer": "https://embedcanaistv.com/",
-                    "Origin": "https://embedcanaistv.com",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-                }
-            },
+		 
       {
         "name": "SPORTV 1",
-        "url": "http://189.76.71.35:8555/live/stone_modular/stone_modular/277.m3u8",
+        "url": "https://02.arlivre.online/sportv/index.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
@@ -664,7 +648,7 @@
       },
       {
         "name": "SPORTV 2",
-        "url": "http://45.229.135.2:8555/live/stonetv_f/2ckLGChm12/796.m3u8",
+        "url": "https://02.arlivre.online/sportv2/index.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
@@ -675,7 +659,7 @@
       },
       {
         "name": "SPORTV 3",
-        "url": "http://45.229.135.2:8555/live/stonetv_f/2ckLGChm12/797.m3u8",
+        "url": "https://02.arlivre.online/sportv3/index.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
@@ -736,17 +720,7 @@
         }
       },
 
-      {
-        "name": "ESPN 6 BR",
-        "url": "http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/920.m3u8",
-        "type": "HLS",
-        "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
-        "headers": {
-          "Referer": "https://embedtv-2.icu/",
-          "Origin": "https://embedtv-2.icu",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-        }
-      },
+    
  {
                 "name": "ESPN",
                 "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=rdc-espn",
