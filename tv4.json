@@ -391,7 +391,7 @@
             },
             {
                 "name": "ABC TV",
-                "url": "https://edge03-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMzQ3MDY2Iiwic2lwIjoiMTAuMTMyLjIyMi4yMjQiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5ZTM5YTkxYmQ5ZTljODdhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMjE1Iiwic291cmNlcyI6WzI2LDI1LDI4LDI5XX0=.Wa8MDPXNDiVUlcbfe5XFtzer6bS2az2ZF_ghD9Q79iUV6Yb08RzSvVdjibSYH6IVb972oJHqmnzy3hYA5MiP5w==/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_C/ABC_TV_C4.mpd",
+                "url": "https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMzU4MzU0Iiwic2lwIjoiMTgxLjEyNC4xMzcuMjMiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2NWY5MzhkMWJjZGRiNmI5Iiwic2Vzc2lvbl9pZCI6Ijg3ZWIyNDFlYjE4NmIxZDNmMzlkNjdmNWM3MTc3NjdhLTE3NzExODU1NjktMTYwIiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI0NTgyODMtLWZsb3c6OTk5OTAwMDAyNDU4MjgzOlAiLCJkZXZpY2VfaWQiOiI4N2ViMjQxZWIxODZiMWQzZjM5ZDY3ZjVjNzE3NzY3YSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIyMCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.7uZPv2ZT-DMDPkIELHvlB9G-fZWeyjlh2dAELQzE0dmbT7O7wYCeKWmFT-3jnPxQRA4CSFeIQ-Drl0EYDGpNtQ==/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_C/ABC_TV_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/g6fjr9lz122cxg5jdpk4l/abctv.json?rlkey=pshs3zb7eyw8s8y0k4v2yirf4&st=26ixju2q&dl=0",
                 "icono": "https://i.ibb.co/dGqjksf/descarga.png",
@@ -403,7 +403,7 @@
             },
             {
                 "name": "ABC TV OPCION 2",
-                "url": "https://edge03-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMzQ3MDY2Iiwic2lwIjoiMTAuMTMyLjIyMi4yMjQiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5ZTM5YTkxYmQ5ZTljODdhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMjE1Iiwic291cmNlcyI6WzI2LDI1LDI4LDI5XX0=.Wa8MDPXNDiVUlcbfe5XFtzer6bS2az2ZF_ghD9Q79iUV6Yb08RzSvVdjibSYH6IVb972oJHqmnzy3hYA5MiP5w==/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_C/ABC_TV_C4.mpd",
+                "url": "https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMzU4MzU0Iiwic2lwIjoiMTgxLjEyNC4xMzcuMjMiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2NWY5MzhkMWJjZGRiNmI5Iiwic2Vzc2lvbl9pZCI6Ijg3ZWIyNDFlYjE4NmIxZDNmMzlkNjdmNWM3MTc3NjdhLTE3NzExODU1NjktMTYwIiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI0NTgyODMtLWZsb3c6OTk5OTAwMDAyNDU4MjgzOlAiLCJkZXZpY2VfaWQiOiI4N2ViMjQxZWIxODZiMWQzZjM5ZDY3ZjVjNzE3NzY3YSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIyMCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.7uZPv2ZT-DMDPkIELHvlB9G-fZWeyjlh2dAELQzE0dmbT7O7wYCeKWmFT-3jnPxQRA4CSFeIQ-Drl0EYDGpNtQ==/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_C/ABC_TV_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/g6fjr9lz122cxg5jdpk4l/abctv.json?rlkey=pshs3zb7eyw8s8y0k4v2yirf4&st=26ixju2q&dl=0",
                 "icono": "https://i.ibb.co/dGqjksf/descarga.png",
