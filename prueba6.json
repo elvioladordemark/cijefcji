@@ -1450,12 +1450,17 @@
           "Connection": "Keep-Alive"
         }
       },
- 
+   {
+        "name": "WIN SPORTS",
+        "url": "http://104.194.8.54:9090/279400_.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png"
+      },
 
 
 		
       {
-        "name": "WIN SPORTS OPC 2",
+        "name": "WIN SPORTS opc 2",
         "url": "http://magmaplayer.com/stream/m3u8/ZGRjKmRjAQEsZwtjAwbkZQIyBwVmBwV3MQp6AGRkZQbkZzWyBzZjMGL6BTH1My8kAmDmZwx/hls/1044.m3u8",
         "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
         "headers": {
