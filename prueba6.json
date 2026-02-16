@@ -431,18 +431,7 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
-  {
-                "name": "ESPN SUR",
-                "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMjc5MzE2Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVmZUhEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZjOGFmODBiZWMxMDhlNjMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.er3e15l1PFzvPe6Bo448bijxJ9FbZdps_xvS4L0A605cJJ0mR8WCEFXMS_51SYHDDLcxBzQj3UyFsA7PlywFUQ==/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
+ 
 			
             {
                 "name": "ESPN 2",
@@ -517,62 +506,7 @@
                 }
             },
 
-			 {
-                "name": "ESPN SIN BLOQUEO",
-                "url": "https://lilac01.pontiscloud.com/live/eds/ESPN/live_dash_cld/ESPN.mpd",
-                "icono": "https://i.postimg.cc/5tqCWhhm/ESPN.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d243ebd7a57bea4b4b052ae13f4c051&key=5c1925879de873d43b7c25925902539b",
-                "headers": {
-                    "Referer": "referer=https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "ESPN 2 SIN BLOQUEO",
-                "url": "https://lilac01.pontiscloud.com/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
-                "icono": "https://i.postimg.cc/FKZ7BjSG/ESPN2.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6a8bd6496d2444301c9d4d0feca9d75b&key=3fd1967701ba2897729187b60094c158",
-                "headers": {
-                    "Referer": "referer=https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "ESPN 3 SIN BLOQUEO",
-                "url": "https://lilac01.pontiscloud.com/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
-                "icono": "https://i.postimg.cc/jqWyLFPq/ESPN3.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8836252059b793a79173838dc1186ff1&key=aa16f90e51ce5652dab93834e434caa8",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "ESPN 4 SIN BLOQUEO",
-                "url": "https://lilac01.pontiscloud.com/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
-                "icono": "https://i.postimg.cc/sDYQWdXC/ESPN4.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=034653d3413f23e87249d1fb7e68359a&key=a0d6b849f17c430e9cc02d07739a4e4a",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-{
-                "name": "ESPN DEPORTES",
-                "url": "http://199.127.63.143:8989/158831_.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/18mgscd6hfjucorty09e3/espn6.json?rlkey=82ogpotgsmxryc9dik5n8s8bc&st=m240mw77&dl=0",
-                "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
+			 
 
 			
             {
