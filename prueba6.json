@@ -290,6 +290,48 @@
       "type": "MPD",
       "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/axn/output.mpd",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4a/AXN_logo.svg"
+    },
+			{
+      "name": "Cinecanal",
+      "icono": "https://i.imgur.com/1XJpFJY.png",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cinecanal/output.mpd"
+    },
+    {
+      "name": "FOX HD",
+      "icono": "https://i.imgur.com/6G0VZ4F.png",
+      "type": "MPD",
+      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/foxhd/output.mpd"
+    },
+    {
+      "name": "FX",
+      "icono": "https://i.imgur.com/Mw2YbQw.png",
+      "type": "MPD",
+      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/fx/output.mpd"
+    },
+    {
+      "name": "Europa Europa",
+      "icono": "https://i.imgur.com/0yRr5xJ.png",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/europa/output.mpd"
+    },
+    {
+      "name": "Space",
+      "icono": "https://i.imgur.com/B9mZK1e.png",
+      "type": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/space/output.mpd",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/space/output.mpd"
+    },
+    {
+      "name": "Paramount",
+      "icono": "https://i.imgur.com/2xJq2mM.png",
+      "type": "MPD",
+      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/paramount/output.mpd"
+    },
+    {
+      "name": "Universal",
+      "icono": "https://i.imgur.com/4ZK0cXt.png",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/universal/output.mpd"
     }
 
 	
