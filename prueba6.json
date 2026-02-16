@@ -661,7 +661,7 @@
             },
 		{
         "name": "COMBATE BR",
-        "url": "https://latan.stonetv.com.br/combate/tracks-v1a1/mono.m3u8",
+        "url": "https://02.arlivre.online/combate/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3",
         "icono": "https://i.postimg.cc/nLbDkJLm/download-34.png"
