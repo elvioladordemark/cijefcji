@@ -804,9 +804,9 @@
         "type": "HLS"
     },
     {
-        "name": "LAPACHO TV",
-        "url": "https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8",
-        "icono": "https://i.ibb.co/m5bbjySK/LOGO2.png",
+        "name": "BAYRES TV",
+        "url": "https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w23453938.m3u8",
+        "icono": "https://i.ibb.co/LXbKc73z/logo-bayres-tv.png",
         "type": "HLS"
     },
     {
@@ -836,6 +836,12 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/DPKbYctX/Captura-de-pantalla-2026-02-11-114124.png"
           },
+          {
+        "name": "LAPACHO TV",
+        "url": "https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8",
+        "icono": "https://i.ibb.co/m5bbjySK/LOGO2.png",
+        "type": "HLS"
+    },
     {
         "name": "DEPORTV",
         "url": "http://live.detodotvplay.com:8080/Risario8/Pineda13/29401",
