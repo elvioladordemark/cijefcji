@@ -78,6 +78,122 @@
                 "icono": "https://i.postimg.cc/2ykynGdJ/download-(41).png"
             }
 
+				]
+    },
+    
+  "name": "TV Argentina DASH MPD",
+  "channels": [
+    {
+      "name": "C5N",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/c5n/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0e/C5N_logo_2017.svg"
+    },
+	     {
+      "name": "Canal 26",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/canal26/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_26_logo.png"
+    },
+    {
+      "name": "C5N",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/c5n/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0e/C5N_logo_2017.svg"
+    },
+    {
+      "name": "CNN en Español",
+      "type": "MPD",
+      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/cnne/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN_International_logo.svg"
+    },
+    {
+      "name": "LN+",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/lnmas/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/2/21/LN%2B_logo.png"
+    },
+    {
+      "name": "Encuentro",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/encuentro/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Encuentro_logo.png"
+    },
+    {
+      "name": "Disney Jr",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/disneyjr/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Disney_Jr._logo.svg"
+    },
+    {
+      "name": "Nick Jr",
+      "type": "MPD",
+      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/nickjr/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Nick_Jr._logo_2014.svg"
+    },
+    {
+      "name": "Discovery Channel",
+      "type": "MPD",
+      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/discovery/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Discovery_Channel_Logo.svg"
+    },
+    {
+      "name": "Warner Channel",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/warner/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Warner_Channel_logo.svg"
+    },
+    {
+      "name": "AXN",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/axn/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4a/AXN_logo.svg"
+    },
+	  {
+      "name": "C5N",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/c5n/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0e/C5N_logo_2017.svg"
+    },
+    {
+      "name": "Canal 26",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/canal26/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_26_logo.png"
+    },
+    {
+      "name": "LN+",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/lnmas/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/2/21/LN%2B_logo.png"
+    },
+    {
+      "name": "CNN en Español",
+      "type": "MPD",
+      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/cnne/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN_International_logo.svg"
+    },
+    {
+      "name": "DW Español",
+      "type": "MPD",
+      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/dw/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8b/DW_Logo_2012.svg"
+    },
+    {
+      "name": "BBC World News",
+      "type": "MPD",
+      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/bbc/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/6/62/BBC_World_News.svg"
+    },
+    {
+      "name": "TV Chile",
+      "type": "MPD",
+      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/tvchile/output.mpd",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tvchile_logo.png"
+    }
+	  
+  
+
 			
 
 
