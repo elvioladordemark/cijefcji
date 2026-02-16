@@ -2487,17 +2487,8 @@
             },
             {
                 "name": "TELEMUNDO",
-                "url": "http://magmaplayer.com/stream/secure/AGD2Kmt4BI8kBQRhBGRhBQDhAQEsZGp2ZwtlAmHlBI9wMTEzMGIyBTZjZGywLwAwKmN.m3u8",
-                "icono": "https://i.ibb.co/WvNvtgwz/Telemundo-logo-2018-svg.png",
-                "headers": {
-                    "X-Hash": "Iy-DmU6mMeLlVKwt5TTUyxdn0qBF2b8hB9AjzYQxatPq5NI_9mrE7s6b_vwu1l6LsDMZ1PRvXFCE7gd4snCIyF-tYYaI0oEdYlNLuP60uFhJKCbFIDdTXFPeVdPcloagMaBMIt8OsatH-ZTLY2lb9aTn5mzfGUDUcezqUIVstLRCA8B5Bx18uAPHVDHUXVJL1vMMD0dPkLMzlE2Nej6hk_9C1ZsbHRi904-fpFWk1Pf8gTlyJBchNqmhOct58GUrx_Gdba5KyqjcbMwDVlEkAw8ja57BF5lA8tQ6XFSAZomR6eqZfTNwKGDOx07E5ZoBKynYDgci1lKN86DNyqLbjGl5NU7lUKkFMzPxgBRNotp1awVrVNg1it-acHGoDSIV2Dp_VRTbbPDZB-RJ_ITj3mGet1JetBvl_4SXA3xXfwiRf4nh8YsqmniOcDXYAdjU3x95y1DNTpq9IhOZU3DhYN8p_MjKLJO0bWKLbaKb0Toqud-gg-9AhL7XvPTh7WxWe4M2Cy4woUpZCBwNoQmzVoApRrUf89dodtCvNeIu8VZYsxyKkz_TSNde7-P1IebqrRU70G07ACL6KgtsK7LAqQ",
-                    "X-Did": "cddfe5e8c019cb3c",
-                    "X-Version": "10/1.0.9",
-                    "User-Agent": "Magma Player/10",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                },
-                "type": "HLS"
+                "url": "http://181.118.158.103:8000/play/a01x/index.m3u8?hls",
+                "icono": "https://i.ibb.co/WvNvtgwz/Telemundo-logo-2018-svg.png"
             }
         ]
     },
