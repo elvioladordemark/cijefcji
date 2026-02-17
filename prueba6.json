@@ -622,57 +622,57 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
-		    {
-        "name": "PREMIERE CLUBES HLS",
-        "url": "http://104.238.205.58:9090/278939_.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3",
-        "icono": "https://embedtv.digital/assets/images/premiere.png"
-      },
-      
-      
-      {
-        "name": "Premier 2",
-        "url": "http://200.115.112.44:4848/play/a0ap",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330",
-        "icono": "https://embedtv.digital/assets/images/premiere.png"
-      },
-      {
-        "name": "Premier 3",
-        "url": "http://200.115.112.44:4848/play/a0bi",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848",
-        "icono": "https://embedtv.digital/assets/images/premiere.png"
-      },
-      {
-        "name": "Premier 4",
-        "url": "http://200.115.112.44:4848/play/a0cx",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98",
-        "icono": "https://embedtv.digital/assets/images/premiere.png"
-      },
-      {
-        "name": "Premier 5",
-        "url": "http://200.115.112.44:4848/play/a0bj",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd",
-        "icono": "https://embedtv.digital/assets/images/premiere.png"
-      },
-      {
-        "name": "Premier 6",
-        "url": "http://200.115.112.44:4848/play/a0c1",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=05cedc366ce4ec735ee4b33fcefbf01f&key=475d6dd40eaba6896e02b26a6cf34d95",
-        "icono": "https://embedtv.digital/assets/images/premiere.png"
-      },
-      {
-        "name": "Premier 7",
-        "url": "http://200.115.112.44:4848/play/a0d0",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ce96e01eee54fb77e5cc4e7b753d6b0&key=184f94303d3357b9a7381ccdeee9b611",
-        "icono": "https://embedtv.digital/assets/images/premiere.png"
-      },
+    {
+                "name": "PREMIERE 1",
+                "url": "https://02.arlivre.online/pre1/index.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PREMIERE 2",
+                "url": "https://02.arlivre.online/pre2/index.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PREMIERE 3",
+                "url": "https://02.arlivre.online/pre3/index.m3u8",
+                "type": "HLS",
+                "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327"
+            },
+            {
+                "name": "PREMIERE 4",
+                "url": "https://02.arlivre.online/pre4/index.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PREMIERE 5",
+                "url": "https://02.arlivre.online/pre5/index.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PREMIERE 6",
+                "url": "https://02.arlivre.online/pre6/index.m3u8",
+                "type": "HLS",
+                "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327"
+            },
+            {
+                "name": "PREMIERE 7",
+                "url": "https://02.arlivre.online/pre7/index.m3u8",
+                "type": "HLS",
+                "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327"
+            },
+
+
+
+		
+		    
       
  {
         "name": "SPORTV 1 MPD",
