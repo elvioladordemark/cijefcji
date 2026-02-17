@@ -624,7 +624,7 @@
       },
 		    {
         "name": "PREMIERE CLUBES HLS",
-        "url": "http://200.115.112.44:4848/play/a0cc",
+        "url": "http://104.238.205.58:9090/278939_.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
