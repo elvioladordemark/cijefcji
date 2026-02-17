@@ -12875,6 +12875,75 @@
                     ],
                     "tmdb_id": 67070,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Casados con hijos",
+                    "genero": "Comedia",
+                    "descripcion": "Los Argento son una familia disfuncional de clase media que lucha por sobrevivir en un barrio de Buenos Aires, con el bajo salario del jefe de familia, las extravagancias de la madre y las torpezas de los dos hijos.",
+                    "anio": "2005",
+                    "iconPng": "https://image.tmdb.org/t/p/original/soMy9QrwbaNDJE0lu5IpRreEPjQ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/dtH2Rn6MqZ8pstFzvEC2XGROKpt.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/b4MWFEp2lSBgIo6byrRvqRXXz8e.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Hogar dulce hogar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/14C0502546714165B0235AA523B6CD26_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Supergía",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D962993740C54AE888B35087260C68DF_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Un tiro al aire",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/DCCCA1DFADD54067A0AB6FE698CFE997_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Te lo digo por mi bien",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/74FC81D05307436B993802050D38167B_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Toro viejo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/587014BB10E54999A5E7AA793243AA0E_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Bardo en lo de Dardo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F1B34F39DF584C9D839D3E356AC793EF_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Pepe toma cartas en el asunto",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1BB7D05F97114FF382644C7150EDAACE_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La primera trabajadora",
+                                    "url": "http://goovdme.967sd1f.homes/vod/30928B7C16C54959B29505DE6712A85F_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Las promotogas",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/D0F0C1FF76624E029F4ABE6E39FAB04D_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Pepesadillas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BC114EFF52B84FDCACD89EC68602E297_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 7217,
+                    "total_seasons": 3
                 }
             ]
         },
