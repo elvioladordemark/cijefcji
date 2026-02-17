@@ -736,6 +736,14 @@
                 "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327",
                 "drm_license_uri": ""
             },
+
+		{
+                "name": "PREMIERE 1 opc 2",
+                "url": "http://200.115.112.44:4848/play/a0cc",
+                "type": "CLEARKEY",
+                "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327",
+                "drm_license_uri": ""
+            },
             {
                 "name": "PREMIERE 2",
                 "url": "https://02.arlivre.online/pre2/index.m3u8",
