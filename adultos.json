@@ -1,9 +1,15 @@
 [
     {
+        "name": "Canales",
+        "samples": [
+    
+    {
                 "name": "Venus",
                 "url": "http://181.119.93.57:8000/play/a0u4/index.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/whpyKD89/canal-venus-logo-png-seeklogo-324846.png"
+    }
+        ]
             },
     {
         "name": "Live Cams",
