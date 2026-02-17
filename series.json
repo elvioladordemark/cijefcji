@@ -12790,6 +12790,55 @@
                     ],
                     "tmdb_id": 281005,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Fleabag",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "La protagonista, Fleabag, es una mujer de clase media que tiene una  situación familiar complicada y un trabajo con el que no puede mantener  su estilo de vida. Ella es propietaria de un café con el que apenas gana  dinero y su novio es un hombre que llena su vacío existencial con  encuentros sexuales sin sentido con todo tipo de mujeres, cada cual peor  de la anterior. Y eso es solo una pequeña parte de su vida y  situaciones cotidianas con las que Fleabag debe lidiar.  Fleabag  es un ejemplo de una vida que ha ido mal y debe adaptarse a nuevas  situaciones, cosa que consigue hacer gracias a su personalidad.",
+                    "anio": "2016",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5Tq9X4JF4U5wM75TrewcEAnIz7q.png",
+                    "icono": "https://image.tmdb.org/t/p/original/27vEYsRKa3eAniwmoccOoluEXQ1.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/52FrqXobnTvkt5otdkcWcToIReH.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4268EB4B31E24534A8541CD3D885B2BA_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/680F43F534634662B9DDB0CB0073AC08_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A70F25791DC94BCC80C6EA11588518FB_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8F896F6CE5EE48A4B3182C5B3D8BCF92_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/191156D5E7C54BA0851AB38C5677FF69_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E33A3ECCF35048AD8E78E750F6F41BA7_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 67070,
+                    "total_seasons": 2
                 }
             ]
         },
