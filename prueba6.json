@@ -7268,20 +7268,7 @@
   {
     "name": "🎬CANALES 24/7 CINES VIP",
     "samples": [
-      {
-        "name": "CINE ACCIÓN",
-        "url": "https://magmaplayer.com/stream/m3u8/AQx5KmR1BS8lBQNmBwWuZQN6ZwNjAwcyZJRkBwxjAQH6LmN2LwbmATLlBzWxAGSsZGp0ZGtk/hls/158.m3u8",
-        "icono": "https://x.playerlatino.live/cine247.png",
-        "headers": {
-            "X-App": "ps",
-         "X-Version": "10/1.0.9",
-          "X-Hash": "qR-7CQnSzyAP7cOV0iEWrXrDntw2bP10pYm7wX3O9Xay8zTPCx7JffIvlNxKdZrwDTZJxhuJHIIAQfvhzpurQ1YSHJwfDl-aXiGnvA-eglXCT1qVK5jdNzLp_n_yC801xYBrRnHrzYKCgLh6AyXSbELw7xzW2IPG88aKfyLUlnmW8MfvPOdNCYfBAObDX7DFtXQu6VJSlfgqh3BT8yrhQyWrwZfm6415lMJmKnBSDZjSCh6cHCHxNiCGn1f3EZsDDetmAZzU_YQrqtq9QnvFassCbT6_7XAekW6I4NL5cESWQjBov4yq5nZ_a4n2ByTnRFFV0xb18buip1XcapWAXU0NUFb-s8fuOV_Aii0MtK4eqQBxipApIwj2evcrj9EfbiSZ62QUmgOdtQpcjAjJvk93p9dQa9x_-Qae8S25W_9LXJ7d1lxvDE0OLUYRASC7kUxMrgdomGaA4tgeDg6MOxGSMkeV0qOFXpy4YTy0N-H_f0C7eB8sRz4Z2SIJuo9pE3T-l7MrZlhNs0ZRjRBdxA",
-          "X-Did": "5326b76fd36cf9e9",
-          "User-Agent": "Magma Player/10",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
+   
       {
         "name": "MARVEL ACCIÓN",
         "url": "https://magmaplayer.com/stream/m3u8/ZwxmKmR3A18lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/177.m3u8",
