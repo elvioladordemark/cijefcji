@@ -26752,6 +26752,55 @@
                     ],
                     "tmdb_id": 91239,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "Niños de plomo",
+                    "genero": "Drama, War & Politics",
+                    "descripcion": "Una joven doctora descubre que los niños que viven cerca de una fundición sufren de envenenamiento por plomo, y se juega la carrera y la vida para salvarlos.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7RUEFjiFL6WKgtpSyomCFitpGEa.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ous8IYSqDHNd8gOJDDQBL3kNqqW.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ra12F3J3uVe112FEqBGmQapW2Bu.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C5B48EF56265488CAD8E81F138C5BA44_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/468506F06CDE4006B56A05EBC28AF996_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A50967FB853A459ABC4E8FCCD395824B_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/098EF6A537F548F6911A34D4FDA5E7BF_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/7B274F1EA10B4E5B904227846B15AF9F_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/36EEBCD02E2A4B51B4CBA71CF435F2FE_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 270444,
+                    "total_seasons": 1
                 }
             ]
         },
