@@ -390,7 +390,114 @@
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png",
                 "type": "HLS"
             }
-			
+
+			 ]
+    },
+    {
+        "name": "⚽🇦🇷PACK FUTBOL ARGENTINO",
+        "samples": [
+            {
+                "name": "TYC SPORTS",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3cmvxd9jsvvde816z4obc/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
+                "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TYC SPORTS opcion 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3cmvxd9jsvvde816z4obc/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
+                "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/96rqr70ljuva1eift5325/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0",
+                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN PREMIUM OPCION 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/96rqr70ljuva1eift5325/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0",
+                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/guia-de-tv",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TNT SPORT HD",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
+                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TNT SPORT HD opcion 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
+                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "LPF PLAY 1",
+                "url": "https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ed233177-a168-4fb8-ad02-e18511c61702/ed117932-c1e4-4c80-a942-40e34348fb24/2/streamPlaylist.m3u8",
+                "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
+            },
+            {
+                "name": "LPF PLAY 2",
+                "url": "https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/104ae40d-4f59-42e1-9e29-191339fe1cd2/b8e341f5-b70d-4e62-8e74-dc044af8bb02/2/streamPlaylist.m3u8",
+                "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
+            },
+            {
+                "name": "LPF PLAY 3",
+                "url": "https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/a6cc050e-cd18-4b47-a28b-7fe8352c41c2/ecc235c0-ff7d-4397-bcf1-9f8c9b91046c/2/streamPlaylist.m3u8",
+                "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
+            },
+            {
+                "name": "LPF PLAY 4",
+                "url": "https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/f2245911-a2bb-4e0c-bf9b-58a5f6413c53/0b1e6e59-27b5-4b32-b0d8-5567d704bcd7/2/streamPlaylist.m3u8",
+                "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
+            },
+            {
+                "name": "LPF PLAY 5",
+                "url": "https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/451660d3-5f32-4879-8140-d4eeab548d6f/4674cb16-c94b-413f-8fb2-1ef969b7aa34/2/streamPlaylist.m3u8",
+                "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
+            },
+            {
+                "name": "TYC SPORT (PLAY 6)",
+                "url": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
+                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+            }
 				
 			
 			
