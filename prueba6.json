@@ -7294,6 +7294,57 @@
                 "type": "HLS"
             }
 
+			]
+  },
+  {
+    "name": "🎬CANALES 24/7 VIP",
+    "samples": [
+    
+      
+      {
+        "name": "DRAGON BALL SUPER",
+        "url": "http://magmaplayer.com/stream/m3u8/BGx0KmZjAI8lBQNmBwWuZQN6ZwNjAwcyZJRkBwL2ZGV6ZzEyMGczAwMyBzR5A2IsZGp0ZGD5/hls/305.m3u8",
+        "icono": "http://imgfz.com/i/36uZ9fb.jpeg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "8gcT6Mz6haGj79D0fhlQJBNLdjfYuJjPMltFWrUFV2wkJzBV6RnYYEAjcJ6jAetyLshbCtXcsU6TMUeooGRAbvmb9gYUBZdCnh09cYpDG3vCC2Dt-SdhimBf7Rd8JWD5ZwMFFsx2idx9DvgzRGVjiH_ptAgg1b2I6eIRe-sQWA033BufLVq3-Z6ZnlTEr36Vl_pXRjSbllUnkI88_EGfoseGkDLvl-jERdLOO5q5otrgiFROz3_HaaEDIfwq1XMIJGoO-mdNRFqLGRJg3CenkvHgOhvLP8y-YcjbK-NtOXdKPxTr299yRtRxN5GHu-IhtgssCh4Aaub3f8bpgNvzcvy7pX1SMfWfr7qXq6DDf6f6OTi0Ed3NasRoy3WzOX2h5z18JkqHkEj9f74zZahByRopl2zmSlfqQJ_O6uDI8TJcXDKpKzAHA0nyJMxJ7OF2qf8gxyMD_KapscJ49mwuNBERDyFP6_XN0eShPF64Kor7wlxQFGEpWvkIR1C25BOPgSu1A4eWj18Brw86POpzAq7Ja1j_7qyJer-RfHtyBO4",
+          "X-Did": "5326b76fd36cf9e9",
+          "User-Agent": "Magma Player/10",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      {
+        "name": "EL CHAPULIN COLORADO",
+        "url": "http://magmaplayer.com/stream/m3u8/AQL3KmR1Zy8lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/152.m3u8",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjR78mrOm9s_hg-PsixcSJ1Rcxa28xvUdiY7sa-AoIru7d6AM4",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "8gcT6Mz6haGj79D0fhlQJBNLdjfYuJjPMltFWrUFV2wkJzBV6RnYYEAjcJ6jAetyLshbCtXcsU6TMUeooGRAbvmb9gYUBZdCnh09cYpDG3vCC2Dt-SdhimBf7Rd8JWD5ZwMFFsx2idx9DvgzRGVjiH_ptAgg1b2I6eIRe-sQWA033BufLVq3-Z6ZnlTEr36Vl_pXRjSbllUnkI88_EGfoseGkDLvl-jERdLOO5q5otrgiFROz3_HaaEDIfwq1XMIJGoO-mdNRFqLGRJg3CenkvHgOhvLP8y-YcjbK-NtOXdKPxTr299yRtRxN5GHu-IhtgssCh4Aaub3f8bpgNvzcvy7pX1SMfWfr7qXq6DDf6f6OTi0Ed3NasRoy3WzOX2h5z18JkqHkEj9f74zZahByRopl2zmSlfqQJ_O6uDI8TJcXDKpKzAHA0nyJMxJ7OF2qf8gxyMD_KapscJ49mwuNBERDyFP6_XN0eShPF64Kor7wlxQFGEpWvkIR1C25BOPgSu1A4eWj18Brw86POpzAq7Ja1j_7qyJer-RfHtyBO4",
+          "X-Did": "5326b76fd36cf9e9",
+          "User-Agent": "Magma Player/10",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      {
+        "name": "EL CHAVO DEL 8",
+        "url": "http://magmaplayer.com/stream/m3u8/Zmt3KmZ0AS8lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/344.m3u8",
+        "icono": "https://i.ibb.co/S48tv2qb/R-4.png",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "8gcT6Mz6haGj79D0fhlQJBNLdjfYuJjPMltFWrUFV2wkJzBV6RnYYEAjcJ6jAetyLshbCtXcsU6TMUeooGRAbvmb9gYUBZdCnh09cYpDG3vCC2Dt-SdhimBf7Rd8JWD5ZwMFFsx2idx9DvgzRGVjiH_ptAgg1b2I6eIRe-sQWA033BufLVq3-Z6ZnlTEr36Vl_pXRjSbllUnkI88_EGfoseGkDLvl-jERdLOO5q5otrgiFROz3_HaaEDIfwq1XMIJGoO-mdNRFqLGRJg3CenkvHgOhvLP8y-YcjbK-NtOXdKPxTr299yRtRxN5GHu-IhtgssCh4Aaub3f8bpgNvzcvy7pX1SMfWfr7qXq6DDf6f6OTi0Ed3NasRoy3WzOX2h5z18JkqHkEj9f74zZahByRopl2zmSlfqQJ_O6uDI8TJcXDKpKzAHA0nyJMxJ7OF2qf8gxyMD_KapscJ49mwuNBERDyFP6_XN0eShPF64Kor7wlxQFGEpWvkIR1C25BOPgSu1A4eWj18Brw86POpzAq7Ja1j_7qyJer-RfHtyBO4",
+          "X-Did": "5326b76fd36cf9e9",
+          "User-Agent": "Magma Player/10",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      }
+
     
 			
 
