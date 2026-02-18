@@ -870,6 +870,70 @@
                     ],
                     "tmdb_id": 258462,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El Museo de la Inocencia",
+                    "genero": "Drama",
+                    "descripcion": "En la Estambul de los años 70, el amor prohibido de un hombre por una dependienta se convierte en una espiral de obsesión y anhelo. Basada en la famosa novela de Orhan Pamuk.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/fld0x48WyMLcccaOiZtDmYHN92Z.png",
+                    "icono": "https://image.tmdb.org/t/p/original/6VsG0NxlS4GKus408c91dO0f7EE.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kpEjZVusnBo9JcSTnfZtQlgbxu3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D17BE064E0E94126BE8BCF0A05C85FDA_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/024DE3D295D241A88B942D81FBB730D0_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/DD74CF394BF84DCB8F255D55FEC66E09_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/594D4E905C1D4652A89059A4258C6BAD_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/421847E8781A478BA93FB8995E5E63B7_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C50F1624BB934E528C708D8845FABF04_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/66186D1E8D58420CB0EB1E35331C2B0B_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/27243790F24E40EEB55AFBEF58A1C138_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6F5E3BE92CED4B2280EF97D249159CB9_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 310239,
+                    "total_seasons": 1
                 }
             ]
         },
