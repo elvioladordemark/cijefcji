@@ -816,6 +816,65 @@
                     ],
                     "tmdb_id": 310239,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El maestro de la evasion",
+                    "genero": "Drama, Crimen, Action & Adventure",
+                    "descripcion": "Es una historia de reinvención, traición, redención y amor. Jack Dawkins es el Artful Dodger, cuyos dedos de carterista se han convertido en las hábiles manos de un cirujano. Se debate entre un amor imposible y el submundo delictivo que anhela en secreto. Esa situación requerirá ingenio.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5oGgnLxDVLT1PHafkruACsSLqMF.png",
+                    "icono": "https://image.tmdb.org/t/p/original/oV8nyHfht7kyuxpV757QSH3M9ls.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8SqmduaPoPvSpqPUEw0YNXvJoQj.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La treta yanqui",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BA2C2E9B7C3F4146937E0688F9D745FC_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Las bendiciones de santa Coxis",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/943A2242CAF1408B835931E6E79858CA_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Los secretos del muerto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/13ABC6FAC0B54DB88197153CE483BEAA_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El engaño",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B07F4487080E457DAC42C77849C625AF_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El duelo",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A417B7519DE8464A97E7F2BD61DEB951_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Borracho en el callejón",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AF55A46491F44E6DBDFDD56213D3BB4F_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Llorica",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6C702DCEBA574F46B757E6AB401AE05D_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Potencial sin explotar",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1C4A33A139F24DCF9E9F7597E0F86F01_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 202208,
+                    "total_seasons": 2
                 }
             ]
         },
