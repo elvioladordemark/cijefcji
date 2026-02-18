@@ -6,10 +6,14 @@
     {
         "name": "EVENTOS",
         "samples": [
-	{
-                "name": "🏴Qarabağ vs Newcastle⚽",
-                "url": "https://1b4ft6xu5d.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-                "icono": "https://i.postimg.cc/g2SY2kjL/download-2026-02-18T142929-903.jpg",
+	
+			
+			
+			
+			{
+                "name": "🏴OHIGGIN VS BAHIA⚽",
+                "url": "https://5yt11v7a5c.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8,PASAR A LA SIGUIENTE OPCIO SI NO REPRODUCE",
+                "icono": "https://i.postimg.cc/zBfd0077/Whats-App-Image-2026-02-18-at-10-39-04-AM.jpg",
                 "type": "HLS",
                 "headers": {
                     "Origin": "https://gabito.online",
@@ -17,12 +21,10 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
             },
-			
-			
-			
-			{
-                "name": "🏴OHIGGIN VS BAHIA⚽",
-                "url": "https://5yt11v7a5c.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+
+				{
+                "name": "🏴OHIGGINS VS BAHIA OPC 2⚽",
+                "url": "http://138.121.114.86:8000/play/a085/index.m3u8",
                 "icono": "https://i.postimg.cc/zBfd0077/Whats-App-Image-2026-02-18-at-10-39-04-AM.jpg",
                 "type": "HLS",
                 "headers": {
@@ -33,7 +35,7 @@
             },
 
 			{
-                "name": "🏴BARCELONA VS ARGENTINOS JUNIORS⚽",
+                "name": "🏴BARCELONA VS ARGENTINOS JUNIORS,PASAR A LA SIGUIENTE OPCIO SI NO REPRODUCE⚽",
                 "url": "https://5yt11v7a5c.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
                 "icono": "https://i.postimg.cc/ry7kRrFL/Whats-App-Image-2026-02-18-at-10-40-20-AM.jpg",
                 "type": "HLS",
@@ -45,7 +47,31 @@
             },
 
 			{
-                "name": "🏴NACIONAL POTOSI VS BOTAFOGO⚽",
+                "name": "🏴BARCELONA VS ARGENTINOS JUNIORS OPC 2⚽",
+                "url": "http://138.121.114.86:8000/play/a085/index.m3u8",
+                "icono": "https://i.postimg.cc/ry7kRrFL/Whats-App-Image-2026-02-18-at-10-40-20-AM.jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://gabito.online",
+                    "Referer": "https://gabito.online/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
+            },
+
+			{
+                "name": "🏴BARCELONA VS ARGENTINOS JUNIORS OPC 3⚽",
+                "url": "http://138.121.114.86:8000/play/a08a/index.m3u8",
+                "icono": "https://i.postimg.cc/ry7kRrFL/Whats-App-Image-2026-02-18-at-10-40-20-AM.jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://gabito.online",
+                    "Referer": "https://gabito.online/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
+            },
+
+			{
+                "name": "🏴NACIONAL POTOSI VS BOTAFOGO,PASAR A LA SIGUIENTE OPCIO SI NO REPRODUCE⚽",
                 "url": "https://5yt11v7a5c.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
                 "icono": "https://i.postimg.cc/TP2MvjQ9/Whats-App-Image-2026-02-18-at-10-40-49-AM.jpg",
                 "type": "HLS",
@@ -54,7 +80,18 @@
                     "Referer": "https://gabito.online/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
-            }
+            },
+			{
+                "name": "🏴NACIONAL POTOSI VS BOTAFOGO OPC 2⚽",
+                "url": "http://138.121.114.86:8000/play/a099/index.m3u8",
+                "icono": "https://i.postimg.cc/TP2MvjQ9/Whats-App-Image-2026-02-18-at-10-40-49-AM.jpg",
+                "type": "HLS",
+                "headers": {
+                    "Origin": "https://gabito.online",
+                    "Referer": "https://gabito.online/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+                }
+            },
 		
 			
 			
