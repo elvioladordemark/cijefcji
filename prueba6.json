@@ -733,7 +733,7 @@
 
 		{
                 "name": "PREMIERE 1 opc 2",
-                "url": "http://200.115.112.44:4848/play/a0cc",
+                "url": "https://xtream.videx.lol/Yoshiro/admin/273.m3u8",
                 "type": "CLEARKEY",
                 "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327",
                 "drm_license_uri": ""
@@ -1527,6 +1527,14 @@
       },
       {
         "name": "BEIN SPORTS EXTRA Ñ",
+        "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
+      },
+
+		{
+        "name": "BEIN SPORTS EXTRA Ñ OPC 2",
         "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
