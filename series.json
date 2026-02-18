@@ -26870,6 +26870,65 @@
                     ],
                     "tmdb_id": 310239,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Ponies",
+                    "genero": "Drama",
+                    "descripcion": "Dos secretarias de la embajada estadounidense en Moscú en la década de 1970 se convierten en agentes de la CIA tras la muerte de sus maridos, descubriendo una conspiración de la Guerra Fría detrás de la tragedia.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/s31JgoBQmAnt025tStMNA85z5t8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rwKS6rSAqMGnXwBVteYkHxeDLWX.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/Ak7AdQpvmZpSe9WYBd5KrgjSsSX.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7585D868EB5C4AD5ADC4A0D555A6F8EA_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D629BCAB35B549B3BE909659FBAAFE33_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E276936A3C5447F1AB0606972449CFE9_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/CDAAB89F49C24A7C81472F9D113C326E_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A3623E81DA124EB498A078B14FDEF003_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A468BB53393B41BF8C6CE85AE3CF4C03_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6C6DA77F352548FBB0E9E1E5CA949BEA_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E4345518F79E4560B3578718365FB64A_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 262793,
+                    "total_seasons": 1
                 }
             ]
         },
