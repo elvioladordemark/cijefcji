@@ -8,9 +8,9 @@
         "samples": [
 
 			{
-                "name": "🏴2 de Mayo vs Sporting Cristal",
+                "name": "🏴OHIGGIN VS BAHIA",
                 "url": "https://5yt11v7a5c.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-                "icono": "https://i.postimg.cc/XYLcSrZL/download-2026-02-17T220100-111.jpg",
+                "icono": "https://i.postimg.cc/zBfd0077/Whats-App-Image-2026-02-18-at-10-39-04-AM.jpg",
                 "type": "HLS",
                 "headers": {
                     "Origin": "https://gabito.online",
@@ -18,41 +18,32 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
             },
+
 			{
-                "name": "🏴SAO BERBARDO vs CORINTHIANS⚽ 20:30",
-                "url": "https://n5fpthkmd.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-                "icono": "https://i.postimg.cc/g0hK86hy/Or-KMKcq.png",
+                "name": "🏴BARCELONA VS ARGENTINOS JUNIORS",
+                "url": "https://5yt11v7a5c.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+                "icono": "https://i.postimg.cc/ry7kRrFL/Whats-App-Image-2026-02-18-at-10-40-20-AM.jpg",
                 "type": "HLS",
                 "headers": {
-                    "Origin": "https://cdn.elverruca.tech",
-                    "Referer": "https://cdn.elverruca.tech/",
+                    "Origin": "https://gabito.online",
+                    "Referer": "https://gabito.online/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
             },
 
 			{
-                "name": "🏴PONTE PRETA vs SAO PABLO⚽ 20:30",
-                "url": "https://n5fpthkmd.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-                "icono": "https://i.postimg.cc/mkm3BYvm/Sbx-T3IY.png",
+                "name": "🏴NACIONAL POTOSI VS BOTAFOGO",
+                "url": "https://5yt11v7a5c.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+                "icono": "https://i.postimg.cc/TP2MvjQ9/Whats-App-Image-2026-02-18-at-10-40-49-AM.jpg",
                 "type": "HLS",
                 "headers": {
-                    "Origin": "https://cdn.elverruca.tech",
-                    "Referer": "https://cdn.elverruca.tech/",
+                    "Origin": "https://gabito.online",
+                    "Referer": "https://gabito.online/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
                 }
             },
-			{
-                "name": "🏴PALMEIRAS vs GUARANI⚽ 20:30",
-                "url": "https://n5fpthkmd.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-                "icono": "https://i.postimg.cc/jSw6YJMV/x-HNqbrx.png",
-                "type": "HLS",
-                "headers": {
-                    "Origin": "https://cdn.elverruca.tech",
-                    "Referer": "https://cdn.elverruca.tech/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
-                }
-            }
-
+		
+			
 			
 
 			]
