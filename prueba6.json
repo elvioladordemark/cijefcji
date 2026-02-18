@@ -5583,6 +5583,72 @@
         }
     }
 
+			 ]
+      },
+	{
+  "name": "🎬 NETFLIX 24/7",
+  "samples": [
+    {
+      "name": "NETFLIX",
+      "type": "HLS",
+      "url": "https://xtream.videx.lol/Yoshiro/admin/147.m3u8",
+      "group": "24/7"
+    },
+    {
+      "name": "NETFLIX 2",
+      "type": "HLS",
+      "url": "https://xtream.videx.lol/Yoshiro/admin/148.m3u8",
+      "group": "24/7"
+    },
+    {
+      "name": "NETFLIX 3",
+      "type": "HLS",
+      "url": "https://xtream.videx.lol/Yoshiro/admin/149.m3u8",
+      "group": "24/7"
+    },
+    {
+      "name": "NETFLIX 4",
+      "type": "HLS",
+      "url": "https://xtream.videx.lol/Yoshiro/admin/150.m3u8",
+      "group": "24/7"
+    },
+    {
+      "name": "NETFLIX 5",
+      "type": "HLS",
+      "url": "https://xtream.videx.lol/Yoshiro/admin/151.m3u8",
+      "group": "24/7"
+    },
+    {
+      "name": "NETFLIX 6",
+      "type": "HLS",
+      "url": "https://xtream.videx.lol/Yoshiro/admin/152.m3u8",
+      "group": "24/7"
+    },
+    {
+      "name": "NETFLIX 7",
+      "type": "HLS",
+      "url": "https://xtream.videx.lol/Yoshiro/admin/153.m3u8",
+      "group": "24/7"
+    },
+    {
+      "name": "NETFLIX 8",
+      "type": "HLS",
+      "url": "https://xtream.videx.lol/Yoshiro/admin/154.m3u8",
+      "group": "24/7"
+    },
+    {
+      "name": "NETFLIX 9",
+      "type": "HLS",
+      "url": "https://xtream.videx.lol/Yoshiro/admin/155.m3u8",
+      "group": "24/7"
+    },
+    {
+      "name": "NETFLIX 10",
+      "type": "HLS",
+      "url": "https://xtream.videx.lol/Yoshiro/admin/156.m3u8",
+      "group": "24/7"
+    }
+
 
 			 ]
       },
