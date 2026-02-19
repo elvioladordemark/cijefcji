@@ -1485,20 +1485,13 @@
             },
 		
          
-		{
-        "name": "BEIN SPORTS Ñ OPC1",
-        "url": "http://cineflex.cc:8080/live/CAMBIOTV/Ecuadortvtelegrsm/83c961c6-09ea-4c60-ab78-243c2b72006c.m3u8",
-        "icono": "https://i.ibb.co/yFhY5bWm/Be-IN-Sports-En-Espa-ol.png",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "qR-7CQnSzyAP7cOV0iEWrXrDntw2bP10pYm7wX3O9Xay8zTPCx7JffIvlNxKdZrwDTZJxhuJHIIAQfvhzpurQ1YSHJwfDl-aXiGnvA-eglXCT1qVK5jdNzLp_n_yC801xYBrRnHrzYKCgLh6AyXSbELw7xzW2IPG88aKfyLUlnmW8MfvPOdNCYfBAObDX7DFtXQu6VJSlfgqh3BT8yrhQyWrwZfm6415lMJmKnBSDZjSCh6cHCHxNiCGn1f3EZsDDetmAZzU_YQrqtq9QnvFassCbT6_7XAekW6I4NL5cESWQjBov4yq5nZ_a4n2ByTnRFFV0xb18buip1XcapWAXU0NUFb-s8fuOV_Aii0MtK4eqQBxipApIwj2evcrj9EfbiSZ62QUmgOdtQpcjAjJvk93p9dQa9x_-Qae8S25W_9LXJ7d1lxvDE0OLUYRASC7kUxMrgdomGaA4tgeDg6MOxGSMkeV0qOFXpy4YTy0N-H_f0C7eB8sRz4Z2SIJuo9pE3T-l7MrZlhNs0ZRjRBdxA",
-          "X-Did": "5326b76fd36cf9e9",
-          "User-Agent": "Magma Player/10",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
+		   {
+                "name": "BEINS SPORTS Ñ⚽",
+                "url": "http://104.238.222.251:9090/279422_.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/JzqYLSGH/download-(45).png"
+            },
 		
 		
 		
