@@ -9,7 +9,7 @@
 	
 			{
                 "name": "ESPN",
-                "url": "https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNTkzNTYzIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMyNzliYzY5MTJkM2UyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.7eytH5fcB2RHZIB-T7ZAiKYcaB3vhg1RQ9yazCVDpjft1wkti4M0oray6ARMhxo0t5Hhwv9bfMTghuqJBij2YA==/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
+                "url": "https://edde6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNTkzNTYzIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMyNzliYzY5MTJkM2UyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.7eytH5fcB2RHZIB-T7ZAiKYcaB3vhg1RQ9yazCVDpjft1wkti4M0oray6ARMhxo0t5Hhwv9bfMTghuqJBij2YA==/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
                 "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
@@ -1368,7 +1368,7 @@
             },
             {
                 "name": "SKY Bundesliga",
-                "url": "https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd",
+                "url": "https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYSPORTz24HD/default.mpd",
                 "icono": "https://i.postimg.cc/sx1ryLH0/SKYSPORTSBUNDESLIGA.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19",
