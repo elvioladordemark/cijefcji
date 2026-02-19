@@ -4,10 +4,20 @@
 
 	
     {
-        "name": "CONMEBOL LIBERTADORES",
+        "name": "⚽CONMEBOL LIBERTADORES⚽",
         "samples": [
-  {
-                "name": "ESPN",
+  
+			   {
+                "name": "BEINS SPORTS Ñ⚽",
+                "url": "http://104.238.222.251:9090/279422_.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            }
+			
+			
+			{
+                "name": "ESPN⚽",
                 "url": "https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNTkzNTYzIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMyNzliYzY5MTJkM2UyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.7eytH5fcB2RHZIB-T7ZAiKYcaB3vhg1RQ9yazCVDpjft1wkti4M0oray6ARMhxo0t5Hhwv9bfMTghuqJBij2YA==/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/1lh2bppd9ch61z29cc9mb/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
@@ -22,7 +32,7 @@
 			
 
 			 {
-                "name": "FOX SPORTS",
+                "name": "FOX SPORTS⚽",
                 "url": "https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNTkzNTYzIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMyNzliYzY5MTJkM2UyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.7eytH5fcB2RHZIB-T7ZAiKYcaB3vhg1RQ9yazCVDpjft1wkti4M0oray6ARMhxo0t5Hhwv9bfMTghuqJBij2YA==/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/ywdelhnwlfiu84bkf5p2g/foxs1.json?rlkey=s20xm21r6bhb1kvgnf5xve1x2&st=gkmhzn23&dl=0",
@@ -34,7 +44,7 @@
                 }
             },
             {
-                "name": "FOX SPORTS 2",
+                "name": "FOX SPORTS 2⚽",
                 "url": "https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNTkzNTYzIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMyNzliYzY5MTJkM2UyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.7eytH5fcB2RHZIB-T7ZAiKYcaB3vhg1RQ9yazCVDpjft1wkti4M0oray6ARMhxo0t5Hhwv9bfMTghuqJBij2YA==/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3fk7uzio88s2d8hgurkbj/fs2.json?rlkey=nyzsw6qww8mmz37fdqrypuux6&st=40wv12zy&dl=0",
@@ -52,20 +62,7 @@
 			
 			
 
-			]
-    },
-    {
-        "name": "⚽EVENTOS FLOW LO MEJEOR DE LA COPA DEL REY⚽",
-        "samples": [
-             {
-                "name": "EVENTOS FLOW",
-                "url": "http://138.121.114.86:8000/play/a0dg/index.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.postimg.cc/2ykynGdJ/download-(41).png"
-            }
-
-	  
+		
   
 
 			
@@ -382,7 +379,7 @@
 			 ]
     },
     {
-        "name": "⚽🇦🇷PACK FUTBOL ARGENTINO",
+        "name": "⚽🇦🇷PACK FUTBOL ARGENTINO⚽",
         "samples": [
             {
                 "name": "TYC SPORTS",
