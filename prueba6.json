@@ -92,15 +92,20 @@
           "User-Agent": "FireFox"
         }
       },
-
 			 {
-        "name": "EVENTOS 3 PLAY TV PY HD",
+        "name": "LANC ",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/699787bfa9/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-      }
+        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "FireFox"
+        }
       },
+
+		
    
 			{
                 "name": "LANC EN VIVO SD",
