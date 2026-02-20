@@ -7,7 +7,25 @@
         "name": "⚽CONMEBOL LIBERTADORES⚽",
         "samples": [
   
-		{
+		{     
+   "name": "BOCA VS RACING OPC1 19:00HS⚽",     
+   "url": "http://tv.m3uts.xyz/stream/secure/AGN4KmxmAS8kBQRhBGDhZwZlYwR5AS8kAmpkAwV5BQH0KmHmZwMvAmMzMQZ2L2L5MGysZN.m3u8",     
+   "icono": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",     
+   "type": "HLS",     
+   "headers": {     
+     "X-App": "ps",     
+     "X-Version": "10/1.0.9",     
+     "X-Hash": "bWwYvbQmEotA0Tg-uXCeqQn_ib582ie-qRpAhx2xIcgMAvDajINJ6qO87i3raGU2A_RYUvkzNbGreDKae9xqw63uwT6JOqC93DVgqFCDn14j739GffTjcIy54oVfVjkEHC3UVO6-EJHRgS3NNvl_miPopDbB2YRpP0fEkPTSG6gLvu18xvKVWo3asqpPh3V3ySPg6Y5M4LHsYCOXHQLdJFeKyXBEed7ncRj7XeUWQZLSt3zy2YBrkZk1Y3OD51Q0js7Q6fW62UdZHJveNi5eBYoTgcaA99UnvCOsZtNbWp_dOCqX2_2DeqZBjeYS3uEPx4DJ0fUuXoKUgCs41ogDuzUfz8F5UGhnmxv3U66v1LjlWWjPyYG1TL9QXkPhCVbExKioTSVJCp-RjjNPC6ov8ICjC3Evxw5MBBbDIauOVHmZDUWAzI3xiSShhcngeJ-1LLxpPzDjmTOwymtSUUf6YMikwmdYY1qOA-mkNhoZZqTij5xXNndYmQPvZJ6XzLQmQn6lIxBRj5A98_UdPuJ9",     
+     "X-Did": " 5326b76fd36cf9e9",     
+     "User-Agent": "Magma Player/10",     
+     "Accept-Encoding": "gzip",     
+      
+	   "Connection": "Keep-Alive"     
+   }     
+ }
+			
+			
+			{
                 "name": "BOCA VS RACING OPC1 19:00HS⚽",
                 "url": "http://138.121.114.91:8000/play/a06z/index.m3u8",
                 "type": "CLEARKEY",
