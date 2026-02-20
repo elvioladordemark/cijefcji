@@ -265,17 +265,18 @@
         "samples": [
      {     
    "name": "ESPN SUR",     
-   "url": "http://tv.m3uts.xyz/stream/secure/BGx5KmZ3BS8kBQRhBQHhZwRjYwR0Ay8kAmpkAGHmBQD3KmEwAGt0ZwSzL2L5LJZjBQWsZN.m3u8",     
+   "url": "http://tv.m3uts.xyz/stream/secure/BQV5KmZ2BS8lBQNmBwWuZQN6ZwNjAwcyZmNmBzDjBTH6ATSxBQb0LzSzBzHkZmIsZGp3ZGLjZmx3ZI81ZmV2Lwp2MzDmAzAzBJH5KmN.m3u8",     
    "icono": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",     
    "type": "HLS",     
    "headers": {     
      "X-App": "ps",     
      "X-Version": "10/1.0.9",     
-     "X-Hash": "8gcT6Mz6haGj79D0fhlQJBNLdjfYuJjPMltFWrUFV2wkJzBV6RnYYEAjcJ6jAetyLshbCtXcsU6TMUeooGRAbvmb9gYUBZdCnh09cYpDG3vCC2Dt-SdhimBf7Rd8JWD5ZwMFFsx2idx9DvgzRGVjiH_ptAgg1b2I6eIRe-sQWA033BufLVq3-Z6ZnlTEr36Vl_pXRjSbllUnkI88_EGfoseGkDLvl-jERdLOO5q5otrgiFROz3_HaaEDIfwq1XMIJGoO-mdNRFqLGRJg3CenkvHgOhvLP8y-YcjbK-NtOXdKPxTr299yRtRxN5GHu-IhtgssCh4Aaub3f8bpgNvzcvy7pX1SMfWfr7qXq6DDf6f6OTi0Ed3NasRoy3WzOX2h5z18JkqHkEj9f74zZahByRopl2zmSlfqQJ_O6uDI8TJcXDKpKzAHA0nyJMxJ7OF2qf8gxyMD_KapscJ49mwuNBERDyFP6_XN0eShPF64Kor7wlxQFGEpWvkIR1C25BOPgSu1A4eWj18Brw86POpzAq7Ja1j_7qyJer-RfHtyBO4",     
-     "X-Did": "5326b76fd36cf9e9",     
+     "X-Hash": "-YWA0W-K2G54z9PN8zgVe7KyFuCdvkyRCsXIKX9viDm2LNVTohuPQrmiyWH5BNYYOju-jg3qYb94eBrZmETy8hFw3yUwmz3FOQcXG-_cLR0L3ze2u1aBz-ktd3r3DmleAsARGVvikhxZ2OiBdZ0609DAZjGZjxGI7_HivBKCTcIUGdHuxFKFaZkC9ZVXxM4pGq0a9TR7WxRd7tfGwKXwNlaGNkX6M6LfHM3rke4or9eM4u9C9fzOOAe4tHmmx9JWitNqgRQ3CEMo5ethe1OX94vjKh8Tm_Q0UKLd_GlxTtP5jHQoHFes6Gl5VtJfxPGh65htDyPg3KNt47vHK4gJsHFwqwlpI0QO-R1lhc5bkMv7FtlUucaNoH-JV-_0fIrtvJxT8fNgw_YoSgPkXPjoUiQlvSIw9lBfGc305_1L4xeieKQLjJsltEdAgKGDaa75b8mYGHhaiXQySKHyvuhzbxW_Gt5N2OLlVJATIAYztwTKNDM9SZT6NvqXkCAQVwq1Jct0x83t8UxHLIZ1q85dl0_LPGMpDMLxeMfEJpJFvVU",     
+     "X-Did": " 5326b76fd36cf9e9",     
      "User-Agent": "Magma Player/10",     
      "Accept-Encoding": "gzip",     
-     "Connection": "Keep-Alive"     
+     "Host": " tv.m3uts.xyz" 
+	   "Connection": "Keep-Alive"     
    }     
  }   
 			
