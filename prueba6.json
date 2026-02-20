@@ -244,109 +244,7 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://i.postimg.cc/5t2xrS9D/download-64.jpg"
-            },
-
-			
-
-			 {
-                "name": "LA TELE",
-                "url": "https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.postimg.cc/9Xx2K7wd/download-58.jpg"
-            },
-			{
-      "name": "C5N",
-      "type": "MPD",
-      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/c5n/output.mpd",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0e/C5N_logo_2017.svg"
-    },
-
-			  {
-      "name": "Canal 26",
-      "type": "MPD",
-      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/canal26/output.mpd",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_26_logo.png"
-    },
-    {
-      "name": "C5N",
-      "type": "MPD",
-      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/c5n/output.mpd",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0e/C5N_logo_2017.svg"
-    },
-    {
-      "name": "CNN en Español",
-      "type": "MPD",
-      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/cnne/output.mpd",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN_International_logo.svg"
-    },
-    {
-      "name": "LN+",
-      "type": "MPD",
-      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/lnmas/output.mpd",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/2/21/LN%2B_logo.png"
-    },
-    {
-      "name": "Encuentro",
-      "type": "MPD",
-      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/encuentro/output.mpd",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Encuentro_logo.png"
-    },
-    {
-      "name": "Disney Jr",
-      "type": "MPD",
-      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/disneyjr/output.mpd",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Disney_Jr._logo.svg"
-    },
-    {
-      "name": "Nick Jr",
-      "type": "MPD",
-      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/nickjr/output.mpd",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Nick_Jr._logo_2014.svg"
-    },
-    {
-      "name": "Discovery Channel",
-      "type": "MPD",
-      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/discovery/output.mpd",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Discovery_Channel_Logo.svg"
-    },
-    {
-      "name": "Warner Channel",
-      "type": "MPD",
-      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/warner/output.mpd",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Warner_Channel_logo.svg"
-    },
-    {
-      "name": "AXN",
-      "type": "MPD",
-      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/axn/output.mpd",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4a/AXN_logo.svg"
-    },
-			{
-      "name": "Cinecanal",
-      "icono": "https://i.imgur.com/1XJpFJY.png",
-      "type": "MPD",
-      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cinecanal/output.mpd"
-    },
-    {
-      "name": "FOX HD",
-      "icono": "https://i.imgur.com/6G0VZ4F.png",
-      "type": "MPD",
-      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/foxhd/output.mpd"
-    },
-    {
-      "name": "FX",
-      "icono": "https://i.imgur.com/Mw2YbQw.png",
-      "type": "MPD",
-      "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/fx/output.mpd"
-    },
-    {
-      "name": "Europa Europa",
-      "icono": "https://i.imgur.com/0yRr5xJ.png",
-      "type": "MPD",
-      "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/europa/output.mpd"
-    }
-
+            }
 	
 		
 
@@ -452,18 +350,18 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
-            {
+              {
                 "name": "ESPN PREMIUM",
                 "url": "http://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNzIyNDY3Iiwic2lwIjoiMTgxLjEyNC4xMzAuMTMyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RWX0NhbWFyYS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDMzYWU5YjVkYTFlMTdhYiIsInNlc3Npb25faWQiOiIxZDdhNjY5YmE3ZTdlYzQ0OGZiYjlmZDU0OWQwMTgxZi0xNzcxNTQ5NjY2LTgwMSIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDAyNjgzNTEzLS1mbG93Ojk5OTkwMDAwMjY4MzUxMzpQIiwiZGV2aWNlX2lkIjoiMWQ3YTY2OWJhN2U3ZWM0NDhmYmI5ZmQ1NDlkMDE4MWYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHA6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0Niw4OF19.9uZRmwdBCIr4EpY20TwMvcRl6PdM4_qLbrK0QgtOHjsIScriUneXKJyQ7eovUqZg50CDm-c5dBACLTwCruyapA==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/96rqr70ljuva1eift5325/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/4gwhrzf22w2401dfix2kh/premiun.json?rlkey=nzp11gn43womr013ppnr6wxq0&st=ahppdvk9&dl=0",
                 "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
+				  },
             {
                 "name": "ESPN PREMIUM OPCION 2",
                 "url": "http://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNzIyNDY3Iiwic2lwIjoiMTgxLjEyNC4xMzAuMTMyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RWX0NhbWFyYS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDMzYWU5YjVkYTFlMTdhYiIsInNlc3Npb25faWQiOiIxZDdhNjY5YmE3ZTdlYzQ0OGZiYjlmZDU0OWQwMTgxZi0xNzcxNTQ5NjY2LTgwMSIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDAyNjgzNTEzLS1mbG93Ojk5OTkwMDAwMjY4MzUxMzpQIiwiZGV2aWNlX2lkIjoiMWQ3YTY2OWJhN2U3ZWM0NDhmYmI5ZmQ1NDlkMDE4MWYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHA6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0Niw4OF19.9uZRmwdBCIr4EpY20TwMvcRl6PdM4_qLbrK0QgtOHjsIScriUneXKJyQ7eovUqZg50CDm-c5dBACLTwCruyapA==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
@@ -558,7 +456,7 @@
         "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
         "headers": {
             "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/guia-de-tv",
+            "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
@@ -582,7 +480,7 @@
         "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
         "headers": {
             "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/guia-de-tv",
+            "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
