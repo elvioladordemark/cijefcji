@@ -157,7 +157,7 @@
 	  	]
     },
     {
-        "name": "PARAGUAY SIN BLOQUEOS Y OTROS",
+        "name": "PARAGUAY SIN BLOQUEOS",
         "samples": [
              {
                 "name": "ABC TV",
@@ -278,7 +278,58 @@
       
 	   "Connection": "Keep-Alive"     
    }     
- }   
+ },
+	{     
+   "name": "ESPN 2",     
+   "url": "http://tv.m3uts.xyz/stream/secure/AGLmKmZ3AI8lBQNmBwWuZQN6ZwNjAwcyZmNmBzDjBTH6ATSxBQb0LzSzBzHkZmIsZGp3ZGLjAQplAI81ZmV2Lwp2MzDmAzAzBJH5KmN.m3u8",     
+   "icono": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",     
+   "type": "HLS",     
+   "headers": {     
+     "X-App": "ps",     
+     "X-Version": "10/1.0.9",     
+     "X-Hash": "-YWA0W-K2G54z9PN8zgVe7KyFuCdvkyRCsXIKX9viDm2LNVTohuPQrmiyWH5BNYYOju-jg3qYb94eBrZmETy8hFw3yUwmz3FOQcXG-_cLR0L3ze2u1aBz-ktd3r3DmleAsARGVvikhxZ2OiBdZ0609DAZjGZjxGI7_HivBKCTcIUGdHuxFKFaZkC9ZVXxM4pGq0a9TR7WxRd7tfGwKXwNlaGNkX6M6LfHM3rke4or9eM4u9C9fzOOAe4tHmmx9JWitNqgRQ3CEMo5ethe1OX94vjKh8Tm_Q0UKLd_GlxTtP5jHQoHFes6Gl5VtJfxPGh65htDyPg3KNt47vHK4gJsHFwqwlpI0QO-R1lhc5bkMv7FtlUucaNoH-JV-_0fIrtvJxT8fNgw_YoSgPkXPjoUiQlvSIw9lBfGc305_1L4xeieKQLjJsltEdAgKGDaa75b8mYGHhaiXQySKHyvuhzbxW_Gt5N2OLlVJATIAYztwTKNDM9SZT6NvqXkCAQVwq1Jct0x83t8UxHLIZ1q85dl0_LPGMpDMLxeMfEJpJFvVU",     
+     "X-Did": " 5326b76fd36cf9e9",     
+     "User-Agent": "Magma Player/10",     
+     "Accept-Encoding": "gzip",     
+      
+	   "Connection": "Keep-Alive"     
+   }     
+ },		
+
+{     
+   "name": "FOX SPORTS 1",     
+   "url": "http://tv.m3uts.xyz/stream/secure/AGxmKmD1Zy8lBQNmBwWuZQN6ZwNjAwcyZmNmBzDjBTH6ATSxBQb0LzSzBzHkZmIsZGp3ZGLjAQx1AI81ZmV2Lwp2MzDmAzAzBJH5KmN.m3u8",     
+   "icono": "https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png",     
+   "type": "HLS",     
+   "headers": {     
+     "X-App": "ps",     
+     "X-Version": "10/1.0.9",     
+     "X-Hash": "-YWA0W-K2G54z9PN8zgVe7KyFuCdvkyRCsXIKX9viDm2LNVTohuPQrmiyWH5BNYYOju-jg3qYb94eBrZmETy8hFw3yUwmz3FOQcXG-_cLR0L3ze2u1aBz-ktd3r3DmleAsARGVvikhxZ2OiBdZ0609DAZjGZjxGI7_HivBKCTcIUGdHuxFKFaZkC9ZVXxM4pGq0a9TR7WxRd7tfGwKXwNlaGNkX6M6LfHM3rke4or9eM4u9C9fzOOAe4tHmmx9JWitNqgRQ3CEMo5ethe1OX94vjKh8Tm_Q0UKLd_GlxTtP5jHQoHFes6Gl5VtJfxPGh65htDyPg3KNt47vHK4gJsHFwqwlpI0QO-R1lhc5bkMv7FtlUucaNoH-JV-_0fIrtvJxT8fNgw_YoSgPkXPjoUiQlvSIw9lBfGc305_1L4xeieKQLjJsltEdAgKGDaa75b8mYGHhaiXQySKHyvuhzbxW_Gt5N2OLlVJATIAYztwTKNDM9SZT6NvqXkCAQVwq1Jct0x83t8UxHLIZ1q85dl0_LPGMpDMLxeMfEJpJFvVU",     
+     "X-Did": " 5326b76fd36cf9e9",     
+     "User-Agent": "Magma Player/10",     
+     "Accept-Encoding": "gzip",     
+      
+	   "Connection": "Keep-Alive"     
+   }     
+ },	
+
+			{     
+   "name": "FOX SPORTS 2",     
+   "url": "http://tv.m3uts.xyz/stream/secure/BGZjKmDmAy8kBQRhBGDhZwZlYwR5AS8kAmpkAwN1ZGV5KmHmZwMvAmMzMQZ2L2L5MGysZN.m3u8",     
+   "icono": "https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png",     
+   "type": "HLS",     
+   "headers": {     
+     "X-App": "ps",     
+     "X-Version": "10/1.0.9",     
+     "X-Hash": "-YWA0W-K2G54z9PN8zgVe7KyFuCdvkyRCsXIKX9viDm2LNVTohuPQrmiyWH5BNYYOju-jg3qYb94eBrZmETy8hFw3yUwmz3FOQcXG-_cLR0L3ze2u1aBz-ktd3r3DmleAsARGVvikhxZ2OiBdZ0609DAZjGZjxGI7_HivBKCTcIUGdHuxFKFaZkC9ZVXxM4pGq0a9TR7WxRd7tfGwKXwNlaGNkX6M6LfHM3rke4or9eM4u9C9fzOOAe4tHmmx9JWitNqgRQ3CEMo5ethe1OX94vjKh8Tm_Q0UKLd_GlxTtP5jHQoHFes6Gl5VtJfxPGh65htDyPg3KNt47vHK4gJsHFwqwlpI0QO-R1lhc5bkMv7FtlUucaNoH-JV-_0fIrtvJxT8fNgw_YoSgPkXPjoUiQlvSIw9lBfGc305_1L4xeieKQLjJsltEdAgKGDaa75b8mYGHhaiXQySKHyvuhzbxW_Gt5N2OLlVJATIAYztwTKNDM9SZT6NvqXkCAQVwq1Jct0x83t8UxHLIZ1q85dl0_LPGMpDMLxeMfEJpJFvVU",     
+     "X-Did": " 5326b76fd36cf9e9",     
+     "User-Agent": "Magma Player/10",     
+     "Accept-Encoding": "gzip",     
+      
+	   "Connection": "Keep-Alive"     
+   }     
+ }
+			
 			
 			  
 			
