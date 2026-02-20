@@ -361,14 +361,37 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
-			
+			  {
+                "name": "TNT SPORT HD",
+                "url": "http://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNzIyNDY3Iiwic2lwIjoiMTgxLjEyNC4xMzAuMTMyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RWX0NhbWFyYS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDMzYWU5YjVkYTFlMTdhYiIsInNlc3Npb25faWQiOiIxZDdhNjY5YmE3ZTdlYzQ0OGZiYjlmZDU0OWQwMTgxZi0xNzcxNTQ5NjY2LTgwMSIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDAyNjgzNTEzLS1mbG93Ojk5OTkwMDAwMjY4MzUxMzpQIiwiZGV2aWNlX2lkIjoiMWQ3YTY2OWJhN2U3ZWM0NDhmYmI5ZmQ1NDlkMDE4MWYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHA6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0Niw4OF19.9uZRmwdBCIr4EpY20TwMvcRl6PdM4_qLbrK0QgtOHjsIScriUneXKJyQ7eovUqZg50CDm-c5dBACLTwCruyapA/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
+                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TNT SPORT HD opcion 2",
+                "url": "http://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNzIyNDY3Iiwic2lwIjoiMTgxLjEyNC4xMzAuMTMyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RWX0NhbWFyYS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDMzYWU5YjVkYTFlMTdhYiIsInNlc3Npb25faWQiOiIxZDdhNjY5YmE3ZTdlYzQ0OGZiYjlmZDU0OWQwMTgxZi0xNzcxNTQ5NjY2LTgwMSIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDAyNjgzNTEzLS1mbG93Ojk5OTkwMDAwMjY4MzUxMzpQIiwiZGV2aWNlX2lkIjoiMWQ3YTY2OWJhN2U3ZWM0NDhmYmI5ZmQ1NDlkMDE4MWYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHA6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0Niw4OF19.9uZRmwdBCIr4EpY20TwMvcRl6PdM4_qLbrK0QgtOHjsIScriUneXKJyQ7eovUqZg50CDm-c5dBACLTwCruyapA==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
+                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
 			
 			
 			
 			
 			{
                 "name": "TYC SPORTS",
-                "url": "http://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNzIyNDY3Iiwic2lwIjoiMTgxLjEyNC4xMzAuMTMyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RWX0NhbWFyYS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDMzYWU5YjVkYTFlMTdhYiIsInNlc3Npb25faWQiOiIxZDdhNjY5YmE3ZTdlYzQ0OGZiYjlmZDU0OWQwMTgxZi0xNzcxNTQ5NjY2LTgwMSIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDAyNjgzNTEzLS1mbG93Ojk5OTkwMDAwMjY4MzUxMzpQIiwiZGV2aWNlX2lkIjoiMWQ3YTY2OWJhN2U3ZWM0NDhmYmI5ZmQ1NDlkMDE4MWYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHA6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0Niw4OF19.9uZRmwdBCIr4EpY20TwMvcRl6PdM4_qLbrK0QgtOHjsIScriUneXKJyQ7eovUqZg50CDm-c5dBACLTwCruyapA==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                "url": "http://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNzIyNDY3Iiwic2lwIjoiMTgxLjEyNC4xMzAuMTMyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RWX0NhbWFyYS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDMzYWU5YjVkYTFlMTdhYiIsInNlc3Npb25faWQiOiIxZDdhNjY5YmE3ZTdlYzQ0OGZiYjlmZDU0OWQwMTgxZi0xNzcxNTQ5NjY2LTgwMSIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDAyNjgzNTEzLS1mbG93Ojk5OTkwMDAwMjY4MzUxMzpQIiwiZGV2aWNlX2lkIjoiMWQ3YTY2OWJhN2U3ZWM0NDhmYmI5ZmQ1NDlkMDE4MWYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHA6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0Niw4OF19.9uZRmwdBCIr4EpY20TwMvcRl6PdM4_qLbrK0QgtOHjsIScriUneXKJyQ7eovUqZg50CDm-c5dBACLTwCruyapA==/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3cmvxd9jsvvde816z4obc/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
                 "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
@@ -395,30 +418,7 @@
 
 			
            
-            {
-                "name": "TNT SPORT HD",
-                "url": "http://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNzIyNDY3Iiwic2lwIjoiMTgxLjEyNC4xMzAuMTMyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RWX0NhbWFyYS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDMzYWU5YjVkYTFlMTdhYiIsInNlc3Npb25faWQiOiIxZDdhNjY5YmE3ZTdlYzQ0OGZiYjlmZDU0OWQwMTgxZi0xNzcxNTQ5NjY2LTgwMSIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDAyNjgzNTEzLS1mbG93Ojk5OTkwMDAwMjY4MzUxMzpQIiwiZGV2aWNlX2lkIjoiMWQ3YTY2OWJhN2U3ZWM0NDhmYmI5ZmQ1NDlkMDE4MWYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHA6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0Niw4OF19.9uZRmwdBCIr4EpY20TwMvcRl6PdM4_qLbrK0QgtOHjsIScriUneXKJyQ7eovUqZg50CDm-c5dBACLTwCruyapA==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
-                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "TNT SPORT HD opcion 2",
-                "url": "http://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNzIyNDY3Iiwic2lwIjoiMTgxLjEyNC4xMzAuMTMyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RWX0NhbWFyYS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDMzYWU5YjVkYTFlMTdhYiIsInNlc3Npb25faWQiOiIxZDdhNjY5YmE3ZTdlYzQ0OGZiYjlmZDU0OWQwMTgxZi0xNzcxNTQ5NjY2LTgwMSIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDAyNjgzNTEzLS1mbG93Ojk5OTkwMDAwMjY4MzUxMzpQIiwiZGV2aWNlX2lkIjoiMWQ3YTY2OWJhN2U3ZWM0NDhmYmI5ZmQ1NDlkMDE4MWYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHA6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0Niw4OF19.9uZRmwdBCIr4EpY20TwMvcRl6PdM4_qLbrK0QgtOHjsIScriUneXKJyQ7eovUqZg50CDm-c5dBACLTwCruyapA==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
-                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
+          
             {
                 "name": "LPF PLAY 1",
                 "url": "https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ed233177-a168-4fb8-ad02-e18511c61702/ed117932-c1e4-4c80-a942-40e34348fb24/2/streamPlaylist.m3u8",
