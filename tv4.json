@@ -1466,17 +1466,8 @@
             },
             {
                 "name": "BEIN SPORTS Ñ",
-                "url": "http://magmaplayer.com/stream/m3u8/BQxlKmxkKmRmZv4kBGRhZl40Ay8kAmDmZQp/hls/91.m3u8",
-                "icono": "https://i.ibb.co/yFhY5bWm/Be-IN-Sports-En-Espa-ol.png",
-                "headers": {
-                    "X-App": "ps",
-                    "X-Version": "10/1.0.9",
-                    "X-Hash": "gF9sD97va_RnH9DnqU6mBkqFBFUJRL4MQV5xcgwtRDaVUANSr6oLYeqTo5YkrnvehvCr1GiQBLv17vNZoeZ2YoxIzZ_GFukigipEspFxM8y7ixrzFnSoTJn6xD21wMohKhYSKmfzg_awDMX7mfV_Xt2KF_63T6fLUHCyt14Yk70WoJyPAZDFB5L3ZnYfMB-zBCFKxL7y8WA2ELpINF76sDIOXLZ9GBxUR5-FqZyS3LC3OTilRpXRMD7oP3Bet2YLakYb-VEUvG4xlrMtCQa77GWYcqpsbDNGThf7G5LFq-3CzAaRfGv_KGdCjLk-kzFfJ98xe3dbTQ6bjR4XYAzC1K1iE84Wt1-GYNS9dpIjYMz_EFv2JWRqg6hDk0KPbV6AjTGGzLH8DBUHxVQNCp9QYGW3Rpza4P3zzMGeSEA6qT2xdLzMnFdNPKCDeKDw1MMDEjD4EXWhs9SN5pl83ipjJkyVor2oRTOLC4k1HIgK25ZKCD-CVo3ZejkWPMJHmK_ms-hGO25xEhv_ACkQlJPIlvdMTzdcvOX8w3fs6q-mFS9aBdhdWjc-N9cAbPGaQevlTSo5Yoo63ANR7jcKXpryew",
-                    "X-Did": "cddfe5e8c019cb3c",
-                    "User-Agent": "Magma Player/10",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+                "icono": "https://i.ibb.co/yFhY5bWm/Be-IN-Sports-En-Espa-ol.png"
             },
             {
                 "name": "BEIN SPORTS EXTRA Ñ",
