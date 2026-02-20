@@ -13245,6 +13245,65 @@
                     ],
                     "tmdb_id": 7217,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Cómo llegar al cielo desde Belfast",
+                    "genero": "Misterio, Comedia, Drama",
+                    "descripcion": "Tres grandes amigas se embarcan en una disparatada aventura para desentrañar la misteriosa y sospechosa muerte de otra amiga mientras tratan de mantener oculto su oscuro secreto.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/jIni00jYnNZAdG5RQeD6zzZtnt2.png",
+                    "icono": "https://image.tmdb.org/t/p/original/7A37vpIWIAQqaoFtnzaVSVKcaZ7.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lkmGrZXASDPwXyWf4p8GG83dw5N.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El velatorio",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7841CCD891F84E98B5083C083B9AF0AD_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El secreto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/91193E1743804748822ACCDA94967C35_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El fantasma",
+                                    "url": "http://goovdme.967sd1f.homes/vod/1C463D792FB9497DB4351B69C16C58AF_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La chica de Sagres",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5B81A30D12A74695932AD8561E700EBF_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La caja",
+                                    "url": "http://goovdme.967sd1f.homes/vod/85E31FD8B531437C92EE51ACF772153B_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Separadas pero inseparables",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2DBA68AAF11041A48093A7B32E054F28_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Fugitivas, mentirosas y ángeles caídos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3133943CEECD4BA5AE7B654C8838D41D_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Anagnórisis",
+                                    "url": "http://goovdme.967sd1f.homes/vod/579C14FD3FDA46D99F2E8A82BBA49253_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 233079,
+                    "total_seasons": 1
                 }
             ]
         },
