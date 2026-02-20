@@ -32220,6 +32220,70 @@
             ]
         },
         {
+            "nombre": "K-DRAMA",
+            "series": [
+                {
+                    "nombre": "El arte de parecer Sarah",
+                    "genero": "Crimen, Misterio, Drama",
+                    "descripcion": "Un cadáver aparece en pleno centro. Una firma de lujo está en auge. Un inspector pone a prueba la historia cambiante de una mujer. ¿Qué ocurrió en realidad?",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/qkYrkAP1VPtqcQ3RCaeTKav8XXo.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qDVHKWy6mQuOlYYtRdUDqnEIuY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qy8gJEwspR7L5WZn4e8ItwK8m23.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Mujer no identificada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/66A67487EDF64AA885397598164150CF_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sarah Kim",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4112E18092764FA28CE897B69580546E_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Mok Ga-hui",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/4F6DCC59AA674BACABD1D88331D03D0E_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Kim Eun-jae",
+                                    "url": "http://goovdme.967sd1f.homes/vod/846CF395E89841519FC6BB4E63BA69A4_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Boudoir",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A0B868C065CD4CEEB6FF2110F704D64B_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Persona no registrada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/25A9139B73F7415D8E2D62EF67D7E655_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Kim Mi-jeong",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4D9B483EBF334AFF814B0649243E1545_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El arte de parecer Sarah",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/D0F6482880774B91942FD02718776FE9_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 273977,
+                    "total_seasons": 1
+                }
+            ]
+        },
+        {
             "nombre": "Series de Suspenso",
             "series": [
                 {
