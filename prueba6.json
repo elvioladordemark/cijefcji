@@ -230,9 +230,13 @@
                "icono": "https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png", 
                "type": "CLEARKEY", 
                "drm_license_uri": "https://dl.dropbox.com/scl/fi/5em9itiihw01bzpn9vz5p/clearkey_tntsportsgi.json?rlkey=w116ysm429eddt7abh8x0p7eq&st=kc25cbp2&dl=0", 
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-                   }
-    }
+                "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+	           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+                  
+}
+			}
 			
 	
 			
