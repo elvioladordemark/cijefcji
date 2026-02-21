@@ -224,8 +224,8 @@
     {
         "name": "⚽DEPORTES SENSA📺",
         "samples": [
-{ 
-               "name": "TNT SPORTS", 
+{  {
+              "name": "TNT SPORTS", 
                "url": "https://lilac01.pontiscloud.com/live/eds/TNTSports/live_dash_cld/TNTSports.mpd", 
                "icono": "https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png", 
                "type": "CLEARKEY", 
@@ -233,9 +233,9 @@
                 "headers": {
             "Origin": "https://pracanespeeeedaaass.github.io",
             "Referer": "https://pracanespeeeedaaass.github.io/",
-	           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-                  
+	          "webtoken": "1.0"
 }
+		}  
 			}
 			
 	
