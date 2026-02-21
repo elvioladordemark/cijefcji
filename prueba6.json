@@ -1403,7 +1403,7 @@
         "name": "PREMIERE CLUBES MPD",
         "url": "https://abgqhhbaaaaaaaamgyske232j4one.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ypk8yayx7nu6ea39d5k7q/clearkey_premiere.json?rlkey=4y84cglo6acqtz4iz1eg2ugss&st=uz7mh2xw&dl=0",
         "icono": "https://embedtv.digital/assets/images/premiere.png"
       },
     {
@@ -1470,7 +1470,7 @@
         "name": "SPORTV 1 MPD",
         "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733",
+        "drm_license_uri":"https://dl.dropbox.com/scl/fi/5qgxxk25ailtw6s3i4ekd/clearkey_sportv1.json?rlkey=ytpwxw8qquh7q0417sg1mzn0s&st=l6q8eu3t&dl=0",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
       },
 		 
@@ -1800,162 +1800,20 @@
                     "origin": "https://www.izzigo.tv",
                     "Referer": "https://www.izzigo.tv/"
                 }
-            },
-            {
-                "name": "LATIN AMERICAN SPORTS",
-                "url": "https://zap-live2-ott.izzigo.tv/4/out/u/dash/LATINAMERICANSPORTSHD/default.mpd",
-                "icono": "https://i.postimg.cc/m2MKfrFR/LATIN-AMERICAN-SPORTS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9213bfbf7c02e1beada75dbd389608a5&key=a8a48bd40a1a62e6258a85e683a7fa78",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "BEISBOL LATINO",
-                "url": "https://zap-live2-ott.izzigo.tv/14/out/u/dash/BEISBOL-LATINO-HD/default.mpd",
-                "icono": "https://i.postimg.cc/4nCvQsJp/BEISBOL-LATINO.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5dbf14888bd99a7b01a3c9b0386c29ed&key=1ee5f6042b292cfb366e5b2ec27ecf22",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "BASKET AMERICAS",
-                "url": "https://zap-live2-ott.izzigo.tv/11/out/u/dash/BASKET-AMERICAS-HD/default.mpd",
-                "icono": "https://i.postimg.cc/766NxKsL/BASKET-AMERICAS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3377df9a3e3ce7735793541deb49657a&key=df55b7df0f5d3fdb34ff56977aa7339d",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "COMBATV",
-                "url": "https://zap-live2-ott.izzigo.tv/15/out/u/dash/COMBATV-HD/default.mpd",
-                "icono": "https://i.postimg.cc/kgQsw660/COMBATV.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d82fc67b0ad0eac6a3f5cadc6e515796&key=c9bb81474744fd82c379427312895636",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "ITV DEPORTES",
-                "url": "https://zap-live2-ott.izzigo.tv/8/out/u/dash/ITV-DEPORTES-HD-H265/default.mpd",
-                "icono": "https://i.postimg.cc/pVSsdtM4/ITVDEPORTESMX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f545b12ce0f263324e4c544e1db07f22&key=36f0870c64125268785f692c98aa12cf",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "Hi Sports",
-                "url": "https://zap-live2-ott.izzigo.tv/2/out/u/dash/HISPORTSSD/default.mpd",
-                "icono": "https://i.postimg.cc/1zSCZc1S/HISPORTSMX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f2966ad533e52a19c3ded1c7b9e40370&key=2e0bb20e3edb3ce7fc0d616b3ff28748",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "Real Madrid TV",
-                "url": "https://zap-live2-ott.izzigo.tv/4/out/u/dash/REALMADRIDHD/default.mpd",
-                "icono": "https://i.postimg.cc/vZVkyZ1L/REALMADRIDTVMX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=77e93f69c2d4c23e2cf8dc9e892f4ac7&key=71a786d7774d6df4487494145db485a4",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "MEXICO AL AIRE LIBRE",
-                "url": "https://zap-live2-ott.izzigo.tv/12/out/u/dash/MEXICO-AL-AIRE-LIBRE-HD/default.mpd",
-                "icono": "https://i.postimg.cc/zvQ2msqm/MEXICOALAIRELIBRE.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=12134b1ade9e2c55be144a1216e8e5fa&key=10c49aabd94518ccd4b8c3f7fd2bacdb",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "Golf Channel",
-                "url": "https://zap-live2-ott.izzigo.tv/1/out/u/dash/GOLFCHANNELHD/default.mpd",
-                "icono": "https://i.postimg.cc/bJ3FgGMh/GOLFCHANNELMX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd45f6a37a3887044bac88a63e55b70e&key=2dff34fba01dd53d0a37dc913bb9ba51",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "PX Sports",
-                "url": "https://zap-live2-ott.izzigo.tv/4/out/u/dash/PXSPORTSHD/default.mpd",
-                "icono": "https://i.postimg.cc/4y8kY2ZP/PXSPORTSMX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8c53466401bf1c02903470cf41d01b6e&key=90898b3079182c414ecc104ff53dc9b7",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "NBA TV",
-                "url": "https://zap-live2-ott.izzigo.tv/7/out/u/dash/NBAHDH265/default.mpd",
-                "icono": "https://i.postimg.cc/Zq6G854p/NBATVMX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=08f8fb6d69482c151f73dd8461dca352&key=8aea016cd974cb95e8bf030b196f4818",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "NFL Network",
-                "url": "https://zap-live2-ott.izzigo.tv/6/out/u/dash/NFLHDH265/default.mpd",
-                "icono": "https://i.postimg.cc/T1NFdyJT/NFLMX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=812232ec802794f7f0aedfdd82bb13d2&key=3c6a93ae956f0fc504b62983db808bad",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
             }
-		
-		  ]
+
+ ]
   },
   {
-    "name": "⚽ DEPORTES VARIADOS",
+    "name": "⚽PACK SKY SPORTS⚽",
     "samples": [
       {
                 "name": "SKY Sports",
                 "url": "https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd",
                 "icono": "https://i.postimg.cc/Y2y78pjd/SKYSPORTS.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=335511dfdf0d03bc06f1fdead5870b5a&key=1a022fb33ad3de4d4579b04966551488",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY Sports 2",
-                "url": "https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd",
-                "icono": "https://i.postimg.cc/ZKGStV8F/SKYSPORTS2.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/yu4so6fs56q3ianagvutf/clearkey_skysports.json?rlkey=ie99x0nbg3yyeljynmbrpnfkf&st=7ox78gky&dl=0",
                 "headers": {
                     "origin": "https://www.izzigo.tv",
                     "Referer": "https://www.izzigo.tv/"
@@ -2081,16 +1939,18 @@
                     "origin": "https://www.izzigo.tv",
                     "Referer": "https://www.izzigo.tv/"
                 }
-            },
-           
 
- {
-                "name": "TNT ES",
-                "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNTHD/default.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dca8597f12f8d6928b55c1291c7bb300&key=36c8b3f51d474b95f0adad70899343e1",
-                "icono": "https://i.postimg.cc/G2N8v92h/download-15.jpg"
-            },
+
+
+
+			
+		
+		  ]
+  },
+  {
+    "name": "⚽ DEPORTES VARIADOS",
+    "samples": [
+     
 		
          
 	 {
