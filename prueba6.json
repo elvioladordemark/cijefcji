@@ -1363,7 +1363,46 @@
     }
 
 			 
-
+         ]
+  },
+  {
+    "name": "⚽DEPORTES FOX SPORTS MX",
+    "samples": [
+  {
+        "name": "FOX SPORTS 1 MX",
+        "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f",
+        "icono": "https://i.ibb.co/n8fh45XB/fox-sports-mexico-official-logo-1-by-carwashdumpsterboy-diul2ao-fullview.png"
+      },
+      {
+        "name": "FOX SPORTS 2 MX ",
+        "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
+        "icono": "https://i.ibb.co/RNpLj4w/Dise-o-sin-t-tulo-8.png"
+      },
+      {
+        "name": "FOX SPORTS 3 MX",
+        "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
+        "icono": "https://i.ibb.co/f0KqfQY/Dise-o-sin-t-tulo-9.png"
+      },
+      {
+        "name": "FOX DEPORTES",
+        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
+        "icono": "https://i.ibb.co/YBBb0NdH/s15377-ll-h15-ab.png"
+      },
+      {
+        "name": "FOX SPORTS PREMIUM MX",
+        "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
+        "icono": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png"
+      }
 			
            
 
@@ -1670,19 +1709,7 @@
         }
       },
 
-		 {
-        "name": "DIRECTV SPORTS 2 OPC 2",
-        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/319.m3u8",
-        "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
-        "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
+		
 
 		{
         "name": "DIRECTV SPORTS +",
@@ -1697,261 +1724,10 @@
           "Connection": "Keep-Alive"
         }
       }
-]
-    },
-    {
-        "name": "🇲🇽DEPORTES MEXICO🇲🇽",
-        "samples": [
-            {
-                "name": "TUDN",
-                "url": "https://zap-live2-ott.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd",
-                "icono": "https://i.postimg.cc/SR4CnVVV/TUDN.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2722647f77b44824c432a3c4555830a2&key=1734befb82f4b438bd84195f6c212e7b",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "ESPN",
-                "url": "https://zap-live2-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd",
-                "icono": "https://i.postimg.cc/vm1Wk4cG/ESPNMX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3fb8167957692836eca1464b7f952b45&key=f31042e8167eb4b49ce8117c9e5f1e85",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "ESPN 2",
-                "url": "https://zap-live2-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd",
-                "icono": "https://i.postimg.cc/Yqkz02yJ/ESPN2MX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=faa2d2197cc44dc154650bbacb0dc238&key=9859d70c856660e20bbe6896f9cd3048",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "ESPN 3",
-                "url": "https://zap-live2-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd",
-                "icono": "https://i.postimg.cc/wBPkjhSn/ESPN3MX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=10580600369dbd7ac029f7e737247917&key=24ef48adb31daa130675c2a502da6982",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "ESPN 4",
-                "url": "https://zap-live2-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd",
-                "icono": "https://i.postimg.cc/Z5wc1kjh/ESPN4MX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1d2d7f1116eeec62d19943a892d721f7&key=033b809769a3c248af7383aa817fce72",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "FS Premium",
-                "url": "https://zap-live2-ott.izzigo.tv/6/out/u/dash/FOXSPORTSPREMIUMHDH265/default.mpd",
-                "icono": "https://i.postimg.cc/mrd5NzK4/FSPREMIUMMX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6b142f14eb5a1359c05587bb46773e42&key=bf064a17f8400c697ad99c84ef232bb0",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "FOX Sports",
-                "url": "https://zap-live2-ott.izzigo.tv/7/out/u/dash/FOXSPORTSHDH265/default.mpd",
-                "icono": "https://i.postimg.cc/28f2W73B/FOXSPORTSMX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9970931d7a8d720333b8d3af89af42da&key=38c533f447c7eb4c176b2684cc3c76f1",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "FOX Sports 2",
-                "url": "https://zap-live2-ott.izzigo.tv/6/out/u/dash/FOXSPORTS2HDH265/default.mpd",
-                "icono": "https://i.postimg.cc/N00NMGLM/FOXSPORTS2MX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfaf8dcd06c9eba4c51f003a55fe71fa&key=061aae83fe54eb57e49ebee698f0aa6d",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "FOX Sports 3",
-                "url": "https://zap-live2-ott.izzigo.tv/7/out/u/dash/FOXSPORTS3HDH265/default.mpd",
-                "icono": "https://i.postimg.cc/BQx77wRd/FOXSPORTS3MX.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8286375a3a61c1758e7628b7f6d2631b&key=a11c0a81c263f5b1f5dc5661865c0ff9",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            }
+
 
 			
-		  ]
-  },
-  {
-    "name": "⚽ DEPORTES PACK SKY SPORTS",
-    "samples": [
-		 {
-                "name": "SKY Sports",
-                "url": "https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd",
-                "icono": "https://i.postimg.cc/Y2y78pjd/SKYSPORTS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/yu4so6fs56q3ianagvutf/clearkey_skysports.json?rlkey=ie99x0nbg3yyeljynmbrpnfkf&st=7ox78gky&dl=0",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY Sports 2",
-                "url": "https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd",
-                "icono": "https://i.postimg.cc/ZKGStV8F/SKYSPORTS2.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY LaLiga",
-                "url": "https://zap-live2-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd",
-                "icono": "https://i.postimg.cc/QMksq1Wp/SKYSPORTSLALIGA.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c88dc6c668cac3b468d4a4c7e176ff3d&key=1aeb739de2c14ed0ad658ca8043208d8",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY Bundesliga",
-                "url": "https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd",
-                "icono": "https://i.postimg.cc/sx1ryLH0/SKYSPORTSBUNDESLIGA.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY Sports F1",
-                "url": "https://zap-live2-ott.izzigo.tv/8/out/u/dash/F1HDH265/default.mpd",
-                "icono": "https://i.postimg.cc/FRHtgqvR/SKYSPORTSF1-2.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ae7f16191e2adfaacd9b536ed58a298a&key=3319b3ca5cd6f0af2f3d4bd9a7630a8b",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY Evento 1",
-                "url": "https://zap-live2-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd",
-                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a3636a51227fa338cdddf5892d8a621c&key=1444ee3c4d08bf39454b914f797968eb",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY Evento 2",
-                "url": "https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT2HD/default.mpd",
-                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7239a58fb7388b222a834d549bf18d8f&key=8b04a883e88dbdebc43673d998ea1cb2",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY Evento 3",
-                "url": "https://zap-live2-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT3HD/default.mpd",
-                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=561a21ad50f806b77d328dedbe59f93e&key=edf3e70cc9de81a73e2a00fe9c0611a8",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY Evento 4",
-                "url": "https://zap-live2-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT4HD/default.mpd",
-                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a931b2e953695ffb0cfd38573e97ba33&key=4ddd99cc4fb168d7f0e20be8a3287100",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY Evento 5",
-                "url": "https://zap-live2-ott.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd",
-                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c89e84c52eae0428b7d2c8e887a48ec&key=758a1484f920a0f1aa73e95d5f2be225",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY Evento 6",
-                "url": "https://zap-live2-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT6HD/default.mpd",
-                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ec7229067cde06e0bedaa0d71ec0c974&key=da03b65d333e74aaae446211a83c7595",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY Evento 7",
-                "url": "https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd",
-                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d9e3024854648dd01714f781c1492c4c&key=9404541975d298f6787c591d2cc871b1",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "SKY Evento 8",
-                "url": "https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd",
-                "icono": "https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53781c79161716b27ddfa70a8671cb9a&key=ec747fe222e238a6511202ce89a03df1",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            }
-
+		
  
 
 
@@ -2040,35 +1816,7 @@
       },
 
 
-		
-      {
-        "name": "WIN SPORTS opc 2",
-        "url": "http://magmaplayer.com/stream/m3u8/ZGRjKmRjAQEsZwtjAwbkZQIyBwVmBwV3MQp6AGRkZQbkZzWyBzZjMGL6BTH1My8kAmDmZwx/hls/1044.m3u8",
-        "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "qR-7CQnSzyAP7cOV0iEWrXrDntw2bP10pYm7wX3O9Xay8zTPCx7JffIvlNxKdZrwDTZJxhuJHIIAQfvhzpurQ1YSHJwfDl-aXiGnvA-eglXCT1qVK5jdNzLp_n_yC801xYBrRnHrzYKCgLh6AyXSbELw7xzW2IPG88aKfyLUlnmW8MfvPOdNCYfBAObDX7DFtXQu6VJSlfgqh3BT8yrhQyWrwZfm6415lMJmKnBSDZjSCh6cHCHxNiCGn1f3EZsDDetmAZzU_YQrqtq9QnvFassCbT6_7XAekW6I4NL5cESWQjBov4yq5nZ_a4n2ByTnRFFV0xb18buip1XcapWAXU0NUFb-s8fuOV_Aii0MtK4eqQBxipApIwj2evcrj9EfbiSZ62QUmgOdtQpcjAjJvk93p9dQa9x_-Qae8S25W_9LXJ7d1lxvDE0OLUYRASC7kUxMrgdomGaA4tgeDg6MOxGSMkeV0qOFXpy4YTy0N-H_f0C7eB8sRz4Z2SIJuo9pE3T-l7MrZlhNs0ZRjRBdxA",
-          "X-Did": "5326b76fd36cf9e9",
-          "User-Agent": "Magma Player/10",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "WIN SPORTS + OPC 2",
-        "url": "http://magmaplayer.com/stream/m3u8/ZwV1KmRjAQWsZwtjAwbkZQIyBwVmBwV3MQp6AGRkZQbkZzWyBzZjMGL6BTH1My8kAmDmZwx/hls/1042.m3u8",
-        "icono": "https://i.ibb.co/8g3XZ6v/logo-win.png",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "qR-7CQnSzyAP7cOV0iEWrXrDntw2bP10pYm7wX3O9Xay8zTPCx7JffIvlNxKdZrwDTZJxhuJHIIAQfvhzpurQ1YSHJwfDl-aXiGnvA-eglXCT1qVK5jdNzLp_n_yC801xYBrRnHrzYKCgLh6AyXSbELw7xzW2IPG88aKfyLUlnmW8MfvPOdNCYfBAObDX7DFtXQu6VJSlfgqh3BT8yrhQyWrwZfm6415lMJmKnBSDZjSCh6cHCHxNiCGn1f3EZsDDetmAZzU_YQrqtq9QnvFassCbT6_7XAekW6I4NL5cESWQjBov4yq5nZ_a4n2ByTnRFFV0xb18buip1XcapWAXU0NUFb-s8fuOV_Aii0MtK4eqQBxipApIwj2evcrj9EfbiSZ62QUmgOdtQpcjAjJvk93p9dQa9x_-Qae8S25W_9LXJ7d1lxvDE0OLUYRASC7kUxMrgdomGaA4tgeDg6MOxGSMkeV0qOFXpy4YTy0N-H_f0C7eB8sRz4Z2SIJuo9pE3T-l7MrZlhNs0ZRjRBdxA",
-          "X-Did": "5326b76fd36cf9e9",
-          "User-Agent": "Magma Player/10",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
+	
       {
         "name": "RALLY TV",
         "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
@@ -2092,52 +1840,7 @@
         "url": "https://d1zpoa0s0okzmu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/live/fast-channel-mypadeltv-c792478d/fast-channel-mypadeltv-c792478d.m3u8",
         "type": "HLS",
         "icono": "https://i.postimg.cc/Yqb8DwsQ/2bc74867-7021-4858-9f50-885706c71057.jpg"
-      },
-
-      
-      {
-        "name": "SKY SPORTS LA LIGA",
-        "url": "http://magmaplayer.com/stream/m3u8/ZwH0KmRjAmysZGxjYwR4Av44AP4kAmEsZGp0ZmR5/hls/1079.m3u8",
-        "icono": "https://i.ibb.co/QjdqmjHs/Sky-Sports-La-Liga-II.png",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "qR-7CQnSzyAP7cOV0iEWrXrDntw2bP10pYm7wX3O9Xay8zTPCx7JffIvlNxKdZrwDTZJxhuJHIIAQfvhzpurQ1YSHJwfDl-aXiGnvA-eglXCT1qVK5jdNzLp_n_yC801xYBrRnHrzYKCgLh6AyXSbELw7xzW2IPG88aKfyLUlnmW8MfvPOdNCYfBAObDX7DFtXQu6VJSlfgqh3BT8yrhQyWrwZfm6415lMJmKnBSDZjSCh6cHCHxNiCGn1f3EZsDDetmAZzU_YQrqtq9QnvFassCbT6_7XAekW6I4NL5cESWQjBov4yq5nZ_a4n2ByTnRFFV0xb18buip1XcapWAXU0NUFb-s8fuOV_Aii0MtK4eqQBxipApIwj2evcrj9EfbiSZ62QUmgOdtQpcjAjJvk93p9dQa9x_-Qae8S25W_9LXJ7d1lxvDE0OLUYRASC7kUxMrgdomGaA4tgeDg6MOxGSMkeV0qOFXpy4YTy0N-H_f0C7eB8sRz4Z2SIJuo9pE3T-l7MrZlhNs0ZRjRBdxA",
-          "X-Did": "5326b76fd36cf9e9",
-          "User-Agent": "Magma Player/10",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "CLARO SPORTS",
-        "url": "http://magmaplayer.com/stream/m3u8/Zwp1KmVjZI8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/201.m3u8",
-        "icono": "https://i.ibb.co/r2tFkZ8z/claro-png-file-claro-sports-logo-svg-1280.png",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "qR-7CQnSzyAP7cOV0iEWrXrDntw2bP10pYm7wX3O9Xay8zTPCx7JffIvlNxKdZrwDTZJxhuJHIIAQfvhzpurQ1YSHJwfDl-aXiGnvA-eglXCT1qVK5jdNzLp_n_yC801xYBrRnHrzYKCgLh6AyXSbELw7xzW2IPG88aKfyLUlnmW8MfvPOdNCYfBAObDX7DFtXQu6VJSlfgqh3BT8yrhQyWrwZfm6415lMJmKnBSDZjSCh6cHCHxNiCGn1f3EZsDDetmAZzU_YQrqtq9QnvFassCbT6_7XAekW6I4NL5cESWQjBov4yq5nZ_a4n2ByTnRFFV0xb18buip1XcapWAXU0NUFb-s8fuOV_Aii0MtK4eqQBxipApIwj2evcrj9EfbiSZ62QUmgOdtQpcjAjJvk93p9dQa9x_-Qae8S25W_9LXJ7d1lxvDE0OLUYRASC7kUxMrgdomGaA4tgeDg6MOxGSMkeV0qOFXpy4YTy0N-H_f0C7eB8sRz4Z2SIJuo9pE3T-l7MrZlhNs0ZRjRBdxA",
-          "X-Did": "5326b76fd36cf9e9",
-          "User-Agent": "Magma Player/10",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "CDO PREMIUM",
-        "url": "http://magmaplayer.com/stream/m3u8/BQVjKmR0BI8kAQthZwVlYwRmAP4kZmIsZGp0ZmZj/hls/149.m3u8",
-        "icono": "https://i.ibb.co/nMRb9NYk/6065f67d6a70f2448ee66115-cdo.png",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "qR-7CQnSzyAP7cOV0iEWrXrDntw2bP10pYm7wX3O9Xay8zTPCx7JffIvlNxKdZrwDTZJxhuJHIIAQfvhzpurQ1YSHJwfDl-aXiGnvA-eglXCT1qVK5jdNzLp_n_yC801xYBrRnHrzYKCgLh6AyXSbELw7xzW2IPG88aKfyLUlnmW8MfvPOdNCYfBAObDX7DFtXQu6VJSlfgqh3BT8yrhQyWrwZfm6415lMJmKnBSDZjSCh6cHCHxNiCGn1f3EZsDDetmAZzU_YQrqtq9QnvFassCbT6_7XAekW6I4NL5cESWQjBov4yq5nZ_a4n2ByTnRFFV0xb18buip1XcapWAXU0NUFb-s8fuOV_Aii0MtK4eqQBxipApIwj2evcrj9EfbiSZ62QUmgOdtQpcjAjJvk93p9dQa9x_-Qae8S25W_9LXJ7d1lxvDE0OLUYRASC7kUxMrgdomGaA4tgeDg6MOxGSMkeV0qOFXpy4YTy0N-H_f0C7eB8sRz4Z2SIJuo9pE3T-l7MrZlhNs0ZRjRBdxA",
-          "X-Did": "5326b76fd36cf9e9",
-          "User-Agent": "Magma Player/10",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
       }
-
 
 
 	 ]
@@ -2409,46 +2112,7 @@
             }
 
 
-          ]
-  },
-  {
-    "name": "⚽DEPORTES FOX SPORTS MX",
-    "samples": [
-  {
-        "name": "FOX SPORTS 1 MX",
-        "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f",
-        "icono": "https://i.ibb.co/n8fh45XB/fox-sports-mexico-official-logo-1-by-carwashdumpsterboy-diul2ao-fullview.png"
-      },
-      {
-        "name": "FOX SPORTS 2 MX ",
-        "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
-        "icono": "https://i.ibb.co/RNpLj4w/Dise-o-sin-t-tulo-8.png"
-      },
-      {
-        "name": "FOX SPORTS 3 MX",
-        "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
-        "icono": "https://i.ibb.co/f0KqfQY/Dise-o-sin-t-tulo-9.png"
-      },
-      {
-        "name": "FOX DEPORTES",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
-        "icono": "https://i.ibb.co/YBBb0NdH/s15377-ll-h15-ab.png"
-      },
-      {
-        "name": "FOX SPORTS PREMIUM MX",
-        "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
-        "icono": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png"
-      }
+ 
       
    
       
