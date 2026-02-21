@@ -899,10 +899,10 @@
             },
             {
                 "name": "ESPN 2",
-                "url": "https://lilac01.pontiscloud.com/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd",
+                "url": "https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
                 "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=74ec986b3388c62f5fa7c551e225d0b8&key=9327821de5eace5508cf573778c8c3c3",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/olgjb25rl734z82rk9r29/clearkey_espnisen2.json?rlkey=y3ro7tgnmm5m9f1zl8m5gqq01&st=rbvc03dg&dl=0",
                 "headers": {
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
@@ -910,10 +910,10 @@
             },
             {
                 "name": "ESPN 3",
-                "url": "https://lilac01.pontiscloud.com/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd",
+                "url": "https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
                 "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=73f141744a7aa50a45f9819f0e5bce8b&key=594eff3d094876954e699d548874c58f",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/8q60frnezvr4v6f3wcntm/clearkey_espnisen3.json?rlkey=lgraguwypzapno4odkzqaikb4&st=n4mfluyq&dl=0",
                 "headers": {
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
@@ -932,10 +932,10 @@
             },
             {
                 "name": "FOX SPORTS 1",
-                "url": "https://lilac01.pontiscloud.com/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd",
+                "url": "https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd",
                 "icono": "https://i.postimg.cc/XJT0rr30/download-2026-02-21T065416-112.jpg",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/1cbq2jpr60jqoxkfis7tu/clearkey_foxsports.json?rlkey=4lf8d0dppdomftjeodkfvukyr&st=gr9m77sp&dl=0",
                 "headers": {
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
@@ -943,10 +943,10 @@
             },
             {
                 "name": "FOX SPORTS 2",
-                "url": "https://lilac01.pontiscloud.com/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd",
+                "url": "https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd",
                 "icono": "https://i.postimg.cc/XJT0rr30/download-2026-02-21T065416-112.jpg",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a753ba6e6b313f129bd6591364680f07&key=f3f8e1a7633b262ca37ae8c35f3cd1e2",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/xdph2infivuxc3x2euh0m/clearkey_foxsports2.json?rlkey=jg54aos8pi88gcvingtxxfa5j&st=85twy45f&dl=0",
                 "headers": {
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
@@ -954,10 +954,10 @@
             },
             {
                 "name": "FOX SPORTS 3",
-                "url": "https://lilac01.pontiscloud.com/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd",
+                "url": "https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd",
                 "icono": "https://i.postimg.cc/XJT0rr30/download-2026-02-21T065416-112.jpg",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bed07c7fbbc6a3024baa8a44c052dd59&key=a632dead698156b3f2083076aa192b57",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/j7ko4hrqpsrrxqfbi207h/clearkey_foxsports3.json?rlkey=6p2aya14494bafvnloyog040g&st=1deo3kdc&dl=0",
                 "headers": {
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
@@ -965,10 +965,10 @@
             },
             {
                 "name": "TNT SPORTS",
-                "url": "https://lilac01.pontiscloud.com/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd",
                 "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6902d50ec036d30146b12b927f4363d4&key=d40dc5eb6e0f8fbd58ab7dd6b91143b5",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/a37nat2wa1fruz36lr6g5/clearkey_sensatntsports.json?rlkey=tavl85nyrgooqpc783n979ati&st=3e9on3rx&dl=0",
                 "headers": {
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
@@ -976,10 +976,10 @@
             },		
 			{
                 "name": "TYC SPORTS",
-                "url": "https://lilac01.pontiscloud.com/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/TYCSports/default/index.mpd",
                 "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6902d50ec036d30146b12b927f4363d4&key=d40dc5eb6e0f8fbd58ab7dd6b91143b5",
+                "drm_license_uri": "https://www.dropbox.com/scl/fi/n3cvphq1k1hpbgwcxdfgc/clearkey_tycsportssen.json?rlkey=8f7vbitln8wuqe0033rvi3fxc&st=tafgypi2&dl=0",
                 "headers": {
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
