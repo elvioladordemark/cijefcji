@@ -226,13 +226,14 @@
         "samples": [
   {
               "name": "TNT SPORTS", 
-               "url": "https://lilac01.pontiscloud.com/live/eds/TNTSports/live_dash_cld/TNTSports.mpd", 
-               "icono": "https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png", 
+                    "url": "https://lilac01.pontiscloud.com/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd", 
+               "icono": "https://i.postimg.cc/RZTHkgHw/ANIMALPLANET2.png", 
                "type": "CLEARKEY", 
                "drm_license_uri": "https://dl.dropbox.com/scl/fi/imhnbpsjpxjz56qumcq26/clearkey_tntsportsen.json?rlkey=ic9mj8y4q4hgvqu4hwp3scm9f&st=zftu95i1&dl=0", 
-                "headers": {
-              "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
+               "headers": { 
+                   "Origin": "https://player.sensa.com.ar",
+				   "Referer": "https://player.sensa.com.ar/", 
+                   "webtoken": "1.0
 }
 		}  
 			
