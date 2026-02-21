@@ -1139,7 +1139,22 @@
     {
         "name": "⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷",
         "samples": [
-          {
+         
+			     {
+        "name": "ESPN PRUEBA",
+        "url": "https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/sxejwjikr25w8y3nm7frf/clearkey_espngigared.json?rlkey=zryuf0c99658yp59vkqj63pej&st=wdj6uafs&dl=0",
+        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+			
+			
+			{
         "name": "ESPN",
         "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNzQzNDQ3Iiwic2lwIjoiMTg2LjEzLjE5OC4zNSIsInBhdGgiOiIvbGl2ZS9jNWVkcy9DOU5fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMmM2ZTAxZDUzNjc5YzZkNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.UQzW2K1Dt89shSUQeFgp2Ma0FjGJHN8HCPN9id6o_TIeqXThZeHtIwdV05D9QD8BSBabGFNPW0io069h574C2A==/live/c4eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd",
         "type": "CLEARKEY",
