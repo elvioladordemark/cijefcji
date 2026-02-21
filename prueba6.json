@@ -906,7 +906,21 @@
     {
         "name": "⚽PACK FUTBOL SENSA⚽",
         "samples": [
-            {
+              {
+        "name": "ESPN PRUEBA",
+        "url": "http://n8a6z9rk.top/882/hvjfzv6nrzd87d2hk.m3u8",
+        "icono": "https://i.postimg.cc/1X0Z8jvs/download-2026-02-17T142525-221.jpg",
+        "type": "HLS",
+        "headers": {
+          "User-Agent": "MdHtVBR8NUmx22vgP29hCQiA4AUCLwet68v247X2QZpf3m6SBjRCkcCjxyythUUEdzF6gMUHb91aWbPRcfWaCwEpQjMrv0yBvbLCdXD4uWmPy8n2eq2DBEq3046eaH2 ",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+			
+			
+			
+			{
                 "name": "ESPN 1",
                 "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
                 "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
