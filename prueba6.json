@@ -2,7 +2,7 @@
 [
  
   {
-        "name": "LANC TV",
+        "name": "⚽LANC TV⚽",
         "samples": [
           {
         "name": "LANC 1",
@@ -36,6 +36,26 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
           }
+
+  	]
+    },
+    {
+        "name": "⚽EVENTOS DEPORTIVOS⚽",
+        "samples": [
+              {
+        "name": "EVENTOS 1",
+        "url": "https://6vkxaxm07w.s3.us-east-1.amazonaws.com/hls/0/stream.m3u",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+        "icono": "https://i.postimg.cc/Pr3CQH4D/download-2026-02-21T132814-746.jpg",
+        "headers": {
+            "Origin": "https://gabito.online",
+            "Referer": "https://gabito.online/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    }
+
+			
 
 				
 	  	]
