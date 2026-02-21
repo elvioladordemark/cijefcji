@@ -884,23 +884,23 @@
 	 ]
     },
     {
-        "name": "CULTURALES SENSA 🐦‍⬛",
+        "name": "⚽PACK FUTBOL SENSA⚽",
         "samples": [
             {
-                "name": "Animal Planet",
-                "url": "https://lilac01.pontiscloud.com/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd",
-                "icono": "https://i.postimg.cc/RZTHkgHw/ANIMALPLANET2.png",
+                "name": "ESPN 1",
+                "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
+                "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dbea5682978c5593d7f9f32ba3fbd000&key=992754095f050d53163c059ff4e81571",
+                "drm_license_uri": "https://DL.dropbox.com/scl/fi/p7gfz3yfn5wg3brdqhzi9/clearkey_espnisen.json?rlkey=x7005addfa8iko8lcg6vlb0ki&st=vjckozr0&dl=0",
                 "headers": {
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
             },
             {
-                "name": "Discovery Channel",
+                "name": "ESPN 2",
                 "url": "https://lilac01.pontiscloud.com/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd",
-                "icono": "https://i.postimg.cc/vZ1NZ6Qy/DISCOVERYCHANNEL2.png",
+                "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=74ec986b3388c62f5fa7c551e225d0b8&key=9327821de5eace5508cf573778c8c3c3",
                 "headers": {
@@ -909,9 +909,9 @@
                 }
             },
             {
-                "name": "Discovery Home And Health",
+                "name": "ESPN 3",
                 "url": "https://lilac01.pontiscloud.com/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd",
-                "icono": "https://i.postimg.cc/fyWQkTbc/h-hdiscovery.png",
+                "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=73f141744a7aa50a45f9819f0e5bce8b&key=594eff3d094876954e699d548874c58f",
                 "headers": {
@@ -920,9 +920,9 @@
                 }
             },
             {
-                "name": "Discovery ID",
+                "name": "ESPN PREMIUN",
                 "url": "https://lilac01.pontiscloud.com/live/eds/ID/live_dash_cld/ID.mpd",
-                "icono": "https://i.postimg.cc/901RqMY9/IDDISCOVERY2.png",
+                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f413ca6b4955bab7d89a3d24bbf8c98b&key=58168613434035ceb98e18815f97436c",
                 "headers": {
@@ -931,9 +931,9 @@
                 }
             },
             {
-                "name": "Discovery Science",
+                "name": "FOX SPORTS 1",
                 "url": "https://lilac01.pontiscloud.com/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd",
-                "icono": "https://i.postimg.cc/2yw1s6qy/Discovery-Science2.png",
+                "icono": "https://i.postimg.cc/XJT0rr30/download-2026-02-21T065416-112.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "headers": {
@@ -942,9 +942,9 @@
                 }
             },
             {
-                "name": "Discovery Theather",
+                "name": "FOX SPORTS 2",
                 "url": "https://lilac01.pontiscloud.com/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd",
-                "icono": "https://i.postimg.cc/6qbKSjJr/Discovery-Theather2.png",
+                "icono": "https://i.postimg.cc/XJT0rr30/download-2026-02-21T065416-112.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a753ba6e6b313f129bd6591364680f07&key=f3f8e1a7633b262ca37ae8c35f3cd1e2",
                 "headers": {
@@ -953,9 +953,9 @@
                 }
             },
             {
-                "name": "Discovery TLC",
+                "name": "FOX SPORTS 3",
                 "url": "https://lilac01.pontiscloud.com/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd",
-                "icono": "https://i.postimg.cc/SKcysf8C/Discovery-TLC.png",
+                "icono": "https://i.postimg.cc/XJT0rr30/download-2026-02-21T065416-112.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bed07c7fbbc6a3024baa8a44c052dd59&key=a632dead698156b3f2083076aa192b57",
                 "headers": {
@@ -964,17 +964,27 @@
                 }
             },
             {
-                "name": "Discovery Turbo",
+                "name": "TNT SPORTS",
                 "url": "https://lilac01.pontiscloud.com/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd",
-                "icono": "https://i.postimg.cc/K8wz4YWF/Discovery-Turbo.png",
+                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6902d50ec036d30146b12b927f4363d4&key=d40dc5eb6e0f8fbd58ab7dd6b91143b5",
                 "headers": {
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
-            }		
-			
+            },		
+			{
+                "name": "TYC SPORTS",
+                "url": "https://lilac01.pontiscloud.com/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd",
+                "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6902d50ec036d30146b12b927f4363d4&key=d40dc5eb6e0f8fbd58ab7dd6b91143b5",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },	
 		
 			
 
