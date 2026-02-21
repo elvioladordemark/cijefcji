@@ -226,50 +226,15 @@
         "samples": [
 { 
                "name": "TNT SPORTS", 
-               "url": "https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd", 
+               "url": "https://cdn03.gigared.com.ar/live/eds/TNT_Sports_Premium/sa_live_dash/TNT_Sports_Premium.mpd", 
                "icono": "https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png", 
                "type": "CLEARKEY", 
-               "drm_license_uri": "https://dl.dropbox.com/scl/fi/a37nat2wa1fruz36lr6g5/clearkey_sensatntsports.json?rlkey=tavl85nyrgooqpc783n979ati&st=xpme9ety&dl=0", 
-               "headers": { 
-                   "Referer": "https://player.sensa.com.ar/", 
-                   "webtoken": "1.0"
-			  }
-            },
-			{ 
-               "name": "ESPN 1", 
-               "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd", 
-               "icono": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png", 
-               "type": "CLEARKEY", 
-               "drm_license_uri": "https://dl.dropbox.com/scl/fi/p7gfz3yfn5wg3brdqhzi9/clearkey_espnisen.json?rlkey=x7005addfa8iko8lcg6vlb0ki&st=lw0t2tqx&dl=0", 
-               "headers": { 
-                   "Referer": "https://player.sensa.com.ar/", 
-                   "webtoken": "1.0"
-			  }
-            },
-			
-			{ 
-               "name": "ESPN 2", 
-               "url": "https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd", 
-               "icono": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429", 
-               "type": "CLEARKEY", 
-               "drm_license_uri": "https://dl.dropbox.com/scl/fi/olgjb25rl734z82rk9r29/clearkey_espnisen2.json?rlkey=y3ro7tgnmm5m9f1zl8m5gqq01&st=jfr94pnm&dl=0", 
-               "headers": { 
-                   "Referer": "https://player.sensa.com.ar/", 
-                   "webtoken": "1.0"
-			  }
-            },
-			
-			  { 
-               "name": "ESPN 3", 
-               "url": "https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd", 
-               "icono": "https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png", 
-               "type": "CLEARKEY", 
-               "drm_license_uri": "https://dl.dropbox.com/scl/fi/8q60frnezvr4v6f3wcntm/clearkey_espnisen3.json?rlkey=lgraguwypzapno4odkzqaikb4&st=68tag6hn&dl=0", 
-               "headers": { 
-                   "Referer": "https://player.sensa.com.ar/", 
-                   "webtoken": "1.0"
-			  }
-            }
+               "drm_license_uri": "https://dl.dropbox.com/scl/fi/i32g079y8ps4fpe3iho2y/clearkey_tntsportsgiga.json?rlkey=begkktcvx4acmstuon9no6m9h&st=pzq76mc6&dl=0", 
+               "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                   
 			
 	
 			
