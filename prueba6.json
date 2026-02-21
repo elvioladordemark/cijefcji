@@ -965,7 +965,7 @@
             },
             {
                 "name": "TNT SPORTS",
-                "url": "https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd",
+                "url": "https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd",
                 "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/a37nat2wa1fruz36lr6g5/clearkey_sensatntsports.json?rlkey=tavl85nyrgooqpc783n979ati&st=3e9on3rx&dl=0",
@@ -976,7 +976,7 @@
             },		
 			{
                 "name": "TYC SPORTS",
-                "url": "https://cdn.sensa.com.ar/bpk-tv/TYCSports/default/index.mpd",
+                "url": "https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
                 "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://www.dropbox.com/scl/fi/n3cvphq1k1hpbgwcxdfgc/clearkey_tycsportssen.json?rlkey=8f7vbitln8wuqe0033rvi3fxc&st=tafgypi2&dl=0",
