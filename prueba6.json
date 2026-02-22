@@ -1807,7 +1807,37 @@
   {
     "name": "⚽ DEPORTES VARIADOS",
     "samples": [
-     
+       {
+        "name": "SKY SPORTS LA LIGA",
+        "url": "http://plpro.org/stream/secure/ZKj4ZGS8ZwtjZmblLGNjBwVjZQL6MGZjZmcxAzMzBwqwLGp6BGL3AQcyZmuxsQR3AmR3BGRlAQD0Zwu8L2Z4AQx3BQWyAQZ2ZQD4MajjsQO8HRj/811.m3u8",
+        "icono": "https://i.postimg.cc/Z509vbWB/download-2026-02-22T172433-675.jpg",
+        "type": "HLS",
+        "headers": {
+           "X-App": "ps",
+          "X-Version": "8/4.0.7",
+          "X-Hash": "2SGHq_KKGkMTzLV4ogALH5JGqDQRiyP2XHXHK0GzPautj5eYx6DkHeQ7JH0mtZr-mF9uArYh5vZr7k7UyF2CyoGWie6wI7vgZSIuvCf3aG5v9DBBUuPp0gRokg-GD2MSRc0PAc2NNg4OZO5RL_y-WPwaexovHL7QaIXX9q_zuykpe9pnTOSA5F9_Fz1j4ehKr92N1z7SQDiCm7KLohI6jL6QFAwjQgBhBIrO3StJf402KOmjR1kTc5a2MQk-gC7Xm6SvaS_nfm87p2XRFzQW-BfTXgbpBvjtHhHaIUrc3SM69gJak1hgCkpZdIxdfV85u5y2wJngTNiAonHW3cIdc2ii6_htBfkcmVwuz2lmrJHdViqW80PxCrxMBg4W3XH9VYBezy3vPXsjFFhGuA6aJ7eyr8TsCRuz3UUyTgGac4g89uQ10raav9QJsekIox-a327KARFvKvbCousW599rVLTOC9PQCPRZmyDhJD7xnF3OPu6RKaRVm4HcXkjg1UGr",
+          "X-Did": "cc849782e436048f",
+          "User-Agent": "PLPro/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+
+		{
+        "name": "SKY SPORTS MEXICO",
+        "url": "http://plpro.org/stream/secure/ZKj4ZGO8ZwtjZmblLGNjBwVjZQL6MGZjZmcxAzMzBwqwLGp6BGL3AQcyZmuxsQR3AmR3BGR5BGD5BQE8L2Z4AQx3BQWyAQZ2ZQD4MajjsQO8HRj/810.m3u8",
+        "icono": "https://i.postimg.cc/Z509vbWB/download-2026-02-22T172433-675.jpg",
+        "type": "HLS",
+        "headers": {
+           "X-App": "ps",
+          "X-Version": "8/4.0.7",
+          "X-Hash": "2SGHq_KKGkMTzLV4ogALH5JGqDQRiyP2XHXHK0GzPautj5eYx6DkHeQ7JH0mtZr-mF9uArYh5vZr7k7UyF2CyoGWie6wI7vgZSIuvCf3aG5v9DBBUuPp0gRokg-GD2MSRc0PAc2NNg4OZO5RL_y-WPwaexovHL7QaIXX9q_zuykpe9pnTOSA5F9_Fz1j4ehKr92N1z7SQDiCm7KLohI6jL6QFAwjQgBhBIrO3StJf402KOmjR1kTc5a2MQk-gC7Xm6SvaS_nfm87p2XRFzQW-BfTXgbpBvjtHhHaIUrc3SM69gJak1hgCkpZdIxdfV85u5y2wJngTNiAonHW3cIdc2ii6_htBfkcmVwuz2lmrJHdViqW80PxCrxMBg4W3XH9VYBezy3vPXsjFFhGuA6aJ7eyr8TsCRuz3UUyTgGac4g89uQ10raav9QJsekIox-a327KARFvKvbCousW599rVLTOC9PQCPRZmyDhJD7xnF3OPu6RKaRVm4HcXkjg1UGr",
+          "X-Did": "cc849782e436048f",
+          "User-Agent": "PLPro/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
 		
          
 	 {
@@ -4266,21 +4296,7 @@
   {
     "name": "🎬CANALES 24/7 VIP",
     "samples": [
-     {
-        "name": "LOS SIMPSON",
-        "url": "http://plpro.org/stream/secure/ZKj4ZGS8ZwtjZmblLGNjBwVjZQL6MGZjZmcxAzMzBwqwLGp6BGL3AQcyZmuxsQR3AmR3BGRlAQD0Zwu8L2Z4AQx3BQWyAQZ2ZQD4MajjsQO8HRj/811.m3u8",
-        "icono": "https://i.postimg.cc/1X0Z8jvs/download-2026-02-17T142525-221.jpg",
-        "type": "HLS",
-        "headers": {
-           "X-App": "ps",
-          "X-Version": "8/4.0.7",
-          "X-Hash": "2SGHq_KKGkMTzLV4ogALH5JGqDQRiyP2XHXHK0GzPautj5eYx6DkHeQ7JH0mtZr-mF9uArYh5vZr7k7UyF2CyoGWie6wI7vgZSIuvCf3aG5v9DBBUuPp0gRokg-GD2MSRc0PAc2NNg4OZO5RL_y-WPwaexovHL7QaIXX9q_zuykpe9pnTOSA5F9_Fz1j4ehKr92N1z7SQDiCm7KLohI6jL6QFAwjQgBhBIrO3StJf402KOmjR1kTc5a2MQk-gC7Xm6SvaS_nfm87p2XRFzQW-BfTXgbpBvjtHhHaIUrc3SM69gJak1hgCkpZdIxdfV85u5y2wJngTNiAonHW3cIdc2ii6_htBfkcmVwuz2lmrJHdViqW80PxCrxMBg4W3XH9VYBezy3vPXsjFFhGuA6aJ7eyr8TsCRuz3UUyTgGac4g89uQ10raav9QJsekIox-a327KARFvKvbCousW599rVLTOC9PQCPRZmyDhJD7xnF3OPu6RKaRVm4HcXkjg1UGr",
-          "X-Did": "cc849782e436048f",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
+   
       
       {
         "name": "DRAGON BALL SUPER",
