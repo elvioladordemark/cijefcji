@@ -929,7 +929,17 @@
           "Connection": "Keep-Alive"
         }
       },
-			
+			    {
+        "name": "ESPN 1 ARG SIN CORTES 2 ",
+        "url": "http://190.108.89.228:8000/play/a0es/index.m3u8",
+        "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
+        "type": "HLS",
+        "headers": {
+          "User-Agent": "MdHtVBR8NUmx22vgP29hCQiA4AUCLwet68v247X2QZpf3m6SBjRCkcCjxyythUUEdzF6gMUHb91aWbPRcfWaCwEpQjMrv0yBvbLCdXD4uWmPy8n2eq2DBEq3046eaH2 ",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
 			
 			
 			{
