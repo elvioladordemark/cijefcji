@@ -1464,6 +1464,18 @@
           "Connection": "Keep-Alive"
         }
       },
+			 {
+        "name": "ESPN 1 MX SIN CORTES OPC 2",
+        "url": "http://live3.superteve.com:25461/livetv/9Wu6os8Dmg/120?token=SBpYUhVRG1sSUlwBUldUVwEDCgFQUVNTVFJXUwtQBAgKCwcKXloPUAEWSEZCQBAHA15mDFVGDAZTUkhHRkdWQ2xRVBFcGwhRBAdTVRMYQBYLXlxHC1UBAFBaVFMCDQIdEUhZV0QDVxRcWEhGVEwWBxBdWAluAFNBCAEBRwlaRl1fFBJcCGZdBF1VCgATDkBTQB8bDEIUFA0PFwgJHxZRWEdKUUcDGwMPRVgISBNXDRcMR0scE14UZzhASEdWTEdUXUtZXAgbA0NER0ZIE10RPRBWShFDAVdaBBBGXxEFER0RVVFLOVpWD15RBxBYWwwRQAkbVRNIFFoODA0RXEZsQVpcEgkITFUNTQ==",
+        "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
+        "type": "HLS",
+        "headers": {
+          "User-Agent": "MdHtVBR8NUmx22vgP29hCQiA4AUCLwet68v247X2QZpf3m6SBjRCkcCjxyythUUEdzF6gMUHb91aWbPRcfWaCwEpQjMrv0yBvbLCdXD4uWmPy8n2eq2DBEq3046eaH2 ",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+
 
 			  {
         "name": "ESPN 2 MX SIN CORTES",
