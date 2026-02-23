@@ -1508,7 +1508,17 @@
           "Accept-Encoding": "gzip",
           "Connection": "Keep-Alive"
         }
-      }
+      },
+			 {
+        "name": "ESPN DEPORTES",
+        "url": "http://live2.superteve.com:33527/livetv/9Wu6os8Dmg/595?token=SBpYUhVRG1sSBlYCVVFaWlQKCwFXBQ9WBFFSBlYCAQkGAAVXVggLBVIWSEZCQBAHA15mDFVGDAJYV0hHRkdWQ2xRVBFcGwhRBAdTVRMYQBYLXlxHC1UBAFBaU1QKDAcdEUhZV0QDG1IIBldVBgRATkBWQRFUFlhWDT0AAEVdUFQRAl5GClUVQ19aOwBUWQMMBhEDRwBGGhUIERRHCVpGXV8UElEPTUsARFFGXhMHVVVQERVHUgtDWRUQHUcJFmNoERQSVh5NXA9DXQsKEw5AFhERFUdYF2lFBBEQF1ZVXlRBGgoRVxsVQ11VHDtSWwwMB1BNDF4KRRVbQFRHHxZeXl1RRFwUZkkIVBZeRgIMUFFTBQ9HTA==",
+        "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
+        "type": "HLS",
+        "headers": {
+          "User-Agent": "MdHtVBR8NUmx22vgP29hCQiA4AUCLwet68v247X2QZpf3m6SBjRCkcCjxyythUUEdzF6gMUHb91aWbPRcfWaCwEpQjMrv0yBvbLCdXD4uWmPy8n2eq2DBEq3046eaH2 ",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
 
 	
 			
