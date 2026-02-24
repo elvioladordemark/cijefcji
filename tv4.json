@@ -826,15 +826,9 @@
     },
     {
         "name": "ESPN 1 opcion 2",
-        "url": "https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd",
+        "url": "http://190.108.89.228:8000/play/a0es/index.m3u8",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://tonykshop.lat/license.php?keyid=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3",
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
-        "headers": {
-            "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/guia-de-tv",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
     },
     {
         "name": "ESPN 2",
