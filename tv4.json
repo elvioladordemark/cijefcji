@@ -826,9 +826,9 @@
     },
     {
         "name": "ESPN 1 opcion 2",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "url": "https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://tonykshop.lat/license.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
+        "drm_license_uri": "https://tonykshop.lat/license.php?keyid=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3",
         "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
         "headers": {
             "Origin": "https://portal.app.flow.com.ar",
