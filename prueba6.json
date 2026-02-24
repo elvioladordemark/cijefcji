@@ -70,22 +70,68 @@
   	]
     },
     {
-        "name": "⚽EVENTOS DEPORTIVOS⚽",
+        "name": "⚽GH GENERACION DORADA⚽",
         "samples": [
               {
-        "name": "EVENTOS 1",
-        "url": "https://23wejw66r.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+        "name": "GH 24 HS",
+        "url": "https://vrio-cloud.canal6.eu.org/memfs/1dc63741-782a-4539-a6c2-b7c2aa9031dd.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/Pr3CQH4D/download-2026-02-21T132814-746.jpg",
+        "icono": "https://i.postimg.cc/bwDXc8cw/download-2026-02-24T123311-508.jpg",
+        "headers": {
+            "Origin": "https://gabito.online",
+            "Referer": "https://gabito.online/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+			{
+        "name": "GH MULTI CAMARA",
+        "url": "https://vrio-cloud.canal6.eu.org/memfs/fd9d9a00-66c9-4189-8a10-82c4c31d4b6b.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+        "icono": "https://i.postimg.cc/bwDXc8cw/download-2026-02-24T123311-508.jpg",
+        "headers": {
+            "Origin": "https://gabito.online",
+            "Referer": "https://gabito.online/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+			              {
+        "name": "GH CAMARA 1",
+        "url": "https://vrio-cloud.canal6.eu.org/memfs/937a42aa-5a92-4692-8948-376a5855239f.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+        "icono": "https://i.postimg.cc/bwDXc8cw/download-2026-02-24T123311-508.jpg",
+        "headers": {
+            "Origin": "https://gabito.online",
+            "Referer": "https://gabito.online/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+	              {
+        "name": "GH CAMARA 2",
+        "url": "https://vrio-cloud.canal6.eu.org/memfs/bd936784-a454-4d03-b261-9a2360e77c67.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+        "icono": "https://i.postimg.cc/bwDXc8cw/download-2026-02-24T123311-508.jpg",
+        "headers": {
+            "Origin": "https://gabito.online",
+            "Referer": "https://gabito.online/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+				              {
+        "name": "GH CAMARA 3",
+        "url": "https://vrio-cloud.canal6.eu.org/memfs/f6f12e01-77f0-4945-8c42-dfbf7af1fe1c.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+        "icono": "https://i.postimg.cc/bwDXc8cw/download-2026-02-24T123311-508.jpg",
         "headers": {
             "Origin": "https://gabito.online",
             "Referer": "https://gabito.online/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     }
-
-			
 
 				
 	  	]
