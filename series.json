@@ -685,6 +685,40 @@
                     ],
                     "tmdb_id": 241372,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Más que rivales",
+                    "genero": "Drama",
+                    "descripcion": "Dos de las mayores estrellas de la Major League Hockey están unidas por la ambición, la rivalidad y una atracción magnética que ninguna de las dos comprende del todo. Lo que comienza como una aventura secreta entre dos novatos se convierte en un viaje de años de amor, negación y autodescubrimiento. Durante los siguientes ocho años, mientras buscan la gloria sobre el hielo, luchan por comprender sus sentimientos mutuos. Divididos entre el deporte que les apasiona y el amor que no pueden ignorar, deben decidir si hay espacio en su mundo ferozmente competitivo para algo tan frágil —y poderoso— como el amor verdadero.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/jtMBvy4Nf3AQRMjtfM3q07vRqfS.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rFZLFbuAOIQGZxXJT9XWhE87XMY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Novatos",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/9E26D3E60BFF4369BD19885134B48409_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Olímpicos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D8C003B1A70D409D876D650F3D48729B_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Hunter",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0C8A5627765D4478BE25BF3DF0A7C595_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 301507,
+                    "total_seasons": 1
                 }
             ]
         },
