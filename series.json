@@ -4,7 +4,7 @@
             "nombre": "RECOMENDADOS",
             "series": [
                 {
-                    "nombre": "The Pitt (Temp 2 - 6)",
+                    "nombre": "The Pitt (Temp 2 - 7)",
                     "genero": "Drama",
                     "descripcion": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
                     "anio": "2025",
@@ -126,6 +126,11 @@
                                     "numero": 6,
                                     "titulo": "12:00 P.M.",
                                     "url": "http://goovdme.967sd1f.homes/vod/466F5CEFA085499A93923E12043AEDE2_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "1:00 P.M.",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CF0CCEFD92F642BAA0534AA9F88EB6DD_media.mp4"
                                 }
                             ]
                         }
