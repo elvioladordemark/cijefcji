@@ -761,6 +761,40 @@
                     ],
                     "tmdb_id": 273977,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "56 días",
+                    "genero": "Crimen, Drama, Misterio",
+                    "descripcion": "Cuando se descubre un cadáver sin identificar en un piso de lujo vinculado a Oliver Kennedy y su novia Ciara Wyse, los inspectores Lee Reardon y Karl Connolly reconstruyen los últimos 56 días del romance mortal de la pareja.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/a79588ObGP9UZyWjQrCD8f0zL6T.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sq7dGBq8yqtEouPyyMDfz2HFwjO.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/77TCOiGEmHYLndIw4jsf6uUra4X.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Título de episodio - 101",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3833B7CA3FE54E959ADB069AB1DBF377_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Título de episodio - 102",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9235AB09413341BBB12C5048A600E0A2_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Título de episodio - 103",
+                                    "url": "http://goovdme.967sd1f.homes/vod/47E90E4FEC6A43C991A3A25413BFD6DC_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 241372,
+                    "total_seasons": 1
                 }
             ]
         },
