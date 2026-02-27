@@ -1871,7 +1871,7 @@
     "samples": [
        {
         "name": "SKY SPORTS LA LIGA",
-        "url": "http://plpro.org/stream/secure/ZKj4ZGS8ZwtjZmblLGNjBwVjZQL6MGZjZmcxAzMzBwqwLGp6BGL3AQcyZmuxsQR3AmR3BGRlAQD0Zwu8L2Z4AQx3BQWyAQZ2ZQD4MajjsQO8HRj/811.m3u8",
+        "url": "http://45.90.106.85:9090/281171_.m3u8",
         "icono": "https://i.postimg.cc/Z509vbWB/download-2026-02-22T172433-675.jpg",
         "type": "HLS",
         "headers": {
@@ -1886,8 +1886,8 @@
       },
 
 		{
-        "name": "SKY SPORTS MEXICO",
-        "url": "http://plpro.org/stream/secure/ZKj4ZGO8ZwtjZmblLGNjBwVjZQL6MGZjZmcxAzMzBwqwLGp6BGL3AQcyZmuxsQR3AmR3BGR5BGD5BQE8L2Z4AQx3BQWyAQZ2ZQD4MajjsQO8HRj/810.m3u8",
+        "name": "SKY SPORTS BUNDESLIGA",
+        "url": "http://104.194.8.54:9090/281172_.m3u8",
         "icono": "https://i.postimg.cc/Z509vbWB/download-2026-02-22T172433-675.jpg",
         "type": "HLS",
         "headers": {
