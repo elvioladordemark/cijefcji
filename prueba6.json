@@ -45,10 +45,10 @@
 	]
     },
     {
-        "name": "⚽EVENTOS FLOW⚽",
+        "name": "⚽EVENTOS FLOW COPA DEL REY⚽",
         "samples": [
  {
-        "name": "EVENTOS FLOW 1",
+        "name": "EVENTOS FLOW 1 COPA DEL REY",
         "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNTU1NDI2Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiNTA3YWI1ZTkwYzI2N2QiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyOTkiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.xi2J-RC99pwKXu0otIPX1Y01xfu7CfvBUXdRanFC5RneVJA4LMzY28f6RNLUe9_tDeSxQhr3qbYd1knUDA65Fw==/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
@@ -59,6 +59,22 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
+ {
+        "name": "AMERICA PERÙ COPA DEL REY",
+        "url": "https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
+        "icono": "https://i.postimg.cc/Kz5g6smw/download-(51).png",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+
+
+
+			
 		{
         "name": "EVENTOS FLOW 2",
         "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNTU1NDI2Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiNTA3YWI1ZTkwYzI2N2QiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyOTkiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.xi2J-RC99pwKXu0otIPX1Y01xfu7CfvBUXdRanFC5RneVJA4LMzY28f6RNLUe9_tDeSxQhr3qbYd1knUDA65Fw==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
