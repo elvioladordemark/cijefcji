@@ -27423,6 +27423,65 @@
                     ],
                     "tmdb_id": 250307,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Ni una más",
+                    "genero": "Drama",
+                    "descripcion": "Cuando una joven de 17 años denuncia una agresión sexual en su instituto, una investigación trastoca su vida y pone a prueba sus relaciones.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5Mot0blFgM49MO7T9dEISoxqZQA.png",
+                    "icono": "https://image.tmdb.org/t/p/original/poeF8MRkSJQSoJ5uMVBkKEXADxF.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ieiq46OoeTrLkjtclmhii6iRyzP.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B1C77956694B411CA929AE685B0CD4F0_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Zona cero",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2AA64848FB2047AFBC094EB101DF9EC4_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Yo sí te creo, hermana",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BA678168CE3F4014AF93D309D3DE1B8E_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "A**hole Baby",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AE57119256FA4175937A33687725C907_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "8M",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AEAD12D8BF764F80B7C4E8E17940CB39_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Berta",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/33D2C269BB5640E79C4E44512FB74350_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Cómo cazar a un depredador sexual",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9E931AEF81E7416CA36A96D70981CF20_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "A sangre o lágrimas",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/E9EF4C2D24EE409DB82DE87B02E17C3E_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 242876,
+                    "total_seasons": 1
                 }
             ]
         },
