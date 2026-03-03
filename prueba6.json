@@ -652,22 +652,22 @@
         "samples": [
     {
         "name": "GRAN HERMANO 24 HS",
-        "url": "http://cablered.iptvperu.tv:1963/stream/24hs/playlist.m3u8",
+        "url": "https://cablered.iptvperu.tv:1936/stream/gh24hs/playlist.m3u8",
         "icono": "https://granhermano.pagodespues.com.uy/assets/gh-eye-logo.png"
         },
           {
         "name": "CAMARA 1",
-        "url": "https://artemisa1.cd-latam.com:1936/stream/ghcam1/chunks.m3u8?nimblesessionid=3304904",
+        "url": "https://artemisa1.cd-latam.com:1936/stream/ghcam1/chunks.m3u8?nimblesessionid=3399116",
         "icono": "https://granhermano.pagodespues.com.uy/assets/gh-eye-logo.png"
           },
           {
         "name": "CAMARA 2",
-        "url": "https://artemisa1.cd-latam.com:1936/stream/ghcam2/chunks.m3u8?nimblesessionid=3305340",
+        "url": "https://artemisa1.cd-latam.com:1936/stream/ghcam2/chunks.m3u8?nimblesessionid=3399714",
         "icono": "https://granhermano.pagodespues.com.uy/assets/gh-eye-logo.png"
         },
           {
         "name": "CAMARA 3",
-        "url": "https://artemisa1.cd-latam.com:1936/stream/ghcam3/chunks.m3u8?nimblesessionid=3305472",
+        "url": "https://artemisa1.cd-latam.com:1936/stream/ghcam3/chunks.m3u8?nimblesessionid=3399562",
         "icono": "https://granhermano.pagodespues.com.uy/assets/gh-eye-logo.png"
         },
           {
