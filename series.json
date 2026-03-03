@@ -6853,6 +6853,50 @@
                     ],
                     "tmdb_id": 261145,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "BakiDou: El samurái invencible",
+                    "genero": "Animación, Action & Adventure",
+                    "descripcion": "Baki y los luchadores más fuertes del Estadio clandestino se enfrentan a una amenaza de proporciones históricas: el resucitado Musashi Miyamoto, el samurái más famoso de Japón.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/axJay6uFamv8N3HlB38Qtse6fUV.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qC4JawqYlUS9fwvAzGfY5lSz5uB.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1M8uW8o6fdDaa3zqmBD2UUKu0VZ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/59BAD5B8A5A34E278E7770A4A8E28647_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3753FF117307428BA36642D2BBD11F59_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/DD10785972BF420FA5EE860F67ACECA9_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/392E8B0DA0DB4D7985DC1165C0804ED2_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C8E51CC452BD45AFB200332DAD536D88_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 300054,
+                    "total_seasons": 1
                 }
             ]
         },
