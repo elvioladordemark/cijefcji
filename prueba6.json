@@ -93,7 +93,22 @@
     {
         "name": "⚽EVENTOS DEPORTIVOS⚽",
         "samples": [
-              {
+             
+			 {
+        "name": "FRANCO VS MINGA GUAZU",
+        "url": "https://scontent.fasu4-1.fna.fbcdn.net/hvideo-rva-frc/_nc_cat-109/_nc_sr_t-4/v/rASdMoevO8eYJQELZEMmswwfN9GGpCTCDyNjN_PKml9nWpg/_nc_ohc-6Y10IkDBSLAQ7kNvwG59EiV/live-dash/dash-abr-ibr-audio/924787716975432.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfwRYplMt9GPPRMycByyEzKZ80lNL7Olrl0ugROMXdC_eQ&oe=69A814B5",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+        "icono": "https://i.postimg.cc/QCCnYdwZ/download-2026-03-02T211551-514.jpg",
+        "headers": {
+            "Origin": "https://gabito.online",
+            "Referer": "https://gabito.online/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+			
+			
+			{
         "name": "ORLANDO CITY VS INTER MIAMI",
         "url": "https://195ncy417zf.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
         "type": "CLEARKEY",
