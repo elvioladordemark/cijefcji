@@ -120,7 +120,7 @@
         "samples": [
              {
                 "name": "ABC TV",
-                "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(qq-Z1RiDCkL09FGTxIwOK4XbETjgjLal2dBIpztWBuNdFhScwVr1lVJYsldyyRnfQMhfQAGyO1GOkpoya8XuRxMsARXI7htLt7N9a-EgK_5MrTqiIK2bhMbMRs6ibI21)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
+                "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(6ruw4QH_9iTmGLP03es7AwscRKVsguuv5aKCQU-RgOG8NPVZs3AqwH22CjqRaE_Twa_spYf4RDp3r26zQzO5B4AymplNXiqnXuSdQ1i3T8HAhsi8JOA5QXvbUwbf_-JS)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://i.postimg.cc/0QP6WwKq/download-27.png"
@@ -168,7 +168,7 @@
 
 			  {
                 "name": "TELEFUTURO",
-                "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1646247867.m3u8?admin=tvaccion",
+                "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?admin=nacion",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
