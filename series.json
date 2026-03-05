@@ -31769,6 +31769,65 @@
                     ],
                     "tmdb_id": 106379,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "El joven Sherlock",
+                    "genero": "Action & Adventure, Misterio",
+                    "descripcion": "Un Sherlock Holmes de 19 años se ve enredado en un asesinato en Oxford que pone en peligro su libertad. Su primer caso, abordado imprudentemente, le lleva a descubrir una conspiración de gran alcance que altera su camino para siempre.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/npJ6hG00LJerMw8FrwiBMdrzf5M.png",
+                    "icono": "https://image.tmdb.org/t/p/original/w426ObBzvHyTISiAqaeMujydmpi.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8mmDLb108DoFZlE8sfc64TRqLvm.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El Caso de los Manuscritos Perdidos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0C94D0FB9DE94FA18E59E095A2AC7727_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El Caso de la Fotografía Quemada",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4E214FB6DB644BF389B719506FF4074C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El Caso del Hombre Desarmado",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1F8438E7A4754513950ECE47B2A0818C_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El Caso del Botón Perdido",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F668EC164E544687888D371CE3D313B3_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El Caso del Joven Sherlock Holmes",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8C31848EC3C844AE94D35F66FD34200A_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El Caso del Arma Letal",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5679B924E8154E90950BCD0614C2428C_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El Caso de las Dos Esquinas",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/05FAEF035B2E46B19CE984524C0667DC_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El Caso de Beatrice Holmes",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E9F9AAB78BD44904BEFF03211B3CD74E_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 255661,
+                    "total_seasons": 1
                 }
             ]
         },
