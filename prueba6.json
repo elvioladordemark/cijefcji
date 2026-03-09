@@ -1972,7 +1972,7 @@
     "samples": [
        {
         "name": "SKY SPORTS LA LIGA",
-        "url": "http://45.90.106.85:9090/281171_.m3u8",
+        "url": "http://45.90.106.85:25461/get/VUiQEuPdIdB4Sk7rCL67mjZyMWhGaXZ5OGd3ak16SDJDT2xYb2NBZVhMZ3pvdUdtL2RkbFVIb2t0WnVwazJlR3h2dUdncGF6UFFkS1hTYTlQelV3cng5V3hsM0w3eGo2QmZKaWZ3PT0.m3u8",
         "icono": "https://i.postimg.cc/Z509vbWB/download-2026-02-22T172433-675.jpg",
         "type": "HLS",
         "headers": {
@@ -1988,7 +1988,7 @@
 
 		{
         "name": "SKY SPORTS BUNDESLIGA",
-        "url": "http://104.194.8.54:9090/281172_.m3u8",
+        "url": "http://104.194.8.54:8080/get/e6D-t9MypNxBHNPngUPe_zRMYXlhVWtWZEVsckVyem9EOC9OU0E1Y3RSYmxkZk83NEluL3VaRFl1TXl4Nm5VRzBnUGhWT3dET2lHUzAyOUJXMzFZUDVySW1NVEkvYnExNklIdW1RPT0.m3u8",
         "icono": "https://i.postimg.cc/Z509vbWB/download-2026-02-22T172433-675.jpg",
         "type": "HLS",
         "headers": {
@@ -2001,23 +2001,28 @@
           "Connection": "Keep-Alive"
         }
       },
-
+            {
+                "name": "DAZN F1",
+                "url": "http://45.90.106.85:25461/get/VOcelljZcpRJLMkvCh25PVhqN2FJRXhRZUtObW14a25jdzE4VVdvV0ZocDhxN2ZBU2xROGh3VmJaZkphM1R1Rk03V1pNbmhQUEdqSTJxck9VbDY0dm1VbVN5ZmNNb1RYUjMvMXNnPT0.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/mg41tGJg/DAZNF1.png"
+            },
+           
 		{
-        "name": "SKY SPORTS F1",
-        "url": "http://199.127.63.143:9090/306176_.m3u8",
-        "icono": "https://i.postimg.cc/Z509vbWB/download-2026-02-22T172433-675.jpg",
-        "type": "HLS",
-        "headers": {
-           "X-App": "ps",
-          "X-Version": "8/4.0.7",
-          "X-Hash": "2SGHq_KKGkMTzLV4ogALH5JGqDQRiyP2XHXHK0GzPautj5eYx6DkHeQ7JH0mtZr-mF9uArYh5vZr7k7UyF2CyoGWie6wI7vgZSIuvCf3aG5v9DBBUuPp0gRokg-GD2MSRc0PAc2NNg4OZO5RL_y-WPwaexovHL7QaIXX9q_zuykpe9pnTOSA5F9_Fz1j4ehKr92N1z7SQDiCm7KLohI6jL6QFAwjQgBhBIrO3StJf402KOmjR1kTc5a2MQk-gC7Xm6SvaS_nfm87p2XRFzQW-BfTXgbpBvjtHhHaIUrc3SM69gJak1hgCkpZdIxdfV85u5y2wJngTNiAonHW3cIdc2ii6_htBfkcmVwuz2lmrJHdViqW80PxCrxMBg4W3XH9VYBezy3vPXsjFFhGuA6aJ7eyr8TsCRuz3UUyTgGac4g89uQ10raav9QJsekIox-a327KARFvKvbCousW599rVLTOC9PQCPRZmyDhJD7xnF3OPu6RKaRVm4HcXkjg1UGr",
-          "X-Did": "cc849782e436048f",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-
+                "name": "DAZN F1 OPCIÓN 2",
+                "url": "http://104.238.222.251:9000/get/BduMfMe7TJ1cp0G9Pvk3mHA3eC9qQ01nWjlycFNYZUY3ZEk4QWRnYVBQYndJWnRCa3NSWVRuSFYvK1hPRjc0MVZ1TEFETG9vWVRFMDhWbnYwZGQzYnpXWlNPekYrWWx0RTVZQ293PT0.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/mg41tGJg/DAZNF1.png"
+            },
+          
+		
+		{
+                "name": "DAZN 1",
+                "url": "http://104.238.205.28:25461/get/1dt03qDAqpYVFsZVlF06fVZvcFlCSGxxTXJvWTBhZ1NXZWw1KzkwNExDcDZCQ2p0SDFQVndUYTA0V3RrRitIQy80dS9oOEhvakZDM1NxcFZ6WkJKd3ZIN2MvMklNUzNMaVQ5WFdRPT0.m3u8",
+                "type": "HLS",
+                "icono": "https://epg.pw/media/images/epg/2024/06/08/20240608034440935332_61.png"
+            },
+		
 
 		 {
                 "name": "LIGA 1 MAX⚽",
