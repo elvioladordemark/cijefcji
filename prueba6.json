@@ -665,7 +665,21 @@
   {
         "name": "GRAN HERMANO 2026",
         "samples": [
-    {
+      {
+        "name": "GRAN HERMANO 24 HS",
+        "url": "https://46925e69ccf445e09667cb17c8bb4f2c.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1282/1282_GRAN_HERMANO_24HRS_DASH/manifest.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://magisvideo.com/KEYDTVGO/GH.27.7.json",
+        "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
+        "headers": {
+            "Origin": "https://www.directvgo.com",
+            "Referer": "https://www.directvgo.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+			
+			
+			{
         "name": "GRAN HERMANO 24 HS",
         "url": "http://cablered.iptvperu.tv:1963/stream/24hs/playlist.m3u8",
         "icono": "https://granhermano.pagodespues.com.uy/assets/gh-eye-logo.png"
