@@ -219,7 +219,21 @@
     {
         "name": "PARAGUAY GLOBAL 🇵🇾",
         "samples": [
-             {
+                 {
+        "name": "HEI NEW",
+        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMTU0MjE3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQ2NDZhM2U4NDU3MTU2OTQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyMjQiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ute8QTrvFCglXUj3ejRGBFMWgXUzpbjK0hc2sAUHymHcM_cHDDHe-I4vD9IYA4xrCFfL1xBKOVaixuZ7iKgTgQ==/live/c4eds/HEI_NOW/SA_Live_dash_cenc/HEI_NOW.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=a8922522d07bc6aea96decd1c61553a6&key=dd9d597ceaf05fa903587ff1a657a04e",
+        "icono": "https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi\u00f3n-en-vivo-Online-1.png",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+			
+			
+			
+			{
         "name": "PARAVISION  ",
         "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMTU0MjE3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQ2NDZhM2U4NDU3MTU2OTQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyMjQiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ute8QTrvFCglXUj3ejRGBFMWgXUzpbjK0hc2sAUHymHcM_cHDDHe-I4vD9IYA4xrCFfL1xBKOVaixuZ7iKgTgQ==/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "type": "CLEARKEY",
