@@ -27884,6 +27884,50 @@
                     ],
                     "tmdb_id": 242876,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "DOC",
+                    "genero": "Drama",
+                    "descripcion": "Tras un ataque que borra doce años de recuerdos, un brillante doctor debe reconstruir su pasado, enfrentar amores enredados y un escándalo inminente por un nuevo medicamento.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/y9JhKRdJU3eGdcrvAfnD3KIqHPu.png",
+                    "icono": "https://image.tmdb.org/t/p/original/pG7oNCHSjuajUFXpqjJ76fac5J7.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/iY96OP57eKDmsIRkUWwQnPZxLUu.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/75A9E53F35F74363B8FA8B8D67F4637B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/40BF2D8DEABA4CAEB82BD3D444E96CC7_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/33F79F20E8724945AC9C76927EDA9D7C_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/53342654359640FCAD79DAE1AE6A8D3D_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/7E018C7806804EAD8158F7CB200C24E2_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 314006,
+                    "total_seasons": 1
                 }
             ]
         },
