@@ -28003,6 +28003,65 @@
                     ],
                     "tmdb_id": 314006,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Vladimir",
+                    "genero": "Drama",
+                    "descripcion": "Una profesora de inglés se obsesiona con un nuevo y apuesto compañero. Su matrimonio y su vida profesional, ya complicados, se ven sumidos en el caos total.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/kMH6fKj262xU2vjBho7S0LY9qcd.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cQhv0HrWrxXikH5R8d0tF1w3QHg.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fqWXGP79tEMAyLKW0wkJLbKSP61.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Siempre hemos vivido en el castillo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/79C874F6C41C4472A911E9B2F0C1CBC8_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El despertar",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/7FA1B51EB11D48D5A1DCBF58B90FA24E_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Enormes cambios en el último minuto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4C5E4E47DC71443693900A66E7BB6ED7_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Mal comportamiento",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3C80E0AD7B164935A584E1776C4AC760_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Según venga el juego",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/157F00F69F4947A1A61D214C750C35B0_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Porque es amargo y porque es mi corazón",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7AF05193E467411FAB2B183844CDD49F_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Todo lo que asciende debe converger",
+                                    "url": "http://goovdme.967sd1f.homes/vod/75BF432A302E493BA43D03EA0EB27586_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Contra la interpretación",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/573967836EEE4895B89EDB41C5604775_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 285739,
+                    "total_seasons": 1
                 }
             ]
         },
