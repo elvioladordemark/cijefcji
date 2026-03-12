@@ -33558,6 +33558,30 @@
                     ],
                     "tmdb_id": 259710,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Un Novio por suscripción",
+                    "genero": "Comedia, Sci-Fi & Fantasy, Drama",
+                    "descripcion": "Seo Mi-rae vive absorbida por el trabajo —sin tiempo para el amor— hasta que un servicio de citas despierta sentimientos que creía dormidos y abre la puerta a un posible romance.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/bZfcQs6ErQe3sKhQEgNkU4bEu01.png",
+                    "icono": "https://image.tmdb.org/t/p/original/eg98LLKWFBZXfgvLOyUNzV27Wmi.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El futuro que nos espera",
+                                    "url": "."
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 281016,
+                    "total_seasons": 1
                 }
             ]
         },
