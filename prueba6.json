@@ -4948,20 +4948,25 @@
   {
     "name": "🎬CANALES DE NOVELAS",
     "samples": [
-      {
-        "name": "RCN +",
-        "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+  {
+        "name": "AZCORAZON",
+        "url": "http://190.108.89.228:8000/play/a051/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-        "icono": "https://i.ibb.co/j80Rjhd/MJzuRAN.png"
+        "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg"
       },
-      {
-        "name": "NOVELAS TURCAS",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
+  {
+        "name": "RCN NOVELAS",
+        "url": "http://201.219.193.210:3002/play/a0sk",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-        "icono": "https://i.ibb.co/TVFBq72/turcas-logo-3203466-C6-C-seeklogo-com.png"
+        "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg"
       },
+
+
+
+
+		
       {
         "name": "TLN",
         "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
@@ -5008,7 +5013,7 @@
             },
             {
                 "name": "Novelísima",
-                "url": "http://cdn.sensa.com.ar/bpk-tv/Novelis/default/index_fk.mpd",
+                "url": "https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
                 "type": "CLEARKEY",
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
