@@ -964,6 +964,111 @@
                     ],
                     "tmdb_id": 313298,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "ONE PIECE",
+                    "genero": "Action & Adventure, Sci-Fi & Fantasy",
+                    "descripcion": "El joven pirata Monkey D. Luffy y su variopinta tripulación emprenden un viaje épico en busca de un tesoro.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/abWBV78tddBE7HW9pUeVkfbU3SF.png",
+                    "icono": "https://image.tmdb.org/t/p/original/gCZ18cl7Pc4tgiwMPWHTgjABrhy.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Amanecer de una aventura",
+                                    "url": "http://goovdme.967sd1f.homes/vod/01473740886B4C66BC7BB3D377DE60FA_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El hombre del sombrero de paja",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6BA53265C2E947C689595C4C9BFC05D3_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "No me cuentes historias",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2826865F530242C1AF9D16615C1783C5_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "¡Vienen los piratas!",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F81B1783BFD2456F8F9A743D733935F2_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "¡Buen provecho en el Baratie!",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/344DAA959F5748AD85F14532BB8197D5_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El chef y el chico de las tareas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5B6DABCC09C140C1BCAA8D2E072D56E8_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La chica con el tatuaje del pez sierra",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/802327601FFB47509F60810F238806B8_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Lo peor del este",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/9C379F50333D4EBFA57A42DAB2991882_media.ts"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El principio y el fin",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9BEBD31F884A4A1F8A6A66D3A6AB350D_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Un ballenato desesperado",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F4F31761DEDA4D698DC140F45CD2917C_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Peak, Peak, hurra",
+                                    "url": "http://goovdme.967sd1f.homes/vod/53B44416105A4DE983FA2D2D3A160C87_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Grandes problemas en Little Garden",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5F0120E484F74BAB93CEA18D721C1F85_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Dar cera, pulir cera",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/50B66FB9ABD846C4970FF99E3BB6C9BD_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Bienvenados",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4A70D130D50742758035E91189D27279_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Médico de renohombre",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D7980443352A46F1BAC58B775B668F6F_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Heredarás el reino de los renos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9895CFB97C534E61BB09FF1C4C410B20_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 111110,
+                    "total_seasons": 3
                 }
             ]
         },
