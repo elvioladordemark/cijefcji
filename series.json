@@ -32231,6 +32231,65 @@
                     ],
                     "tmdb_id": 255661,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "ONE PIECE",
+                    "genero": "Action & Adventure, Sci-Fi & Fantasy",
+                    "descripcion": "El joven pirata Monkey D. Luffy y su variopinta tripulación emprenden un viaje épico en busca de un tesoro.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/abWBV78tddBE7HW9pUeVkfbU3SF.png",
+                    "icono": "https://image.tmdb.org/t/p/original/gCZ18cl7Pc4tgiwMPWHTgjABrhy.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Amanecer de una aventura",
+                                    "url": "http://goovdme.967sd1f.homes/vod/01473740886B4C66BC7BB3D377DE60FA_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El hombre del sombrero de paja",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/6BA53265C2E947C689595C4C9BFC05D3_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "No me cuentes historias",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2826865F530242C1AF9D16615C1783C5_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "¡Vienen los piratas!",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F81B1783BFD2456F8F9A743D733935F2_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "¡Buen provecho en el Baratie!",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/344DAA959F5748AD85F14532BB8197D5_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El chef y el chico de las tareas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5B6DABCC09C140C1BCAA8D2E072D56E8_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La chica con el tatuaje del pez sierra",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/802327601FFB47509F60810F238806B8_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Lo peor del este",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/9C379F50333D4EBFA57A42DAB2991882_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 111110,
+                    "total_seasons": 3
                 }
             ]
         },
