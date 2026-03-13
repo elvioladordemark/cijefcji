@@ -4863,6 +4863,55 @@
                     ],
                     "tmdb_id": 241372,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "The Gold",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "El 26 de noviembre de 1983, seis hombres armados roban oro por valor de 26 millones de libras del depósito de seguridad de Brink's-Mat y tratan de deshacerse de los lingotes.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/bcScLzf14GB077rVCPaSI7jTJGH.png",
+                    "icono": "https://image.tmdb.org/t/p/original/9JY9Gza4HQhXjIPXg9uSy8FeiSM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rp0f5vHNiAbe5EEIaw7XhJHQ7og.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Ser un rey",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CDEF3598EBD449D1B5AA055B1FD7AAAB_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Algo está pasando en Kent",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B57B2A2599C54CFD9461296FCC4F2AEB_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Las consecuencias son mías",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/14E39ED4AF0D4642B0FD816A6B6CBFCD_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La venganza es fácil, la justicia es difícil",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B3CCBCC9A6F24BA5ACD8039BC0BE72BB_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El niño que eras",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C0325396CED5409F8BD5029C4C3B760A_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Seré recordado",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B0AFCF6419DC43D889083554FAF8A2B5_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 218351,
+                    "total_seasons": 2
                 }
             ]
         },
