@@ -28195,6 +28195,65 @@
                     ],
                     "tmdb_id": 287167,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Scarpetta",
+                    "genero": "Drama, Crimen, Misterio",
+                    "descripcion": "La prestigiosa patóloga Kay Scarpetta vuelve a su cargo de jefa médica forense de Virginia para investigar un inquietante asesinato que le recuerda a su primer gran caso de hace décadas. En 1998, Scarpetta colabora con el inspector Pete Marino y el agente Benton Wesley del FBI mientras investigan una serie de brutales estrangulamientos.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4YGCsYJpgArVRiWFJvYpSS8fdHW.png",
+                    "icono": "https://image.tmdb.org/t/p/original/35EbNCepwjLr9AmFUn5VGcHXHIX.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/eaU6fqjZYpdKYWpnH6sBWJhZ1TN.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El puente del tiempo (1)",
+                                    "url": "http://goovdme.967sd1f.homes/vod/358C7F1C65024347BED940D54950FC5B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Kay",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7CD1FED8423744058C7EAEE6712CB48E_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Dot",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F9DE3A2EABBF477C9BBF2F106AAF2B2E_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Pete",
+                                    "url": "http://goovdme.967sd1f.homes/vod/383ED04C3B6A4971A0A7EC0BDC6BB086_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Saludos desde el espacio, querida",
+                                    "url": "http://goovdme.967sd1f.homes/vod/50EDCE11C49945B09A8BE34C7E90DE38_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Benton",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5180BD8A8D81424282538B5FC0E5B7AF_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "L + J",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C4A6F8E84EDF4688BAE26F8E34568C8B_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El puente del tiempo (2)",
+                                    "url": "http://goovdme.967sd1f.homes/vod/ECBB8FE6E077437297AFB31519F2A635_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 240740,
+                    "total_seasons": 1
                 }
             ]
         },
