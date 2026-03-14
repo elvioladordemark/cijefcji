@@ -287,18 +287,21 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
-{
-                "name": "TELEFUTURO",
-                "url": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://puntoplaytv.one/license.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
-                "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+
+
+			  {
+        "name": "TELEFUTURO OPC 2",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://tonykshop.lat/license.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
+
     {
         "name": "RPC  ",
         "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczNjcyNjI5Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQwOTk1OGMxOGMzODRlNDIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.bvLiGmtzosI9kF1kta7eXeROOX9VmWsmn6cx16-CaB6NUoqT2t2xM0dD8x8MZdQqRyjxgYSjHom7gUCBE5En8Q==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
