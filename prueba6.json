@@ -557,7 +557,7 @@
     },
     {
         "name": "C9N OPC 2",
-        "url": "https://edge04-fdo-py.cvattv.com.ar:443/live/c5eds/C9N_C4/SA_Live_dash_enc_C/C9N_C4.mpd",
+        "url": "https://cdn-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_C/C9N_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
         "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
