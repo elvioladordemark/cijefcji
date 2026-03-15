@@ -556,14 +556,14 @@
         }
     },
     {
-        "name": "C9N    opcion 2",
-        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczNzYwMzA5Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZlOWQ1NDliZDg3NDViNWQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.t7XCrQ8C08vHSxmCJEaPX_h9QRxIeDJ3RodJ-p3zfTba9m9-J-7uRyIVV3Wm37PmeAFvaO01JPptqTT2peDD8w==/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+        "name": "C9N OPC 2",
+        "url": "https://edge04-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_C/C9N_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
         "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
         "headers": {
-            "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
     },
