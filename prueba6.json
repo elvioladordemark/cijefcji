@@ -235,7 +235,7 @@
     },
     {
         "name": "PARAVISION    opcion 2",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+        "url": "https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
         "icono": "https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi\u00f3n-en-vivo-Online-1.png",
