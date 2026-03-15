@@ -4275,13 +4275,13 @@
         "samples": [
             {
                 "name": "Animal Planet",
-                "url": "https://lilac01.pontiscloud.com/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd",
+                "url": "https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd",
                 "icono": "https://i.postimg.cc/RZTHkgHw/ANIMALPLANET2.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dbea5682978c5593d7f9f32ba3fbd000&key=992754095f050d53163c059ff4e81571",
                 "headers": {
           "Origin": "https://player.sensa.com.ar",
-          "WEBTOKEN": "1.0",
+          "webtoken": "1.0",
           "Referer": "https://player.sensa.com.ar/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
 					
