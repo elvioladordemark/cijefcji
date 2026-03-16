@@ -3677,9 +3677,9 @@
         "samples": [
            {
         "name": "HBO 1",
-        "url": "https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODQzNjU5Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjE0N2U5NzkxZmM3NWNlM2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTAwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.J2xq63ScTF_5f-bp3pHq08JAh_EcrMHynCQp7SIUfKy9Mmh4UGOj_kN0daHJUnjKIvJQ9bD2ySiGzUH_bsYSrw==/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
+        "url": "https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=dead023f7a81634339ae639990c1517a&key=ba970222b4466c61d0deccc67ab34452",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/2ms7u2y0p9vblhmnwf1bg/clearkey_hbo.json?rlkey=uz8ydeteuw33obmqgnskthjab&st=xahtojvh&dl=0",
         "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
   "headers": {
           "Origin": "https://player.sensa.com.ar",
@@ -3691,9 +3691,9 @@
    
     {
         "name": "HBO 2",
-        "url": "https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODQzNjU5Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjE0N2U5NzkxZmM3NWNlM2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTAwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.J2xq63ScTF_5f-bp3pHq08JAh_EcrMHynCQp7SIUfKy9Mmh4UGOj_kN0daHJUnjKIvJQ9bD2ySiGzUH_bsYSrw==/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+        "url": "https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=c90cc57ad2c436e5a77db2f8d9db2d85&key=04f6c73984bdcffd013050608497935d",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/tq8fj77bc6051rjsf746t/clearkey_hbo2.json?rlkey=xptmma9a4mpz9wgubxes24du1&st=7yo6wmyo&dl=0",
         "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
   "headers": {
           "Origin": "https://player.sensa.com.ar",
