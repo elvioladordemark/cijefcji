@@ -985,9 +985,9 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/4arvg1eksgo7hdjrbc6lx/clearkey_espnsensa.json?rlkey=tmwdl8mo0h5xkt06uhx28n7s3&st=z7ax9wiu&dl=0",
                 "headers": {
-          "Origin": "https://player.sensa.com.ar",
+          "Origin": "https://webclient.antinaplayplus.com.ar",
           "webtoken": "1.0",
-          "Referer": "https://player.sensa.com.ar/",
+          "Referer": "https://webclient.antinaplayplus.com.ar/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
 					
                 }
