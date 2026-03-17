@@ -979,6 +979,14 @@
         "samples": [
              
 			{
+        "name": "ESPN SIN BLOQUEO",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94_720.m3u8",
+        "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
+        "type": "HLS"
+    },
+			
+			
+			{
                 "name": "ESPN 1 SENSA",
                 "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
                 "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
