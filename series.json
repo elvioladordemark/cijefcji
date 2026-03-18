@@ -33454,6 +33454,30 @@
                     ],
                     "tmdb_id": 313298,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El asesino de TikTok",
+                    "genero": "Documental, Crimen",
+                    "descripcion": "En este documental, una familia lucha por esclarecer la desaparición de una mujer de 42 años en Gandía y la implicación de un popular creador de TikTok al que conoció de viaje.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gx6iY04M2YRoTHDe5yEdWPWsN1o.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qAf0KsU9jNUGNDUYqcJyJ8z8m8O.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7e0MJA3CLNugQxXKm2dQ5a3wGL2.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El último mensaje",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7B42BE8E2B1C4013BCEF2F3868410DD5_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 313338,
+                    "total_seasons": 1
                 }
             ]
         },
