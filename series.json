@@ -33483,6 +33483,40 @@
                     ],
                     "tmdb_id": 313338,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Bailar para el diablo: La secta de 7M en TikTok",
+                    "genero": "Documental",
+                    "descripcion": "Cuando varios bailarines de TikTok se unen a una empresa de gestión y a su iglesia, salen a la luz detalles inquietantes sobre el fundador y sus sombrías actividades.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/eDXeVJRZbFIrjQrHbrkFFcE2DDy.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hnCEpcsCBoJiQuvhVX4nxhro8Pf.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/r6Sm20ax3Jvba3INguQvkPi7oQ5.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Parte I: Niégate a ti mismo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EB8E57591D6248AC84929BB84AD44B20_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Parte II: La huida",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B14AE2814D484AFD93ADA4631B3A9D04_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Parte III: Cada uno cosecha lo que siembra",
+                                    "url": "http://goovdme.967sd1f.homes/vod/893B4009F9984076B42C07386A555817_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 253384,
+                    "total_seasons": 1
                 }
             ]
         },
