@@ -1826,12 +1826,12 @@
         }
       },
 
-		
+	
 
 		
 
 		{
-        "name": "DIRECTV SPORTS +",
+        "name": "DIRECTV SPORTS + OPC 2",
         "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
         "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
         "headers": {
@@ -1858,7 +1858,27 @@
   {
     "name": "⚽ DEPORTES VARIADOS",
     "samples": [
-       {
+       
+		{
+        "name": "PLUTO TV LIBERTADORES SUB 20",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63c6e37e636b7e0007ccb635livestitch/2977158/playlist.m3u8?terminate=false&sid=1ab0110c-23d2-11f1-9314-563f90a60276&deviceDNT=0&deviceLat=-25.549999237060547&deviceLon=-54.599998474121094&deviceModel=web&deviceVersion=146.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=52440060-9123-41b2-99e3-5cc44cd04f26&appVersion=9.20.0-89258290264838515e264f5b051b7c1602a58482&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjMzNDk4MTAzLTgzOTktNGRkMi1hNGIwLWZiOGU3ZDZlZGU4NSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxYWIwMTEwYy0yM2QyLTExZjEtOTMxNC01NjNmOTBhNjAyNzYiLCJjbGllbnRJUCI6IjI4MDM6MmEwMDoyMDA2OmUzMDM6ZTRjOTo3OTMyOmQzNWY6MmRjYSIsImNpdHkiOiJNYXJpYSBBdXhpbGlhZG9yYSIsInBvc3RhbENvZGUiOiIxMDAyMTciLCJjb3VudHJ5IjoiUFkiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMjUuNTQ5OTk5MjM3MDYwNTQ3LCJkZXZpY2VMb24iOi01NC41OTk5OTg0NzQxMjEwOTQsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE0Ni4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuMjAuMC04OTI1ODI5MDI2NDgzODUxNWUyNjRmNWIwNTFiN2MxNjAyYTU4NDgyIiwiY2xpZW50SUQiOiI1MjQ0MDA2MC05MTIzLTQxYjItOTllMy01Y2M0NGNkMDRmMjYiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Bc3VuY2lvbiIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjUyNDQwMDYwLTkxMjMtNDFiMi05OWUzLTVjYzQ0Y2QwNGYyNiIsImZ3VmNJRDJDb3BwYSI6IjUyNDQwMDYwLTkxMjMtNDFiMi05OWUzLTVjYzQ0Y2QwNGYyNiIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNTI0NDAwNjAtOTEyMy00MWIyLTk5ZTMtNWNjNDRjZDA0ZjI2IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMCwxMDAyMSwxMDAwMCwxMDAwOSwxMDAxMyJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3Mzk1MjA3MjMwNCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk5USTBOREF3TmpBdE9URXlNeTAwTVdJeUxUazVaVE10TldOak5EUmpaREEwWmpJMiIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzQwMzg0NzIsImlhdCI6MTc3Mzk1MjA3MiwianRpIjoiYTQ4MDc2MWQtMjU1Ny00YzU5LWJiMzAtYTdkYzYwOWU5Njk5In0.lGbPnMcV-ztcbHMwNl5wUsEehyZOFsFMrWRTjxJ2Ock&paln=AQzzBGQEjdSQY4afTXDj5J6sn8GBHtnxrBcWwoAydHrEpWwa-XUbPRlHTI6YxBockC6UbgQuEQWc3uyUtJT7G2ucyq_sJO_ay8O_--hH2bfjRWSstQ62MHoVHAO86f5WloFZtLfelWYsBZ4KUVTEpnSYm_wx-acmOmrz9Lk4E5y8yuIjar-4OWGk3jjBHIw8EG_-tkyXctJ5w7jbbENXUH82gnw8ftVdoWuMgdZFmCB_n2GiRCPwNFI2iHVd85xuHvIQAVJUCIXIN6kdAqzhMCsmC9B0snWuW1Ykj3wyjBjFKoR_eKOAO6jZmTIGvq1xeOqCl21f88kRD_wRvdbmkd8dvFRy6CtU9egAK2Qa0s9zPQRrrm65T-adLAflZbB_FU1F1VIWd51ngq3uS6_yvQEZ7xKBoEK5ZPitFufck996Z4i3jdwYgwFdDGi6ANf7rkMAiBRn0I9-ukvicN33AdL24wSUvLQheD3g-B3qjlaCK4h5E7uwtsUauncKAyWoZXj2Ap_Uhpsx0ZQ4d8jYN3HXPgLPQm2BUOffmud1TeUYyr0DfTc8GXspZt2DHuJcyP_iIwmlXxFi3_o8zjFW-ZnA-B_9MDPJwW58wc7NeKkk9K21ZHmZZKE3w03fcnlXic6-QUMYgp3Y7sVE84JWPkbDX0jtYPzhLv-Jy-Xn1ct7tq73M4cybREObVQBBs4hJu2B2TAjZzhoy_ZnqM-DrxOdftHYh_yqAQd-WGpArFTWHJOFFbdAIQniPKJySItZs3aANpNOJn_7mn1zCGFWB7jTsFIUitXO9XNuera1R-sR1CMMFmvSeqniNvRGLoCs1ltwP7c-wnrPVVNLQC5iSgiA102bbMm74nCC_WOWl_oDlnRXl6C8iZdrCTmYoxGcCiozAtBnIS3TyT_QkTvN5OlFwWQS93vGLdMtjM-_ARWR5DBYGZcAGrQ53-zlGu3MXUIke-h6wyEcAMy1PLczI6GTbNnCKzlSuCFJaUgwgis7johMYLUztwKNLcfUnwRUFsALAsyi_qLgdaOFELpmCAiN1C8PiD-_7qx6ARjgnUkw3sbdoTGm5M7t8yUUkPxUCZ8_hRrfQwt91xzVUBBAmaEh1riFK_7_afxxZM490t74zdq5gCVTidRABwwQNQWUw5861ABC5eGo5Gmihii74W02IXXPT-SKH0eJR6tMf912rBJCVZaB8cXAzyuOdpf9Wau5eFpEPjZog-5z19sKhHNKydgQh8Ln-mMDW7R1p5CZwRSxGRIQrpc6jek4fg5gVdbAz0mr5KMzxeKuweemVEEBnK4dSmj5G1ze6mv6O6WC9tXWm-Luti-Sm94fxi8i1Qy3GFq6gWy3TsyZLiBXv0RmevHXlWKI9MmpMTZubTq-MDCVITBXONhHZgauF4fmg-K4ENw6FghOkwisbvel1BlZ0zSu0Dn4z-G0LbEIFY3RP9RwuuSkihLrTB6a-KiYODHD8EenPOTV_OhGUUB4XDeITStZdaQHbFE42TS3uYXE5YTz4x3R0xnLLfBP9nKWrliKxg..&CMCD=mtp%3D25300%2Cot%3Dm%2Csf%3Dh%2Csid%3D"3dd3d973-a1c3-46bd-b05c-208d8fadb52b"",
+        "icono": "https://i.postimg.cc/Z509vbWB/download-2026-02-22T172433-675.jpg",
+        "type": "HLS",
+        "headers": {
+           "X-App": "ps",
+          "X-Version": "8/4.0.7",
+          "X-Hash": "2SGHq_KKGkMTzLV4ogALH5JGqDQRiyP2XHXHK0GzPautj5eYx6DkHeQ7JH0mtZr-mF9uArYh5vZr7k7UyF2CyoGWie6wI7vgZSIuvCf3aG5v9DBBUuPp0gRokg-GD2MSRc0PAc2NNg4OZO5RL_y-WPwaexovHL7QaIXX9q_zuykpe9pnTOSA5F9_Fz1j4ehKr92N1z7SQDiCm7KLohI6jL6QFAwjQgBhBIrO3StJf402KOmjR1kTc5a2MQk-gC7Xm6SvaS_nfm87p2XRFzQW-BfTXgbpBvjtHhHaIUrc3SM69gJak1hgCkpZdIxdfV85u5y2wJngTNiAonHW3cIdc2ii6_htBfkcmVwuz2lmrJHdViqW80PxCrxMBg4W3XH9VYBezy3vPXsjFFhGuA6aJ7eyr8TsCRuz3UUyTgGac4g89uQ10raav9QJsekIox-a327KARFvKvbCousW599rVLTOC9PQCPRZmyDhJD7xnF3OPu6RKaRVm4HcXkjg1UGr",
+          "X-Did": "cc849782e436048f",
+          "User-Agent": "PLPro/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+		
+		
+		
+		
+		{
         "name": "SKY SPORTS LA LIGA",
         "url": "http://45.5.119.43:4000/play/a05r/51698831.m3u8",
         "icono": "https://i.postimg.cc/Z509vbWB/download-2026-02-22T172433-675.jpg",
