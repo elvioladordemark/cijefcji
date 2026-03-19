@@ -28493,6 +28493,65 @@
                     ],
                     "tmdb_id": 240740,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Pura sangre",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "En La Galana, la finca familiar de los marqueses de Monteclaro, el más valioso semental aparece envenenado junto a varios potros de la cuadra. Este suceso sacude la aparente tranquilidad de la familia y desencadena una investigación que amenaza con destapar una compleja trama de secretos enterrados, lealtades cruzadas, tensiones económicas y heridas sin cerrar.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ec5zefdo2yMsMUZhPvT8UXXF4jg.png",
+                    "icono": "https://image.tmdb.org/t/p/original/7XeKdFxONDzITjPLD1ySGJ637M6.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1tdsmElwf0QOuqpNRVFSdIIA1wX.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Tu reino por un caballo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D2EBA0551A394EF6B366877D62B7662F_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Los hombres que mienten",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B213EE1A2D914561B4A04F4ABEDBB6D6_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Manarola",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/7176D3D0FDDC4C68BC27AD55CD40F6C5_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Quince pasos",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/18DF9ACA2B8B48B3BBFBEE2E99F33D96_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Lo que esconde La Galana",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F5B746B6FB8D42C0B29D01EE702DCE0F_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Las buenas madres",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/4BF32F050BAA4CB29C80198FF0E3BBA4_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Expiación",
+                                    "url": "http://goovdme.967sd1f.homes/vod/27783F60150E452D98958CEE1BBD43C1_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La última pieza",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D3578746ED2D4070AD61BD568F682861_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 290918,
+                    "total_seasons": 1
                 }
             ]
         },
