@@ -34285,6 +34285,65 @@
                     ],
                     "tmdb_id": 281016,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Perros de caza",
+                    "genero": "Drama, Action & Adventure, Crimen",
+                    "descripcion": "Dos jóvenes boxeadores se alían con un prestamista benévolo para acabar con un despiadado usurero que se aprovecha de los más endeudados... y desesperados.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/luUqD7PtUpwo51qG8rpXcecaO4b.png",
+                    "icono": "https://image.tmdb.org/t/p/original/pWzp4HpDifuyNF8zkPIy8MKCg2d.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/b2iWqSFpuy9CS5XWiAmnLzNv9eP.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E1D8995194BC46FCA22BF233AE49E52F_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2428DA69C1DE4859A00EA3BDDCF06D59_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/235CD8DFCB2A466F92568CE4C4C91F08_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8B1DB800EE5542E088F2758C1D429402_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/53A7F84D0AF14CDEA81C6D58CF1C2B47_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BFDE0D5868014FEB807FBE27A9B0AF15_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/699596911B6A455F839045B54AF6A24F_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A2F37C4471D54138B47EF02DBCFFB256_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 127529,
+                    "total_seasons": 3
                 }
             ]
         },
