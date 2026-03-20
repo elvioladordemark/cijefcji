@@ -1206,7 +1206,16 @@
     {
         "name": "⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷",
         "samples": [
-        
+
+{
+                "name": "ESPN PRUEBA",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A_wl/ESPN2HD.mpd",
+                "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
+	            "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
+            },
+
+			
 			{
         "name": "ESPN 1",
         "url": "https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MTA3MjY3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjEwZmYwMzVkYTFkMTgwMTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.VzQPP19TB5bJx22DK-pTaHUtqfVTvEXrSH63zVVsWaTd8fMOUXDPVNCUlMkPuPqtCKiMT1WmpKIr8REnCqUkyg==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
@@ -1233,16 +1242,7 @@
         }
     }, 
 
-			{
-        "name": "ESPN 1 OPC 2",
-        "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A_wl/ESPN2HD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
-      
-   
-        }
-    }, 
+			 
 
 			  
 			
