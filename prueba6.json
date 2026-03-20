@@ -1292,9 +1292,9 @@
 
 			  {
         "name": "ESPN 2 OPC 3 PRUEBA",
-        "url": "https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A_wl/ESPN2HD.mpd",
+        "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A_wl/ESPN2HD.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/71e1ciyrsrkfsc0yen7p2/espn2.json?rlkey=gzudy6x2a45avcnnough76kw1&st=bmo7ibra&dl=0",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
         "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
         "headers": {
             "Origin": "https://portal.app.flow.com.py",
