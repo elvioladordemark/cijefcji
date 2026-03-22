@@ -1957,10 +1957,15 @@
         "type": "HLS",
         "icono": "https://i.postimg.cc/TYHrVXBx/download-2026-03-12T134729-824.jpg"
       },
-		
+		{
+        "name": "WIN SPORTS",
+        "url": "http://live2.superteve.com:33527/livetv/9Wu6os8Dmg/369?token=SBpYUhVRG1sSVwIGCQBTA1YBWgBXU1UDVFZQUgsAAQgEWwNWUVsAUAEWSEZCQBAHA15mDFVGDARXW0hHRkdWQ2xRVBFcGwhRBAdTVRMYQBYLXlxHC1UBAFVTXVIAAwMdEUhZV0QDVxRcWEhGVEwWBxBdWAluAFNBCAEBRwlaRl1fFBJcCGZdBF1VCgATDkBTQB8bDEIUFA0PFwgJHxZRWEdKUUcDGwMPRVgISBNXDRcMR0scE14UZzhASEdWTEdUXUtZXAgbA0NER0ZIE10RPRBWShFDAVdaBBBGXxEFER0RVVFLOVpWD15RBxBYWwwRQAkbVRNIFFoODA0RXEZsQVpcEgkITFUNTQ==",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png"
+      }
  
    {
-        "name": "WIN SPORTS",
+        "name": "WIN SPORTS+",
         "url": "http://104.194.8.54:9090/279400_.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png"
