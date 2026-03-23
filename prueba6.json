@@ -84,8 +84,8 @@
         "samples": [
              
 			 {
-        "name": "CAAGUAZU VS MINGA GUAZU",
-        "url": "https://video.fasu3-1.fna.fbcdn.net/hvideo-odn-lla/_nc_cat-101/_nc_sr_t-4/v/rASfiJwf1Dq_vpTZIhlwq2eG2PA66VP6uAtyVmVT5MXVhUg/_nc_ohc-MlU_rlCNhpcQ7kNvwE0T2Rw/live-dash/dash-abr5/1423414236251903.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_Afyb3szyOONoDNFz2lhDZRGNzLBHWkBzQZ4ckG57bJ7Ftw&oe=69BFC2BE",
+        "name": "prueba",
+        "url": "https://s3.dualstack.us-east-2.amazonaws.com/cam.edu//hls/4k/playlist.m3u8?token=v8g4ximrnus",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
         "icono": "https://i.postimg.cc/1zGw4dzg/download-2026-03-20T205553-644.jpg",
