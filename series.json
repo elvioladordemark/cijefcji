@@ -955,6 +955,55 @@
                     ],
                     "tmdb_id": 111110,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "The Madison",
+                    "genero": "Drama",
+                    "descripcion": "Tras una tragedia, una adinerada familia neoyorquina se traslada al idílico estado de Montana rural, explorando la conexión humana en medio de un profundo dolor.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/2v3CGp4NHg5KLcbyMdwVrcVepWS.png",
+                    "icono": "https://image.tmdb.org/t/p/original/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5D0550AF7ECB4BF1974AA7310E496FEA_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Dejen que la tierra me guarde",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/E18388CD19FA4E96BB839D6DC6E8366B_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Mírenla caer",
+                                    "url": "http://goovdme.967sd1f.homes/vod/AB4353629BD343A0B0A0142D2DEA6EAF_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Mañana es el adiós",
+                                    "url": "http://goovdme.967sd1f.homes/vod/19C4690AFBAD4821824893D3BF85B62F_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Sin un nombre y con un nuevo sueño",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C215C9D5BE2A46D5850A514363448927_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Me doy permiso",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4E1D552809934DA38E0E2DA897E2B4BB_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 225891,
+                    "total_seasons": 2
                 }
             ]
         },
