@@ -28557,6 +28557,50 @@
                     ],
                     "tmdb_id": 290918,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "O11CE: Nueva generación",
+                    "genero": "Drama",
+                    "descripcion": "Tras seis años triunfando en el fútbol europeo, Gabo, el flamante capitán del Atlético Madrid, Dedé y Ricky deciden visitar el IAD, el Instituto Académico Deportivo que los vio crecer, y así darles una sorpresa a todos.  Pero la sorpresa se la llevan ellos: el IAD ya no es el que solía ser y los Halcones Dorados, el equipo de fútbol del cual fueron parte, está sin rumbo, desmotivado y a punto de descender. Ahora ellos deberán recuperar la gloria del IAD y el orgullo de ser un Halcón: una nueva etapa comienza, llena de pasión, ¡y mucho fútbol!",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/jQduDbDY4ONcwDV7jlY2XtboChk.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hqfAbHeJ5cIGz8gzwuIvuYn9O7z.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7FXAqtErb0KGyxJdHRyNFuIhUD9.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "De vuelta en casa",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E61322504DF541C4AA137596039FB655_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "De mal en peor",
+                                    "url": "http://goovdme.967sd1f.homes/vod/427B8327E0A649B7AFE691DDDCEE8ADE_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Buscando refuerzos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/720EF29FFB6F41EC98B77856FFEA4F01_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Ser un Halcón, o no serlo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C5071E5CA3EF43B2A61BC90D5B4F8F46_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El balón de los sueños",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DE3F5A9C21A849CF9D9818318B0488AD_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 315939,
+                    "total_seasons": 1
                 }
             ]
         },
