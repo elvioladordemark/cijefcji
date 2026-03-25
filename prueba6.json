@@ -104,7 +104,16 @@
     {
         "name": "PARAGUAY SIN BLOQUEOS",
         "samples": [
-             {
+              {
+                "name": "TROVADOR TV",
+                "url": "https://live.enhdtv.com:8081/trovadortv/index.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/XJnZnYQ6/Whats-App-Image-2026-03-25-at-9-53-53-AM.jpg"
+            },
+			
+			
+			{
                 "name": "ABC TV",
                 "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(6ruw4QH_9iTmGLP03es7AwscRKVsguuv5aKCQU-RgOG8NPVZs3AqwH22CjqRaE_Twa_spYf4RDp3r26zQzO5B4AymplNXiqnXuSdQ1i3T8HAhsi8JOA5QXvbUwbf_-JS)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a",
                 "type": "CLEARKEY",
