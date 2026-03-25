@@ -28774,6 +28774,60 @@
                     ],
                     "tmdb_id": 225891,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Amor y muerte",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "La verdadera historia de Candy y Pat Montgomery y Betty y Allan Gore: dos parejas de feligreses que disfrutan de su vida en un pequeño pueblo de Texas hasta que una de ellas es brutalmente asesinada sin aparentes sospechoso iniciales, lo que finalmente desvelará una trama de infidelidades, traiciones y eventualmente apuntará al culpable menos esperado, con un polémico juicio y un desenlace aún más inesperado.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/nAtSYCgUEhJpD9QYtHBM7xmpSsQ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xGhCnhnv7FqvumkKUQ1Fqp287u0.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/A1kULtnwc9v4gaYqIGyMu4YDOFu.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La cazadora",
+                                    "url": "http://goovdme.967sd1f.homes/vod/732152BAFAFE4A8CA78FE7D6097350AE_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Encuentros",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3B42F537548E43A5B7455E9F21CDCDAB_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Punto de apoyo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/088C1BFB1DE74F2E84422B91C2034BD9_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "No hagas el mal",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5E383167560942D2AB2140278CBBEBE3_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La detención",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/73C9DE809E2F415C85FA2AB3BECD2846_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Pasen y vean",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/D1CA4DC340CA443BA479B569DDEDC112_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Ssssshh",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/D4BD893E7A44472A866C3D8531DCF9CE_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 124800,
+                    "total_seasons": 1
                 }
             ]
         },
