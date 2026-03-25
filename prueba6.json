@@ -1884,19 +1884,19 @@
     "samples": [
        
 
-	
-		{
-                "name": "DAZN F1",
-                "url": "https://edge.cdn-live.ru/secure/api/v1/es-dazn-f1/playlist.m3u8?token=af56d7cc75aa037e633abbac89b004cb03cf39f8357fe71786649009c4555dbe.1774223914.cd88fe2c3a1445fe88a7c157fcdb9173.566f1a308ce229eed6f2c4d57990b65c.96d323790cf2a21f903653256b13c256&signature=6f2c25a3497ce63bacf7b48853a788d1aba5cf979505f154a1d0d41184e6d16e",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/gJfRbMXC/images-(19).jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e",
-                "headers": {
-                    "Origin": "https://cdn-live.tv",
-                    "Referer": "https://cdn-live.tv/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-                } 
-					   },
+	{
+        "name": "SKY LA LIGA",
+        "url": "https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4",
+        "icono": "https://i.postimg.cc/5y4zbdw8/download-2026-03-25T121135-840.jpg",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+    },
+		
 		
                 
         
