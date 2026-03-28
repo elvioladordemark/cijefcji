@@ -85,13 +85,13 @@
              
 			 {
         "name": "Jordania X Costa Rica",
-        "url": "https://2bu8m19zimq.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+        "url": "https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8b55a3ba068f882f49b36d216f29506f&key=77f418bbcfc73739ebca9c52321472d3",
         "icono": "https://i.postimg.cc/zXXLnrd6/b3358ab3-168c-4dfc-af87-2e73817fdc39.png",
         "headers": {
-             "Origin": "https://gabito.site",
-            "Referer": "https://gabito.site/",
+             "Origin": "https://tes.wuaze.com",
+            "Referer": "https://tes.wuaze.com/",
 			
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
         }
