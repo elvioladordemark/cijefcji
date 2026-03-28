@@ -82,122 +82,11 @@
     {
         "name": "⚽EVENTOS DEPORTIVOS⚽",
         "samples": [
-             
-			 {
-        "name": "Jordania X Costa Rica",
-        "url": "https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8b55a3ba068f882f49b36d216f29506f&key=77f418bbcfc73739ebca9c52321472d3",
-        "icono": "https://i.postimg.cc/zXXLnrd6/b3358ab3-168c-4dfc-af87-2e73817fdc39.png",
-        "headers": {
-             "Origin": "https://tes.wuaze.com",
-            "Referer": "https://tes.wuaze.com/",
-			
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
-    },
+       
 
 			 {
-        "name": "Sur Africa X Panamá",
-        "url": "https://3w9t04b9d4m.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/zXXLnrd6/b3358ab3-168c-4dfc-af87-2e73817fdc39.png",
-        "headers": {
-             "Origin": "https://gabito.site",
-            "Referer": "https://gabito.site/",
-			
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
-    },
-
-			 {
-        "name": " Grecia X Paraguay",
-        "url": "https://4j6cik2mkv0.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/zXXLnrd6/b3358ab3-168c-4dfc-af87-2e73817fdc39.png",
-        "headers": {
-             "Origin": "https://gabito.site",
-            "Referer": "https://gabito.site/",
-			
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
-    },
-
-			 {
-        "name": " Argelia X Guatemala",
-        "url": "https://6t588fgej1a.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/zXXLnrd6/b3358ab3-168c-4dfc-af87-2e73817fdc39.png",
-        "headers": {
-             "Origin": "https://gabito.site",
-            "Referer": "https://gabito.site/",
-			
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
-    },
-
- {
-        "name": "Inglaterra X Uruguay",
-        "url": "https://6t588fgej1a.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/zXXLnrd6/b3358ab3-168c-4dfc-af87-2e73817fdc39.png",
-        "headers": {
-             "Origin": "https://gabito.site",
-            "Referer": "https://gabito.site/",
-			
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
-    },
-
- {
-        "name": " Suiza X Alemania",
-        "url": "https://6t588fgej1a.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/zXXLnrd6/b3358ab3-168c-4dfc-af87-2e73817fdc39.png",
-        "headers": {
-             "Origin": "https://gabito.site",
-            "Referer": "https://gabito.site/",
-			
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
-    },
-
- {
-        "name": "España X Serbia",
-        "url": "https://89i0mccwqab.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/zXXLnrd6/b3358ab3-168c-4dfc-af87-2e73817fdc39.png",
-        "headers": {
-             "Origin": "https://gabito.site",
-            "Referer": "https://gabito.site/",
-			
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
-    },
-
- {
-        "name": "Marruecos X Ecuador",
-        "url": "https://9z4prpnijey.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
-        "icono": "https://i.postimg.cc/zXXLnrd6/b3358ab3-168c-4dfc-af87-2e73817fdc39.png",
-        "headers": {
-             "Origin": "https://gabito.site",
-            "Referer": "https://gabito.site/",
-			
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
-    },
-
- {
-        "name": "Argentina X Mauritania",
-        "url": "https://11apmkqc2814.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+        "name": "SENEGAL VS PERÙ",
+        "url": "https://1zrrd4hk04i.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
         "icono": "https://i.postimg.cc/zXXLnrd6/b3358ab3-168c-4dfc-af87-2e73817fdc39.png",
@@ -208,6 +97,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
         }
     }
+
+			
     
 
 			
