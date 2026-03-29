@@ -1999,38 +1999,45 @@ https://edge-live04-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
         "name": "⚽TELEMUNDO Y UNIVERSO📺",
         "samples": [
           
-			      {
-                "name": "TELEMUNDO INTERNACIONAL",
-                "url": "
-https://edge-live04-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0ODc4NjEyIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhkOTA4Y2NjN2RiMDMxOWMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.A0Y7E414fDpoPEFG5JyQ9SflyJ95Brd_ddPW-SFazkybLqpstvHiRKJ0OUP37f44EYHMAk16rL7Bt-1QOtNERQ==/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                } 
-					   },
+			{
+                "name": "TELEMUNDO NOTICIAS",
+                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
+                "type": "HLS"
+            },
+			
+		
+			{
+                "name": "TELEMUNDO 51",
+                "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
+                "type": "HLS"
+            },
+			
+			
+			{
+                "name": "TELEMUNDO 52",
+                "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
+                "type": "HLS"
+            },	
+			
+			
+			
+			
+			{
+                "name": "TELEMUNDO ACCION",
+                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
+                "type": "HLS"
+            },
+			
+		
 			{
                 "name": "UNIVERSO 1 FULL",
                 "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
                 "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
                 "type": "HLS"
-            },
-					  
-					  {
-                "name": "⚽UNIVERSO 2 FULL",
-                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a17518cbf52f3478930511cea7ed1e3a&key=82b1aaf767958581f82ef9701474162c",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-           
             }
 
 	  
@@ -2823,413 +2830,21 @@ https://edge-live04-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
                 "type": "HLS"
             }
 	
-                ]
-    },
-    {
-        "name": "🇲🇽MEXICO🇲🇽",
-        "samples": [
-            {
-                "name": "LAS ESTRELLAS",
-                "url": "https://zap-live2-ott.izzigo.tv/1/out/u/dash/CANAL2HD/default.mpd",
-                "icono": "https://i.postimg.cc/rwvWbwcp/LASESTRELLAS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=62cc24eaedef1ab322a4d52fd6bf29ad&key=3f80b04b3e2bf3d8543956882da9dd00",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "LAS ESTRELLAS - 1 HORA",
-                "url": "https://zap-live2-ott.izzigo.tv/4/out/u/dash/LASESTRELLAS1HRSSD/default.mpd",
-                "icono": "https://i.postimg.cc/j56zy0pC/LASESTRELLAS-1.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0455c3df25bf8568cda913c0a5c9f628&key=19a25f53ae494b654d4ce4950e1e979c",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "LAS ESTRELLAS - 2 HORA",
-                "url": "https://zap-live2-ott.izzigo.tv/2/out/u/dash/LASESTRELLAS2HRSHD/default.mpd",
-                "icono": "https://i.postimg.cc/X7sk2Wpf/LASESTRELLAS-2.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=820ee7b6e7e489c285a63a9a39249a31&key=3bdc524168044491d6f2e51b270f4aa1",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "TELEMUNDO INTERNACIONAL",
-                "url": "https://zap-live2-ott.izzigo.tv/3/out/u/dash/TELEMUNDOHD/default.mpd",
-                "icono": "https://i.postimg.cc/438p4QRQ/TELEMUNDOINTERNACIONAL.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=87234ef8a0328b000941fd18bd75d78e&key=2bbbeb8783509a4e77e3b79cd7b1869f",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "AZTECA UNO",
-                "url": "https://zap-live2-ott.izzigo.tv/4/out/u/dash/AZTECA1HD/default.mpd",
-                "icono": "https://i.postimg.cc/9f6pGBzP/AZTECAUNO.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=158b196625b3fa3a6cbd45d081d28995&key=b955044f81ed40faec97bee0d7a20aea",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "CANAL 5",
-                "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
-                "icono": "https://i.postimg.cc/jjm8Mb3w/CANAL5.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2a8c2d5088377f51f825d871e568be19&key=eb5a8db64ca1992389672edb9447c711",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "CANAL 6",
-                "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MULTIMEDIOS-RDF-HD/default.mpd",
-                "icono": "https://i.postimg.cc/1Xxj3Qps/CANAL6.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=96ce45fa9e1b72ef49b8f5784b21a001&key=bf9797535e629804cf48f8b6530582c1",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "CANAL 6 PLUS",
-                "url": "https://zap-live2-ott.izzigo.tv/3/out/u/dash/CANAL6PLUSHD/default.mpd",
-                "icono": "https://i.postimg.cc/WbLB2Mnk/CANAL6PLUS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=44cc7d4a31a3e696d35f6b6ed0561be1&key=57e157bcfd59651e649911f513965680",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "AZTECA 7",
-                "url": "https://zap-live2-ott.izzigo.tv/4/out/u/dash/AZTECA7HD/default.mpd",
-                "icono": "https://i.postimg.cc/SsPgtpZc/AZTECA7.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c15a10921bed75a3ec5385e0ecdb6499&key=4e44df62547a1544a4623418918658d0",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "CANAL 9",
-                "url": "https://zap-live2-ott.izzigo.tv/1/out/u/dash/CANAL9HD/default.mpd",
-                "icono": "https://i.postimg.cc/mgN8WnZ8/CANALNUEVE.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0bb910a4217a1af19b803e7f120796f9&key=8d3d83fadfc769674b9c7102109fc466",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "CANAL 11",
-                "url": "https://zap-live2-ott.izzigo.tv/4/out/u/dash/ONCEHD/default.mpd",
-                "icono": "https://i.postimg.cc/6pxmXtBg/CANALONCE.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c70b0d54f58f6dd4e2046bf64084773a&key=00a3aee5319f20ddfe288240697f559e",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "CANAL 14 ",
-                "url": "https://zap-live2-ott.izzigo.tv/3/out/u/dash/CANAL14HD/default.mpd",
-                "icono": "https://i.postimg.cc/269tRW5G/CANAL14.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d07062d0e56220efe394a1640f586162&key=b9457744e76306cfdbf58a886b45c1d7",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "CAPITAL 21",
-                "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CAPITAL-21-HD/default.mpd",
-                "icono": "https://i.postimg.cc/13Dbn4v2/CANAL21.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=adb931e6afdba4136e5ecb88eb7aa868&key=8cc35aab173435df66b868d85e763dea",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "CANAL 22",
-                "url": "https://zap-live2-ott.izzigo.tv/2/out/u/dash/CANAL22HD/default.mpd",
-                "icono": "https://i.postimg.cc/5yGDvzcr/CANAL22.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dd02aab23d7af5a543381c7108de535e&key=2573aca79c477f674a5bbc22ad735c7b",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "ONCE NIÑAS Y NIÑOS",
-                "url": "https://zap-live2-ott.izzigo.tv/3/out/u/dash/ONCENINASYNINOSSD/default.mpd",
-                "icono": "https://i.postimg.cc/KzcXyFrw/ONCE-NINAS-Y-NINOS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63f768ba20535fdc9716a6419724ff9f&key=f54e09a043130b1412beb558b4494118",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "APRENDE +",
-                "url": "https://zap-live2-ott.izzigo.tv/5/out/u/dash/APRENDEMASSD/default.mpd",
-                "icono": "https://i.postimg.cc/1361Gv3B/APRENDE.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=685296908106c98b843ec0ecab5e53bd&key=feda5f6bdf622bf52e3991cfcf47f842",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "INGENIO TV",
-                "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/INGENIO-TV-SD/default.mpd",
-                "icono": "https://i.postimg.cc/1tMQg43V/INGENIO-TV.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ba58fdfd114d74e2a22225a27aaf144f&key=7c622cc288ca7d1f8fb7496135b67e09",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "HERALDO TV",
-                "url": "https://zap-live2-ott.izzigo.tv/2/out/u/dash/HERALDOTVHD/default.mpd",
-                "icono": "https://i.postimg.cc/s2dyqtLv/HERALDO-TV.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=74fcb59a5c38a6ee59a13aa32585eb02&key=483a204a347bc45bc3f3ab27874bc564",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "TV UNAM",
-                "url": "https://zap-live2-ott.izzigo.tv/5/out/u/dash/TVUNAMSD/default.mpd",
-                "icono": "https://i.postimg.cc/qMQSTWZ2/TVUNAM.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ef2bd499aa32fa45be33013d6b035abc&key=1f0d60ad49ef43bbb03b392e05a37200",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "TV MIGRANTE",
-                "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/TV-MIGRANTE-SD/default.mpd",
-                "icono": "https://i.postimg.cc/nhPWsBxX/TV-MIGRANTE.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9c3b5f4a88fad6b32a248be52437c842&key=b6b5fab0ba30b3d191169738d308512c",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "MAUSSAN TV",
-                "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MAUSSAN-TV-SD/default.mpd",
-                "icono": "https://i.postimg.cc/MTy3rLQw/MAUSSAN-TV.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=445987029f68a15d72f749dc6954da1e&key=b0b4c0681b371950146dbd03ce63b2d7",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "IMAGEN TV",
-                "url": "https://zap-live2-ott.izzigo.tv/3/out/u/dash/IMAGENTVHD/default.mpd",
-                "icono": "https://i.postimg.cc/VNXFYCL7/IMAGENTELEVISION.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=190e0dedd5c1ed7f5f76515d5f72058a&key=8e09da444ee448c2a85b8cd24c2eebe0",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "QUIERO TV",
-                "url": "https://zap-live2-ott.izzigo.tv/13/out/u/dash/QUIERO-TV-SD/default.mpd",
-                "icono": "https://i.postimg.cc/dtWHXrL8/QUIEROTV.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=86e93bd99b1b0550ca60a1516f0c2ded&key=06835565e588e72d6c60512dff9e24e6",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "EXCELSIOR TV",
-                "url": "https://zap-live2-ott.izzigo.tv/1/out/u/dash/EXCELSIORHD/default.mpd",
-                "icono": "https://i.postimg.cc/y6LyYBsZ/EXCELSIOR-TV.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=30a744a8c9c6fa00f9f05c83c27e4b4d&key=402d81ac9059cfdeb119b452bafb8882",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "CV SHOPPING OUTLET",
-                "url": "https://zap-live2-ott.izzigo.tv/5/out/u/dash/CVSHOPPINGSD/default.mpd",
-                "icono": "https://i.postimg.cc/50x8bKrz/CV-SHOPPING-OUTLET.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=81a154c749417e9045df2b3dd974e0d9&key=08d84cb2d8bd21b28b765d4a187f9e13",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "FORO TV",
-                "url": "https://zap-live2-ott.izzigo.tv/2/out/u/dash/FOROTVHD/default.mpd",
-                "icono": "https://i.postimg.cc/x16XLjpG/N-FORONOTICIAS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ea39b9575f51b840a58bda829f20f38d&key=9c200a2b120d45e60af506be1d7ad932",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "JUSTICIA TV",
-                "url": "https://zap-live2-ott.izzigo.tv/3/out/u/dash/JUSTICIATVHD/default.mpd",
-                "icono": "https://i.postimg.cc/kMYWPcv8/JUSTICIATV.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=177ec8d93674c51229b3335b72098ea9&key=22931411cb487063a6e2152d0c4d4957",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "CANAL DEL CONGRESO",
-                "url": "https://zap-live2-ott.izzigo.tv/3/out/u/dash/CONGRESOSD/default.mpd",
-                "icono": "https://i.postimg.cc/YCYFgwKG/CANALCONGRESO.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a5ab4774832590830c6be4a475500e5f&key=37df095b1a36b2abd451f69c32aa7950",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "CONGRESO DIPUTADOS",
-                "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CONGRESO-DIPUTADOS-SD/default.mpd",
-                "icono": "https://i.postimg.cc/YCYFgwKG/CANALCONGRESO.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=922fef39d0bf506b6c396b203a68f2e6&key=36217e83831157ee0bb1259653267dbf",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "CONGRESO SENADORES",
-                "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CONGRESO-SENADORES-SD/default.mpd",
-                "icono": "https://i.postimg.cc/YCYFgwKG/CANALCONGRESO.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2a40798b3abd4c1585c22e541cb1b861&key=96da70a9b8a3d6615da7c11ab757eb03",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "ADN NOTICIAS",
-                "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/ADN-40-HD/default.mpd",
-                "icono": "https://i.postimg.cc/bJCS8ykj/ADN-NOTICIAS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7bf657922964e875948afeaf853954fb&key=55d2a15c10a60093a350a56389879542",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "MILENIO TELEVISIÓN",
-                "url": "https://zap-live2-ott.izzigo.tv/1/out/u/dash/MILENIOHD/default.mpd",
-                "icono": "https://i.postimg.cc/8CwjBpyF/MILENIOTELEVISION.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a2bffcbe59cee9f1021da53b96dc6e2c&key=8cbdc79e0a64dd8d1c3b7ea85830bd10",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "MEXIQUENSE TELEVISIÓN",
-                "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/TELEVISION-MEXIQUENSE-HD/default.mpd",
-                "icono": "https://i.postimg.cc/15NVhZzj/MEXIQUENSE-TELEVISION.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=035f5e36204b8e090df82082b705c530&key=bdbfd983b29638bb163f1b38e8f302f9",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "TELEFORMULA",
-                "url": "https://zap-live2-ott.izzigo.tv/4/out/u/dash/TELEFORMULASD/default.mpd",
-                "icono": "https://i.postimg.cc/05z0QFQn/TELEFORMULA.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c49501c4b1cefd7b0a92935ce1b20be8&key=1664d2cc6280dd0f268d2d3f28c76665",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "EL FINANCIERO BLOOMBERG TV",
-                "url": "https://zap-live2-ott.izzigo.tv/1/out/u/dash/ELFINANCIEROHD/default.mpd",
-                "icono": "https://i.postimg.cc/850c9ygz/EL-FINANCIERO-BLOOMBERG-TV.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d3c97fa71d06d0cd4049185c473ec7dd&key=24da4b34a7ae12920a95ebdccd883e54",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            },
-            {
-                "name": "ANTENA 3 INTERNACIONAL",
-                "url": "https://zap-live2-ott.izzigo.tv/5/out/u/dash/ANTENA3HD/default.mpd",
-                "icono": "https://i.postimg.cc/CxgGcK4c/ANTENA3INTERNACIONAL.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bcfe92161ae5c20d6ffec80cbad9f74b&key=6e74e556df5223c5a5102d4846b5670a",
-                "headers": {
-                    "origin": "https://www.izzigo.tv",
-                    "Referer": "https://www.izzigo.tv/"
-                }
-            }
+
         ]
     },
     {
         "name": "🇲🇽 MEXICO 2 🇲🇽",
         "samples": [
-            {
+              {
+                "name": "TELEMUNDO 51",
+                "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8",
+                "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
+                "type": "HLS"
+            },
+			
+			
+			{
                 "name": "TELEMUNDO 31",
                 "url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
                 "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
@@ -3376,37 +2991,7 @@ https://edge-live04-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 		
 	  
 	  
-    ]
-  },
-  {
-    "name": "🇧🇴CANALES DE BOLIVIA",
-    "samples": [
-  
-      {
-        "name": "BOLIVISIÓN",
-        "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
-        "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8"
-      },
-      {
-        "name": "ATB",
-        "icono": "https://i.postimg.cc/90mrPFYc/ATB-B.jpg",
-        "url": "http://186.121.206.197/live/daniel/index.m3u8"
-      },
-      {
-        "name": "CADENA A",
-        "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
-        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8"
-      },
-      {
-        "name": "MEGA TV",
-        "icono": "https://i.ibb.co/TxqSrMpc/3d4uiZF.png",
-        "url": "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8"
-      },
-      {
-        "name": "RED ADVENIR",
-        "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
-        "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8"
-   }
+ 
 
 		 
 	
