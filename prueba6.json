@@ -3758,7 +3758,65 @@ https://edge-live04-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
         }
     }
 
-			
+]
+      },
+  {
+    "name": "🎬CINE VARIADOS🎬",
+    "samples": [
+       {
+        "name": "CANELA CINEMA 27/7",
+        "icono": "https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg",
+        "url": "https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8"
+      },
+
+		 {
+        "name": "RETRO PLUS 27/7",
+        "icono": "https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg",
+        "url": "https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8"
+      },
+		 {
+        "name": "CINE PLEX 27/7",
+        "icono": "https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg",
+        "url": "https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8"
+      },
+		 {
+        "name": "FILM RISE 27/7",
+        "icono": "https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg",
+        "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309"
+      },
+		 {
+        "name": "CRJNGO 27/7",
+        "icono": "https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg",
+        "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8"
+      },
+		 {
+        "name": "FREE TV ACCION 27/7",
+        "icono": "https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg",
+        "url": "https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/1080p-cc/index.m3u8"
+      },
+			{
+        "name": "FREE TV FAMILIA 27/7",
+        "icono": "https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg",
+        "url": "https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8"
+      },
+
+		{
+        "name": "VALLE NUEVO TV 27/7",
+        "icono": "https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg",
+        "url": "https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8"
+      },
+
+			{
+        "name": "ACCION MEXICANA 27/7",
+        "icono": "https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg",
+        "url": "https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8"
+      }
+
+
+
+
+
+		
          
 
 			 ]
