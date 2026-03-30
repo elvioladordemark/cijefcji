@@ -285,7 +285,7 @@ https://edge-live31-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
         "headers": {
-            "Origin": "https://portal.app.flow.com.py",
+           "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
