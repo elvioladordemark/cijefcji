@@ -1878,12 +1878,20 @@ https://edge-live31-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
         "url": "http://190.108.89.228:8000/play/a05w/index.m3u8",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
       },
-
-		 {
-        "name": "DIRECTV SPORTS OPC 2",
-        "url": "http://104.238.205.28:9090/278758_.m3u8",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
+{
+        "name": "DIRECTV SPORTS OPC2",
+        "url": "http://n8a6z9rk.top/874/hvjfzv6nrzd87d2hk.m3u8",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "type": "HLS",
+        "headers": {
+          "User-Agent": "MdHtVBR8NUmx22vgP29hCQiA4AUCLwet68v247X2QZpf3m6SBjRCkcCjxyythUUEdzF6gMUHb91aWbPRcfWaCwEpQjMrv0yBvbLCdXD4uWmPy8n2eq2DBEq3046eaH2",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
       },
+					
+
+		
 		
 {
         "name": "DIRECTV SPORTS 2",
