@@ -1570,7 +1570,7 @@ https://edge-live31-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
     "samples": [
          {
                 "name": "CAZE TV",
-                "url": "https://02.arlivre.online/cazetv/index.m3u8",
+                "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
                 "icono": "https://www.digital-myc.com/caelum/img/CAZETV.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://www.digital-myc.com/caelum/licence_brasil/CAZE.TV.json",
@@ -1679,7 +1679,7 @@ https://edge-live31-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 		 
       {
         "name": "SPORTV 1",
-        "url": "https://02.arlivre.online/sportv/index.m3u8",
+        "url": "http://189.73.8.73:8000/play/a01b",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
@@ -1690,7 +1690,7 @@ https://edge-live31-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
       },
       {
         "name": "SPORTV 2",
-        "url": "https://02.arlivre.online/sportv2/index.m3u8",
+        "url": "http://189.73.8.73:8000/play/a01a",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
@@ -1701,7 +1701,7 @@ https://edge-live31-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
       },
       {
         "name": "SPORTV 3",
-        "url": "https://02.arlivre.online/sportv3/index.m3u8",
+        "url": "http://189.73.8.73:8000/play/a021",
         "type": "HLS",
         "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
         "headers": {
@@ -1726,7 +1726,7 @@ https://edge-live31-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 
       {
         "name": "ESPN 2 BR",
-        "url": "https://02.arlivre.online/espn2/index.m3u8",
+        "url": "http://189.73.8.73:8000/play/a009",
         "type": "HLS",
         "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
         "headers": {
@@ -1739,7 +1739,7 @@ https://edge-live31-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 
       {
         "name": "ESPN 3 BR",
-        "url": "https://02.arlivre.online/espn3/index.m3u8",
+        "url": "http://189.73.8.73:8000/play/a040",
         "type": "HLS",
         "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
         "headers": {
@@ -1752,7 +1752,7 @@ https://edge-live31-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 
       {
         "name": "ESPN 4 BR",
-        "url": "https://02.arlivre.online/espn4/index.m3u8",
+        "url": "http://189.73.8.73:8000/play/a03e",
         "type": "HLS",
         "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
         "headers": {
