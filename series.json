@@ -28892,6 +28892,65 @@
                     ],
                     "tmdb_id": 259265,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Dear Killer Nannies: Criado por sicarios",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Una inspiración en la niñez y la adolescencia de Juan Pablo Escobar, hijo del narcoterrorista colombiano Pablo Escobar Gaviria.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/fkNyoLphw1UBy1wbItEnszAXXzk.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rNjB5TBYUBOxXR2GjR02uukSwBw.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xvxSV4J28kgFaDMbaDnmAlV2YmB.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0D81479E03A345C7847AAA72A1840F8B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3B16E5C458E34370B77513AFB79FB592_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EFBEBC205F484892ABA732B2ECB85AC6_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/103DE67ABEBF403A9B25682443D3FA58_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/3EC9B863065C4472BEE3B02473D91F2A_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/62F0191DC98945A6A1A5EA26FA2C945A_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/ED32C61845A342B381D624B7BBF04DA5_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/54EE11E82043492FA26CB6886C199AC3_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 313721,
+                    "total_seasons": 1
                 }
             ]
         },
