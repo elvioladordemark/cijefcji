@@ -1953,7 +1953,13 @@ https://edge-live04-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
     },
 		
 		
-                
+           {
+        "name": "BEIN SPORTS 1",
+        "url": "https://vt-ip.vodep39240327.workers.dev/2585.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+        "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
+      },     
         
 	
       {
