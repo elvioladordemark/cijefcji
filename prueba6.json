@@ -1021,7 +1021,7 @@ https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
              
 			{
                 "name": "ESPN 1 SENSA",
-                "url": "https://cdn.sensa.com.ar/live/eds/ESPN7Bolivia/live_dash_cld/ESPN7Bolivia.mpd",
+                "url": "http://localhost.apppelis.es/solplay/67.mpd ESPN 1",
                 "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=055b26873d74bc9a7f10bd10900f461c&key=55ff1f66dd94290476672e0c1143c1a2",
@@ -1036,7 +1036,7 @@ https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 			{
                 "name": "ESPN 2 SENSA",
-                "url": "https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
+                "url": "http://localhost.apppelis.es/solplay/64.mpd ESPN 2",
                 "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=6a8bd6496d2444301c9d4d0feca9d75b&key=3fd1967701ba2897729187b60094c158",
@@ -1051,7 +1051,7 @@ https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 			{
                 "name": "ESPN 3 SENSA",
-                "url": "https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
+                "url": "http://localhost.apppelis.es/solplay/65.mpd ESPN 2",
                 "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=8836252059b793a79173838dc1186ff1&key=aa16f90e51ce5652dab93834e434caa8",
@@ -1063,6 +1063,22 @@ https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 					
                 }
             },
+{
+                "name": "ESPN 4  SENSA",
+                "url": "http://localhost.apppelis.es/solplay/66.mpd ESPN 2",
+                "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=8836252059b793a79173838dc1186ff1&key=aa16f90e51ce5652dab93834e434caa8",
+                "headers": {
+          "Origin": "https://player.sensa.com.ar",
+          "webtoken": "1.0",
+          "Referer": "https://player.sensa.com.ar/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+					
+                }
+            },
+
+		
 
 			{
                 "name": "FOX SPORTS SENSA",
