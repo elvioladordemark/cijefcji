@@ -1021,7 +1021,7 @@ https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
              
 			{
                 "name": "ESPN 1 SENSA",
-                "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
+                "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
                 "icono": "https://i.postimg.cc/FRP4NTCx/download-(46).png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=6d243ebd7a57bea4b4b052ae13f4c051&key=5c1925879de873d43b7c25925902539b",
@@ -1029,7 +1029,7 @@ https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
           "Origin": "https://player.sensa.com.ar/",
           "webtoken": "1.0",
           "Referer": "https://player.sensa.com.ar/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 					
                 }
             }, 
