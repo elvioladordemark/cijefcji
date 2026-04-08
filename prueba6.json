@@ -1,26 +1,21 @@
 
 [
  
- {
-  "name": "⚠️ AVISO IMPORTANTE",
-  "url": "https://example.com/aviso.mp4",
-  "type": "INFO",
-  "icono": "https://i.postimg.cc/3N0p6VQx/warning.png",
-  "descripcion": "Esta aplicación será dada de baja en los próximos meses. Te recomendamos migrar a PLAY TV PREMIUM para seguir disfrutando del servicio sin interrupciones."
-}
-	
-	
-	
-	
-	
-	
-		]
-    },
+
 	
 	{
         "name": "⚽LANC TV⚽",
         "samples": [
           {
+  "name": "⚠️ AVISO IMPORTANTE",
+  "url": "https://example.com/aviso.mp4",
+  "type": "INFO",
+  "icono": "https://i.postimg.cc/3N0p6VQx/warning.png",
+  "descripcion": "Esta aplicación será dada de baja en los próximos meses. Te recomendamos migrar a PLAY TV PREMIUM para seguir disfrutando del servicio sin interrupciones."
+},
+			
+			
+			{
         "name": "LANC 1",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
