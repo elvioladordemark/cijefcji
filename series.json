@@ -29687,6 +29687,50 @@
                     ],
                     "tmdb_id": 227042,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Emergencia radiactiva",
+                    "genero": "Drama, Misterio, Action & Adventure",
+                    "descripcion": "En esta serie dramática inspirada en hechos reales, físicos y médicos intentan contener una catástrofe radiológica y salvar miles de vidas.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/uUwjFSIQsjCYJBArTdTuwCFvZM6.png",
+                    "icono": "https://image.tmdb.org/t/p/original/n37h13DmkdYSkX2nP4YPvNZbmUz.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/3v2JfPAr1dP23hGTkG44dRYGri6.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un desastre sin precedentes en Brasil",
+                                    "url": "http://goovdme.967sd1f.homes/vod/71525C9F0ECB40FD89452E2160D582B6_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¿Cuándo podremos volver a casa?",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/7929FE541E544A08ADB4DC2DAECA958E_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¿Estamos bebiendo agua contaminada?",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E97EFF3E49064A9E84F3DC43180FE457_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Siempre tenemos elección",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FB200D5AA59F47B392E2B6D70D8A9625_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La confianza es clave",
+                                    "url": "http://goovdme.967sd1f.homes/vod/29793F27C57E42689D65CA3BDC2E5ECC_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 292474,
+                    "total_seasons": 1
                 }
             ]
         },
