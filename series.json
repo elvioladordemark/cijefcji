@@ -29731,6 +29731,65 @@
                     ],
                     "tmdb_id": 292474,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Bandi",
+                    "genero": "Drama",
+                    "descripcion": "Tras la muerte de su madre, un grupo de hermanos huérfanos de Martinica lucha por salir adelante, lo que lleva a algunos de ellos a delinquir para permanecer juntos.",
+                    "anio": "2026",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/nlmIwihKTLm6d1yLFWVmTiqjKTR.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/zRPfRuLq1eCyEvlsKhl1k96lRw9.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/8DF39B1A85164440BE19AE780175008B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E444C42DD41047A9AC399DDA906C8BF0_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A6AAF40263D74610A351C27F496A8CD4_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F7B3A437ED9A47558647BB1EB5985126_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A0FF79BDD0004915BB7930E340E939D5_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5722FF3A9FCF495FB8E9427EA47C7D15_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/E6956B951804460885F404F48EC89188_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/E945D1CA70954B258943013D35403913_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 269161,
+                    "total_seasons": 1
                 }
             ]
         },
