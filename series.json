@@ -36974,6 +36974,70 @@
                     ],
                     "tmdb_id": 61859,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Harry Hole",
+                    "genero": "Misterio, Crimen",
+                    "descripcion": "Una serie de asesinatos rituales azota Oslo y un detective brillante debe enfrentarse a un rompecabezas de patrones, corrupción y a sus propios demonios para atrapar al culpable.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4TEU63rtuv1zrvF0fGoSiGkaBuJ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ubHwrufeIkNynTjkRDIbliWX9dM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/e9HhOb3o22t89lnpN511GzZE0Fp.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "36 segundos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/31B9F4AA9D0D41CCB75D0978B21B7EE5_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Fantasmas",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/99238943C13F4A3D8E92363D7BDF8732_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Será para silenciar esas malditas voces",
+                                    "url": "http://goovdme.967sd1f.homes/vod/95F10D5B4B1949B0A33E6C57611B7CF1_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Justo después de morir, pero antes de que se enfríen",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/846E3C2FE6304141B03FB5A6AE3D01F3_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La estrella del diablo",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EC4EDBB439EF43EF90611ACC816B7574_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Cinco",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C0F70B7B03A74260BC96F96C7076CFDB_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La bendición de José",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/CB2B071A30C84D768FA550CAF8D957FA_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La mujer en el agua",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CEA291D16DFD4F648C660E8B142F654E_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El piano de Duke Ellington",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E91EED05A8744856A4167C648A703D33_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 249597,
+                    "total_seasons": 1
                 }
             ]
         }
