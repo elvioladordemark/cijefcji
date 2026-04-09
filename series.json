@@ -29252,6 +29252,60 @@
                     ],
                     "tmdb_id": 313721,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Clanes",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Cuando el asesinato de su padre destapa la doble vida que llevaba, una abogada busca venganza infiltrándose en un cártel de la droga gallego y congeniando con su líder.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/iU3o2C6RYdpnu8ZZM7vQl2qnNNc.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sp63Z2BLpOpsvv9G9g4xArY1HnN.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/aqyeIdqUzVBwd22mXHI7I6tk1EM.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D18AF319DA2E4A8A991A87312C7D367E_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E7413D2CD00246ACA65CD9317C57E183_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B92339F87E004E45A01C74DC6F123E1E_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/3CD597D75AB2400FB74678F4BA8B7872_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/4F32AD6C5F674603AE7967F5AE454C80_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B7EDF22A2A974E97A659152A23250F2A_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5D00FEC182464183B8CC18755543D671_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 227042,
+                    "total_seasons": 2
                 }
             ]
         },
