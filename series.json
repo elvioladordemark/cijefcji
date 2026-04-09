@@ -14246,6 +14246,75 @@
                     ],
                     "tmdb_id": 291506,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Machos alfa",
+                    "genero": "Comedia",
+                    "descripcion": "A trancas y barrancas, los amigos Pedro, Luis, Raúl y Santi intentan adaptarse a la sociedad actual de mujeres empoderadas en la que se sienten muy perdidos.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/c0FRmRGkcbWbxQQ5rEtV7odkLOt.png",
+                    "icono": "https://image.tmdb.org/t/p/original/2TsfGgXutoakJjU1XgheX0M6iBP.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jKgSgZWGJCvwfOmrhCW67rKND29.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "En deconstrucción",
+                                    "url": "http://goovdme.967sd1f.homes/vod/34D7D3D1A6C24FECA43205F41C695923_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Lo que te absorbe es la vida",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/164D98ED83B94E78B12F420ABAC87914_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Masculinidad tóxica",
+                                    "url": "http://goovdme.967sd1f.homes/vod/0CBF7D33E77C4AE69DC37A81CBA119A7_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Hierbas ibicencas",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4C415CEEF8A34D1C99020699A38E9A2A_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Heteroflexibles sensibles",
+                                    "url": "http://goovdme.967sd1f.homes/vod/EB4799F713D9453195760B7A953F39DB_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La que has liado",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F719F0C4988F456BAE9DEEA848AA9A65_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "¿Cuándo lloraste por última vez?",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B38783E7E64D4D78BFD4440732E77C7E_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Con lo bien que estábamos",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/C062E7DFC7554FB7A88961AC842AA509_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El Moisés de los machirulos",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FBD5057D0DEF41BD917C9300CFCCA085_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "O falla el temario o fallamos nosotros",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/948E271F8E0247E59B53AA4BFCD3237A_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 215092,
+                    "total_seasons": 5
                 }
             ]
         },
