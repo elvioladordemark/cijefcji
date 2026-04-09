@@ -14463,6 +14463,75 @@
                     ],
                     "tmdb_id": 215092,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "Una nueva jugada",
+                    "genero": "Comedia",
+                    "descripcion": "Una fiestera reformada debe demostrar que es una buena empresaria cuando, sin esperarlo, acaba a cargo del equipo de baloncesto profesional de su familia.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/283Hy4d6WPK4t3FJ723yILLpekU.png",
+                    "icono": "https://image.tmdb.org/t/p/original/1pXDAxTnb9zYxMmrR5B8sALej3O.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xY3RLTXgV0IHmyPAE97p3ePWY1R.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://goovdme.967sd1f.homes/vod/404BB7DA97A8463685B5511F4AB38562_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Joe Pesci",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/AF43DF48168B4B088EC3719820F92004_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El asunto Travis Bugg",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C1FB72BC87F74FC1B192AFB2252C143D_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Doljanchi",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/EC94B8D9599244349F01E7AD597A81E9_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Alma gemela",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/2783A4551390496C8773C830D863DC7E_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Los nervios",
+                                    "url": "http://goovdme.967sd1f.homes/vod/459592CA0E504BCC9B458A9169A5203F_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Sororidad",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/52DB5EE10D244099A5FF177589F64CEE_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La racha",
+                                    "url": "http://goovdme.967sd1f.homes/vod/92CC47A918344DF989C8B920000E96B2_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Los playoffs",
+                                    "url": "http://goovdme.967sd1f.homes/vod/476A5F31B27E46F4A01912A7FC7C42AC_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "El séptimo partido",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A3EC6D810ABE4AA59936F287B0E08B0F_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 244623,
+                    "total_seasons": 2
                 }
             ]
         },
