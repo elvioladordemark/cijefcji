@@ -34797,6 +34797,40 @@
                     ],
                     "tmdb_id": 127529,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "El beso de la sirena",
+                    "genero": "Drama, Crimen, Misterio",
+                    "descripcion": "El investigador de fraudes al seguro Cha Woo-seok recibe una misteriosa llamada de una informante que afirma tener pruebas de un asesinato relacionado con un fraude. Antes de revelar la verdad, la informante muere. La investigación de Woo-seok lo lleva a la Subastas Royal y a su subastadora principal, Han Seol-ah, cuyos tres prometidos han muerto en circunstancias sospechosas. Para revelar la verdad, o quizás para ponerla a prueba, Woo-seok propone fingir una relación. Al descubrir sus secretos, se da cuenta de que podría haber caído en una red de la que no puede escapar, y que escapar podría costarle todo.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/iEVo8tGo7TC3aSBsHKoiPTvZCTU.png",
+                    "icono": "https://image.tmdb.org/t/p/original/x4Se5oHeTmA6NuDuYVP2nQWTjtU.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kgnukvQ1YKotz734ACQxDTvDCGe.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B145D876DEBD4990A4988B40EC18FF1B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/F2E2EB6FAB824E1A986DAFB7C928AD11_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/FDE6CE1EE3EE4998BEBC097F65BC789B_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 310800,
+                    "total_seasons": 1
                 }
             ]
         },
