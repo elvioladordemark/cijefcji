@@ -14187,6 +14187,65 @@
                     ],
                     "tmdb_id": 195670,
                     "total_seasons": 3
+                },
+                {
+                    "nombre": "Errores epicos",
+                    "genero": "Comedia, Crimen",
+                    "descripcion": "Dos hermanos muy incompetentes se ven obligados a trabajar para gente muy peligrosa… y acaban convirtiéndose en el dúo más desorganizado del crimen organizado.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ku9ZsH9QpxE8YHhFMZbbPgBTRfd.png",
+                    "icono": "https://image.tmdb.org/t/p/original/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/oGORe3yzIPBueHVHroSmsaMVKDi.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/94B61CA990E145ACA4664DDB5B89EF48_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/35E7A4D2CA51423D9AF6FFBCB7CA8994_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/A1C2ADB31FAE442E86C9D5655D749144_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/679D881CDF004560ADEA22C2096DDE13_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/9A96C96BE4FC4468AE6F39E6E87D6563_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5A157E1A53E24106A29AD250BF3BF2DF_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/4F18C12BCAF34C89885F226AF1641582_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://goovdme.967sd1f.homes/vod/4832DC65233F4D17A2E80256A50EB414_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 291506,
+                    "total_seasons": 1
                 }
             ]
         },
