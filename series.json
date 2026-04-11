@@ -14571,6 +14571,45 @@
                     ],
                     "tmdb_id": 244623,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Malcolm: De mal en peor",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Han pasado veinte años y Malcolm y su familia siguen sin aprender absolutamente nada.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rrUvm3Ic1sVKjgA3BvYYxbYXgT.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hsRxfDXuecLGIKxe9rz7aJSgRdD.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uekZzyLReK777QKO9xKwiPOelCQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D736FBD086C340B5B6DD0235B841034F_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/76B4D3E49E4D4A17AE055CB30776881F_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/093FA69B0DBC4685BE451AD34FB8414E_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/6AF0D76C9FC4436195D370D082868F41_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 279471,
+                    "total_seasons": 1
                 }
             ]
         },
