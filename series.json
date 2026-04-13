@@ -14413,6 +14413,55 @@
                     ],
                     "tmdb_id": 279471,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "DTF St. Louis",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Tres personas de mediana edad se enredan en un triángulo amoroso que conduce a la muerte prematura de una de ellas.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/tjnwKNS1pq3LPRlQDAR9nicuHTk.png",
+                    "icono": "https://image.tmdb.org/t/p/original/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8mO4cYZI1X8sanR4u6f07FiQ8dC.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Cornhole",
+                                    "url": "http://goovdme.967sd1f.homes/vod/5B42208F6CA6407BB40153941785CAFC_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Échale mano",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B2726D80EC134FE2BA96D745241F03AC_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Mi zumo favorito",
+                                    "url": "http://goovdme.967sd1f.homes/vod/E1397BB37CF041E888BB2FC5BF1216BF_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Mutua de Misuri - Seguros de vida y salud",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/8E741325453B43AA98FB20B2E92EE7BF_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Anfezina",
+                                    "url": "http://goovdme.967sd1f.homes/vod/D2F39072A5FA4715960741C36D0BD84D_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Operación Denny's",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/5C1F666368BE4C77A8F31482A7FC9174_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 206828,
+                    "total_seasons": 1
                 }
             ]
         },
