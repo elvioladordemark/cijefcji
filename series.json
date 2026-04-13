@@ -29799,6 +29799,55 @@
                     ],
                     "tmdb_id": 250220,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El infierno de las mujeres",
+                    "genero": "Drama, Crimen, Misterio",
+                    "descripcion": "Varsovia. Años 30. La editora de una revista matrimonial descubre que el periódico de su marido podría estar relacionado con la misteriosa muerte de una joven bailarina. Mientras intenta descubrir la verdad, su mundo cambia irremediablemente.",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/aKGmHek0qg00PJVD9aRohijdHl2.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ni4PIYl6P6kjQpFOzZp3fbfZf6S.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/pErnzuGAqpSTMOaU9fxB4Is981z.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/B2174E7192304BE2923427A0B74CA48B_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/BC94DBC5D52245E2B1DB282AE99507FB_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/51BC2F30E491415E96E7534C1D27A919_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/1BD0293DA3234045953A4A13AF09F789_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/CDB105995AF1469E8FCD387FEC470C5F_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/79C3BC15C6C74D6E966947429FCD87A5_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 286702,
+                    "total_seasons": 1
                 }
             ]
         },
