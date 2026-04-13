@@ -29730,6 +29730,75 @@
                     ],
                     "tmdb_id": 269161,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "The Miniature Wife",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "",
+                    "anio": "2026",
+                    "iconPng": "https://image.tmdb.org/t/p/original/l65uUGq3YcyCkiOSbzLqKMpvujW.png",
+                    "icono": "https://image.tmdb.org/t/p/original/99SkFAS3S3iOtnplwH0byFUMiHK.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1pOaF4TvLApAODYD1mNHUPVPzI7.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/75B12C4EFAEF45E397D9F7CE924E5CAF_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/35CB44A718564025B6C1507FBCD5E2F3_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/F2D21532F06D4E26926072A65486A21A_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7277E728850743189985CF3CAE62F7A2_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/47547A8342D843028ECE2C60F5D62CCE_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/74ABB4F5A07B408AAF00CEA4384D8DF5_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/B248431071D54297A8B3D830AE0AB445_media.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/681DF0D5730E4A7892F51EE7531174DA_media.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://goovdme.967sd1f.homes/vod/7C9DD65B65BB4DE5A4845B3AC07F2E2F_media.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/16EC00FE43F4432EA3AD5B9A4927C598_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 250220,
+                    "total_seasons": 1
                 }
             ]
         },
