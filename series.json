@@ -29902,6 +29902,55 @@
                     ],
                     "tmdb_id": 286702,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Máxima",
+                    "genero": "Drama",
+                    "descripcion": "Máxima Zorreguieta y el entonces príncipe de los Países Bajos, Guillermo Alejandro, se conocen en una fiesta durante la Feria de Sevilla. La chispa salta inmediatamente entre ellos y pasan a ser el centro de atención de toda la prensa internacional. Pero, cuando Guillermo Alejandro le propone matrimonio a Máxima, todo su pasado vuelve. Las discusiones constantes sobre la carrera política de su padre en el régimen de Videla en Argentina harán peligrar esta relación.",
+                    "anio": "2024",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/96FRi8wJ5El6x1MPhI7dwIlHuhl.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/21omb0bBk5yxQIOnJWPsVcCBFJS.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Capítulo 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A1AA4CFBB7C3407F8E024759B7BDCC91_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Capítulo 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/BBC8476D6FD9444F96814046502ED718_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Capítulo 3",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A0540578E02B47959F204E21789F013E_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Capítulo 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/92EC4F0915CA42468AD2BAD3983DBA60_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Capítulo 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/02549A9A3835475382E7297D91AD4C32_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Capítulo 6",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/4D7D5F8176D34CAA886984B201B423FE_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 241889,
+                    "total_seasons": 3
                 }
             ]
         },
