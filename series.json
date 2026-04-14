@@ -18412,6 +18412,60 @@
                     ],
                     "tmdb_id": 100043,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Sanctuary: Historia de una bruja",
+                    "genero": "Drama, Sci-Fi & Fantasy",
+                    "descripcion": "Sarah Fenn es una bruja moderna que utiliza sus poderes para hacer el bien en Sanctuary. La tranquilidad del pueblo se ve alterada cuando Dan, un chico muy popular en la comunidad, muere trágicamente durante una fiesta. Aunque Harper, la hija de Sarah, no parece haber heredado los poderes de su madre, algunos adolescentes la acusan de utilizar la magia para vengarse de él.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/qWh7qT6ZgfZ0KaTOSj54TVtc9SB.png",
+                    "icono": "https://image.tmdb.org/t/p/original/y0YXIhmHoDs6OAuRmRMLIhysiOP.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vkkKenl05Uj1GavVLAQZTqwAxgi.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://goovdme.967sd1f.homes/vod/43B1224BD0614A5CA0B0DAD71FD28A24_media.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://goovdme.967sd1f.homes/vod/2626A98A8D0945CD981194628700566A_media.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vdipbp.reyildgjq.com/vod/86D00F7BB8D04BACAB55E25C0645554B_media.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://goovdme.967sd1f.homes/vod/C811001901744E5D85B49C1CE084DC30_media.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://goovdme.967sd1f.homes/vod/71F09921657A439D88F81CCFC218309B_media.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://goovdme.967sd1f.homes/vod/DB55B98E646341F58C0DBB7D7405BDE5_media.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://goovdme.967sd1f.homes/vod/A370705FB5A04617BCF71CC2DEF52F4A_media.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 238585,
+                    "total_seasons": 2
                 }
             ]
         },
