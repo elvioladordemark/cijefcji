@@ -15,7 +15,7 @@
                 }
             },
             {
-                "name": "TELEFUTURO opción 2",
+                "name": "TELEFUTURO  2",
                 "url": "UbLmIvzviwUtqKFh7gz273HPHe2KN/0jFwV2O73YSK4NQOwt0EcgaLsQqpmaUaK5Mvxeqd2PNe7KYx6LtlJcHQ54I3x+YTo7zE2D0hP1Fb0zRwiM3qZlzq6WdHDtSkr0",
                 "type": "CLEARKEY",
                 "drm_license_uri": "nRG/uPtDB5So/ctXbxACyzQtOq4/YDpBhHuQHDur8rsv+QZnX03xMhEaDl6RN6CYV+UtMQiSDsuepSUgbgad5+SGVgYQizL1G7MxZm0x0ne9pjjuioQv8aIQR3P0Q00b10+5xZ+OoQUSB443cZOgs1iVHoC9I0iRb3Z4PBxgF4dF+nXgHC5bMd1ImConQm83HMqGKu1Z17L35caO3RJUaw==",
@@ -3129,6 +3129,18 @@
     {
         "name": "prueba",
         "samples": [
+            {
+                "name": "GEN TV",
+                "url": "SJaDv3i2fR9rX4GKeeULb01O9c+fVVVZ01zslSOJDTADs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4edFOh878cjSPXIMwjExPGMj49QQ7yorZeuqr93ax2XZ8zR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2szMoYc4QWmuoK1Uy4do69N/sqxUgqgfQ5SXEOm5MAH+x6LGE9ZbZ3MnjA/4BHPPpVcRBn56eepyui7ZOzw+2cgluByKIKmuClDWC2zgcUkJKAStTsUwL9OKRHKHvOVrchov8w5xj49zBp2sAEMTEEGwxErZXKYBP62SLo+OdiQ2CALX/+hpwJbqa7ZWSCtoASNzy6bGWeLYdgwHtf+w+GvZ0Ak13Ow6CXbCRZQt/YoFS8B4rEuRhPao/CGdagkgewDyH5uNbLnvcgUtUgx1RLlGek/DLAaGawXm3xRcG89mkcn92vgMIhPaisXdB2RWj5f5wJXPq0xKCfWN6TOI8VAaEX3xxKD05W/Tf1uRFszA7QVEfik+MErMLSrsOHItkDxpLFuSSuhaVu8NZa5fd5vGN+0OO9tsK9gIi3lJzIfzpnFFr/RODTIpHGWGvnQjpIVo7Q5Fhs29wBWWLY8cun1h5GLWGWUfiiMt7K+3oJhZlVYNyXrLuAhaxPNVZhs3kRFBULgMW50Dy1GdDMyMW3zsDQqcVy047P9a8tTbSid52dkFn9tXhH+LsFIGQLblcN7XgneHxDr0xcHr+wmv+a+Q==",
+                "type": "CLEARKEY",
+                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06jWioSw7ANhMH9Fn9nBHZFSvdGzFNiB3onH6VWh94QfWe26Mu5jrsTfN83YbrL3J9i6wtAr4dKVpuHSa3/cfAvbhONDe49BXI/u/S8opyamgQ==",
+                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
+            },
             {
                 "name": "ESPN PREMIUM",
                 "url": "SJaDv3i2fR9rX4GKeeULb01O9c+fVVVZ01zslSOJDTADs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4edFOh878cjSPXIMwjExPGMj49QQ7yorZeuqr93ax2XZ8zR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2szMoYc4QWmuoK1Uy4do69N/sqxUgqgfQ5SXEOm5MAH+x6LGE9ZbZ3MnjA/4BHPPpVcRBn56eepyui7ZOzw+2cgluByKIKmuClDWC2zgcUkJKAStTsUwL9OKRHKHvOVrchov8w5xj49zBp2sAEMTEEGwxErZXKYBP62SLo+OdiQ2CALX/+hpwJbqa7ZWSCtoASNzy6bGWeLYdgwHtf+w+GvZ0Ak13Ow6CXbCRZQt/YoFS8B4rEuRhPao/CGdagkgewDyH5uNbLnvcgUtUgx1RLlGek/DLAaGawXm3xRcG89mkcn92vgMIhPaisXdB2RWj5f5wJXPq0xKCfWN6TOI8VAaEX3xxKD05W/Tf1uRFszA7QVEfik+MErMLSrsOHItkDxpLFuSSuhaVu8NZa5fd5vGN+0OO9tsK9gIi3lJzIfzpnFFr/RODTIpHGWGvnQjpIVo7Q5Fhs29wBWWLY8cun1h5GLWGWUfiiMt7K+3oJhZlVYNyXrLuAhaxPNVZhs3kRFBULgMW50Dy1GdDMyMW3zjHZ3OL642nVwgtvqtRhnRW41PdRLuoCaJaK5jQ1smDxnGCyrx3Lf/yFcLKGFC6BMzXoB8lSAtONJ1X7zMMkQZLoqJUhAiKdRCA+O4LuyRkZ",
