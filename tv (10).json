@@ -1307,14 +1307,13 @@
         "name": "⚽LANCES, SOLO EN VIVO",
         "samples": [
             {
-                "name": "LANCE 01",
+                "name": "LANCE 1",
                 "url": "ZBjPLOQj+qWX7ZXjfZz/8dVfJCYyRhb7ybWMnZ06NfHOJ4DBpdYUnBKwVY0x+xNHLzbpCdsqmZZBlawu1UD6UfZ3q4UWiqByZmnDeuYGMmt+q47KOIu8XbiRVBLbMnSHKjMjBhVoLSJs2gxjsTfopdVZazaztWuK7M47Q6XqQBQ=",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/RnDDv5b/LANCE-1.png",
-                "drm_license_uri": "5k3plTa2rCEgHbwuovXNaQywPTzgR7SFohPptorUClk/jKn5K5T71eREUmldwq8g0XgD8l0GY1vux2wTvrKp9KJNxM1saBq6jdhPS8l0BpsmVdGY7712gXaePencpJm61sf2kzt2XLW4YOt8dD4y3XgXgZmuBO6Feq3UNbWJ27Y="
+                "type": "HLS",
+                "icono": "https://i.ibb.co/RnDDv5b/LANCE-1.png"
             },
             {
-                "name": "LANCE 02",
+                "name": "LANCE 2",
                 "url": "ZBjPLOQj+qWX7ZXjfZz/8cjHz+x4CY18HQXzwFjDgnvOJ4DBpdYUnBKwVY0x+xNHLzbpCdsqmZZBlawu1UD6UfZ3q4UWiqByZmnDeuYGMmt+q47KOIu8XbiRVBLbMnSHKjMjBhVoLSJs2gxjsTfopdVZazaztWuK7M47Q6XqQBQ=",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/hRzszvG9/LANCE-2.png"
