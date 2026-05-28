@@ -1307,28 +1307,16 @@
         "name": "⚽LANCES, SOLO EN VIVO",
         "samples": [
             {
-                "name": "LANCE 1",
+                "name": "LANCE I",
                 "url": "LCi3xF5Z7MkI0xJkNeIwppzaJolBI+AHyMzeRq5fNCUvI2Ooz6bPdNis15rrK+gQ",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/RnDDv5b/LANCE-1.png"
             },
             {
-                "name": "LANCE 2",
-                "url": "ZBjPLOQj+qWX7ZXjfZz/8ZpOVrnkWn4gQ12RHcYuik/OJ4DBpdYUnBKwVY0x+xNHLzbpCdsqmZZBlawu1UD6UfZ3q4UWiqByZmnDeuYGMmt+q47KOIu8XbiRVBLbMnSHKjMjBhVoLSJs2gxjsTfopdVZazaztWuK7M47Q6XqQBQ=",
+                "name": "LANCE II",
+                "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+m6KemEdhsHRwo9cLNp8fb171Jx7lS4GxJDy+prOXyxEA==",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/hRzszvG9/LANCE-2.png"
-            },
-            {
-                "name": "LANCE 3",
-                "url": "soCYdyTsWseV62TwZUDxNVz4y7STdiV11Qnhqx6aWMeQJWjQ0wi1l2da6LD/Knfs9XUgrhNbBFlCDDsFyC1zP0KiD1p5lrsUsU9XYDNKJcYyfLMGTlXRmJt5ha/am7Z4",
-                "type": "CLEARKEY",
-                "drm_license_uri": "9HmIeY9L+p0886Uf/K2iFHyUFaD9wjOpb8SInLsUMBiR586fLHq+/vkAQFsmuuX3gjFb3inyNZomFSxM6szvCxahsD4C/TRn5HwpcZKKRi6+mFaLIER3imbEK0T3natkawXnE163RhEzg0dXQbtXVGKF2NXAFvvpml+Af7qKLtQ=",
-                "icono": "https://i.ibb.co/zVK9fS7N/LANCE-3.png",
-                "headers": {
-                    "Origin": "0jBiMWIgKi5dX93cmmHQxuGTPWoqDGkZdOlUzUdbQY8=",
-                    "Referer": "0jBiMWIgKi5dX93cmmHQxu9cOQNqT8hi9sKld9jZ2xI=",
-                    "User-Agent": "L/a7K1J3vwJrlE59nGhl3g=="
-                }
             },
             {
                 "name": "LANCE SPORTS",
