@@ -1360,7 +1360,12 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
                 },
                 "name": "ESPN BR",
-                "type": "HLS"
+                "type": "HLS",
+                "headers": {
+                    "Referer": "LoZnp5rQT4ABNY2SHQyaVdJJGju+5JY6azvnElHdUGA=",
+                    "Origin": "LoZnp5rQT4ABNY2SHQyaVdM85aKPYzPMywRARRPxdSg=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0LBVDXX6CXvGXSDjoCi6YDcAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
             },
             {
                 "nombre": "SKY LA LIGA",
