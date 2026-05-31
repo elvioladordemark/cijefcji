@@ -3141,9 +3141,11 @@
             },
             {
                 "nombre": "ESPN 1 opción 2",
-                "url": "JvQ13f7I5qkM0qr7u4eLNqMo+hR04iQoSxY5U0Lj5i5yBBT/lIihn9dPqA/7iS2H",
+                "url": "1R26EWWZDjX44TI/4fu0tJCq4H8fqwEnLJflzo3cbFCSjpQdF7/OHvAkNPS1RUPe",
                 "tipo": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+                "name": "ESPN opción 2",
+                "type": "HLS"
             },
             {
                 "name": "ESPN PREMIUM",
