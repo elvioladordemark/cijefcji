@@ -1350,24 +1350,6 @@
                 "icono": "https://cdn-cms74.hub.directvgo.com/documents/91224/494108/PREMIERE.png/26c4d41e-106d-6892-b429-ca16f94bdff8?t=1666321937327"
             },
             {
-                "nombre": "ESPN BR",
-                "url": "wLEPbeaIblHCRtsxkn4t95xAPbCTn/K1WkVpsXY951opRWMegXZtVVGU2DaZYjhT",
-                "tipo": "HLS",
-                "icono": "https://i.postimg.cc/9MD3FkT1/download-12.png",
-                "encabezados": {
-                    "Referidor": "https://embedtv-2.icu/",
-                    "Origen": "https://embedtv-2.icu",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-                },
-                "name": "ESPN BR",
-                "type": "HLS",
-                "headers": {
-                    "Referer": "LoZnp5rQT4ABNY2SHQyaVdJJGju+5JY6azvnElHdUGA=",
-                    "Origin": "LoZnp5rQT4ABNY2SHQyaVdM85aKPYzPMywRARRPxdSg=",
-                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0LBVDXX6CXvGXSDjoCi6YDcAKjz2Jyt7kVe2uJi7Nu5Aw=="
-                }
-            },
-            {
                 "nombre": "SKY LA LIGA",
                 "url": "XWELHvdiH6UYRZL3mgWsqEcGDg1YUyZnMAjWUaO5ILXjoNgw2YFbSxNcN9SSXYI1ZxBmiOel7JOC190c/ljKfGtAsI6YW7MJhySiksu/fHI=",
                 "tipo": "CLEARKEY",
