@@ -3300,11 +3300,18 @@
                 "type": "WEBVIEW"
             },
             {
-                "name": "DIRECTV 1",
+                "name": "DIRECTV SPORTS",
                 "url": "RwKyEsEi3ptEu9Xc85Eay/eXm2PQE2lbYjzI2WJEYBFsIzB72cdx1buFx48+1PWAfROg5qs48KQcT+45qy5zEaNWsZoOF6VRf/CK6ngmo84CRkH2L97eVFSWN82/HQX+MlOZoWzb4RGC+y4iZNxAUCdIEQZZ/Y268XeT6wWIaIsz5LB+cI/pjGx1w0/Fj7nT",
                 "type": "CLEARKEY",
                 "icono": "https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp",
                 "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06h5RYG1gJw1cF93awboZStx2ZysV55JNs56+2iyaTeNahDIqI0ARe7MxRGNu2IsJt0DNg4TrQ7EJJAFstHcdPkWWye0yT/hO7F9yebfPeuGYA=="
+            },
+            {
+                "name": "DIRECTV SPORTS 2",
+                "url": "RwKyEsEi3ptEu9Xc85Eay/eXm2PQE2lbYjzI2WJEYBFsIzB72cdx1buFx48+1PWAfROg5qs48KQcT+45qy5zEWjbbkovBi8aI4rhiC8dK9/JxPjkeji464Hz7IvTPdsx1dYocTiaKgvC7TIqU0dYH8LUvN4prv5js0qHvvCeUDYz5LB+cI/pjGx1w0/Fj7nT",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg",
+                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06h8weNDZ6YfiGvaoX6CMtOHokVGnA/MMTzc2fIyVONai6IBwF0rbL06/mC42xLMx9N7XMHrcwu06vgAi1orP2Bgbek4sCfOKnITR7eroh41Ww=="
             }
         ]
     }
