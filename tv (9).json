@@ -15,14 +15,13 @@
             },
             {
                 "name": "OPCION 2",
-                "url": "https://lbgo.bozztv.com/ssh101/ssh101/ocerpy/playlist.m3u8",
+                "url": "http://sam-py-edge09.tigo.com.py/ccur-session/6a2348c1c8/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
                 "headers": {
-                    "Origin": "https://www.tigosports.com.py",
-                    "Referer": "https://www.tigosports.com.py/",
-                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+                    "Referer": "http://www.tigosports.com.py/",
+                    "User-Agent": "Firefox"
                 }
             },
             {
