@@ -9,7 +9,8 @@
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
                 "headers": {
-                    "Referer": "http://www.tigosports.com.py/",
+                    "Referer": "https://gabito.site/",
+                    "Origin": "https://gabito.site",
                     "User-Agent": "Firefox"
                 }
             },
