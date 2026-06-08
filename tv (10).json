@@ -91,30 +91,6 @@
                 "type": "HLS"
             },
             {
-                "name": "ESPN PREMIUM",
-                "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpHwoUkderxEwlStXfkOSOHpDp9ma3vSSosnhaBXNn4cXvR7Gxu+srnXn2J/aKWBoDVCrBmaOpPxcrjtBo+3gZndOqWESCDB9KejxqUtXPv4Aw==",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06iKu7wuoSCa6lakoem4upU//AN7uuUE6keT+jtAF24rXZ3m3ZHwTaIoaSpBCVK1Nas0YICW9X5TdBnwyg8IM0DOvNgQjBG52NjAoa5lN7oKBw==",
-                "headers": {
-                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
-                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
-                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
-                }
-            },
-            {
-                "name": "ESPN PREMIUM OPCION 2",
-                "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpHwoUkderxEwlStXfkOSOHpDp9ma3vSSosnhaBXNn4cXvR7Gxu+srnXn2J/aKWBoDVCrBmaOpPxcrjtBo+3gZndOqWESCDB9KejxqUtXPv4Aw==",
-                "type": "CLEARKEY",
-                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06iKu7wuoSCa6lakoem4upU//AN7uuUE6keT+jtAF24rXZ3m3ZHwTaIoaSpBCVK1Nas0YICW9X5TdBnwyg8IM0DOvNgQjBG52NjAoa5lN7oKBw==",
-                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-                "headers": {
-                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
-                    "Referer": "Ssz8pUSwuOOXrjMOfMcImXXAYGsAWcB/i+XsKesTWM8SuY7Nx3oz3xeW1g3jzvvm",
-                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
-                }
-            },
-            {
                 "name": "LANCE MUNDIAL",
                 "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+ld6TY2KVi0GtFDFBZEg99XcvQH9Ipc7JeBnXTUpvpT+Q==",
                 "type": "HLS",
