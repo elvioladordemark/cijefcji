@@ -109,10 +109,16 @@
                 }
             },
             {
-                "name": "UNICANAL 🇵🇾 2",
-                "url": "lWli9J6/vCTCdoHyquryJsQktRpyeX/OkICx9WYBL5q4BFA5IqdB9br30Itkk+16tUHGko0+nkdmSlAoqIv8TQ==",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
+                "name": "UNICANAL opcion 2",
+                "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpG1z1OO4iWm42CQpNta6O1Jrw/7I25TLzRsjbB6sDkySQCQs5G5tBu3G4m8uuR34RCOl+x5nnTirfaajlrEVbFL",
+                "type": "CLEARKEY",
+                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06iKYfWvLQEKI6HpqnNOPJLZMiNipk8CR6yN0AaDDOp6gc/7vkA9FQq4TOR7H5+Nt94Ti1GDvKMDj/P0WhzGZE3SWBeGmYgJtNdpuqfRPrkCZw==",
+                "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
             },
             {
                 "name": "RPC 🇵🇾",
