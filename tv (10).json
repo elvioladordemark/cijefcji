@@ -140,10 +140,12 @@
                 "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2026/06/PopuTVLogotvpy.png?fit=1200%2C675&ssl=1"
             },
             {
-                "name": "LANCE MUNDIAL",
-                "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+ld6TY2KVi0GtFDFBZEg99XcvQH9Ipc7JeBnXTUpvpT+Q==",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/RnDDv5b/LANCE-1.png"
+                "nombre": "ESPN",
+                "url": "1R26EWWZDjX44TI/4fu0tJCq4H8fqwEnLJflzo3cbFCSjpQdF7/OHvAkNPS1RUPe",
+                "tipo": "CLEARKEY",
+                "icono": "https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest/scale-to-width-down/1200?cb=20210826204726&path-prefix=es",
+                "name": "ESPN MUNDIAL opción 2",
+                "type": "HLS"
             }
         ]
     },
