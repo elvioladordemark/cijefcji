@@ -115,6 +115,18 @@
                 "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
             },
             {
+                "name": "RPC 🇵🇾",
+                "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpFMHcdW1wdTdMlX1FFFG2zPnahpYEQZP2pRDZdTqp4Wet6CoUPggQSQW/srwT5E1Qs=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "5k3plTa2rCEgHbwuovXNaZ+4pM1OVYSElVsD6WDvFLPP/yw2UMVE4KA8BSHN11VUDd0cLMAWWP7rdny/YdfhYf97+XkZAFXl8EiG4yfKzsZON53mshag1DWFOCYtSZG53+FH77dW4e2QMA3h18cBYA==",
+                "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
+            },
+            {
                 "name": "POPU🇵🇾 MUNDIAL",
                 "url": "skL0SptDEV+upha/QLFyRpHXTdQFXWP4GGAw9thlg8vBzDibqimArPVA0PqvUKdFdOcTwJpg03CF0oxX7ACDUn/OdoRyQkFY3lWwETUwVjtc2MeJwWiicOaHw+38HJ9F",
                 "type": "CLEARKEY",
@@ -1178,7 +1190,7 @@
                 "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpHWb+KDro/FMaOmrMAXtv+1+sM5XbCZW4ROh0mALy0Oj0jSKzrT20MRwGa93tBjxBhkUubhvR4/mRMZhMv73KXP",
                 "type": "CLEARKEY",
                 "drm_license_uri": "5k3plTa2rCEgHbwuovXNaTlipdGBRTmzvSliG5Dru68Abz0icZUhpL/OqcZ3fsMC/3vstQ/7QzmqUt0Y4kHHfLWVjbQmMpvs4wfuujdkVJp1CNjnmmbTjsVSmViegXU5wk7WRJoLMphV0gKdXZTGGA==",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPAJdIblZ9f_AfIEb7_nvBVF5teMZonZ0LA&s",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest?cb=20210609161318",
                 "headers": {
                     "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
                     "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
@@ -1189,7 +1201,7 @@
                 "name": "ESPN 2 OPCION 2",
                 "url": "1R26EWWZDjX44TI/4fu0tJCq4H8fqwEnLJflzo3cbFCy9vSr7A067s+LPm/T6K9f",
                 "type": "HLS",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPAJdIblZ9f_AfIEb7_nvBVF5teMZonZ0LA&s"
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest?cb=20210609161318"
             },
             {
                 "name": "ESPN 3",
