@@ -94,6 +94,42 @@
         ]
     },
     {
+        "name": "¡🏆⚽ MUNDIAL 2026 👉🏻 Opción 2!!!",
+        "samples": [
+            {
+                "name": "GEN_TV 🇵🇾 2",
+                "url": "skL0SptDEV+upha/QLFyRpHXTdQFXWP4GGAw9thlg8uO6jSzo97/jMVbPRDmVEV3IcnAkJH9k2yzj9/Ej6IGvf4s3uh3LaksxQUaXnEGvIg=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "nRG/uPtDB5So/ctXbxACyzQtOq4/YDpBhHuQHDur8rsv+QZnX03xMhEaDl6RN6CYV+UtMQiSDsuepSUgbgad5+SGVgYQizL1G7MxZm0x0ne9pjjuioQv8aIQR3P0Q00b10+5xZ+OoQUSB443cZOgs1iVHoC9I0iRb3Z4PBxgF4dF+nXgHC5bMd1ImConQm83HMqGKu1Z17L35caO3RJUaw==",
+                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
+            },
+            {
+                "name": "UNICANAL 🇵🇾 2",
+                "url": "lWli9J6/vCTCdoHyquryJsQktRpyeX/OkICx9WYBL5q4BFA5IqdB9br30Itkk+16tUHGko0+nkdmSlAoqIv8TQ==",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
+            },
+            {
+                "name": "POPU🇵🇾 MUNDIAL",
+                "url": "skL0SptDEV+upha/QLFyRpHXTdQFXWP4GGAw9thlg8vBzDibqimArPVA0PqvUKdFdOcTwJpg03CF0oxX7ACDUn/OdoRyQkFY3lWwETUwVjtc2MeJwWiicOaHw+38HJ9F",
+                "type": "CLEARKEY",
+                "drm_license_uri": "nRG/uPtDB5So/ctXbxACyzQtOq4/YDpBhHuQHDur8rsv+QZnX03xMhEaDl6RN6CYV+UtMQiSDsuepSUgbgad5+SGVgYQizL1G7MxZm0x0ne9pjjuioQv8aIQR3P0Q00b10+5xZ+OoQUSB443cZOgs1iVHoC9I0iRb3Z4PBxgF4dF+nXgHC5bMd1ImConQm83HMqGKu1Z17L35caO3RJUaw==",
+                "icono": "https://i.ibb.co/XZYvWY46/Berte-Perfil-1.png"
+            },
+            {
+                "name": "LANCE MUNDIAL",
+                "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+ld6TY2KVi0GtFDFBZEg99XcvQH9Ipc7JeBnXTUpvpT+Q==",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/RnDDv5b/LANCE-1.png"
+            }
+        ]
+    },
+    {
         "name": "CANALES DE PARAGUAY",
         "samples": [
             {
@@ -1142,7 +1178,7 @@
                 "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpHWb+KDro/FMaOmrMAXtv+1+sM5XbCZW4ROh0mALy0Oj0jSKzrT20MRwGa93tBjxBhkUubhvR4/mRMZhMv73KXP",
                 "type": "CLEARKEY",
                 "drm_license_uri": "5k3plTa2rCEgHbwuovXNaTlipdGBRTmzvSliG5Dru68Abz0icZUhpL/OqcZ3fsMC/3vstQ/7QzmqUt0Y4kHHfLWVjbQmMpvs4wfuujdkVJp1CNjnmmbTjsVSmViegXU5wk7WRJoLMphV0gKdXZTGGA==",
-                "icono": "https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest?cb=20130819193813",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPAJdIblZ9f_AfIEb7_nvBVF5teMZonZ0LA&s",
                 "headers": {
                     "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
                     "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
@@ -1153,7 +1189,7 @@
                 "name": "ESPN 2 OPCION 2",
                 "url": "1R26EWWZDjX44TI/4fu0tJCq4H8fqwEnLJflzo3cbFCy9vSr7A067s+LPm/T6K9f",
                 "type": "HLS",
-                "icono": "https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest?cb=20130819193813"
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPAJdIblZ9f_AfIEb7_nvBVF5teMZonZ0LA&s"
             },
             {
                 "name": "ESPN 3",
