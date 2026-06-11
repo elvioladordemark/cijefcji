@@ -100,6 +100,13 @@
                 }
             },
             {
+                "name": "SPORTV",
+                "url": "SRuEbpKDEj3gWY9w2EPjYznjRJkaWlCwI7UJ3K3mN/BsIzB72cdx1buFx48+1PWAfROg5qs48KQcT+45qy5zEXe64ol+lWymamYA454ldq7lYKxHeBhci8xxYWrCsfF+bxY9ft8HzkMepnX7Z4O5dJL7fSyPHB2Oy/QRC4p0tORihdjVwBb76ZpfgH+6ii7U",
+                "type": "CLEARKEY",
+                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06iUsnBu8l/fwcr5hWoV8QfLxCEru+IzjJZqBDK1AnQwR1C8wW+gPyPDN86MliZ5RvTunNqcSD18qclyFd/p87V224ca+3rHWfI3L2qFtBUfKQ==",
+                "icono": "https://i.ibb.co/RGnzxYv8/sportv.png"
+            },
+            {
                 "name": "TELEFE 2",
                 "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpEvQoedb3w/dgy43AaDjxc+issSLho3/cKW+745Ojv0hrLCf7EJuZGYzkkRgbBX3PF6Lby8pj512sm2awH8Ot0n",
                 "type": "CLEARKEY",
@@ -110,6 +117,18 @@
                     "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
                     "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
                 }
+            },
+            {
+                "name": "GLOBO SP",
+                "url": "1lS3gXPn1WultjNVxsHkO+aBJG6r4w6aJgyVBeZWkDiRauMw29GjiTLwfksxvOO/0NDpQybck5fkoEkXbqwZcA==",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/wF3MmkGN/Punto-Play-1.png"
+            },
+            {
+                "name": "SBT",
+                "url": "FBkxrd85+SkHp52mJJv2OtvnIAykuOJVV5xC6AoE/BaVJtWULX/XffPLAwYbOE2HGEOj2aZIEeDYAbQ7lVDvfn5YMZxRZjRB9sPu2Kgb6h8=",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/b5DncQn1/Punto-Play-SBT.png"
             },
             {
                 "name": "ESPN MUNDIAL",
@@ -158,13 +177,6 @@
                     "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
                     "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
                 }
-            },
-            {
-                "name": "SPORTV",
-                "url": "SRuEbpKDEj3gWY9w2EPjYznjRJkaWlCwI7UJ3K3mN/BsIzB72cdx1buFx48+1PWAfROg5qs48KQcT+45qy5zEXe64ol+lWymamYA454ldq7lYKxHeBhci8xxYWrCsfF+bxY9ft8HzkMepnX7Z4O5dJL7fSyPHB2Oy/QRC4p0tORihdjVwBb76ZpfgH+6ii7U",
-                "type": "CLEARKEY",
-                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06iUsnBu8l/fwcr5hWoV8QfLxCEru+IzjJZqBDK1AnQwR1C8wW+gPyPDN86MliZ5RvTunNqcSD18qclyFd/p87V224ca+3rHWfI3L2qFtBUfKQ==",
-                "icono": "https://i.ibb.co/RGnzxYv8/sportv.png"
             }
         ]
     },
