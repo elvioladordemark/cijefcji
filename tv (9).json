@@ -7,8 +7,7 @@
                 "url": "https://7v8mc4ie5mfk.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
                 "type": "HLS",
                 "icono": "https://www.ufcespanol.com/images/styles/background_image_sm/s3/2026-04/061426-ufc-freedom-250-EVENT-ART.jpg?h=d1cb525d&itok=XYATs_UA",
-                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-                "headers": {
+                 "headers": {
                     "Referer": "https://gabito.site/",
                     "Origin": "https://gabito.site",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/142.0.0.0"
