@@ -12,6 +12,17 @@
                     "Origin": "https://gabito.xyz",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/142.0.0.0"
                 }
+            },
+            {
+                "name": "OPCION 2",
+                "url": "https://1j4t6yi5wq3f.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+                "type": "HLS",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qOKakLCi6eaGr9HJ-tttuFN4QU8JsiHhojlF7L43MA&s=10",
+                "headers": {
+                    "Referer": "https://gabito.xyz/",
+                    "Origin": "https://gabito.xyz",
+                    "User-Agent": "Mozilla/5.0"
+                }
             }
         ]
     },
