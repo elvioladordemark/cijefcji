@@ -3,21 +3,15 @@
         "name": "🏆MUNDIAL",
         "samples": [
             {
-                "name": "ARGENTINA VS ARGELIA",
-                "url": "https://3v8ez7rt54hi.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+                "name": "PORTUGAL VS RD CONGO",
+                "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(_V9MPAix-QYFTXWFXPjLUHfQZViBVBMoni61AbbjoJAXZ9GMQAli8Rr5PoPj7ZwtItOG4RrDTI8U7dtubETyh3k4-QBSc4WbCanj4yUZ4z0bWwMtt_7L1JODGqpmgAyP)/cloud/3/x9ksaba/s/live-720.m3u8",
                 "type": "HLS",
-                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6pq2eAfELkPiGYZWQEjx8hwaSSRfxEcVdZ8SKuLt9rmkt9zT3B3wKCacnaMs30P04YTpzvQdgUN7_E9tAbsJZQly5SwTYhRqiXPCx_I-VjY0licN3yDyYlOMEz7bgHh1sry8c0A9pIPh6H79y7mNjbTcK3e4wKqpPbsKP_W-2JaFIbg3j1KI3Ufjzg/s1600/Argentina%20X%20Argelia.png=w766-h424-p-k-no-nu",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qOKakLCi6eaGr9HJ-tttuFN4QU8JsiHhojlF7L43MA&s=10",
                 "headers": {
                     "Referer": "https://gabito.xyz/",
                     "Origin": "https://gabito.xyz",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/142.0.0.0"
                 }
-            },
-            {
-                "name": "OPCION 2",
-                "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(qiCq1sy9N9rzpdkh5nlIhbePdMYgGy0h81MTxX2M3h-M-uVFymh0BRQYFFi_AVjRTUWRNiOyOq68R7d3BuTYDtHc5PdbeGXmG19Qsr-Bm7k9db5T4bjyDlge9DhsXBLU)/cloud/3/x9ksaba/s/live-720.m3u8",
-                "type": "HLS",
-                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6pq2eAfELkPiGYZWQEjx8hwaSSRfxEcVdZ8SKuLt9rmkt9zT3B3wKCacnaMs30P04YTpzvQdgUN7_E9tAbsJZQly5SwTYhRqiXPCx_I-VjY0licN3yDyYlOMEz7bgHh1sry8c0A9pIPh6H79y7mNjbTcK3e4wKqpPbsKP_W-2JaFIbg3j1KI3Ufjzg/s1600/Argentina%20X%20Argelia.png=w766-h424-p-k-no-nu"
             }
         ]
     },
