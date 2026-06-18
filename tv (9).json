@@ -2,53 +2,26 @@
     {
         "name": "🏆MUNDIAL",
         "samples": [
-           {
-                "name": "TRECE",
-                "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTE4NzIyIiwic2lwIjoiMTg2LjE3LjEyLjIyMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE3N2NjNDg1MTY4NzNkOTciLCJzZXNzaW9uX2lkIjoiMzIyMGQ2N2JmMzBlOWJiYzEyZGZjMjQ5Y2U3NDA5NzUtMTc4MTc0NTkyMi02NzYiLCJjbGllbnRfaWQiOiJmbG93Ojk5OTkwMDAwMjM1NzU1MS0tZmxvdzo5OTk5MDAwMDIzNTc1NTE6UCIsImRldmljZV9pZCI6IjMyMjBkNjdiZjMwZTliYmMxMmRmYzI0OWNlNzQwOTc1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bhp8aUb29Z_24LwgcGtwckOCrs5zZ4Uh7_YtwY_XcfkaXERtBRPI_LuRusCGknYb1WEjWsitBSysvW7gJNRLGg==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
-                "icono": "https://iptvstudio.pages.dev/logos/paraguay/trece.png",
+            {
+                "name": "OPCION 1",
+                "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(ErnrKaGx3lUoQDNvf5bkx9Y5CWFfT7FnyDE2tOCFi1lKnaUCHB2s-W9Q5XjWWBG4-oXVO4LhlNHSjG_--neJ-spylEOBDjFmVMrJW1eISeVev_UUYfXbql1fmWXDWykq)/cloud/3/x9ksaba/s/live-720.m3u8",
+                "type": "HLS",
+                "icono": "https://www.segurilatam.com/wp-content/uploads/sites/5/2025/08/mundial-2026-cartel-fifa-900x600.jpg",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "Referer": "https://gabito.xyz/",
+                    "Origin": "https://gabito.xyz",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/142.0.0.0"
                 }
             },
             {
-                "name": "TRECE   opcion 2",
-                "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTE4NzIyIiwic2lwIjoiMTg2LjE3LjEyLjIyMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE3N2NjNDg1MTY4NzNkOTciLCJzZXNzaW9uX2lkIjoiMzIyMGQ2N2JmMzBlOWJiYzEyZGZjMjQ5Y2U3NDA5NzUtMTc4MTc0NTkyMi02NzYiLCJjbGllbnRfaWQiOiJmbG93Ojk5OTkwMDAwMjM1NzU1MS0tZmxvdzo5OTk5MDAwMDIzNTc1NTE6UCIsImRldmljZV9pZCI6IjMyMjBkNjdiZjMwZTliYmMxMmRmYzI0OWNlNzQwOTc1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bhp8aUb29Z_24LwgcGtwckOCrs5zZ4Uh7_YtwY_XcfkaXERtBRPI_LuRusCGknYb1WEjWsitBSysvW7gJNRLGg==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
-                "icono": "https://iptvstudio.pages.dev/logos/paraguay/trece.png",
+                "name": "OPCION 2",
+                "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(DvF0xePRrjALiS_5oAJTF4eB_03XJUTRJ1GpAww1EMAqtxL_aGbUJTEdqtcN2cAoVGqzJmAZpbt0UgMy5RsTtmoW6u3BewZ3bx0ZX0MlgBvW69riKitQDJiGMM82ODk-)/cloud/3/x9ko9z8/s/live-720.m3u8",
+                "type": "HLS",
+                "icono": "https://www.segurilatam.com/wp-content/uploads/sites/5/2025/08/mundial-2026-cartel-fifa-900x600.jpg",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-           
-            {
-                "name": "UNICANAL",
-                "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTE4NzIyIiwic2lwIjoiMTg2LjE3LjEyLjIyMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE3N2NjNDg1MTY4NzNkOTciLCJzZXNzaW9uX2lkIjoiMzIyMGQ2N2JmMzBlOWJiYzEyZGZjMjQ5Y2U3NDA5NzUtMTc4MTc0NTkyMi02NzYiLCJjbGllbnRfaWQiOiJmbG93Ojk5OTkwMDAwMjM1NzU1MS0tZmxvdzo5OTk5MDAwMDIzNTc1NTE6UCIsImRldmljZV9pZCI6IjMyMjBkNjdiZjMwZTliYmMxMmRmYzI0OWNlNzQwOTc1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bhp8aUb29Z_24LwgcGtwckOCrs5zZ4Uh7_YtwY_XcfkaXERtBRPI_LuRusCGknYb1WEjWsitBSysvW7gJNRLGg==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
-                "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "UNICANAL opcion 2",
-                "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTE4NzIyIiwic2lwIjoiMTg2LjE3LjEyLjIyMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE3N2NjNDg1MTY4NzNkOTciLCJzZXNzaW9uX2lkIjoiMzIyMGQ2N2JmMzBlOWJiYzEyZGZjMjQ5Y2U3NDA5NzUtMTc4MTc0NTkyMi02NzYiLCJjbGllbnRfaWQiOiJmbG93Ojk5OTkwMDAwMjM1NzU1MS0tZmxvdzo5OTk5MDAwMDIzNTc1NTE6UCIsImRldmljZV9pZCI6IjMyMjBkNjdiZjMwZTliYmMxMmRmYzI0OWNlNzQwOTc1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bhp8aUb29Z_24LwgcGtwckOCrs5zZ4Uh7_YtwY_XcfkaXERtBRPI_LuRusCGknYb1WEjWsitBSysvW7gJNRLGg==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
-                "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "Referer": "https://gabito.xyz/",
+                    "Origin": "https://gabito.xyz",
+                    "User-Agent": "Mozilla/5.0"
                 }
             }
         ]
