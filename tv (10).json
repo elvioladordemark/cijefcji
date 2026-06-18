@@ -40,13 +40,13 @@
             },
             {
                 "name": "GEN🇵🇾 MUNDIAL 2",
-                "url": "SJaDv3i2fR9rX4GKeeULb2NK8PY66kwAdEfZoQIQ3eoDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efRubPfymc7F6fI2As18DVJyRCzvkSpvG+LEWIaHqTX6DR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2seuIVGxEHthXGv7S09sRX5kM/RKjIL0iAfMoss3cj/pySw4OWMDLfn5ci/o8DDgxrxH1lXINFG+Cbkj6FfSDulUlquUMWgzk6C630pX5URSjYa4Wm69IspAAidMWKDrsiPoYQn+BN47ObuzXFH9aigkT4KIJN9qRQ78OA41Jh4MgUZqnCXohoBs1NaXJL+ki629HdC+wNPAIpfF0XN0XVGSxQ2Q8mXb2T34kFlpIa4HStcr5qut45m1scQcM/TUK8gt1cNGZWh2iVmC8KIfrCKcnDI4eW9z7sqafd02oLI++lBG0arf2HjfHTXLmsCzYS3nM4lFIQSsJtIF3VkuNoYM9hn2HjPpjOaurSXOtCgNIAkXxSdxan4tc7mZCdI0Jdf+QQJtPipz8HSCY0zfe9pqw/pCpB0qOxx3WDJnEdkswYGepHRsrDCZZcshjI3pHLT/GqihEhT53Eomta6KhUUNS1+zG0Gluxdf3fmTbYT0TsnPRvVvws+vsquoZsD7BKltULFdPFwOzpn+pZcmYn4ggVNme05fVjo22gVJoeHAHEaFtebK388E/P0wfPS7ZBnFjRat7DItbeBIiNJ0msKQ7b/8I/YfkPEb3V4cj0qgFfNs0nKKHCwheJzDLGXgmzU2L+O5L+OghmVW6QBCe8FXbX9FypzJWNvFUJGU+nImhPCkSXR2o21QHYGQvqz27c+DeL9GsHtlX2MLiUjG2fzcDQqcVy047P9a8tTbSid52dkFn9tXhH+LsFIGQLblcN7XgneHxDr0xcHr+wmv+a+Q==",
+                "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpH7ZFHd1x9ppOYs0/sESEdf3+X5L1xgzRetwQj9z5iHl7cC0srW92eN4IlXTzKi1kM=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06jWioSw7ANhMH9Fn9nBHZFSvdGzFNiB3onH6VWh94QfWe26Mu5jrsTfN83YbrL3J9i6wtAr4dKVpuHSa3/cfAvbhONDe49BXI/u/S8opyamgQ==",
                 "icono": "https://i.ibb.co/VcRpdnF2/Punto-Play-GEN.png",
                 "headers": {
-                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
-                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
                     "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
                 }
             },
@@ -3413,6 +3413,18 @@
                 "headers": {
                     "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
                     "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
+            },
+            {
+                "name": "NOTICIAS_PY 🇵🇾",
+                "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpGJGRyXKXD4OpBr18gJ0z1OGo6MWDfy/R3VAQS3wWB83HoeOs3x4SbY20HSYc4+kYb0pEdwyKAW15gRCueYX3nu",
+                "type": "CLEARKEY",
+                "drm_license_uri": "5k3plTa2rCEgHbwuovXNaQqMtEbVNpyPhTo7mj9/pprpcRGOaPBKIb7lT58PwhE8jWaxxaz8BDQQ8tdYL5+v56hXKRa4r5xFjU2v0st0IuZ7INUPD6Zc5JiB2yFKumgaUILA2c+yhRklyo9bztPRhQ==",
+                "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
                     "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
                 }
             },
