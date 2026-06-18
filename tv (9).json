@@ -112,7 +112,7 @@
             },
             {
                 "name": "PY | SNT",
-                "url": "https://edge01-fdo-py.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+                "url": "http://edge01-fdo-py.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
                 "icono": "https://iptvstudio.pages.dev/logos/paraguay/snt.png",
