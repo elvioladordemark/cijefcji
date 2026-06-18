@@ -21,7 +21,7 @@
                 "headers": {
                     "Referer": "https://gabito.xyz/",
                     "Origin": "https://gabito.xyz",
-                    "User-Agent": "Mozilla/5.0"
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
                 }
             },
              {
@@ -32,7 +32,7 @@
                 "headers": {
                     "Referer": "https://gabito.xyz/",
                     "Origin": "https://gabito.xyz",
-                    "User-Agent": "Mozilla/5.0"
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
                 }
             }
         ]
