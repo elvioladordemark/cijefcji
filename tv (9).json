@@ -23,6 +23,17 @@
                     "Origin": "https://gabito.xyz",
                     "User-Agent": "Mozilla/5.0"
                 }
+            },
+             {
+                "name": "OPCION 2",
+                "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
+                "type": "HLS",
+                "icono": "https://www.segurilatam.com/wp-content/uploads/sites/5/2025/08/mundial-2026-cartel-fifa-900x600.jpg",
+                "headers": {
+                    "Referer": "https://gabito.xyz/",
+                    "Origin": "https://gabito.xyz",
+                    "User-Agent": "Mozilla/5.0"
+                }
             }
         ]
     },
