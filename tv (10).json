@@ -220,42 +220,6 @@
         ]
     },
     {
-        "name": "¡🏆⚽ MUNDIAL 2026 👉🏻 Opción 2!!!",
-        "samples": [
-            {
-                "name": "UNICANAL opcion 2",
-                "url": "35kpBsBXLG9cf+zD+ol1aDtSGijTIfbtEIdfFietgXEcjEOrZ7I23diGkEAl/pgiRHyZhqBuU8qJVq+8IG3XBw==",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/k2bXsYbj/Punto-Play-UNIC.png"
-            },
-            {
-                "name": "RPC 🇵🇾",
-                "url": "t+U5qW3T9LmROMYVQCkXso2Y//iP5lNvCW5BNi8iXbs6sMy1BmNEB6GuN8Q3ilHO0eCgTzSUH8ukUaUsV92QkJLkQ/IAZ66Ry3PALJPbkVOrOf75upGdBVMjDqE7/sX7tfPa8ZZkrfdTJ0IdNqPVp/bLsf3cnQqxn89x0WOdOAn/k2vvCSlnqszkwf2zElWzCH5dFMXuEq4QSb5VtLB4uzVFaZSB7ehx5QYgwQ9D71I9RJmbOD31WN23yvoKlDXiAcSVqx0GduUaNIzl5RnO2g==",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/gMWLvZKn/Punto-Play-RPC.png"
-            },
-            {
-                "name": "GEN🇵🇾 2",
-                "url": "SJaDv3i2fR9rX4GKeeULb7I18bMxVnXF7981AkNROXEDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efRubPfymc7F6fI2As18DVJP+bc5hbwdAEArxvLYQpLMW2JHUY1lTWYVWp0sjunWcbQQUFR1QwNeYLj4bksHzykUsD3nQXKavJGA8kaQrUNNXh3kZ+GVdVwnW8BqkDNciY/jMGhwtb9/iQEtLb9hll4eixhPWW2dzJ4wP+ARzz6VeCn3d1pwqTN37HMdFmsFBT7d5j6znoSKBCD98vYimqGom2TS3CvGFZv/+mhqC4WMB4aWGkeFwVhOeZmwSsjH6Z5Kgp45qPLt/PjXXwj70k6ImGftnp4VyUsynpJXP1pa89kQjQW9Dv9Pnc3JoealR4IIkvRXGFlhU5YRtxFTdrlboECqcynAUdBX9ZphEiE0IyDhFDObMCkWJxajyJhxrSgSQtOQ7pa3jn9/N5d4OfFWckrYvoJDEDP3936JRIZClCTJKkvuS8W7pq15C1Mn9I2lxdpkiXDRMNSNNKc1AO90FRH4pPjBKzC0q7DhyLZA3JrpnIyUidIUC69P4E1ueETRxu/RKitPSe6CBEn4imAoFOBgCciW1gcX3s+6RE/PD7Wfv+BX7ZGcjogTggxqPKkg3lRluCP4GrUJMcKFgYbFY/PZuewTSfShaK6kjDIIXRvO2Vkg8n4ip1h5ohBNZOxIfU73IUXLBzAKgL+lKTXne8zSqc5LmG2tZkipKpe5m9k6tT5ltCY7Dx4QHM4kBfVWWs2s7VriuzOO0Ol6kAU",
-                "type": "CLEARKEY",
-                "drm_license_uri": "5k3plTa2rCEgHbwuovXNaZ0yanXtbHjBOdc7X2cnILqeQqqNUsc33E7xUcC4RLeo59tutXUdOqognK03K8Zh+8astL8moYdBB9ViEJOFarMtJinTT3xnbxbR+LOAy0qh7djNJ1IMVzZMWCsWSnSsqA==",
-                "icono": "https://i.ibb.co/VcRpdnF2/Punto-Play-GEN.png",
-                "headers": {
-                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
-                    "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
-                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
-                }
-            },
-            {
-                "name": "POPU🇵🇾",
-                "url": "skL0SptDEV+upha/QLFyRpHXTdQFXWP4GGAw9thlg8vBzDibqimArPVA0PqvUKdFdOcTwJpg03CF0oxX7ACDUn/OdoRyQkFY3lWwETUwVjtc2MeJwWiicOaHw+38HJ9F",
-                "type": "CLEARKEY",
-                "drm_license_uri": "nRG/uPtDB5So/ctXbxACyzQtOq4/YDpBhHuQHDur8rsv+QZnX03xMhEaDl6RN6CYV+UtMQiSDsuepSUgbgad5+SGVgYQizL1G7MxZm0x0ne9pjjuioQv8aIQR3P0Q00b10+5xZ+OoQUSB443cZOgs1iVHoC9I0iRb3Z4PBxgF4dF+nXgHC5bMd1ImConQm83HMqGKu1Z17L35caO3RJUaw==",
-                "icono": "https://i.ibb.co/WpprJDTz/Punto-Play-POPU.png"
-            }
-        ]
-    },
-    {
         "name": "CANALES DE PARAGUAY",
         "samples": [
             {
@@ -386,14 +350,14 @@
                 }
             },
             {
-                "name": "RPC 🇵🇾 2",
+                "name": "RPC🇵🇾 2",
                 "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpFMHcdW1wdTdMlX1FFFG2zPnahpYEQZP2pRDZdTqp4Wet6CoUPggQSQW/srwT5E1Qs=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "5k3plTa2rCEgHbwuovXNaZ+4pM1OVYSElVsD6WDvFLPP/yw2UMVE4KA8BSHN11VUDd0cLMAWWP7rdny/YdfhYf97+XkZAFXl8EiG4yfKzsZON53mshag1DWFOCYtSZG53+FH77dW4e2QMA3h18cBYA==",
                 "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
                 "headers": {
-                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
-                    "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
                     "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
                 }
             },
