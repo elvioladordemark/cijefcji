@@ -3362,23 +3362,11 @@
         "name": "prueba",
         "samples": [
             {
-                "name": "GEN_TV 🇵🇾",
-                "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpH7ZFHd1x9ppOYs0/sESEdf3+X5L1xgzRetwQj9z5iHl7cC0srW92eN4IlXTzKi1kM=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "5k3plTa2rCEgHbwuovXNaZ0yanXtbHjBOdc7X2cnILqeQqqNUsc33E7xUcC4RLeo59tutXUdOqognK03K8Zh+8astL8moYdBB9ViEJOFarMtJinTT3xnbxbR+LOAy0qh7djNJ1IMVzZMWCsWSnSsqA==",
-                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
-                "headers": {
-                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
-                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
-                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
-                }
-            },
-            {
-                "name": "RPC 🇵🇾",
-                "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpFMHcdW1wdTdMlX1FFFG2zPnahpYEQZP2pRDZdTqp4Wet6CoUPggQSQW/srwT5E1Qs=",
+                "name": "RPC🇵🇾",
+                "url": "SJaDv3i2fR9rX4GKeeULbwq4iQOgTdfg29zu+NKRLKYDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4edLfjKzr4HiXo1YpBsEcKD4HRjohcTthddQtoS4BHLFZjR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2seuIVGxEHthXGv7S09sRX5kL3glWdhfliRqpfuO0a/JQ4+Toyyo243ozwqjH4ymTakRBACN4AlE5AA30AQRNmLpwhZwQPsVeni6NOrWbJ4qcH/RvY7YopvtcWM+NtDmazPMwGoLhiCQjzWAWsgjHGLEYTPhBfzFtI4cVn3cCfpZMda5QIvN9NBf+bFg0ROd4iqTs09sJREAm+SCU5ZRcc06CLpZx5PO7dlNc1CeO7Bfu83o4HvJm+sIKiDl80jVF/X+rqlKh36k5twPigqHd1xJ8oidANhs3aWXVOHhb+eQW6h5YG+m57DhpDNySmh+hygqHu7M+E4pjacsN5KiiZqP3hBjen0OlBYATkSR/V+muhRkKAMpD0+MKMavldADwspAzmyI/Gm8uHWKn1Tnlxsl2G7+jEZEAkgDOH151vXIMaP1cAZB5kt3pJ1DgTxdwinzusn6rceigvV6Kve5ASb9Fab8WVtcfncut4KWwCfGtOiUCaWzasgS2eGAtCu5DHx1j12/viAHF8qOPOZ75kDoXe+CgSMmrHFziu1UV8X12x8UtHTQ/8xmdjWA/cGIM0UWsE+OIOnW/QY32d2A2Cjl+aohyuyWRXKw8lyvOc7hPIfq57oFc/c1ZMZs3B+YD2Li2s6KwzTunoi6UxXD0ZqaeE5GOpOVIvEwNOZO2vIj7iOr3ObD39bVY9I2SlfCs7IG28WEEdS37C+kcN9kP8eC7u7bhjyTpTsFOpjrcAv6H7bfjJ3jHEWBddzdjBwsMXyMffc9xCSAvBw5wyHRPe49VZazaztWuK7M47Q6XqQBQ=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "5k3plTa2rCEgHbwuovXNaZ+4pM1OVYSElVsD6WDvFLPP/yw2UMVE4KA8BSHN11VUDd0cLMAWWP7rdny/YdfhYf97+XkZAFXl8EiG4yfKzsZON53mshag1DWFOCYtSZG53+FH77dW4e2QMA3h18cBYA==",
-                "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
+                "icono": "https://i.ibb.co/DPbLz8v5/rpc.png",
                 "headers": {
                     "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
                     "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
@@ -3386,11 +3374,35 @@
                 }
             },
             {
-                "name": "GEN_TV 🇵🇾 opción 2",
-                "url": "skL0SptDEV+upha/QLFyRpHXTdQFXWP4GGAw9thlg8uO6jSzo97/jMVbPRDmVEV3IcnAkJH9k2yzj9/Ej6IGvf4s3uh3LaksxQUaXnEGvIg=",
+                "name": "RPC🇵🇾 2",
+                "url": "SJaDv3i2fR9rX4GKeeULb7I18bMxVnXF7981AkNROXEDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efRubPfymc7F6fI2As18DVJWgUwqY+1GLo/dLrZeJijofyeYRDlfDUOjbw8CFdGGOY7RGzl5bBVun/Fwh2UeEL/O61t2LMvuOIJ9ydf/6gkMFPTB2WAaClIxUBeGeMDZ703QTV/EkdzXuobbyNgVQ4ueEunsRMaQ3kFBxrLOlLpVtd5WTB72KSiOHLBI+7lob5bgciiCprgpQ1gts4HFJCSDvEPfhy2kcp+MDjrwWyJsQhXMeHD9tk41OE838xc5v8MRK2VymAT+tki6PjnYkNggC1//oacCW6mu2VkgraAEjc8umxlni2HYMB7X/sPhr2dAJNdzsOgl2wkWULf2KBUvAeKxLkYT2qPwhnWoJIHsA8h+bjWy573IFLVIMdUS5RnpPwywGhmsF5t8UXBvPZpHJ/dr4DCIT2orF3QdkVo+X+cCVz6tMSgn1jekziPFQGxR+9fzQmxEkGD6etBPsUmK9b501T5rbr4xqDCNfpCHrxR3996OMsYpC/eA/FrBRrTDfbkNu7bsk5R1HFmPdSjFWSCuLX1Z6F74mf6bZWYETy6hV3grtVMCXQVdDBCTWEXQzPgt+T0KDYR0+Vlj73kqIinjE3EtvRz5mF1jHkNRTXnnJhuKAhgOAv1D6baNMXEKiI1fJwof3FtvImXkfBL+234yd4xxFgXXc3YwcLDF8jH33PcQkgLwcOcMh0T3uPVWWs2s7VriuzOO0Ol6kAU",
                 "type": "CLEARKEY",
-                "drm_license_uri": "nRG/uPtDB5So/ctXbxACyzQtOq4/YDpBhHuQHDur8rsv+QZnX03xMhEaDl6RN6CYV+UtMQiSDsuepSUgbgad5+SGVgYQizL1G7MxZm0x0ne9pjjuioQv8aIQR3P0Q00b10+5xZ+OoQUSB443cZOgs1iVHoC9I0iRb3Z4PBxgF4dF+nXgHC5bMd1ImConQm83HMqGKu1Z17L35caO3RJUaw==",
-                "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+                "drm_license_uri": "5k3plTa2rCEgHbwuovXNaZ+4pM1OVYSElVsD6WDvFLPP/yw2UMVE4KA8BSHN11VUDd0cLMAWWP7rdny/YdfhYf97+XkZAFXl8EiG4yfKzsZON53mshag1DWFOCYtSZG53+FH77dW4e2QMA3h18cBYA==",
+                "icono": "https://i.ibb.co/gMWLvZKn/Punto-Play-RPC.png",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
+            },
+            {
+                "name": "GEN🇵🇾",
+                "url": "SJaDv3i2fR9rX4GKeeULbwq4iQOgTdfg29zu+NKRLKYDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4edLfjKzr4HiXo1YpBsEcKD4HRjohcTthddQtoS4BHLFZjR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2seuIVGxEHthXGv7S09sRX5kL3glWdhfliRqpfuO0a/JQ4+Toyyo243ozwqjH4ymTakRBACN4AlE5AA30AQRNmLpwhZwQPsVeni6NOrWbJ4qcH/RvY7YopvtcWM+NtDmazPMwGoLhiCQjzWAWsgjHGLEYTPhBfzFtI4cVn3cCfpZMda5QIvN9NBf+bFg0ROd4iqTs09sJREAm+SCU5ZRcc06CLpZx5PO7dlNc1CeO7Bfu83o4HvJm+sIKiDl80jVF/X+rqlKh36k5twPigqHd1xJ8oidANhs3aWXVOHhb+eQW6h5YG+m57DhpDNySmh+hygqHu7M+E4pjacsN5KiiZqP3hBjen0OlBYATkSR/V+muhRkKAMpD0+MKMavldADwspAzmyI/Gm8uHWKn1Tnlxsl2G7+jEZEAkgDOH151vXIMaP1cAZB5kt3pJ1DgTxdwinzusn6rceigvV6Kve5ASb9Fab8WVtcfncut4KWwCfGtOiUCaWzasgS2eGAtCu5DHx1j12/viAHF8qOPOZ75kDoXe+CgSMmrHFziu1UV8X12x8UtHTQ/8xmdjWA/cGIM0UWsE+OIOnW/QY32d2A2Cjl+aohyuyWRXKw8lyvOc7hPIfq57oFc/c1ZMZs3B+YD2Li2s6KwzTunoi6UxXD0ZqaeE5GOpOVIvEwNOZO2vIj7iOr3ObD39bVY9I2SlfCs7IG28WEEdS37C+kcN9kP8eKRxTrjmsvGadbN0vwHBt7md7zNKpzkuYba1mSKkql7mb2Tq1PmW0JjsPHhAcziQF9VZazaztWuK7M47Q6XqQBQ=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06jWioSw7ANhMH9Fn9nBHZFSvdGzFNiB3onH6VWh94QfWe26Mu5jrsTfN83YbrL3J9i6wtAr4dKVpuHSa3/cfAvbhONDe49BXI/u/S8opyamgQ==",
+                "icono": "https://i.ibb.co/fYhwn0nH/gen-albi.png",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
+            },
+            {
+                "name": "GEN🇵🇾 2",
+                "url": "SJaDv3i2fR9rX4GKeeULb7I18bMxVnXF7981AkNROXEDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efRubPfymc7F6fI2As18DVJP+bc5hbwdAEArxvLYQpLMW2JHUY1lTWYVWp0sjunWcbQQUFR1QwNeYLj4bksHzykUsD3nQXKavJGA8kaQrUNNXh3kZ+GVdVwnW8BqkDNciY/jMGhwtb9/iQEtLb9hll4eixhPWW2dzJ4wP+ARzz6VeCn3d1pwqTN37HMdFmsFBT7d5j6znoSKBCD98vYimqGom2TS3CvGFZv/+mhqC4WMB4aWGkeFwVhOeZmwSsjH6Z5Kgp45qPLt/PjXXwj70k6ImGftnp4VyUsynpJXP1pa89kQjQW9Dv9Pnc3JoealR4IIkvRXGFlhU5YRtxFTdrlboECqcynAUdBX9ZphEiE0IyDhFDObMCkWJxajyJhxrSgSQtOQ7pa3jn9/N5d4OfFWckrYvoJDEDP3936JRIZClCTJKkvuS8W7pq15C1Mn9I2lxdpkiXDRMNSNNKc1AO90FRH4pPjBKzC0q7DhyLZA3JrpnIyUidIUC69P4E1ueETRxu/RKitPSe6CBEn4imAoFOBgCciW1gcX3s+6RE/PD7Wfv+BX7ZGcjogTggxqPKkg3lRluCP4GrUJMcKFgYbFY/PZuewTSfShaK6kjDIIXRvO2Vkg8n4ip1h5ohBNZOxIfU73IUXLBzAKgL+lKTXne8zSqc5LmG2tZkipKpe5m9k6tT5ltCY7Dx4QHM4kBfVWWs2s7VriuzOO0Ol6kAU",
+                "type": "CLEARKEY",
+                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06jWioSw7ANhMH9Fn9nBHZFSvdGzFNiB3onH6VWh94QfWe26Mu5jrsTfN83YbrL3J9i6wtAr4dKVpuHSa3/cfAvbhONDe49BXI/u/S8opyamgQ==",
+                "icono": "https://i.ibb.co/VcRpdnF2/Punto-Play-GEN.png",
                 "headers": {
                     "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
                     "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
