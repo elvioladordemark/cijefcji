@@ -1532,9 +1532,15 @@
         "samples": [
             {
                 "name": "LANCE I",
-                "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+ld6TY2KVi0GtFDFBZEg99XcvQH9Ipc7JeBnXTUpvpT+Q==",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/RnDDv5b/LANCE-1.png"
+                "url": "jsieXNMDN1Df0+2hjIhVitQJVH0vveDpMccfygfBSY3EvopcaGniWletZi1IDujfW4mi6f7EdyLR3jJLOMW7OGKF2NXAFvvpml+Af7qKLtQ=",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/RnDDv5b/LANCE-1.png",
+                "drm_license_uri": "5k3plTa2rCEgHbwuovXNaQywPTzgR7SFohPptorUClk/jKn5K5T71eREUmldwq8g0XgD8l0GY1vux2wTvrKp9KJNxM1saBq6jdhPS8l0BpsmVdGY7712gXaePencpJm61sf2kzt2XLW4YOt8dD4y3XgXgZmuBO6Feq3UNbWJ27Y=",
+                "headers": {
+                    "Referer": "v7Eafqf/M6nQMM0k98Rr0VVJr/jxmWn++A2TboU63kU=",
+                    "Origin": "v7Eafqf/M6nQMM0k98Rr0VXVJ+84pA5XAO8kMN5AECA=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0JfyB3vvr1kHR9JtuSpUjkFgXJSsIqWsbxT0LQfhGjSrz8vHQ8WgPCybzWh9wigzyQ="
+                }
             },
             {
                 "name": "LANCE II",
@@ -3366,6 +3372,18 @@
     {
         "name": "prueba",
         "samples": [
+            {
+                "nombre": "POPU TV",
+                "url": "SJaDv3i2fR9rX4GKeeULbwKbCJ38R5XAdqUbMyzSSEIDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efRubPfymc7F6fI2As18DVJ16y6zswHYLbqQmvi2yvQPG2JHUY1lTWYVWp0sjunWcbQQUFR1QwNeYLj4bksHzykC2mXeFp69UJA9IjTYJ0FwqNAdh4KrcPQX+v5oE2r5952x6gO4fLLJlUkMbj1P32EfcKoqDFlucBslk4xNcvnV8ZGd+YZNdOz2aeXuAGRhpGNEekjJ3JTwjrsDVNQ0pcMw+9hEoG8/uusOKegT/Zz/hKLUhtRk/ux+5HOt8HuBS7jYUeygw52pee3p/losZ8S5hQIGgAjwRzxUF4dPSYnBCalzuutCfKUSh3cTiUr0iRS0/7R2v0HDAWrpym9mcmPQDvU4c5JmlGdBwkWb6m7u6r1rvWiO8IlD9p0PmT6VbPfBAy/aoR8yo1a+di4DbtvgrR1ZFOtCSIQ2UrMYwQQRoyyh8msXboAzrC4vzsFH3zJN1CxidSWGjDxFK/u0LgDoFcJpYchpLw56YIcALM221wcmpc+XHEiB8yfkP//tN7m1/HdRTQASZArZcUsHltKWrcV22O3iMAvdqBDoLPTvdf6K208oEbL9XYbUyrWcB1IT1bH3ZpB/YOqLH/7PfdekJpupsJKlU3nZzBnjyRcDI9pCmnZVgFIPyHwv1xXpzZdNoGql1njzGRiW6eR8fCjVydFobBvxHOdN1OUVFsFAGRS5uG9Hj+ZExmEy/vcpc8=",
+                "tipo": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a279f3633e242.21426386.png",
+                "drm_license_uri": "uoxw86wzAkg+WI6tFn2gLJB8QVCFTTI/X3qCGci10jXGFL6p8UUqNQ1MSiBsVhk3WPbLJkT7r77aNs1QRaaoOtlX4HgBJG8eNOw8cEQvtk/oIOuojTvtx5RD8cyEal6ctmknAtpBkLCKqdHnpccldg==",
+                "encabezados": {
+                    "Origen": "https://portal.app.flow.com.py",
+                    "Referente": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 FlowTVClient/4.32.4"
+                }
+            },
             {
                 "name": "OPCION 1",
                 "url": "t+U5qW3T9LmROMYVQCkXso2Y//iP5lNvCW5BNi8iXbt4c5c8dNuxTGKlPHnAnHAGoiY8bywXw2S4TcRR3CfjfQzV4M+2kxgwOkFBp6lh2V3ydOKXtC4fxwIZqAgwssm3y4fS5Oy+C6W0cTBw8sQqwM2V4e3T0gmxdHwsU2szVaB60IfoFxjJdhFH3L+I4a/TSUlfXhATl7RdQtoCVq3vQQUQGmmDVb2t9HlzqaZC3no9RJmbOD31WN23yvoKlDXiAcSVqx0GduUaNIzl5RnO2g==",
