@@ -3355,6 +3355,18 @@
         "name": "prueba",
         "samples": [
             {
+                "name": "GEN",
+                "url": "FMFzR2/vccr9IKmeey/jz/q/eLU3dmpMQy7S9Qe7idW7sreZYPMzA+F6DsFdjc4yAc2VpJk4i5Awt6BgwAcrOXh3hTM8+vAbDGkgQYHUf92AOJ07E4J1pqqd3HLo6cPpZFLm4b0eP5kTGYTL+9ylzw==",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a26f4478855a0.67866492.png",
+                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06hFiM37shE69Pwpx7jV0hPrO+4zBl7ScPRZhkxIumaSIAPFTjJ4dECeb++yXMh/jf/34Gg/nBY8VTKQBxJnGVJ607Bz855QZtiUwgvyi/d04A==",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "CZYMGsKUhZyTtU22JDSKU5qUB+Us5QxhZbwYSI5TQc29iL+RVhXwJD6aZvjTuwG4q0yawAkMednF98JK28UIbeIC7bRUvHNg9/11x+JXX5Wmvsyqoq8wlpNFCaFQ8cxHi3q/yVLO16ltjib84Blsf3hxRRXqfb2e1DCL//46Pz0NCL8zTLqWfjd0d8YznANE"
+                }
+            },
+            {
                 "name": "OPCION 1",
                 "url": "t+U5qW3T9LmROMYVQCkXso2Y//iP5lNvCW5BNi8iXbt4c5c8dNuxTGKlPHnAnHAGoiY8bywXw2S4TcRR3CfjfQzV4M+2kxgwOkFBp6lh2V3ydOKXtC4fxwIZqAgwssm3y4fS5Oy+C6W0cTBw8sQqwM2V4e3T0gmxdHwsU2szVaB60IfoFxjJdhFH3L+I4a/TSUlfXhATl7RdQtoCVq3vQQUQGmmDVb2t9HlzqaZC3no9RJmbOD31WN23yvoKlDXiAcSVqx0GduUaNIzl5RnO2g==",
                 "type": "HLS",
