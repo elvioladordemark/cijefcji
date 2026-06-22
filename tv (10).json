@@ -119,6 +119,12 @@
                 }
             },
             {
+                "name": "CAZÉ TV",
+                "url": "NX6A1qjd6hQ9+hc3UVSSwOSvPTqaID8yG3Cjd8BwJF35nYVIHbKg6PpTGn+4E1cQb3Fx7qUSQUQNJWOaVIA+2LxQno7T3dhARTKtOCugF3o=",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/845zQXMh/Punto-Play-Caz.png"
+            },
+            {
                 "name": "CAZÉ TV 4K",
                 "url": "i/MNzosxDRAhfeVo5SxBjxmYp1KHlO78BYe39eL4r0SyIs4DGugoP8teYduDFHzYqOS2zXWz2lehipHRR8TYxtPFWgXlbD158gWqDTblxbWwkTBt+dxqd1rUS9pgi6U2TnV8b0fVY60KIPf8tOSMvsmCTmv8N31TzeYfUAvUi6E=",
                 "type": "CLEARKEY",
@@ -3454,11 +3460,11 @@
         "name": "prueba",
         "samples": [
             {
-                "name": "TV PUBLICA",
-                "url": "6EeLwWtk2eEyq9donxtgVj8rzrgIhjwIfBLLw2W50lHeMACweqaYqRsN2VfRzjXaQ0xwaVzgYvmq7v6r47RbulhohBA4qAN6A3W8CFXl/UzRuUIP8pcz9cl+YYN9x5HGcmAxyNjqC1+unFCc22FaoQ8wiVpwGjnDyK5K/BVrpDYH0se3eK2Ko2yDlesDR9q07DT3bYjW1KsXrdTxan6dDldph2TX1j5C5GcctYUR2CX7W0VATNht4n5FYF7N+WUqJrwnyQnxzEbNHNKIGFvLZCtIc2ne0Pt6JHVJ+EXKvntVe491bq+aje3OqhuJx3W0c0gv/eRBqilSLxothTwddK27OvsEyuuFyP4RMlPV3qqiETPNFZapWqn1CvMa7FqGPkBl8SqsdSGlR4VNwsMxyq4lYP+c8ZuEEkKtpBQ48Ysv+SWtnaQsdC/V2YgKDhigRfLZztfDnF/o5YH5jvzm8aKDAx8Mtinxs4oySmuMQ9GcDEAQ3WtkxqrkPUos2Ws1TQ8sWN+jDozCEsckRxuY9pBNeE7AsJOzGXaamexrKPEGbGo8AnKOkCoadD/R988XCT8L5jetUkyDPs0KfJ2gQq46EeOD/EY2ioEwQz3A65QqA/Zw9sBLZqLPj4JLtYc8J8WSjR6H7K9QkI0TdnsP1l0WdhJLTghFCgkHDv3Y+nzjOLOazNzDJ5PFvzmdeSMbnya8jlm1tzH/I1iF+1J1Rhr8J1UcKbRvyX93aDqNPnndRCwuiCXfF1vi12SpsQwOF7xlwWYJCsJAL+m3iQHBn2KF2NXAFvvpml+Af7qKLtQ=",
+                "name": "FOX SPORTS 3",
+                "url": "FMFzR2/vccr9IKmeey/jz/q/eLU3dmpMQy7S9Qe7idW7sreZYPMzA+F6DsFdjc4yJU5Y7QmxiqveX3k9SUq0fdFmbvuXO8Rri4sRQeOEKu/6fX/LGt+0ROU1A4FM6I0V8T0BwX8IQOgzm3h9z0olx2KF2NXAFvvpml+Af7qKLtQ=",
                 "type": "CLEARKEY",
-                "drm_license_uri": "tNgD2v4s9kTgePAwD3JTnlnW3Xoremdh3rTPhdk1D0FgEPUvuUBE1B2NFymzU03cWwZUPbLA7g7hMo2rbWpcKsI/2ORbHo9GtKO3qNMBFA7fHAjPMQEkUJKYIyLD2QducJryiAgUoxzO93yp4LTVdQ==",
-                "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",
+                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06jxxY2wLx1W52Caagkm2UGIGcuphz7AqjPiicUvBVwT455C9fQdqJshPhZoPgB8gfsXPkr1yBqqzCI87UF/P0PCLLBc+wOIiRaCGsQoax6/gg==",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-3-ar.png",
                 "headers": {
                     "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
                     "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
