@@ -784,9 +784,15 @@
             },
             {
                 "name": "CANAL 9 2",
-                "url": "Tmvb6UUVHE+RqfSLSxEaigZ8R/dWT8Rj8qg6VmSyFO+1tzF5JjvlGaHOdpeVQAYPQLNHv8cFB2lF8dSAgjhNKBJkcKJAW39/1Kg8ECIiJPE=",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png"
+                "url": "6EeLwWtk2eEyq9donxtgVj8rzrgIhjwIfBLLw2W50lHeMACweqaYqRsN2VfRzjXaQ0xwaVzgYvmq7v6r47RbulhohBA4qAN6A3W8CFXl/UyDVwvbyY3VUkvO3PnZCtQY9OPVvlxLPub8zXnLZQtbpknYX8G43mczKgObNjSMiCBW624JLW+V38/pqjfC/IoFKZOTOlXeCvgj7nnwKUjs+ap3wDA+hbfKR0ry7nIkdxzM6XYiHmcpegIa2PSDeOAppeklqpkyKLI6LCtWlyblfm6qnniCDcOFBBimfafs2arL940LzmRIMkZt8d21hGAYess0m+sOmMa3d1rgf2YX5z+3HI3iLUIkmvnz6djOaAH1nbTkxQmM1FZb40AMqaBHYFBa++GDCgqsznz2mhJfHnPpAU6mYSM4fy6y4w6YwoS87deP+fD5tI8k1XeK4zyBJFsL9RKdd4mp3FHLg6cDHq0vMHUJJFTtWAuxEsMTzygWiJicDKxwUkJ/62uHYnVfpWk+59P7vAP0TRTGrfdt0svQFAevFLlXCUSZpiAzEuut5A7vMMeuVtg38gMXgYd1XoyyfdbmvrhYRe3QSuGtV7Hg4OXGxSglgy+ZTRgB6bkkP66+lvAOh1c/2vlbo0KbnRolbVA24CRs/5e2mm77Qp0Q6TaMw1jMGCku3kMh4IYung8oX7v2dAnDbvketW6Y3op5zFVDsXlWxQgXPiWU1ltMErnaYBnuDmFEm2aOnsqNvm6ZHH4yMx6Apbd8+SCz/GcJyBpoMDiUhgOKU3DW2UVUzv8VGiOPj+z/ZSALHhlihdjVwBb76ZpfgH+6ii7U",
+                "type": "CLEARKEY",
+                "drm_license_uri": "tNgD2v4s9kTgePAwD3JTnlnW3Xoremdh3rTPhdk1D0GKQY1+mu0A3y4VO+ZakREw7cU5DWDp61Vk/ehX5IK0BJ8m3cqX4Q8yBCxSIOfUze17ut+QNmkHMztfTbYaOpVeGvSy/yBsq6s22SYqWBGCXg==",
+                "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
             },
             {
                 "name": "TELEFE",
