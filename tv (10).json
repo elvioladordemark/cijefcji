@@ -754,9 +754,15 @@
             },
             {
                 "name": "TV PUBLICA 2",
-                "url": "Tmvb6UUVHE+RqfSLSxEaigZ8R/dWT8Rj8qg6VmSyFO9btvbic35y6xK+6hdAlai0XZzSOnGwfqzPfiZZqyJeP4WeViDpjvHWXwW/aIQFUFk=",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png"
+                "url": "SJaDv3i2fR9rX4GKeeULb2NK8PY66kwAdEfZoQIQ3epqzZOs8D1rKDEI9ejRDy6t6EuQLSGc6fltHHvNoEv7c+PkmShfBATeFOSmeqWC7yR6Lby8pj512sm2awH8Ot0n",
+                "type": "CLEARKEY",
+                "drm_license_uri": "tNgD2v4s9kTgePAwD3JTnlnW3Xoremdh3rTPhdk1D0FgEPUvuUBE1B2NFymzU03cWwZUPbLA7g7hMo2rbWpcKsI/2ORbHo9GtKO3qNMBFA7fHAjPMQEkUJKYIyLD2QducJryiAgUoxzO93yp4LTVdQ==",
+                "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
             },
             {
                 "name": "CANAL 9 ",
