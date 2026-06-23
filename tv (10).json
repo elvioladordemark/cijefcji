@@ -808,9 +808,15 @@
             },
             {
                 "name": "TELEFE 2",
-                "url": "OOszE3sYC0dxqHLbQUjgXltd2oc6NF8u4GG+hqszX2jyfltiSMXgH1p6fSfYUfT8vl/wGiA36kxjFCj4atvdg2OJDc7CO6+RR0ie9wsECEc=",
-                "type": "HLS",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png"
+                "url": "6EeLwWtk2eEyq9donxtgVj8rzrgIhjwIfBLLw2W50lHeMACweqaYqRsN2VfRzjXaQ0xwaVzgYvmq7v6r47RbulhohBA4qAN6A3W8CFXl/UyDVwvbyY3VUkvO3PnZCtQY9OPVvlxLPub8zXnLZQtbpknYX8G43mczKgObNjSMiCBW624JLW+V38/pqjfC/IoFKZOTOlXeCvgj7nnwKUjs+ap3wDA+hbfKR0ry7nIkdxzM6XYiHmcpegIa2PSDeOAppeklqpkyKLI6LCtWlyblfm6qnniCDcOFBBimfafs2arL940LzmRIMkZt8d21hGAYess0m+sOmMa3d1rgf2YX5z+3HI3iLUIkmvnz6djOaAH1nbTkxQmM1FZb40AMqaBHYFBa++GDCgqsznz2mhJfHnPpAU6mYSM4fy6y4w6YwoS87deP+fD5tI8k1XeK4zyBJFsL9RKdd4mp3FHLg6cDHq0vMHUJJFTtWAuxEsMTzygWiJicDKxwUkJ/62uHYnVfpWk+59P7vAP0TRTGrfdt0svQFAevFLlXCUSZpiAzEuut5A7vMMeuVtg38gMXgYd1XoyyfdbmvrhYRe3QSuGtV7Hg4OXGxSglgy+ZTRgB6bkkP66+lvAOh1c/2vlbo0KbnRolbVA24CRs/5e2mm77Qp0Q6TaMw1jMGCku3kMh4IYung8oX7v2dAnDbvketW6Y3op5zFVDsXlWxQgXPiWU1ltMErnaYBnuDmFEm2aOnsrNYokRDDUx6hnZ4VyZ7lPZOquggysqF02Hnqy056BQRxAob56t+tCcG4q6WPm+DDxkUubhvR4/mRMZhMv73KXP",
+                "type": "CLEARKEY",
+                "drm_license_uri": "5k3plTa2rCEgHbwuovXNaWOV7H7PFclkaL2NUtXP36fsTerHIj18rLaC5W/RfsVuK5pUmUJGk7C2ATFPTuRHroXolwe4uKvYWtG4HvHOU07y+NoYEl/Yo9BY3Qncz77KHdgOLpV2m0NoOTAB5i94X2KF2NXAFvvpml+Af7qKLtQ=",
+                "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
             },
             {
                 "name": "EL TRECE",
@@ -826,9 +832,15 @@
             },
             {
                 "name": "EL TRECE 2",
-                "url": "Tmvb6UUVHE+RqfSLSxEaigZ8R/dWT8Rj8qg6VmSyFO9rnKfRp1bkKF53ShHgksvX/VPP6lcnCDy2xOGjVntrWxJkcKJAW39/1Kg8ECIiJPE=",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png"
+                "url": "lvN7qexV1HiBvEIyInmxQ2YSsjBQsSriVymgz5/TJpEpoSavL9j4XCuRdj8zX1mr1hWh/NCoW8BFV0+tjS372K2xXC9iZHcY4T3lMpu2pBx6Lby8pj512sm2awH8Ot0n",
+                "type": "CLEARKEY",
+                "drm_license_uri": "uoxw86wzAkg+WI6tFn2gLJB8QVCFTTI/X3qCGci10jXpXB2gXuPNLmY5IrJS5GPrfrDxUcemW3bUyfeZYbjsEmGNIny1k/3MGsU1hCwuZMctDISqjOiJDn8uSEK4jvX8YpmCdAwjXp46PdS+ED4T2w==",
+                "icono": "https://www.adlatina.com/uploads/img/fotoNoticiaG38334.jpg",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
             },
             {
                 "name": "TN NOTICIAS",
@@ -844,13 +856,13 @@
             },
             {
                 "name": "TN NOTICIAS 2",
-                "url": "FMFzR2/vccr9IKmeey/jz/q/eLU3dmpMQy7S9Qe7idW7sreZYPMzA+F6DsFdjc4yAc2VpJk4i5Awt6BgwAcrORYQgwUEUs9mnqvKmAJqYTP6fX/LGt+0ROU1A4FM6I0V56GN80M7tBmNPrrXEFgRvGKF2NXAFvvpml+Af7qKLtQ=",
+                "url": "6EeLwWtk2eEyq9donxtgVj8rzrgIhjwIfBLLw2W50lHeMACweqaYqRsN2VfRzjXaQ0xwaVzgYvmq7v6r47RbulhohBA4qAN6A3W8CFXl/UyDVwvbyY3VUkvO3PnZCtQY9OPVvlxLPub8zXnLZQtbpknYX8G43mczKgObNjSMiCBW624JLW+V38/pqjfC/IoFKZOTOlXeCvgj7nnwKUjs+ap3wDA+hbfKR0ry7nIkdxzM6XYiHmcpegIa2PSDeOAppeklqpkyKLI6LCtWlyblfm6qnniCDcOFBBimfafs2arL940LzmRIMkZt8d21hGAYess0m+sOmMa3d1rgf2YX5z+3HI3iLUIkmvnz6djOaAH1nbTkxQmM1FZb40AMqaBHYFBa++GDCgqsznz2mhJfHnPpAU6mYSM4fy6y4w6YwoS87deP+fD5tI8k1XeK4zyBJFsL9RKdd4mp3FHLg6cDHq0vMHUJJFTtWAuxEsMTzygWiJicDKxwUkJ/62uHYnVfpWk+59P7vAP0TRTGrfdt0svQFAevFLlXCUSZpiAzEuut5A7vMMeuVtg38gMXgYd1XoyyfdbmvrhYRe3QSuGtV7Hg4OXGxSglgy+ZTRgB6bkkP66+lvAOh1c/2vlbo0KbnRolbVA24CRs/5e2mm77Qp0Q6TaMw1jMGCku3kMh4IYung8oX7v2dAnDbvketW6Y3op5zFVDsXlWxQgXPiWU1ltMErnaYBnuDmFEm2aOnsoaKoSeYvIA7aJmPCP1fCVZ76EnNK+bU7RGg4qg0oR5ODBMowX4T/LY5s8CL646v17CyXGpAaAU40tfHxkkSgRx",
                 "type": "CLEARKEY",
-                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06iPJj6AYfkrb4UgTeuJMTtE/3WAi+aMqgDkJ+G2z3f/4NRWwdkDPkp0Pd4zuBHvVxr3Hi3JT1GAS/AtP20DqaJEnNUWFfEkzNyTDY0y5lfl9A==",
+                "drm_license_uri": "tNgD2v4s9kTgePAwD3JTnlnW3Xoremdh3rTPhdk1D0GYXuu5MJpnCUOAY/NTuzo/edsOlr3iAExYc25GkgNBQCXdG7TXO5mj01OLTb6npLzzFUSKBgAy+Ky4VW8R8f9bVJjAJ7MamikWO9TYYHrXVg==",
                 "icono": "https://i.ibb.co/dsvcQTLn/todo-noticias-logo-png-seeklogo-462511.png",
                 "headers": {
-                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
-                    "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
                     "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
                 }
             },
