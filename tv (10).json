@@ -825,8 +825,8 @@
                 "drm_license_uri": "uoxw86wzAkg+WI6tFn2gLJB8QVCFTTI/X3qCGci10jXpXB2gXuPNLmY5IrJS5GPrfrDxUcemW3bUyfeZYbjsEmGNIny1k/3MGsU1hCwuZMctDISqjOiJDn8uSEK4jvX8YpmCdAwjXp46PdS+ED4T2w==",
                 "icono": "https://www.adlatina.com/uploads/img/fotoNoticiaG38334.jpg",
                 "encabezados": {
-                    "Origen": "https://portal.app.flow.com.py",
-                    "Referente": "https://portal.app.flow.com.py/",
+                    "Origen": "https://portal.app.flow.com.ar",
+                    "Referente": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 },
                 "name": "EL TRECE",
@@ -882,9 +882,15 @@
             },
             {
                 "name": "C5N 2",
-                "url": "Tmvb6UUVHE+RqfSLSxEaigZ8R/dWT8Rj8qg6VmSyFO8Hl57hum6anrgLD5a4HFZzoSJjAsMxHK9HENeS1a/gpEAYSm/CJc1sUGzLbPA7a6Y=",
-                "type": "HLS",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/c5n-ar.png"
+                "url": "6EeLwWtk2eEyq9donxtgVj8rzrgIhjwIfBLLw2W50lHeMACweqaYqRsN2VfRzjXaQ0xwaVzgYvmq7v6r47RbulhohBA4qAN6A3W8CFXl/UyDVwvbyY3VUkvO3PnZCtQY9OPVvlxLPub8zXnLZQtbpknYX8G43mczKgObNjSMiCBW624JLW+V38/pqjfC/IoFKZOTOlXeCvgj7nnwKUjs+ap3wDA+hbfKR0ry7nIkdxzM6XYiHmcpegIa2PSDeOAppeklqpkyKLI6LCtWlyblfm6qnniCDcOFBBimfafs2arL940LzmRIMkZt8d21hGAYess0m+sOmMa3d1rgf2YX5z+3HI3iLUIkmvnz6djOaAH1nbTkxQmM1FZb40AMqaBHYFBa++GDCgqsznz2mhJfHnPpAU6mYSM4fy6y4w6YwoS87deP+fD5tI8k1XeK4zyBJFsL9RKdd4mp3FHLg6cDHq0vMHUJJFTtWAuxEsMTzygWiJicDKxwUkJ/62uHYnVfpWk+59P7vAP0TRTGrfdt0svQFAevFLlXCUSZpiAzEuut5A7vMMeuVtg38gMXgYd1XoyyfdbmvrhYRe3QSuGtV7Hg4OXGxSglgy+ZTRgB6bkkP66+lvAOh1c/2vlbo0KbnRolbVA24CRs/5e2mm77Qp0Q6TaMw1jMGCku3kMh4IYung8oX7v2dAnDbvketW6Y3op5zFVDsXlWxQgXPiWU1ltMErnaYBnuDmFEm2aOnsqoORpzEdRD2zUEljplOvU7v6HiGdu1/ZzAwVPXQMPgep7KkG9hDn/aXrsTTZzp29Y=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "tNgD2v4s9kTgePAwD3JTnlnW3Xoremdh3rTPhdk1D0En/4TFXa/Kjaihoj4bH6SMmuQuSOa/taR+QyYj9Uvw8SKBvQFJx0JCfEWONp1mBnokKp97U73IaWpSlDVzpLR0sAQ9lPKsGL6ux+mY2yI35Q==",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/c5n-ar.png",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
             },
             {
                 "name": "LN+ - LA NACION",
@@ -900,9 +906,15 @@
             },
             {
                 "name": "LN+ - LA NACION 2",
-                "url": "Tmvb6UUVHE+RqfSLSxEaigZ8R/dWT8Rj8qg6VmSyFO+VxHRsehuEqjTQRl4mC2ixSzVhqIktcjTk2x5Cq9cL4RJkcKJAW39/1Kg8ECIiJPE=",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png"
+                "url": "6EeLwWtk2eEyq9donxtgVj8rzrgIhjwIfBLLw2W50lHeMACweqaYqRsN2VfRzjXaQ0xwaVzgYvmq7v6r47RbulhohBA4qAN6A3W8CFXl/UyDVwvbyY3VUkvO3PnZCtQY9OPVvlxLPub8zXnLZQtbpknYX8G43mczKgObNjSMiCBW624JLW+V38/pqjfC/IoFKZOTOlXeCvgj7nnwKUjs+ap3wDA+hbfKR0ry7nIkdxzM6XYiHmcpegIa2PSDeOAppeklqpkyKLI6LCtWlyblfm6qnniCDcOFBBimfafs2arL940LzmRIMkZt8d21hGAYess0m+sOmMa3d1rgf2YX5z+3HI3iLUIkmvnz6djOaAH1nbTkxQmM1FZb40AMqaBHYFBa++GDCgqsznz2mhJfHnPpAU6mYSM4fy6y4w6YwoS87deP+fD5tI8k1XeK4zyBJFsL9RKdd4mp3FHLg6cDHq0vMHUJJFTtWAuxEsMTzygWiJicDKxwUkJ/62uHYnVfpWk+59P7vAP0TRTGrfdt0svQFAevFLlXCUSZpiAzEuut5A7vMMeuVtg38gMXgYd1XoyyfdbmvrhYRe3QSuGtV7Hg4OXGxSglgy+ZTRgB6bkkP66+lvAOh1c/2vlbo0KbnRolbVA24CRs/5e2mm77Qp0Q6TaMw1jMGCku3kMh4IYung8oX7v2dAnDbvketW6Y3op5zFVDsXlWxQgXPiWU1ltMErnaYBnuDmFEm2aOnsoF2733c8fT9vCZgXkUvwmMxdcAZgmpe+kngLBuzlaV5m5fXgtTxFdjuYXVZ9XNaIKeqFxIv3co28aDp0idUpFm",
+                "type": "CLEARKEY",
+                "drm_license_uri": "tNgD2v4s9kTgePAwD3JTnlnW3Xoremdh3rTPhdk1D0H6CVGPvrEDrJ46pUaGCMvytoMWGRR0TA3gctimOUDgz2ZN1f382S+Z6ujgUnQehrr9s88F8FCOcrNTHXlNYKqOyuc+lUkmv33S3i64YWQVLg==",
+                "icono": "https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
             },
             {
                 "name": "CRONICA TV",
@@ -918,9 +930,15 @@
             },
             {
                 "name": "CRONICA TV 2",
-                "url": "Tmvb6UUVHE+RqfSLSxEaigZ8R/dWT8Rj8qg6VmSyFO9eNdtsSgl90sfqamwFB2ma3t1Hu/DEX8Ir5fIZfqbeCCXR5LKXjx6slPxzLvaTDcQ=",
-                "type": "HLS",
-                "icono": "https://iptvstudio.pages.dev/logos/argentina/cronicahd.png"
+                "url": "6EeLwWtk2eEyq9donxtgVj8rzrgIhjwIfBLLw2W50lHeMACweqaYqRsN2VfRzjXaQ0xwaVzgYvmq7v6r47RbulhohBA4qAN6A3W8CFXl/UyDVwvbyY3VUkvO3PnZCtQY9OPVvlxLPub8zXnLZQtbpknYX8G43mczKgObNjSMiCBW624JLW+V38/pqjfC/IoFKZOTOlXeCvgj7nnwKUjs+ap3wDA+hbfKR0ry7nIkdxzM6XYiHmcpegIa2PSDeOAppeklqpkyKLI6LCtWlyblfm6qnniCDcOFBBimfafs2arL940LzmRIMkZt8d21hGAYess0m+sOmMa3d1rgf2YX5z+3HI3iLUIkmvnz6djOaAH1nbTkxQmM1FZb40AMqaBHYFBa++GDCgqsznz2mhJfHnPpAU6mYSM4fy6y4w6YwoS87deP+fD5tI8k1XeK4zyBJFsL9RKdd4mp3FHLg6cDHq0vMHUJJFTtWAuxEsMTzygWiJicDKxwUkJ/62uHYnVfpWk+59P7vAP0TRTGrfdt0svQFAevFLlXCUSZpiAzEuut5A7vMMeuVtg38gMXgYd1XoyyfdbmvrhYRe3QSuGtV7Hg4OXGxSglgy+ZTRgB6bkkP66+lvAOh1c/2vlbo0KbnRolbVA24CRs/5e2mm77Qp0Q6TaMw1jMGCku3kMh4IYung8oX7v2dAnDbvketW6Y3op5zFVDsXlWxQgXPiWU1ltMErnaYBnuDmFEm2aOnsra2nLyPkMZtJArkqyKM1IDAzluwAPo1GoIWX9nJwy24Z+ad03MyhyLwjiAu78FdFZy3zZO5KH8MhLVAgydVCFk",
+                "type": "CLEARKEY",
+                "drm_license_uri": "tNgD2v4s9kTgePAwD3JTnlnW3Xoremdh3rTPhdk1D0FIqp4XfMW71WlB3PG9ByUjIaEB5hQrQ/IW+xBSGnubHWSWo1DMqtT0MjL04sV/XpMWn8yzq76sIRpl9/sXhcIosVB7NskREORF168gNQGzpg==",
+                "icono": "https://i.ytimg.com/vi/JC7f3EUDaqw/hq720.jpg?v=69a20fe7&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDWDRhqn5rLVQXkaWswkIWo2eFWKw",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
             },
             {
                 "name": "A24",
@@ -936,9 +954,15 @@
             },
             {
                 "name": "A24 2",
-                "url": "Tmvb6UUVHE+RqfSLSxEaigZ8R/dWT8Rj8qg6VmSyFO8LRwnJZKYBLJ+PWWyjrg0NqQJ7xzBhhE4oc9c9YArdMYWeViDpjvHWXwW/aIQFUFk=",
-                "type": "HLS",
-                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png"
+                "url": "6EeLwWtk2eEyq9donxtgVj8rzrgIhjwIfBLLw2W50lHeMACweqaYqRsN2VfRzjXaQ0xwaVzgYvmq7v6r47RbulhohBA4qAN6A3W8CFXl/UyDVwvbyY3VUkvO3PnZCtQY9OPVvlxLPub8zXnLZQtbpknYX8G43mczKgObNjSMiCBW624JLW+V38/pqjfC/IoFKZOTOlXeCvgj7nnwKUjs+ap3wDA+hbfKR0ry7nIkdxzM6XYiHmcpegIa2PSDeOAppeklqpkyKLI6LCtWlyblfm6qnniCDcOFBBimfafs2arL940LzmRIMkZt8d21hGAYess0m+sOmMa3d1rgf2YX5z+3HI3iLUIkmvnz6djOaAH1nbTkxQmM1FZb40AMqaBHYFBa++GDCgqsznz2mhJfHnPpAU6mYSM4fy6y4w6YwoS87deP+fD5tI8k1XeK4zyBJFsL9RKdd4mp3FHLg6cDHq0vMHUJJFTtWAuxEsMTzygWiJicDKxwUkJ/62uHYnVfpWk+59P7vAP0TRTGrfdt0svQFAevFLlXCUSZpiAzEuut5A7vMMeuVtg38gMXgYd1XoyyfdbmvrhYRe3QSuGtV7Hg4OXGxSglgy+ZTRgB6bkkP66+lvAOh1c/2vlbo0KbnRolbVA24CRs/5e2mm77Qp0Q6TaMw1jMGCku3kMh4IYung8oX7v2dAnDbvketW6Y3op5zFVDsXlWxQgXPiWU1ltMErnaYBnuDmFEm2aOnsrvjC8UW/P67tCl/43uDSap9urr5v7sMV+tAZ6ZC6d+/I6zgHP1354LJp2wTyQB3vSLTFM1aWB+YWYP3UL8m0A2",
+                "type": "CLEARKEY",
+                "drm_license_uri": "tNgD2v4s9kTgePAwD3JTnlnW3Xoremdh3rTPhdk1D0HTCgG/zBQjHFvTuHnRUfqYaAmcZIN++VsTTnNawTaFVBzW+5XbzvUDpuJQZEXt1a0bY2yW4gSfZPYrbuLBn65GM5rtPaAaFU+w+yqFL2Az4Q==",
+                "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
             },
             {
                 "name": "CANAL 26",
@@ -954,13 +978,13 @@
             },
             {
                 "name": "CANAL 26 2",
-                "url": "FMFzR2/vccr9IKmeey/jz/q/eLU3dmpMQy7S9Qe7idW7sreZYPMzA+F6DsFdjc4yQ3RseB2I3/NFCpHMH5cF1uypRgn2fpQs3FZm1s2KW+os+LnbiGGKiinnxqaMSZQm294Guzj6fVQ8pAEUxf/YJQ==",
+                "url": "6EeLwWtk2eEyq9donxtgVj8rzrgIhjwIfBLLw2W50lHeMACweqaYqRsN2VfRzjXaQ0xwaVzgYvmq7v6r47RbulhohBA4qAN6A3W8CFXl/UyDVwvbyY3VUkvO3PnZCtQY9OPVvlxLPub8zXnLZQtbpknYX8G43mczKgObNjSMiCBW624JLW+V38/pqjfC/IoFKZOTOlXeCvgj7nnwKUjs+ap3wDA+hbfKR0ry7nIkdxzM6XYiHmcpegIa2PSDeOAppeklqpkyKLI6LCtWlyblfm6qnniCDcOFBBimfafs2arL940LzmRIMkZt8d21hGAYess0m+sOmMa3d1rgf2YX5z+3HI3iLUIkmvnz6djOaAH1nbTkxQmM1FZb40AMqaBHYFBa++GDCgqsznz2mhJfHnPpAU6mYSM4fy6y4w6YwoS87deP+fD5tI8k1XeK4zyBJFsL9RKdd4mp3FHLg6cDHq0vMHUJJFTtWAuxEsMTzygWiJicDKxwUkJ/62uHYnVfpWk+59P7vAP0TRTGrfdt0svQFAevFLlXCUSZpiAzEuut5A7vMMeuVtg38gMXgYd1XoyyfdbmvrhYRe3QSuGtV7Hg4OXGxSglgy+ZTRgB6bkkP66+lvAOh1c/2vlbo0KbnRolbVA24CRs/5e2mm77Qp0Q6TaMw1jMGCku3kMh4IYung8oX7v2dAnDbvketW6Y3op5zFVDsXlWxQgXPiWU1ltMErnaYBnuDmFEm2aOnsqBmxBFtppGbmyldmd82kRn1CoEs9y2sW7H7NPNNXV6OhzRfxyS+UQnks3wGwg5l0hkUubhvR4/mRMZhMv73KXP",
                 "type": "CLEARKEY",
-                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06hOUGqh6KW0fnStabmg2nl2YbqPThu6Z4iWzCW39hmm/aYN4Y35uaW3tNLUjXhDTYfcOaOTAdXtJGo6V7/Y5ceo6XCJaG6R+PVuuibIqRIvFg==",
+                "drm_license_uri": "tNgD2v4s9kTgePAwD3JTnlnW3Xoremdh3rTPhdk1D0Fx5f/8KkCe8uTDsGBZXIolvw4tSMGgRjg+robzCfMUlhdB8eO28NtlHxcjxFki5Lxtnbf6Q/+aTc+veN6kT0XxdIrSMMlEoTF5ogr4mK1G/w==",
                 "icono": "https://i.ibb.co/60XLr3MX/canal26-logo.png",
                 "headers": {
-                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
-                    "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
                     "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
                 }
             },
