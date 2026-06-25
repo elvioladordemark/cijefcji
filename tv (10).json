@@ -4,6 +4,18 @@
         "samples": [
             {
                 "name": "RPC🇵🇾",
+                "url": "SJaDv3i2fR9rX4GKeeULb+4Zn6YGi62sh/HNCInVM3ADs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4edu52ehN+37AHlz0pl5M7fC1hlzNgSlGgCKwWYq3iR9ODWuGNaWGzuv9jpbpVylZU2x6FFVDGnXoq/PTE1rzm0dFypNhhuYxpwAQsn6t0xZDClpP9M0O8maJn2WytXUbuivFi784QYD5Vp9jqu9n/o8dseoDuHyyyZVJDG49T99hH3CqKgxZbnAbJZOMTXL51ctdvF+CsY9j7WegTIv1b894B3UDl5ZS1pwvathTjTGBmssADcKrRrgQBStL5+44tUSi1IbUZP7sfuRzrfB7gUu42FHsoMOdqXnt6f5aLGfErRaSh8JOUvULohsG4HcK1dPJiRBq1lQlI3vFzQ+Ei1e/uwEaMZVj6pBsdMJyuxQFl+ksQnftMd7Mam0ErfmV8IPFmUk8byc7UMx0DTn6WWeWClnIRSO7cjAYI3M4Oo65y4PD6jJNdWmXUdMMdTcPX0XlWd5ImIGv5Lcp3tqoNVyPVPFk5xmDHHb4+XwkFmpkuSbfmvNS3e/IDebwS/eTHl9MavsKllAmg9gPjml4QgwzbvLq6O40iAbErwsbT7CUQ09t/i8a23JiPI1UrEBsOZNlx46qf6AX2ccAL+Ondg68pN7oliPXPbWVI45vZrGGrbCx79dy/yI80Yi0dN7sznoJcsa4VXTWETJ7nXtanYJJ3mwneSYknz73MMrCGH+MMyGcS1uBJEXgXsAfHE2aa0=",
+                "type": "CLEARKEY",
+                "drm_license_uri": "5k3plTa2rCEgHbwuovXNaZ+4pM1OVYSElVsD6WDvFLPP/yw2UMVE4KA8BSHN11VUDd0cLMAWWP7rdny/YdfhYf97+XkZAFXl8EiG4yfKzsZON53mshag1DWFOCYtSZG53+FH77dW4e2QMA3h18cBYA==",
+                "icono": "https://i.ibb.co/gMWLvZKn/Punto-Play-RPC.png",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
+            },
+            {
+                "name": "RPC🇵🇾 2",
                 "url": "FMFzR2/vccr9IKmeey/jz/q/eLU3dmpMQy7S9Qe7idW7sreZYPMzA+F6DsFdjc4yRRUH1i2eYnJ3Y+xn0yJpuM4Gry2CWfmNKk63OmKng+2YXk/sGlX6wQcxz6OQsg1TZFLm4b0eP5kTGYTL+9ylzw==",
                 "type": "CLEARKEY",
                 "drm_license_uri": "uoxw86wzAkg+WI6tFn2gLJB8QVCFTTI/X3qCGci10jUePcFmjBMN+EPx+FMGdg6V/+9kibePqzC04X48KJPn6ol+pQkq1oK4OecRbskN3BHpMVUY/Y38+hCp/QzofY7SD1K+wF8kKL9TC4AhKUlbvA==",
@@ -15,14 +27,14 @@
                 }
             },
             {
-                "name": "RPC🇵🇾 2",
-                "url": "SJaDv3i2fR9rX4GKeeULb+4Zn6YGi62sh/HNCInVM3ADs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4edu52ehN+37AHlz0pl5M7fC1hlzNgSlGgCKwWYq3iR9ODWuGNaWGzuv9jpbpVylZU2x6FFVDGnXoq/PTE1rzm0dFypNhhuYxpwAQsn6t0xZDClpP9M0O8maJn2WytXUbuivFi784QYD5Vp9jqu9n/o8dseoDuHyyyZVJDG49T99hH3CqKgxZbnAbJZOMTXL51ctdvF+CsY9j7WegTIv1b894B3UDl5ZS1pwvathTjTGBmssADcKrRrgQBStL5+44tUSi1IbUZP7sfuRzrfB7gUu42FHsoMOdqXnt6f5aLGfErRaSh8JOUvULohsG4HcK1dPJiRBq1lQlI3vFzQ+Ei1e/uwEaMZVj6pBsdMJyuxQFl+ksQnftMd7Mam0ErfmV8IPFmUk8byc7UMx0DTn6WWeWClnIRSO7cjAYI3M4Oo65y4PD6jJNdWmXUdMMdTcPX0XlWd5ImIGv5Lcp3tqoNVyPVPFk5xmDHHb4+XwkFmpkuSbfmvNS3e/IDebwS/eTHl9MavsKllAmg9gPjml4QgwzbvLq6O40iAbErwsbT7CUQ09t/i8a23JiPI1UrEBsOZNlx46qf6AX2ccAL+Ondg68pN7oliPXPbWVI45vZrGGrbCx79dy/yI80Yi0dN7sznoJcsa4VXTWETJ7nXtanYJJ3mwneSYknz73MMrCGH+MMyGcS1uBJEXgXsAfHE2aa0=",
+                "name": "GEN🇵🇾 2",
+                "url": "SJaDv3i2fR9rX4GKeeULb+4Zn6YGi62sh/HNCInVM3ADs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4edu52ehN+37AHlz0pl5M7fC1hlzNgSlGgCKwWYq3iR9ODWuGNaWGzuv9jpbpVylZU2x6FFVDGnXoq/PTE1rzm0dFypNhhuYxpwAQsn6t0xZDClpP9M0O8maJn2WytXUbuivFi784QYD5Vp9jqu9n/o8dseoDuHyyyZVJDG49T99hH3CqKgxZbnAbJZOMTXL51ctdvF+CsY9j7WegTIv1b894B3UDl5ZS1pwvathTjTGBmssADcKrRrgQBStL5+44tUSi1IbUZP7sfuRzrfB7gUu42FHsoMOdqXnt6f5aLGfErRaSh8JOUvULohsG4HcK1dPJiRBq1lQlI3vFzQ+Ei1e/uwEaMZVj6pBsdMJyuxQFl+ksQnftMd7Mam0ErfmV8IPFmUk8byc7UMx0DTn6WWeWClnIRSO7cjAYI3M4Oo65y4PD6jJNdWmXUdMMdTcPX0XlWd5ImIGv5Lcp3tqoNVyPVPFk5xmDHHb4+XwkFmpkuSbfmvNS3e/IDebwS/eTHl9MavsKllAmg9gPjml4QgwzbvLq6O40iAbErwsbT7CUQ09t/i8a23JiPI1UrEBsOZNlx46qf6AX2ccAL+Ondg68pN7oliPXPbWVI45vZrGGrbCx79dy/yI80Yi0dN7sznWSDZCnksax+Fz69W/ViXmuYyTs4CdY2t5CsXXjuVL+cPVlzF3WkdQdHP2ANQ3In0=",
                 "type": "CLEARKEY",
-                "drm_license_uri": "5k3plTa2rCEgHbwuovXNaZ+4pM1OVYSElVsD6WDvFLPP/yw2UMVE4KA8BSHN11VUDd0cLMAWWP7rdny/YdfhYf97+XkZAFXl8EiG4yfKzsZON53mshag1DWFOCYtSZG53+FH77dW4e2QMA3h18cBYA==",
-                "icono": "https://i.ibb.co/gMWLvZKn/Punto-Play-RPC.png",
+                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06jWioSw7ANhMH9Fn9nBHZFSvdGzFNiB3onH6VWh94QfWe26Mu5jrsTfN83YbrL3J9i6wtAr4dKVpuHSa3/cfAvbhONDe49BXI/u/S8opyamgQ==",
+                "icono": "https://i.ibb.co/VcRpdnF2/Punto-Play-GEN.png",
                 "headers": {
-                    "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
-                    "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
                     "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
                 }
             },
@@ -39,15 +51,14 @@
                 }
             },
             {
-                "name": "GEN🇵🇾 2",
-                "url": "SJaDv3i2fR9rX4GKeeULb+4Zn6YGi62sh/HNCInVM3ADs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4edu52ehN+37AHlz0pl5M7fC1hlzNgSlGgCKwWYq3iR9ODWuGNaWGzuv9jpbpVylZU2x6FFVDGnXoq/PTE1rzm0dFypNhhuYxpwAQsn6t0xZDClpP9M0O8maJn2WytXUbuivFi784QYD5Vp9jqu9n/o8dseoDuHyyyZVJDG49T99hH3CqKgxZbnAbJZOMTXL51ctdvF+CsY9j7WegTIv1b894B3UDl5ZS1pwvathTjTGBmssADcKrRrgQBStL5+44tUSi1IbUZP7sfuRzrfB7gUu42FHsoMOdqXnt6f5aLGfErRaSh8JOUvULohsG4HcK1dPJiRBq1lQlI3vFzQ+Ei1e/uwEaMZVj6pBsdMJyuxQFl+ksQnftMd7Mam0ErfmV8IPFmUk8byc7UMx0DTn6WWeWClnIRSO7cjAYI3M4Oo65y4PD6jJNdWmXUdMMdTcPX0XlWd5ImIGv5Lcp3tqoNVyPVPFk5xmDHHb4+XwkFmpkuSbfmvNS3e/IDebwS/eTHl9MavsKllAmg9gPjml4QgwzbvLq6O40iAbErwsbT7CUQ09t/i8a23JiPI1UrEBsOZNlx46qf6AX2ccAL+Ondg68pN7oliPXPbWVI45vZrGGrbCx79dy/yI80Yi0dN7sznWSDZCnksax+Fz69W/ViXmuYyTs4CdY2t5CsXXjuVL+cPVlzF3WkdQdHP2ANQ3In0=",
-                "type": "CLEARKEY",
-                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06jWioSw7ANhMH9Fn9nBHZFSvdGzFNiB3onH6VWh94QfWe26Mu5jrsTfN83YbrL3J9i6wtAr4dKVpuHSa3/cfAvbhONDe49BXI/u/S8opyamgQ==",
-                "icono": "https://i.ibb.co/VcRpdnF2/Punto-Play-GEN.png",
+                "name": "GEN🇵🇾 3",
+                "url": "5LaziYn+3KM12tbDj7gYcEmrVSpy4Hdo+gXznQnJbflSxE0OgWZU3iQofRT1sijvHoQ4sk4AI+IvPe1N/YhRkA==",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/fYhwn0nH/gen-albi.png",
                 "headers": {
-                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
-                    "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
-                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                    "Referer": "61Wu5gjhdCd+GhrSCiLANXiKLPwEwV0YpBI+RTry9oc=",
+                    "Origin": "61Wu5gjhdCd+GhrSCiLANX1IOiUMzMN2CoDlqQ0XMbs=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Lyv7xR8971zHA8PMicLYVoAKjz2Jyt7kVe2uJi7Nu5Aw=="
                 }
             },
             {
