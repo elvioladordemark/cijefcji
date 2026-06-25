@@ -3538,28 +3538,6 @@
         "name": "prueba",
         "samples": [
             {
-                "nombre": "OPCIÓN 1",
-                "url": "t+U5qW3T9LmROMYVQCkXso2Y//iP5lNvCW5BNi8iXbuz6OgH9GfNKRB23/wX2n+THL1ZrFLIlpI+FrzpfkgBJ9D8bTaSuaS/QFO+dCKWlDSg81BXdTrQNSRui8nMq8c3hV+DwlggtYA5B2DEsgUXOfqLJz3XRRp1F56RuAux+fBg0ppYHROTwgzwNVFxVRjw3oSlU8407Z63eagvCcOOm/4NBIXLtK17ZT0iay7NPaY9RJmbOD31WN23yvoKlDXiAcSVqx0GduUaNIzl5RnO2g==",
-                "tipo": "HLS",
-                "icono": "https://www.segurilatam.com/wp-content/uploads/sites/5/2025/08/mundial-2026-cartel-fifa-900x600.jpg",
-                "encabezados": {
-                    "Referidor": "https://gabito.xyz/",
-                    "Origen": "https://gabito.xyz",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/142.0.0.0"
-                }
-            },
-            {
-                "nombre": "OPCIÓN 2",
-                "url": "t+U5qW3T9LmROMYVQCkXsggdNamRn01zYckOnJ4g7KgVdfQLAQL1JO6iceNqM8Y1LtnDL2tgLfdIz08PHOeLl6mWUsVeTMkgodJZZq5FfarvR3Tq3LEEpSLmBL7hGOvpOdin6KQ6yC35hRrO4XD5sS2GdGSQmmOIvrbi/rnMgm8gCIBT2z92LWKBZVn9o3eGIXDpb0pfoZG+RquR01fIFRmMdanMw1Aepk25NezHFK0guIxrfM8iaJKpIx4VFQOeAcSVqx0GduUaNIzl5RnO2g==",
-                "tipo": "HLS",
-                "icono": "https://www.segurilatam.com/wp-content/uploads/sites/5/2025/08/mundial-2026-cartel-fifa-900x600.jpg",
-                "encabezados": {
-                    "Referidor": "https://gabito.xyz/",
-                    "Origen": "https://gabito.xyz",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "VIX TUDN MUNDIAL",
                 "url": "RwKyEsEi3ptEu9Xc85Eay/eXm2PQE2lbYjzI2WJEYBGXcuGvRZr6uJ7sX2Dgs31PfROg5qs48KQcT+45qy5zEYmg2GGTG2OQYem4id4Tp1JnnuDpPsMVvxkPc6bzyLrURD9LJ1nHTjf3Jv7c8voHK1c9zGXv0BiciyGa60Cis0NihdjVwBb76ZpfgH+6ii7U",
                 "type": "CLEARKEY",
