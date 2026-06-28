@@ -4,7 +4,7 @@
         "samples": [
             {
                 "name": "OPCION 1",
-                "url": "t+U5qW3T9LmROMYVQCkXso2Y//iP5lNvCW5BNi8iXbvgcbkt7PY25rDxIT7gfw6inONe3HmMWN+2w+xwzCtuptUmtSHuHVr8Y6bDRh4hphv8F9cf31zgj83ngo6ug2kJbWtqJw93w72geePd+GfGfZ6LyknCrmivVkxRak5F3j031jfttyji25cHhUZj0PHi5yZXSvmAEgWznnwlGRU7YP6tAgFVxByGHmCpzotz7lU9RJmbOD31WN23yvoKlDXiAcSVqx0GduUaNIzl5RnO2g==",
+                "url": "5LaziYn+3KM12tbDj7gYcEmrVSpy4Hdo+gXznQnJbflSxE0OgWZU3iQofRT1sijvHoQ4sk4AI+IvPe1N/YhRkA==",
                 "type": "HLS",
                 "icono": "https://www.segurilatam.com/wp-content/uploads/sites/5/2025/08/mundial-2026-cartel-fifa-900x600.jpg",
                 "headers": {
@@ -308,7 +308,7 @@
             },
             {
                 "name": "OPCION 3",
-                "url": "5LaziYn+3KM12tbDj7gYcEmrVSpy4Hdo+gXznQnJbflSxE0OgWZU3iQofRT1sijvHoQ4sk4AI+IvPe1N/YhRkA==",
+                "url": "t+U5qW3T9LmROMYVQCkXso2Y//iP5lNvCW5BNi8iXbvgcbkt7PY25rDxIT7gfw6inONe3HmMWN+2w+xwzCtuptUmtSHuHVr8Y6bDRh4hphv8F9cf31zgj83ngo6ug2kJbWtqJw93w72geePd+GfGfZ6LyknCrmivVkxRak5F3j031jfttyji25cHhUZj0PHi5yZXSvmAEgWznnwlGRU7YP6tAgFVxByGHmCpzotz7lU9RJmbOD31WN23yvoKlDXiAcSVqx0GduUaNIzl5RnO2g==",
                 "type": "HLS",
                 "icono": "https://www.segurilatam.com/wp-content/uploads/sites/5/2025/08/mundial-2026-cartel-fifa-900x600.jpg",
                 "headers": {
@@ -2577,7 +2577,9 @@
             {
                 "name": "RCN NOVELAS",
                 "url": "Dn/Rpg6TUWAYw1wBAx9OY0KUfyfshfdleIptyq3+X27cAb0OWo7i2uqTvXHfE3Ve1u7y9paMCbZnrELAP/k+zw==",
-                "type": "CLEARKEY"
+                "type": "CLEARKEY",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrHn7S0zCvv5sqBQQep5jdG62omGs-MAqqS9uV2God1w&s=10",
+                "drm_license_uri": ""
             },
             {
                 "name": "NOVELAS TURCAS",
