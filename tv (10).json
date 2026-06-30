@@ -1006,6 +1006,41 @@
         ]
     },
     {
+        "name": "GRAN HERMANO 2026",
+        "samples": [
+            {
+                "name": "GRAN HERMANO 24 HS",
+                "url": "0svVfEg23mGh+mZD7JCroT+kJSC+88O3mHsW3NHvVk/GzXZlyEtSi9kxprjPlWfhgJRXHhBnJ3lcZxjQ+2ywbNFvkSihMBICpUF9TPEYm5w=",
+                "icono": "https://granhermano.pagodespues.com.uy/assets/gh-eye-logo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "CAMARA 1",
+                "url": "QZiF4H382fi8jQgBGODtoSS1nJSB0nCFFLjgS1rlUPuKb8kisiWDzwXtql7NWVbIk0a4Q1K/Yu8g6q4tH7+HWWKF2NXAFvvpml+Af7qKLtQ=",
+                "icono": "https://granhermano.pagodespues.com.uy/assets/gh-eye-logo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "CAMARA 2",
+                "url": "QZiF4H382fi8jQgBGODtoSS1nJSB0nCFFLjgS1rlUPuKb8kisiWDzwXtql7NWVbI2I3x1wQqNFN/k9Tmr6wOx2KF2NXAFvvpml+Af7qKLtQ=",
+                "icono": "https://granhermano.pagodespues.com.uy/assets/gh-eye-logo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "CAMARA 3",
+                "url": "QZiF4H382fi8jQgBGODtoSS1nJSB0nCFFLjgS1rlUPuKb8kisiWDzwXtql7NWVbIqjzHN6Gfp5S9ViDLmRi0hGKF2NXAFvvpml+Af7qKLtQ=",
+                "icono": "https://granhermano.pagodespues.com.uy/assets/gh-eye-logo.png",
+                "type": "HLS"
+            },
+            {
+                "name": "MULTICAM",
+                "url": "QZiF4H382fi8jQgBGODtoSS1nJSB0nCFFLjgS1rlUPuKb8kisiWDzwXtql7NWVbIMbhqt9R8q2ChBImrwxR1TGKF2NXAFvvpml+Af7qKLtQ=",
+                "icono": "https://granhermano.pagodespues.com.uy/assets/gh-eye-logo.png",
+                "type": "HLS"
+            }
+        ]
+    },
+    {
         "name": "DEPORTES ESPN",
         "samples": [
             {
@@ -1546,6 +1581,36 @@
                 "url": "2PbLfQjVdy6xJDX/IIw51+0Y/N5lOmpbMrKRsykklnX+dai2gLguKAmWxHT83BXRYoXY1cAW++maX4B/uoou1A==",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png"
+            }
+        ]
+    },
+    {
+        "name": "⚽ DEPORTES DIRECTV ARG",
+        "samples": [
+            {
+                "name": "DIRECTV SPORTS",
+                "url": "RwKyEsEi3ptEu9Xc85Eay/eXm2PQE2lbYjzI2WJEYBGXcuGvRZr6uJ7sX2Dgs31PfROg5qs48KQcT+45qy5zEVGqyH7dE5i+ovwDPHvZssCV0XjY34r9Jt0Cw4FjstrcLlbDdNX22zrn76MVdtIFUi22Ou4RXuQnZo7gy+lPr4NihdjVwBb76ZpfgH+6ii7U",
+                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06iyoKqMs6UHeGyffqVOBhUHwN3tE7dllhLQiLuQxaXwE4+sD66JvGZY4GtUY4a24mrJQH6YOEoKyWzX1HcSh7i0xHGSVnEean3TRLmWsQ458A=="
+            },
+            {
+                "name": "DIRECTV SPORTS 2",
+                "url": "85QjXJJgPS9Fhj7SenAFZGsdz1B2Pz134xrFw+hYNCug4AjK+JsrNvFYKDrK59AN766H+4RfloAaSVzQUYDvJg==",
+                "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DIRECTV SPORTS PLUS",
+                "url": "OOszE3sYC0dxqHLbQUjgXltd2oc6NF8u4GG+hqszX2gmfdrBLi/mGAANZd9PtWY2oR+kVO0OtXHnzwTSCiipC1fMdC+uhkX3ZsGfdsXbW9M=",
+                "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DSPORTS FIGHT",
+                "url": "EpKgIktRALBX6JWFU/USSkzbzMpMGS1zPfcWvKzg4LCYYzubiryL8e4S8qqDVfrR",
+                "type": "HLS",
+                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1765923612141"
             }
         ]
     },
