@@ -1104,10 +1104,16 @@
                 }
             },
             {
-                "name": "ESPN 2 OPCION 2",
-                "url": "OOszE3sYC0dxqHLbQUjgXltd2oc6NF8u4GG+hqszX2jIf8EvbXRtS0btbPdRSYz5VhqqJg1T89+RtMqKwfCbMEAYSm/CJc1sUGzLbPA7a6Y=",
-                "type": "HLS",
-                "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png"
+                "name": "ESPN 2 opción 2",
+                "url": "SJaDv3i2fR9rX4GKeeULb03qbuPvloKVedbsOtCOH/IDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4ecvlZ8tFQuz2prqSMs51+tvp7cbjDSahqfN5sFQ2dWrJjWuGNaWGzuv9jpbpVylZU2x6FFVDGnXoq/PTE1rzm0dFypNhhuYxpwAQsn6t0xZDClpP9M0O8maJn2WytXUbuivFi784QYD5Vp9jqu9n/o8dseoDuHyyyZVJDG49T99hH3CqKgxZbnAbJZOMTXL51ctdvF+CsY9j7WegTIv1b89cwfXx4d6+BNzGz9zCnURBGNKOVJv4Qrst9woJXKH/eoSi1IbUZP7sfuRzrfB7gUu42FHsoMOdqXnt6f5aLGfErRaSh8JOUvULohsG4HcK1dPJiRBq1lQlI3vFzQ+Ei1e/uwEaMZVj6pBsdMJyuxQFl+ksQnftMd7Mam0ErfmV8IPFmUk8byc7UMx0DTn6WWeWClnIRSO7cjAYI3M4Oo65xEP6hdemiCvxFmImWfhPmd7uXKGReqFSM5TFn4H5zAiPVPFk5xmDHHb4+XwkFmpkifA4aePiFMi5aacyqLjWJxmVfEN94v70d69g1IbB8It/UZ0NMmn2IFrDghfn4x4MdydLbsmPL816HQ9wKaeyGokm+2sjon9hW0fNziJAW+V6N0L5SGfxidFLFgJeYohCKN8VFlFy+6yStfnTxjuXTPCQiTlyggqTZ5YistbOKw5WcIBTis64xrxBlM4aUx2WkLv8fPFfMv3N+llyxTb1cSLnApSo8Hvv+0okhbs3pay",
+                "type": "CLEARKEY",
+                "drm_license_uri": "+adm5q44qxnSGQ/uiqKEQduX7KZtriONpS04w6XF06i6b6B1RRbWjnrwO4rGkOFyjnAyqlpKDDYNwjR4UG2TOu2pzqrAgJ0YP+KZ1Z+23EYpunWJGOGYK1fHdbtCy4xF5RovE4Ghx8UVgvb8bKvNdw==",
+                "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
+                "headers": {
+                    "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
+                    "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
+                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0Kg02CXVVM55/tcujHqUeTRAKjz2Jyt7kVe2uJi7Nu5Aw=="
+                }
             },
             {
                 "name": "ESPN 3",
