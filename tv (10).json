@@ -1411,41 +1411,6 @@
         ]
     },
     {
-        "name": "DAZN",
-        "samples": [
-            {
-                "name": "DAZN 1",
-                "url": "QZiF4H382fi8jQgBGODtoSS1nJSB0nCFFLjgS1rlUPuKb8kisiWDzwXtql7NWVbIXd4kzyQBoOIevmbNqRQgimKF2NXAFvvpml+Af7qKLtQ=",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png"
-            },
-            {
-                "name": "DAZN 2",
-                "url": "QZiF4H382fi8jQgBGODtoSS1nJSB0nCFFLjgS1rlUPuKb8kisiWDzwXtql7NWVbIcW64mBYbjHnBoXpYorLHoGKF2NXAFvvpml+Af7qKLtQ=",
-                "type": "HLS",
-                "icono": "https://epg.pw/media/images/epg/2024/12/16/20241216021935231312_54.png"
-            },
-            {
-                "name": "DAZN 3",
-                "url": "QZiF4H382fi8jQgBGODtoSS1nJSB0nCFFLjgS1rlUPuKb8kisiWDzwXtql7NWVbIq8Egb6Eky6b0yimQ08Ly8mKF2NXAFvvpml+Af7qKLtQ=",
-                "type": "HLS",
-                "icono": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1"
-            },
-            {
-                "name": "DAZN F1",
-                "url": "QZiF4H382fi8jQgBGODtoSS1nJSB0nCFFLjgS1rlUPuKb8kisiWDzwXtql7NWVbIZt7V5MUfuSzet6kQhuIM4mKF2NXAFvvpml+Af7qKLtQ=",
-                "type": "HLS",
-                "icono": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/02/daznformula.png?resize=440%2C264&ssl=1"
-            },
-            {
-                "name": "DAZN LA LIGA",
-                "url": "EpKgIktRALBX6JWFU/USSkzbzMpMGS1zPfcWvKzg4LAApox3v8N85ecgnZC3YQVd",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png"
-            }
-        ]
-    },
-    {
         "name": "⚽ DISNEY + (SOLO EVENTOS)",
         "samples": [
             {
@@ -2933,7 +2898,7 @@
                 "url": "SJaDv3i2fR9rX4GKeeULb0lk4wreQqzZRSqZTDNEhiwDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efhWoYBwjDEZFbsgZzkK0r4+jvXiUAXN47lE6RuVUV9JzR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2seuIVGxEHthXGv7S09sRX5jILDC2akfd71PriTGSm5cga61JjMhxfNUQKkeRmSddKcXHg2JJIHNMCmdUcTuS4FluByKIKmuClDWC2zgcUkJJRGEIrUKTCvgeA0cCWVbcpiUak95as+3aRBNbHs8QN+FWc1/sEh8vLEG340Hp2tFPuGo9vBp1JJdeDe+9DrQxWaDPsa6cLgBCqWITRA9gIm+DeLY6cqUuhFGiYB7/skRP+4QGa961QjAQdI7H68/g0/lEgcRNcYhjHYOiewXb6mJt5JZ3wJhHHURSJNknqn+13sOYQJvwB97pY+QVae0Sf6XhQzMloHJx4uHexYroPqOD25bZ+S1XiCWrluN8HcLB+zchPYgta/l2/asYtyafagcZ367S/I7aMCtLdXUWUlJOiiAhQXbsxxuqq47L7ZGbG5H6L5ts1sv8GGjIKBXbuCWcV+Qeixw3vfwE5lMQZwP7sBGjGVY+qQbHTCcrsUBZfpLEJ37THezGptBK35lfCDxZlJPG8nO1DMdA05+llnlgpZyEUju3IwGCNzODqOufeeLmYdR2ikgqMKlj+BVHiyV3Xvpz+mzVaGkppvR1TjT1TxZOcZgxx2+Pl8JBZqZInwOGnj4hTIuWmnMqi41ict0UnlHkNtaCxS2VO3FbXan/UFuBVWJRWeaTM1tz4MvKqT3VsmLIICNOGu9AQEFXsvanOonoxRRcRWwYr5fC8VNbdblAvtoBslrcelITEl/iWeulxGfpGQETUR4oBAmlsqlY7iVpSnOt4ubpTJndHjwzMpnz2PN+3wL8HwDTfn9LY0RiWbbmPl+NNuHbesidpyBJu3tQvylJhtZZ0gqBitdVZazaztWuK7M47Q6XqQBQ=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "uoxw86wzAkg+WI6tFn2gLJB8QVCFTTI/X3qCGci10jW+Qxn01cgTBzAzJsc4cYf3ZPdBYFHKjvxZjJKy6ZdRO9UbVuxlrO8K+4NCwLESnusCMpoeyi8CuH0kYChMXNPfz31u/ek8Ig+QOgw5ddUFoA==",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",
+                "icono": "https://1000marcas.net/wp-content/uploads/2020/03/Cartoon-Network-logo.jpg",
                 "headers": {
                     "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
                     "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
@@ -2945,7 +2910,7 @@
                 "url": "SJaDv3i2fR9rX4GKeeULb0lk4wreQqzZRSqZTDNEhiwDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efhWoYBwjDEZFbsgZzkK0r4+jvXiUAXN47lE6RuVUV9JzR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2seuIVGxEHthXGv7S09sRX5jILDC2akfd71PriTGSm5cga61JjMhxfNUQKkeRmSddKcXHg2JJIHNMCmdUcTuS4FluByKIKmuClDWC2zgcUkJJRGEIrUKTCvgeA0cCWVbcpiUak95as+3aRBNbHs8QN+FWc1/sEh8vLEG340Hp2tFPuGo9vBp1JJdeDe+9DrQxWaDPsa6cLgBCqWITRA9gIm+DeLY6cqUuhFGiYB7/skRP+4QGa961QjAQdI7H68/g0/lEgcRNcYhjHYOiewXb6mJt5JZ3wJhHHURSJNknqn+13sOYQJvwB97pY+QVae0Sf6XhQzMloHJx4uHexYroPqOD25bZ+S1XiCWrluN8HcLB+zchPYgta/l2/asYtyafagcZ367S/I7aMCtLdXUWUlJOiiAhQXbsxxuqq47L7ZGbG5H6L5ts1sv8GGjIKBXbuCWcV+Qeixw3vfwE5lMQZwP7sBGjGVY+qQbHTCcrsUBZfpLEJ37THezGptBK35lfCDxZlJPG8nO1DMdA05+llnlgpZyEUju3IwGCNzODqOufeeLmYdR2ikgqMKlj+BVHiyV3Xvpz+mzVaGkppvR1TjT1TxZOcZgxx2+Pl8JBZqZInwOGnj4hTIuWmnMqi41ict0UnlHkNtaCxS2VO3FbXan/UFuBVWJRWeaTM1tz4MvKqT3VsmLIICNOGu9AQEFXsvanOonoxRRcRWwYr5fC8VNbdblAvtoBslrcelITEl/iWeulxGfpGQETUR4oBAmlsqlY7iVpSnOt4ubpTJndHjwzMpnz2PN+3wL8HwDTfn9LY0RiWbbmPl+NNuHbesidpyBJu3tQvylJhtZZ0gqBitdVZazaztWuK7M47Q6XqQBQ=",
                 "type": "CLEARKEY",
                 "drm_license_uri": "uoxw86wzAkg+WI6tFn2gLJB8QVCFTTI/X3qCGci10jW+Qxn01cgTBzAzJsc4cYf3ZPdBYFHKjvxZjJKy6ZdRO9UbVuxlrO8K+4NCwLESnusCMpoeyi8CuH0kYChMXNPfz31u/ek8Ig+QOgw5ddUFoA==",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",
+                "icono": "https://1000marcas.net/wp-content/uploads/2020/03/Cartoon-Network-logo.jpg",
                 "headers": {
                     "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
                     "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
@@ -2981,7 +2946,7 @@
                 "url": "SJaDv3i2fR9rX4GKeeULb0lk4wreQqzZRSqZTDNEhiwDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efhWoYBwjDEZFbsgZzkK0r4+jvXiUAXN47lE6RuVUV9JzR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2seuIVGxEHthXGv7S09sRX5jILDC2akfd71PriTGSm5cga61JjMhxfNUQKkeRmSddKcXHg2JJIHNMCmdUcTuS4FluByKIKmuClDWC2zgcUkJJRGEIrUKTCvgeA0cCWVbcpiUak95as+3aRBNbHs8QN+FWc1/sEh8vLEG340Hp2tFPuGo9vBp1JJdeDe+9DrQxWaDPsa6cLgBCqWITRA9gIm+DeLY6cqUuhFGiYB7/skRP+4QGa961QjAQdI7H68/g0/lEgcRNcYhjHYOiewXb6mJt5JZ3wJhHHURSJNknqn+13sOYQJvwB97pY+QVae0Sf6XhQzMloHJx4uHexYroPqOD25bZ+S1XiCWrluN8HcLB+zchPYgta/l2/asYtyafagcZ367S/I7aMCtLdXUWUlJOiiAhQXbsxxuqq47L7ZGbG5H6L5ts1sv8GGjIKBXbuCWcV+Qeixw3vfwE5lMQZwP7sBGjGVY+qQbHTCcrsUBZfpLEJ37THezGptBK35lfCDxZlJPG8nO1DMdA05+llnlgpZyEUju3IwGCNzODqOufeeLmYdR2ikgqMKlj+BVHiyV3Xvpz+mzVaGkppvR1TjT1TxZOcZgxx2+Pl8JBZqZInwOGnj4hTIuWmnMqi41ict0UnlHkNtaCxS2VO3FbXan/UFuBVWJRWeaTM1tz4MvKqT3VsmLIICNOGu9AQEFXsvanOonoxRRcRWwYr5fC8VNbdblAvtoBslrcelITEl/iWeulxGfpGQETUR4oBAmls4nbkc3X2Pp1hTFVFmgjq0LNofhca2P5xKYMNF8AI1q0JQVGTYIPFfTNPJrHjSSiwVw9IVa6ljo3ARruNz9GJXQ==",
                 "type": "CLEARKEY",
                 "drm_license_uri": "uoxw86wzAkg+WI6tFn2gLJB8QVCFTTI/X3qCGci10jXqLUpPTw9ZGfQmhOinXs8wHH+IFmr9p1Z8FcbosCR1IWTDZXd4G0rqv8fd4ffZQWIAnN3HawkPq1WdXTVun0DdTk7ndKdS6x8wUAiYv/Cw+w==",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYoLEgi4WLSAlC2OJodDQEJcYl22HSzFBrk3SD6eBZDQ&s=10",
                 "headers": {
                     "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
                     "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
@@ -2993,7 +2958,7 @@
                 "url": "SJaDv3i2fR9rX4GKeeULb0lk4wreQqzZRSqZTDNEhiwDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efhWoYBwjDEZFbsgZzkK0r4+jvXiUAXN47lE6RuVUV9JzR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2seuIVGxEHthXGv7S09sRX5jILDC2akfd71PriTGSm5cga61JjMhxfNUQKkeRmSddKcXHg2JJIHNMCmdUcTuS4FluByKIKmuClDWC2zgcUkJJRGEIrUKTCvgeA0cCWVbcpiUak95as+3aRBNbHs8QN+FWc1/sEh8vLEG340Hp2tFPuGo9vBp1JJdeDe+9DrQxWaDPsa6cLgBCqWITRA9gIm+DeLY6cqUuhFGiYB7/skRP+4QGa961QjAQdI7H68/g0/lEgcRNcYhjHYOiewXb6mJt5JZ3wJhHHURSJNknqn+13sOYQJvwB97pY+QVae0Sf6XhQzMloHJx4uHexYroPqOD25bZ+S1XiCWrluN8HcLB+zchPYgta/l2/asYtyafagcZ367S/I7aMCtLdXUWUlJOiiAhQXbsxxuqq47L7ZGbG5H6L5ts1sv8GGjIKBXbuCWcV+Qeixw3vfwE5lMQZwP7sBGjGVY+qQbHTCcrsUBZfpLEJ37THezGptBK35lfCDxZlJPG8nO1DMdA05+llnlgpZyEUju3IwGCNzODqOufeeLmYdR2ikgqMKlj+BVHiyV3Xvpz+mzVaGkppvR1TjT1TxZOcZgxx2+Pl8JBZqZInwOGnj4hTIuWmnMqi41ict0UnlHkNtaCxS2VO3FbXan/UFuBVWJRWeaTM1tz4MvKqT3VsmLIICNOGu9AQEFXsvanOonoxRRcRWwYr5fC8VNbdblAvtoBslrcelITEl/iWeulxGfpGQETUR4oBAmls4nbkc3X2Pp1hTFVFmgjq0LNofhca2P5xKYMNF8AI1q0JQVGTYIPFfTNPJrHjSSiwVw9IVa6ljo3ARruNz9GJXQ==",
                 "type": "CLEARKEY",
                 "drm_license_uri": "uoxw86wzAkg+WI6tFn2gLJB8QVCFTTI/X3qCGci10jXqLUpPTw9ZGfQmhOinXs8wHH+IFmr9p1Z8FcbosCR1IWTDZXd4G0rqv8fd4ffZQWIAnN3HawkPq1WdXTVun0DdTk7ndKdS6x8wUAiYv/Cw+w==",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYoLEgi4WLSAlC2OJodDQEJcYl22HSzFBrk3SD6eBZDQ&s=10",
                 "headers": {
                     "Origin": "Ssz8pUSwuOOXrjMOfMcImez9B6dTD+SyhYnTqznBTpA=",
                     "Referer": "Ssz8pUSwuOOXrjMOfMcImYD3zSTkFoP9RZ3f53XjJRM=",
