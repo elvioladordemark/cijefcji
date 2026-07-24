@@ -1,4 +1,43 @@
 [
+{
+        "name": "⚽TIGO SPORTS SOLO EVENTOS",
+        "samples": [
+            {
+                "name": "OPCION 1",
+                "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+                "headers": {
+                    "Referer": "https://gabito.site/",
+                    "Origin": "https://gabito.site",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/142.0.0.0"
+                }
+            },
+            {
+                "name": "OPCION 2",
+                "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+                "headers": {
+                    "Referer": "http://www.tigosports.com.py/",
+                    "User-Agent": "Firefox"
+                }
+            },
+            {
+                "name": "OPCION 3",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/socerpy/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+                "headers": {
+                    "Referer": "https://gabito.site/",
+                    "Origin": "https://gabito.site",
+                    "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        ]
+    },
     {
         "name": "CANALES DE PARAGUAY",
         "samples": [
