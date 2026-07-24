@@ -4,13 +4,13 @@
         "samples": [
             {
                 "name": "OPCION 1",
-                "url": "https://streamx488.sbs/global1.php?channel=fanatiz4",
-                "type": "WEBVIEW",
+                "url": "https://3xwdr14ch0n0.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+                "type": "HLS",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
                 "headers": {
-                    "Referer": "https://gabito.site/",
-                    "Origin": "https://gabito.site",
+                    "Referer": "https://gabito.store/",
+                    "Origin": "https://gabito.store",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/142.0.0.0"
                 }
             },
