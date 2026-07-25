@@ -16,13 +16,14 @@
             },
             {
                 "name": "OPCION 2",
-                "url": "https://streamx488.sbs/global1.php?channel=fanatiz4",
-                "type": "WEBVIEW",
+                "url": "http://193.47.62.190/hls/KDDDAA.m3u8",
+                "type": "HLS",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
                 "headers": {
-                    "Referer": "http://www.tigosports.com.py/",
-                    "User-Agent": "Firefox"
+                    "Referer": "http://www.fawanews.sc/",
+ "Origin": "http://www.fawanews.sc",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                 }
             },
             {
