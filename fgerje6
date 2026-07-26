@@ -4,7 +4,7 @@
         "samples": [
             {
                 "name": "OPCION 1",
-                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "url": "https://api.tigosports.com.py/sls/v1/streaming/9kRWcYhWpZql1qvxqILtQJZq?asset=rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.mpd&typeContent=game",
                 "type": "CLEARKEY",
 "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
@@ -15,7 +15,7 @@
             },
             {
                 "name": "OPCION 2",
-                "url": "https://api.tigosports.com.py/sls/v1/streaming/wyUUrhRfnuaJC90oukD7e2cd?asset=rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd&typeContent=game",
+                "url": "https://api.tigosports.com.py/sls/v1/streaming/9kRWcYhWpZql1qvxqILtQJZq?asset=rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.mpd&typeContent=game",
              "type": "CLEARKEY",
 "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
