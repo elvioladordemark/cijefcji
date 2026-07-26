@@ -17,7 +17,7 @@
             },
             {
                 "name": "OPCION 2",
-                "url": "https://api.tigosports.com.py/sls/v1/streaming/aca_el_id?asset=rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd&typeContent=game",
+                "url": "https://api.tigosports.com.py/sls/v1/streaming/aca_el_id?asset=rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd&typeContent=game",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
                 "headers": {
