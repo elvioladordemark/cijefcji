@@ -4,7 +4,7 @@
         "samples": [
             {
                 "name": "OPCION 1",
-                "url": "https://api.tigosports.com.py/sls/v1/streaming/ZstFTVBq2Tn4yorTTR7cM1uz?asset=rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd&typeContent=game",
+                "url": "https://api.tigosports.com.py/sls/v1/streaming/aca_el_id?asset=rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd&typeContent=game",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
                 "headers": {
@@ -17,7 +17,7 @@
             },
             {
                 "name": "OPCION 2",
-                "url": "https://api.tigosports.com.py/sls/v1/streaming/ZstFTVBq2Tn4yorTTR7cM1uz?asset=rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd&typeContent=game",
+                "url": "https://api.tigosports.com.py/sls/v1/streaming/aca_el_id?asset=rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd&typeContent=game",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
                 "headers": {
@@ -30,7 +30,7 @@
             },
             {
                 "name": "OPCION 3",
-                "url": "https://api.tigosports.com.py/sls/v1/streaming/ZstFTVBq2Tn4yorTTR7cM1uz?asset=rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd&typeContent=game",
+                "url": "https://api.tigosports.com.py/sls/v1/streaming/aca_el_id?asset=rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd&typeContent=game",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
                 "headers": {
