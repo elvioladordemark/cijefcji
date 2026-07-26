@@ -28,12 +28,14 @@
             },
             {
                 "name": "OPCION 3",
-                "url": "https://lbgo.bozztv.com/ssh101/ssh101/socerpy/playlist.m3u8",
+                "url": "https://api.tigosports.com.py/sls/v1/streaming/ZstFTVBq2Tn4yorTTR7cM1uz?asset=rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd&typeContent=game",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
                 "headers": {
-                    "Referer": "https://gabito.site/",
-                    "Origin": "https://gabito.site",
+                    "Referer": "https://www.tigosports.com.py/",
+                    "Origin": "https://www.tigosports.com.py",
+ "user_uuid": "1b65a320-aeed-11eb-ae01-d90082191a3c",
+ "x-aws-server-site-by": "PxxSaJhZU8NXOUBZyX6mU4gAdQD5LG4xdTWXIJTTuQM",
                     "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
                 }
             }
